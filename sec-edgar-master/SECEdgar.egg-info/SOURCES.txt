@@ -1,0 +1,11 @@
+setup.py
+SECEdgar/__init__.py
+SECEdgar/config.py
+SECEdgar/crawler.py
+SECEdgar/test.py
+SECEdgar.egg-info/PKG-INFO
+SECEdgar.egg-info/SOURCES.txt
+SECEdgar.egg-info/dependency_links.txt
+SECEdgar.egg-info/entry_points.txt
+SECEdgar.egg-info/requires.txt
+SECEdgar.egg-info/top_level.txt
