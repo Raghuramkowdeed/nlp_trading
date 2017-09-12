@@ -1,0 +1,939 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KulavZHCUe6Z4r6Epm8a981yhvWK94aSIaKLA8f82QrzmI9BZiFCnKY4zDBJn8A+
+ hEmR4aNk3HjepdUSJLHdzw==
+
+<SEC-DOCUMENT>0001047469-98-001822.txt : 19980126
+<SEC-HEADER>0001047469-98-001822.hdr.sgml : 19980126
+ACCESSION NUMBER:		0001047469-98-001822
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19970926
+FILED AS OF DATE:		19980123
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		98511354
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<DESCRIPTION>10-K/A
+<TEXT>
+
+<PAGE>
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+                                  FORM 10-K/A
+                                AMENDMENT NO. 1
+                                ---------------
+ 
+(MARK ONE)
+ 
+/X/   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+ 
+      FOR THE FISCAL YEAR ENDED SEPTEMBER 26, 1997 OR
+ 
+/ /   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+      SECURITIES EXCHANGE ACT OF 1934
+                FOR THE TRANSITION PERIOD FROM TO
+ 
+                         COMMISSION FILE NUMBER 0-10030
+                             ---------------------
+ 
+                              APPLE COMPUTER, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+                         ------------------------------
+ 
+               CALIFORNIA                               942404110
+      (STATE OR OTHER JURISDICTION        (I.R.S. EMPLOYER IDENTIFICATION NO.)
+   OF INCORPORATION OR ORGANIZATION)
+ 
+            1 Infinite Loop
+         Cupertino, California                            95014
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)               (ZIP CODE)
+ 
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (408) 996-1010
+ 
+        Securities registered pursuant to Section 12(b) of the Act: None
+ 
+          Securities registered pursuant to Section 12(g) of the Act:
+                           Common Stock, no par value
+                          Common Share Purchase Rights
+                              (Titles of classes)
+                            ------------------------
+ 
+    Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+ 
+                                 Yes _X_     No
+ 
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of the Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference to Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+ 
+    The aggregate market value of voting stock held by nonaffiliates of the
+Registrant was approximately $2,271,883,063 as of November 28, 1997, based upon
+the closing price on the Nasdaq National Market reported for such date. Shares
+of Common Stock held by each executive officer and director and by each person
+who beneficially owns more than 5% of the outstanding Common Stock have been
+excluded in that such persons may under certain circumstances be deemed to be
+affiliates. This determination of executive officer or affiliate status is not
+necessarily a conclusive determination for other purposes.
+ 
+  127,993,412 shares of Common Stock Issued and Outstanding as of November 28,
+                                      1997
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>
+                                    PART III
+ 
+Part III is replaced in its entirety as follows:
+ 
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+DIRECTORS
+ 
+    The name of, principal occupation of, and certain additional information
+about each of the three nominees and the three current directors with unexpired
+terms are set forth below. On August 5, 1997, all of the members of the Board
+other than Messrs. Woolard and Chang resigned and were replaced by Steven P.
+Jobs, Lawrence J. Ellison, William V. Campbell and Jerome B. York. One Class II
+director seat remained unfilled on Apple's Board after August 5, 1997 and,
+pursuant to an amendment to the Company's by-laws, has been eliminated, thereby
+reducing the number of directors on the Board from seven to six.
+ 
+    Listed below are the Class II directors to be nominated for re-election at
+the Company's Annual Meeting of Shareholders (the "Annual Meeting"). In
+connection with the Annual Meeting, it is expected that shareholders will be
+asked to approve an amendment to the Company's Restated Articles of
+Incorporation which would, if approved, eliminate the classification of the
+Board and ensure that each director will stand for election annually. If
+shareholders approve the proposal to declassify the Board, all of the directors
+elected at the Annual Meeting will serve a one-year term expiring at the next
+annual meeting of shareholders.
+ 
+<TABLE>
+<CAPTION>
+                                                                                                                  DIRECTOR
+NAME                                                        POSITION WITH THE COMPANY                   AGE         SINCE
+- ----------------------------------------------  --------------------------------------------------      ---      -----------
+<S>                                             <C>                                                 <C>          <C>
+Steven P. Jobs................................  Director and Interim Chief Executive Officer                42         1997
+Lawrence J. Ellison...........................  Director                                                    53         1997
+Edgar S. Woolard, Jr..........................  Director                                                    63         1996
+</TABLE>
+ 
+    Listed below are the Class I directors whose two-year terms do not expire
+until the next annual meeting of shareholders.
+ 
+<TABLE>
+<CAPTION>
+                                                                                                                  DIRECTOR
+NAME                                                        POSITION WITH THE COMPANY                   AGE         SINCE
+- ----------------------------------------------  --------------------------------------------------      ---      -----------
+<S>                                             <C>                                                 <C>          <C>
+Gareth C.C. Chang.............................  Director                                                    54         1996
+William V. Campbell...........................  Director                                                    57         1997
+Jerome B. York................................  Director                                                    59         1997
+</TABLE>
+ 
+    WILLIAM V. CAMPBELL has been President and Chief Executive Officer and a
+director of Intuit Inc. since April 1994. From January 1991 to December 1993,
+Mr. Campbell was President and Chief Executive Officer of GO Corporation. From
+1987 to January 1991, he served as President and Chief Executive Officer of
+Claris Corporation, a subsidiary of the Company. Mr. Campbell also serves on the
+board of directors of SanDisk Corporation and Great Plains Software.
+ 
+    GARETH C.C. CHANG has been Corporate Senior Vice President of Hughes
+Electronics since 1993. Previously, he was Corporate Vice President of McDonnell
+Douglas Corporation. He is currently a director of Mallinckrodt, Inc.
+ 
+    LAWRENCE J. ELLISON has been Chief Executive Officer and a director of
+Oracle Corporation ("ORACLE") since he co-founded Oracle in May 1977, and was
+President of Oracle until June 1996. Mr. Ellison has been Chairman of the Board
+of Oracle since June 1995. Mr. Ellison is a director of SuperGen, Inc. and Co-
+Chairman of California's Council on Information Technology.
+ 
+    STEVEN P. JOBS is one of the Company's co-founders and currently serves as
+its Interim Chief Executive Officer. Mr. Jobs is the also the Chairman and Chief
+Executive Officer of Pixar Animation Studios. In addition, Mr. Jobs co-founded
+NeXT Software, Inc. ("NEXT") and served as the Chairman and Chief Executive
+Officer of NeXT from 1985 until 1997, when NeXT was acquired by the Company.
+ 
+                                       2
+<PAGE>
+    EDGAR S. WOOLARD, JR. served as the Chairman of the Board of Directors of E.
+I. DuPont de Nemours & Co. ("DUPONT") until October 1997. Previously, he held
+the positions of President and Chief Executive Officer of DuPont. He is
+currently a director of Citicorp and Zurich Holding Company of America, Inc.
+ 
+    JEROME B. YORK has served as Vice Chairman of Tracinda Corporation since
+September 1995 and has served in a number of executive positions at Chrysler
+Corporation, including Executive Vice President-Finance and Chief Financial
+Officer from May 1990 to May 1993. He also served as a director of Chrysler
+Corporation from 1992 to 1993. In May 1993, he joined International Business
+Machines Corporation ("IBM") as Senior Vice President and Chief Financial
+Officer, and he served as a director of IBM from January 1995 to August 1995.
+Mr. York also is a director of USA Waste Services, Inc., MGM Grand, Inc. and
+Metro-Goldwyn-Mayer, Inc.
+ 
+EXECUTIVE OFFICERS
+ 
+    The following sets forth certain information regarding the executive
+officers of the Company as of December 1, 1997. Information pertaining to Mr.
+Jobs, who is both a director and an executive officer of the Company, may be
+found above under the caption "Directors."
+ 
+    FRED D. ANDERSON, Executive Vice President and Chief Financial Officer (age
+53), joined the Company in April 1996. Prior to joining the Company, Mr.
+Anderson was Corporate Vice President and Chief Financial Officer of Automatic
+Data Processing, Inc. ("ADP"), a position he held from August 1992 to March
+1996. Prior to joining ADP, Mr. Anderson held several domestic and international
+executive positions at MAI Basic Four, Inc., including President and Chief
+Operating Officer.
+ 
+    NANCY R. HEINEN, Senior Vice President, General Counsel and Secretary (age
+41), joined the Company in September 1997. Prior to joining the Company, Ms.
+Heinen held the position of Vice President, General Counsel and Secretary of the
+Board of Directors at NeXT from February 1994 until the acquisition of NeXT by
+the Company in February 1997. Prior to joining NeXT, Ms. Heinen was Group
+Counsel and Assistant Secretary at Tandem Computers Incorporated from 1989 to
+1994, and previously had been employed in private legal practice.
+ 
+    MITCHELL MANDICH, Senior Vice President, Americas Sales and Service (age
+49), joined the Company in Feburary 1997 upon the Company's acquisition of NeXT.
+Mr. Mandich has also served with the Company in the position of Vice President,
+North American Business Division. Prior to joining the Company, Mr. Mandich held
+the position of Vice President, Worldwide Sales and Service with NeXT from
+December 1995 through February 1997. Before joining NeXT, Mr. Mandich served in
+the position of Senior Vice President, Americas Sales and Marketing with Pyramid
+Technology Corporation from January 1993 to November 1995.
+ 
+    JONATHAN RUBINSTEIN, Senior Vice President, Hardware Engineering (age 41),
+joined the Company in February 1997. Before joining the Company, Mr. Rubinstein
+was Executive Vice President and Chief Operating Officer of FirePower Systems
+Incorporated ("FIREPOWER"), from May 1993 to August 1996. Before joining
+FirePower, Mr. Rubinstein was Vice President and General Manager, Hardware and
+Vice President, Hardware Engineering at NeXT.
+ 
+    AVADIS TEVANIAN, JR., PH.D., Senior Vice President, Software Engineering
+(age 36), joined the Company in February 1997 upon the Company's acquisition of
+NeXT. With NeXT, Dr. Tevanian held several positions, including Vice President,
+Engineering, from April 1995 to February 1997. Prior to April 1995, Dr. Tevanian
+worked as an engineer with NeXT and held several management positions.
+ 
+    SINA TAMADDON, Vice President and General Manager, Newton Group (age 40),
+joined the Company in September 1997. Before joining the Company, Mr. Tamaddon
+held the position of Vice President, Europe with NeXT from September 1996
+through March 1997. From August 1994 to August 1996, Mr. Tamaddon held the
+position of Vice President, Professional Services with NeXT. Prior to joining
+NeXT, Mr. Tamaddon served as Vice President, Advanced Technology for Software
+Alliance Incorporated.
+ 
+                                       3
+<PAGE>
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+ 
+    Section 16(a) of the Securities Exchange Act of 1934, as amended, requires
+the Company's officers and directors, and persons who own more than ten percent
+of a registered class of the Company's equity securities, to file reports of
+securities ownership and changes in such ownership with the Securities and
+Exchange Commission (the "SEC"). Officers, directors and greater than ten
+percent shareholders also are required by rules promulgated by the SEC to
+furnish the Company with copies of all Section 16(a) forms they file.
+ 
+    Based solely upon a review of the copies of such forms furnished to the
+Company, the absence of a Form 3 or Form 5 or written representations that no
+Forms 5 were required, the Company believes that, during fiscal year 1997, its
+officers, directors and greater than ten percent beneficial owners complied with
+all applicable Section 16(a) filing requirements.
+ 
+ITEM 11. EXECUTIVE COMPENSATION
+ 
+    The following table summarizes compensation information for the last three
+fiscal years for (i) Mr. Jobs, Interim Chief Executive Officer, and Dr. Amelio,
+former Chairman of the Board and Chief Executive Officer, (ii) the four most
+highly compensated executive officers other than the Chief Executive Officer who
+were serving as executive officers of the Company at the end of fiscal year 1997
+and (iii) Ms. Hancock, former Executive Vice President and Chief Technology
+Officer, who would have been one of the Company's four most highly compensated
+executive officers for which disclosure is required had she been an executive
+officer of the Company at the end of fiscal year 1997 (collectively, the "NAMED
+EXECUTIVE OFFICERS").
+ 
+                           SUMMARY COMPENSATION TABLE
+ 
+<TABLE>
+<CAPTION>
+                                                                                  LONG-TERM COMPENSATION
+                                                   ANNUAL COMPENSATION        ------------------------------
+                                                                                                 SECURITIES
+                                                 ------------------------      RESTRICTED        UNDERLYING         ALL OTHER
+        NAME AND PRINCIPAL             FISCAL     SALARY         BONUS        STOCK AWARDS        OPTIONS         COMPENSATION
+          POSITION (1)(2)               YEAR       ($)            ($)              ($)              (#)                ($)
+- -----------------------------------    ------    --------     -----------     -------------     ------------     ---------------
+<S>                                    <C>       <C>          <C>             <C>               <C>              <C>
+Steven P. Jobs.....................     1997        --            --               --                30,000(3)         --
+Interim Chief Executive Officer         1996
+                                        1995
+ 
+Gilbert F. Amelio..................     1997      997,617       1,000,000(4)       509,350(5)       --                6,749,094(6)
+Former Chairman of the Board            1996      655,061       2,334,000        3,830,580(7)     1,000,000(8)            3,060(9)
+and Chief Executive Officer             1995
+ 
+Fred D. Anderson...................     1997      520,311         --                40,748(5)       850,000(10)         250,489(11)
+Executive Vice President                1996      252,156       1,275,000          --               400,000             141,361(12)
+and Chief Financial Officer             1995
+ 
+Guerrino De Luca...................     1997      430,496         322,732           30,561(5)       700,000(10)         169,513(13)
+Executive Vice President,               1996      269,034         104,489          --                78,000              62,327(14)
+Marketing                               1995
+ 
+Robert Calderoni...................     1997      288,058          75,000(15)        9,547(5)       125,000               1,586(9)
+Senior Vice President,                  1996       63,794         125,000          --                75,000               4,750(9)
+Corporate Controller                    1995
+ 
+Jonathan Rubinstein................     1997      250,262         100,000           19,108(5)       700,000(10)           1,864(9)
+Senior Vice President,                  1996
+Hardware Engineering                    1995
+ 
+Ellen Hancock......................     1997      424,120         360,000(16)      --               --                  480,000(17)
+Former Executive Vice President         1996      111,646         200,000          --               300,000(18)        --
+and Chief Technology Officer            1995
+</TABLE>
+ 
+- --------------------------
+ 
+ (1) Dr. Amelio and Ms. Hancock resigned as executive officers of the Company
+    effective as of July 8, 1997 and July 25, 1997, respectively. Messrs. De
+    Luca and Calderoni resigned as executive officers effective as of October
+    10, 1997 and November 7, 1997, respectively.
+ 
+                                       4
+<PAGE>
+ (2) Messrs. Jobs and Rubinstein became executive officers of the Company during
+    fiscal year 1997. Dr. Amelio, Messrs. Anderson, De Luca and Calderoni and
+    Ms. Hancock became executive officers of the Company during fiscal year
+    1996.
+ 
+ (3) Mr. Jobs was granted 30,000 stock options in his capacity as a director of
+    the Company pursuant to the Director Plan, subject to the approval of the
+    Director Plan by shareholders at the Annual Meeting.
+ 
+ (4) Represents Dr. Amelio's annual Component B Bonus paid pursuant to the terms
+    of his employment agreement and his separation agreement. For a description
+    of the terms of Dr. Amelio's separation agreement, see "Item 13. Certain
+    Relationships and Related Transactions--Arrangements with Named Executive
+    Officers--Separation Agreement with Gilbert F. Amelio."
+ 
+ (5) For fiscal year 1997, these amounts represent the values on February 5,
+    1997 of the Common Stock underlying the Performance Shares earned by the
+    Named Executive Officers under the terms of the Performance Share Plan. The
+    amounts of Common Stock earned by participating Named Executive Officers are
+    as follows: Dr. Amelio - 33,400; Mr. Anderson - 2,672; Mr. De Luca - 2,004;
+    Mr. Calderoni - 626; and Mr. Rubinstein - 1,253. No dividends were paid on
+    the Performance Shares. As of the last day of fiscal year 1997, the Named
+    Executive Officers held no other Performance Shares or restricted stock.
+ 
+ (6) Consists of (i) a lump sum severance payment of $6,731,871 paid pursuant to
+    the terms of Dr. Amelio's separation agreement, $1,500,000 of which was
+    immediately applied in partial repayment of his outstanding indebtedness to
+    the Company, (ii) $8,272, the value of certain computer equipment that Dr.
+    Amelio was permitted to keep or which the Company agreed to deliver after
+    his termination of employment pursuant to the terms of his separation
+    agreement, (iii) a $4,194 matching contribution made by the Company in
+    accordance with the terms of its 401(k) plan and (iv) the payment by the
+    Company of $4,757 of premiums on a life insurance policy for the benefit of
+    Dr. Amelio.
+ 
+ (7) Represents the value on February 2, 1996 of 130,960 shares of Common Stock
+    earned by Dr. Amelio for fiscal year 1996 under the Performance Share Plan.
+    No dividends were paid on the Performance Shares.
+ 
+ (8) Pursuant to Dr. Amelio's separation agreement, 800,000 of the options
+    granted to him during fiscal year 1996 were forfeited upon his resignation
+    of employment, which became effective on September 27, 1997.
+ 
+ (9) Consists of matching contributions made by the Company in accordance with
+    the terms of its 401(k) plan.
+ 
+(10) Includes the replacement of 500,000, 309,750 and 200,000 options that were
+    previously granted to Messrs. Anderson, De Luca and Rubinstein,
+    respectively, and canceled pursuant to the Stock Option Exchange Program
+    (the "EXCHANGE PROGRAM"), which is described below under the caption "Stock
+    Option Exchange Program."
+ 
+(11) Consists of $245,497 in relocation assistance and $4,992 in matching
+    contributions made by the Company in accordance with the terms of its 401(k)
+    plan.
+ 
+(12) Consists of $140,155 in relocation assistance and $1,206 in matching
+    contributions made by the Company in accordance with the terms of its 401(k)
+    plan.
+ 
+(13) Consists of $158,373 in relocation assistance and $11,140 in matching
+    contributions made by the Company in accordance with the terms of its 401(k)
+    plan.
+ 
+(14) Consists of $49,451 in relocation assistance and $12,876 in matching
+    contributions made by the Company in accordance with the terms of its 401(k)
+    plan.
+ 
+(15) Paid pursuant to the terms of Mr. Calderoni's employment agreement with the
+    Company, which agreement terminated upon his resignation as an employee of
+    the Company effective November 7, 1997. For a description of employment
+    agreements with Named Executive Officers, see "Item 13. Certain
+    Relationships and Related Transactions--Arrangements with Named Executive
+    Officers--Employment Agreements with Named Executive Officers."
+ 
+(16) Paid pursuant to the terms of Ms. Hancock's employment agreement with the
+    Company, which agreement terminated upon her resignation as an employee of
+    the Company effective July 25, 1997.
+ 
+(17) Consists of a severance payment made by the Company to Ms. Hancock pursuant
+    to the terms of her employment agreement with the Company.
+ 
+(18) Ms. Hancock forfeited 200,000 of these stock options upon her termination
+    of employment.
+ 
+                                       5
+<PAGE>
+OPTION GRANTS IN LAST FISCAL YEAR
+ 
+    The following table provides information about option grants to the Named
+Executive Officers during fiscal year 1997.
+ 
+                       OPTION GRANTS IN LAST FISCAL YEAR
+ 
+<TABLE>
+<CAPTION>
+                                                          INDIVIDUAL GRANTS
+                                      ----------------------------------------------------------   POTENTIAL REALIZABLE
+                                                         PERCENT OF                                  VALUE AT ASSUMED
+                                         NUMBER OF      TOTAL OPTIONS                             ANNUAL RATES OF STOCK
+                                        SECURITIES       GRANTED TO                               PRICE APPRECIATION FOR
+                                        UNDERLYING      EMPLOYEES IN    EXERCISE OR                   OPTION TERM(3)
+                                      OPTIONS GRANTED    FISCAL YEAR    BASE PRICE   EXPIRATION   ----------------------
+NAME                                        (#)              (1)         ($/SH)(2)      DATE       5% ($)      10% ($)
+- ------------------------------------  ---------------  ---------------  -----------  -----------  ---------  -----------
+<S>                                   <C>              <C>              <C>          <C>          <C>        <C>
+Steven P. Jobs......................        30,000(4)          0.15%        23.625      8/14/07     446,512    1,134,000
+ 
+Gilbert F. Amelio...................        --               --             --           --          --          --
+ 
+Fred D. Anderson....................       100,000             0.51%        18.375      4/21/07   1,157,625    2,940,000
+                                           500,000(5)          2.55%         13.25      7/11/07   4,173,750   10,600,000
+                                           250,000             1.27%         19.75       8/5/07   3,110,625    7,900,000
+ 
+Guerrino De Luca(6).................       200,000             1.02%         17.00      2/21/07   2,142,000    5,440,000
+                                           309,750(5)          1.58%         13.25      7/11/07   2,585,638    6,566,700
+                                           190,250             0.97%         19.75       8/5/07   2,367,186    6,011,900
+ 
+Robert Calderoni(6).................        25,000             0.13%         17.00      2/21/07     267,750      680,000
+                                            20,000             0.10%        18.375      4/21/07     231,525      588,000
+                                            80,000             0.41%         19.75       8/5/07     995,400    2,528,000
+ 
+Jonathan Rubinstein.................       200,000             1.02%         17.00      2/21/07   2,142,000    5,440,000
+                                           200,000(5)          1.02%         13.25      7/11/07   1,669,500    4,240,000
+                                           300,000             1.53%         19.75       8/5/07   3,732,750    9,480,000
+ 
+Ellen Hancock.......................        --               --             --           --          --          --
+</TABLE>
+ 
+- --------------------------
+ 
+(1) Based on an aggregate of 19,629,231 options granted to all employees during
+    fiscal year 1997, including 7,866,155 options granted in exchange for the
+    cancellation of the same number of outstanding options as of July 11, 1997
+    on a one-for-one basis pursuant to the Exchange Program. This amount does
+    not include (i) NeXT options which were converted into Apple options during
+    fiscal year 1997 in connection with Apple's acquisition of NeXT or (ii)
+    Apple options granted to Dr. Amelio during fiscal year 1996 which were
+    subject to shareholder approval obtained during fiscal year 1997. Options
+    vest in three equal annual installments commencing on the first anniversary
+    of the date of grant.
+ 
+(2) All options were granted at an exercise price equal to fair market value
+    based on the closing market value of Common Stock on the Nasdaq National
+    Market on the trading day immediately preceding the date of grant. For
+    administrative purposes, the Board on November 5, 1997 amended the Company's
+    stock option plans to provide that the exercise price of options granted
+    under such plans will be the fair market value based on the closing market
+    value on the date of grant.
+ 
+(3) Potential gains are net of exercise price, but before taxes associated with
+    exercise. These amounts represent certain assumed rates of appreciation
+    only, based on SEC rules, and do not represent the Company's estimate or
+    projection of the price of the Company's stock in the future. Actual gains,
+    if any, on stock option exercises depend upon the actual future price of
+    Common Stock and the continued employment of the option holders throughout
+    the vesting period. Accordingly, the potential realizable values set forth
+    in this table may not be achieved.
+ 
+(4) Mr. Jobs was granted 30,000 stock options in his capacity as a director of
+    the Company pursuant to the Director Plan, subject to the approval of the
+    Director Plan by shareholders at the Annual Meeting.
+ 
+(5) Grants of stock options pursuant to the Exchange Program in exchange for the
+    cancellation of outstanding stock options. The first grant of stock options
+    listed in the table above for each of Messrs. Anderson, De Luca and
+    Rubinstein was canceled in connection with the Exchange Program and is no
+    longer outstanding.
+ 
+(6) All stock options held by Messrs. De Luca and Calderoni were forfeited upon
+    their termination of employment.
+ 
+                                       6
+<PAGE>
+OPTIONS EXERCISED AND YEAR-END OPTION HOLDINGS
+ 
+    The following table provides information about stock option exercises by the
+Named Executive Officers during fiscal year 1997 and stock options held by each
+of them at fiscal year-end.
+ 
+                AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR
+                            AND FY-END OPTION VALUES
+ 
+<TABLE>
+<CAPTION>
+                                                                  NUMBER OF SECURITIES
+                                                                 UNDERLYING UNEXERCISED          VALUE OF UNEXERCISED
+                                         SHARES                OPTIONS AT FISCAL YEAR-END   IN-THE-MONEY OPTIONS AT FISCAL
+                                       ACQUIRED ON    VALUE               (#)                      YEAR-END ($)(2)
+                                        EXERCISE    REALIZED   --------------------------  --------------------------------
+NAME                                       (#)       ($)(1)    EXERCISABLE  UNEXERCISABLE     EXERCISABLE     UNEXERCISABLE
+- -------------------------------------  -----------  ---------  -----------  -------------  -----------------  -------------
+<S>                                    <C>          <C>        <C>          <C>            <C>                <C>
+Steven P. Jobs.......................      --          --               0         30,000               0                 0
+Gilbert F. Amelio....................      50,000     134,375     150,000        800,000(3)             0                0
+Fred D. Anderson.....................      --          --               0        750,000               0         4,421,875
+Guerrino De Luca.....................      --          --               0        500,000(3)             0        2,794,625
+Robert Calderoni.....................      25,000     133,125           0        175,000(3)             0          513,437
+Jonathan Rubinstein..................      --          --               0        500,000               0         2,081,250
+Ellen Hancock........................     100,000     949,375           0              0               0                 0
+</TABLE>
+ 
+- ------------------------
+ 
+(1) Market value of underlying securities (based on the fair market value of
+    Common Stock on the Nasdaq National Market) at the time of exercise, minus
+    the exercise price.
+ 
+(2) Market value of securities underlying in-the-money options at the end of
+    fiscal year 1997 (based on $21.3125 per share, the closing price of Common
+    Stock on the Nasdaq National Market on September 26, 1997), minus the
+    exercise price.
+ 
+(3) Forfeited upon termination of employment.
+ 
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+ 
+    The composition of the Compensation Committee changed several times during
+fiscal year 1997. No person who was an employee of the Company in fiscal year
+1997 served on the Compensation Committee in fiscal year 1997. During fiscal
+year 1997, no executive officer of the Company (i) served as a member of the
+compensation committee (or other board committee performing similar functions
+or, in the absence of any such committee, the board of directors) of another
+entity, one of whose executive officers served on the Company's Compensation
+Committee, (ii) served as a director of another entity, one of whose executive
+officers served on the Company's Compensation Committee, or (iii) served as a
+member of the compensation committee (or other board committee performing
+similar functions or, in the absence of any such committee, the board of
+directors) of another entity, one of whose executive officers served as a
+director of the Company.
+ 
+                                       7
+<PAGE>
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+    The following table sets forth, as of November 7, 1997 (the "TABLE DATE"),
+certain information with respect to the beneficial ownership of Common Stock.
+Based on information available to the Company, there are no shareholders known
+to the Company to be the beneficial owner of more than 5% of the outstanding
+Common Stock. The following table contains information concerning (i) each
+director of the Company and each nominee; (ii) each Named Executive Officer
+listed in the Summary Compensation Table below; and (iii) all directors and
+executive officers of the Company as a group. On the Table Date, 127,989,659
+shares of Common Stock were issued and outstanding. Unless otherwise indicated,
+all persons named as beneficial owners of Common Stock have sole voting power
+and sole investment power with respect to the shares indicated as beneficially
+owned.
+ 
+        SECURITY OWNERSHIP OF DIRECTORS, NOMINEES AND EXECUTIVE OFFICERS
+ 
+<TABLE>
+<CAPTION>
+                                                                       SHARES OF COMMON STOCK
+NAME OF BENEFICIAL OWNER                                                BENEFICIALLY OWNED(1)
+- ---------------------------------------------------------------------  -----------------------
+<S>                                                                    <C>
+Gilbert F. Amelio....................................................           158,816(2)
+Fred D. Anderson.....................................................                 0
+Robert Calderoni.....................................................                 0
+William V. Campbell..................................................               251
+Gareth C. C. Chang...................................................             2,000
+Guerrino De Luca.....................................................               899
+Lawrence J. Ellison..................................................                 0
+Ellen Hancock........................................................                23
+Steven P. Jobs.......................................................                 1
+Jonathan Rubinstein..................................................                 0
+Edgar S. Woolard, Jr.................................................             8,000
+Jerome B. York.......................................................            10,000
+All executive officers and directors as a group (13 persons).........            20,252(3)
+</TABLE>
+ 
+- ------------------------
+ 
+(1) All amounts listed in this table represent less than 1% of the issued and
+    outstanding shares of Common Stock on the Table Date.
+ 
+(2) Includes 156,667 shares subject to outstanding options and warrants held by
+    Dr. Amelio that were exercisable at the Table Date.
+ 
+(3) Represents shares of Common Stock held by 13 executive officers and
+    directors at the Table Date.
+ 
+                                       8
+<PAGE>
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+ARRANGEMENTS WITH NAMED EXECUTIVE OFFICERS
+ 
+    The Company has from time to time entered into employment, retention and
+severance arrangements with certain of its Named Executive Officers. A summary
+of the terms of such arrangements is set forth in the following paragraphs.
+ 
+    SEPARATION AGREEMENT WITH GILBERT F. AMELIO
+ 
+    Pursuant to a separation agreement with the Company, Dr. Amelio resigned as
+an officer of the Company as of July 8, 1997 and as an employee of the Company
+as of September 27, 1997. Pursuant to his separation agreement, Dr. Amelio
+received a lump sum payment of $6,731,871, less $1,500,000, which was
+immediately applied to the partial repayment of Dr. Amelio's outstanding $5
+million loan from the Company. In addition, Dr. Amelio received a payment of
+$1,000,000 representing the fiscal year 1997 Component B Bonus provided for in
+his employment agreement. Dr. Amelio was permitted to remain a participant in
+the Performance Share Plan for fiscal year 1997. In addition, Dr. Amelio is
+entitled to continued health benefits for himself and his family through
+February 2, 2001, the end of the original term of his employment agreement.
+Pursuant to the separation agreement, the maturity date of Dr. Amelio's $5
+million loan from the Company made to him in accordance with the terms of his
+employment agreement was extended to September 15, 1998, whereupon the entire
+outstanding balance will become due and payable. Dr. Amelio forfeited 800,000
+unvested stock options upon his termination of employment on September 27, 1997.
+For more information regarding the loan from the Company to Dr. Amelio, see
+"Certain Relationships and Related Transactions" below.
+ 
+    EMPLOYMENT AGREEMENTS WITH NAMED EXECUTIVE OFFICERS
+ 
+    The Company entered into an employment agreement with Mr. Anderson effective
+April 1, 1996, pursuant to which he serves as Executive Vice President and Chief
+Financial Officer of the Company. Pursuant to his agreement, Mr. Anderson is
+entitled to an annual base salary of no less than $500,000 and a target bonus
+under the Bonus Plan for fiscal year 1997 of 80% of his base salary, which
+target bonus will thereafter be reviewed annually by the Company. In fiscal year
+1997, however, no cash bonuses were paid under the Bonus Plan. During fiscal
+year 1997, the Company paid Mr. Anderson the second half of an $800,000 hiring
+bonus. If Mr. Anderson's employment is terminated by the Company without "Cause"
+at any time during the five-year period following April 1, 1996, he will be
+entitled to receive a lump sum severance payment equal to the sum of his annual
+base salary and target bonus. Mr. Anderson's agreement generally defines "Cause"
+to include a felony conviction, willful disclosure of confidential information
+or willful and continued failure to perform his employment duties.
+ 
+    The Company entered into an employment agreement with Ms. Hancock, effective
+July 8, 1996, pursuant to which she served as Executive Vice President and Chief
+Technology Officer until her termination of employment on July 25, 1997.
+Pursuant to her agreement, Ms. Hancock was entitled to receive a base salary of
+$480,000 and a bonus of $360,000 during fiscal year 1997. Upon Ms. Hancock's
+termination of employment with the Company, she received $480,000 in a lump sum
+severance payment.
+ 
+    The Company entered into an employment agreement with Mr. Calderoni,
+effective July 8, 1996, pursuant to which he served as Senior Vice President,
+Corporate Controller until his termination of employment on November 7, 1997.
+Pursuant to his agreement, Mr. Calderoni was entitled to receive a base salary
+of $275,000 and was guaranteed a minimum bonus of $75,000 for fiscal year 1997.
+ 
+    CHANGE IN CONTROL ARRANGEMENTS--STOCK OPTIONS
+ 
+    In the event of a "change in control" of the Company, all outstanding
+options under the Company's stock option plans will, unless otherwise determined
+by the plan administrator, become exercisable in full,
+ 
+                                       9
+<PAGE>
+and will be cashed out at an amount equal to the difference between the
+applicable "change in control price" and the exercise price. A "change in
+control" under these plans is generally defined as (i) the acquisition by any
+person of 50% or more of the combined voting power of the Company's outstanding
+securities or (ii) the occurrence of a transaction requiring shareholder
+approval and involving the sale of all or substantially all of the assets of the
+Company or the merger of the Company with or into another corporation.
+ 
+    CHANGE IN CONTROL ARRANGEMENTS--RETENTION AGREEMENTS
+ 
+    The Company is currently party to retention agreements (the "RETENTION
+AGREEMENTS") with two Named Executive Officers (Messrs. Anderson and Rubinstein)
+providing for certain cash payments in the event of a termination of an
+executive's employment following a change in control of the Company. For
+purposes of the Retention Agreements, a "change in control" is defined as (i) a
+reorganization, merger, consolidation or other corporate transaction in which
+the holders of voting stock of the Company immediately before the corporate
+transaction will not own more than 50% of the voting shares of the continuing or
+surviving corporation immediately after such corporate transaction, (ii) the
+acquisition of 30% or more of the combined voting power of the Company's
+then-outstanding securities, (iii) a change of 50% in the membership of the
+Board within a two-year period, unless the election or nomination for election
+by shareholders of an adequate number of directors within such period was
+approved by the vote of at least three-fourths of the directors then still in
+office who either were directors at the beginning of the period or whose
+election or nomination for election was previously so approved, (iv) all or
+substantially all of the assets of the Company are sold, liquidated or
+distributed, or (v) a "change in control" or a "change in the effective control"
+of the Company within the meaning of Section 280G of the Code.
+ 
+    In the event of an Involuntary Termination (as defined in the Retention
+Agreements) of any executive officer who is a party to a Retention Agreement
+within two years following a change in control, such executive officer will
+receive a cash payment equal to the sum of (i) three times his annual base
+salary immediately prior to the date of his termination or, if greater, the
+highest annualized base salary in effect during the three-year period ending on
+the change in control, and (ii) three times his target bonus for the year in
+which the termination occurs or, if greater, the highest target annual bonus
+applicable to the executive officer in any of the three years ending prior to
+the change in control. In addition, the executive officer would be eligible to
+participate in the medical, dental, health, life and other fringe benefit plans
+and arrangements applicable to him until the second anniversary of his date of
+termination.
+ 
+    The Retention Agreements further provide that, in the event of an
+Involuntary Termination of an executive officer on or following a change in
+control, such executive officer's equity awards granted to him under the
+Company's equity-based incentive plans (the "EQUITY PLANS") will vest and become
+exercisable. All equity awards also will vest and become exercisable as of the
+date of a change in control as defined in the Equity Plans, regardless of
+whether the executive officer's employment has then terminated. Subject to
+certain limits on payments, the Retention Agreements also require tax gross-up
+payments to the executive officers to mitigate any excise tax imposed on the
+executive officers under Section 4999 of the Code in connection with a change in
+control.
+ 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+    In connection with the Company's use of an aircraft owned by Aero Ventures,
+an entity wholly owned by Dr. Amelio, the Company made monthly payments of
+approximately $14,000 to Aero Ventures during fiscal year 1997 through the date
+of Dr. Amelio's termination of employment. The Company also paid for certain
+other expenses, including pilot and copilot fees, parking and landing fees and
+simulator training and fuel expenses. During fiscal year 1997, the Company paid
+approximately $471,461 to Aero Ventures in the aggregate. Pursuant to the terms
+of Dr. Amelio's separation agreement, the Company's obligation to make payments
+in connection with the use of his aircraft ended upon his termination of
+employment.
+ 
+                                       10
+<PAGE>
+    Pursuant to the terms of Dr. Amelio's employment agreement with the Company,
+the Company extended a $5 million loan to Dr. Amelio in February 1996, which was
+to be repaid over a period of 5 years. The largest aggregate amount of
+indebtedness outstanding on this loan during fiscal year 1997 was $5 million.
+Upon the termination of Dr. Amelio's employment with the Company, $1.5 million
+of his severance was immediately applied in partial repayment of the outstanding
+loan balance. Pursuant to Dr. Amelio's employment agreement, the loan was to
+become due and payable on the 90th day after his termination of employment.
+However, in consideration for Dr. Amelio's executing a release of the Company
+from certain legal claims, the Company agreed to extend the maturity date of the
+loan to September 15, 1998. The loan bears interest at the rate of 7% and is
+secured by real estate owned by Dr. Amelio.
+ 
+    In connection with a relocation assistance package, the Company loaned James
+McCluney (Senior Vice President, Operations) $100,000 bearing interest at the
+rate of 7.31%. The largest amount of the indebtedness outstanding on this loan
+during fiscal year 1997 was $100,000.
+ 
+                                       11
+<PAGE>
+                                    PART IV
+ 
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+ 
+(c) EXHIBITS
+ 
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER              DESCRIPTION
+- ------------------  ---------------------------------------------------------------------------------------------
+<S>                 <C>
+23.1                Consent of KPMG Peat Marwick LLP, Independent Auditors.
+23.2                Consent of Ernst & Young LLP, Independent Auditors.
+24                  Power of Attorney (previously filed).
+</TABLE>
+ 
+                                       12
+<PAGE>
+                                   SIGNATURES
+ 
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, this 21st day of
+January 1998.
+ 
+<TABLE>
+<S>                             <C>  <C>
+                                APPLE COMPUTER, INC.
+ 
+                                By:             /s/ FRED D. ANDERSON
+                                     -----------------------------------------
+                                                  Fred D. Anderson
+                                            EXECUTIVE VICE PRESIDENT AND
+                                              CHIEF FINANCIAL OFFICER
+</TABLE>
+ 
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated:
+ 
+           NAME                         TITLE                      DATE
+- --------------------------  ------------------------------  -------------------
+ 
+                            Interim Chief Executive
+            *                 Officer and Director
+- --------------------------    (Principal Executive           January 21, 1998
+      STEVEN P. JOBS          Officer)
+ 
+                            Executive Vice President and
+   /s/ FRED D. ANDERSON       Chief Financial Officer
+- --------------------------    (Principal Financial           January 21, 1998
+     FRED D. ANDERSON         Officer)
+ 
+            *
+- --------------------------  Director                         January 21, 1998
+   WILLIAM V. CAMPBELL
+ 
+            *
+- --------------------------  Director                         January 21, 1998
+    GARETH C.C. CHANG
+ 
+            *
+- --------------------------  Director                         January 21, 1998
+   LAWRENCE J. ELLISON
+ 
+            *
+- --------------------------  Director                         January 21, 1998
+  EDGAR S. WOOLARD, JR.
+ 
+            *
+- --------------------------  Director                         January 21, 1998
+      JEROME B. YORK
+ 
+  */s/ FRED D. ANDERSON
+- --------------------------
+     FRED D. ANDERSON
+     Attorney-in-Fact
+ 
+                                       13
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>2
+<DESCRIPTION>EXH 23.1
+<TEXT>
+
+<PAGE>
+                                                                    EXHIBIT 23.1
+ 
+                        CONSENT OF INDEPENDENT AUDITORS
+ 
+The Board of Directors
+Apple Computer, Inc.
+ 
+    We consent to incorporation by reference in the registration statements
+(Nos. 2-70449, 2-77563, 2-85095, 33-00866, 33-24650, 33-31075, 33-40877,
+33-47596, 33-57092, 33-57080, 33-53873, 33-53879, 33-53895, 33-60279, 33-60281,
+333-07437, and 333-23725) on Forms S-8 and registration statements (No.
+33-62310) on Form S-3 and (Nos. 333-10961 and 333-28191) on Forms S-3/A and
+registration statement (No. 333-42025) on Forms S-4 and S-4/A of Apple Computer,
+Inc. of our report dated October 15, 1997, relating to the consolidated balance
+sheet of Apple Computer, Inc. and subsidiaries as of September 26, 1997, and the
+related consolidated statements of operations, shareholders' equity, and cash
+flows for the year then ended, and the related schedule, which report appears in
+the September 26, 1997 annual report on Form 10-K of Apple Computer, Inc.
+ 
+                                          /s/ KPMG Peat Marwick LLP
+ 
+San Jose, California
+January 21, 1998
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.2
+<SEQUENCE>3
+<DESCRIPTION>EXH 23.2
+<TEXT>
+
+<PAGE>
+                                                                    EXHIBIT 23.2
+ 
+              CONSENT OF ERNST & YOUNG, LLP, INDEPENDENT AUDITORS
+ 
+    We consent to the use of our report dated October 14, 1996, included in the
+Annual Report on Form 10-K of Apple Computer, Inc. for the year ended September
+26, 1997, with respect to the consolidated financial statements, as amended,
+included in this Form 10-K/A.
+ 
+                                          /s/ Ernst & Young LLP
+ 
+San Jose, California
+January 21, 1998
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
