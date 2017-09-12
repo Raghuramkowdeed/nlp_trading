@@ -97,7 +97,7 @@ def get_10_k_links_2(cik_id, begin_year, end_year):
         filing_date = filing.datefiled.get_text()
         report_year = int(filing_date[0:4])
 
-        if (filing.type.get_text() == "10-K") & (report_year > begin_year):
+        if (filing.type.get_text() == "10-K") & (report_year >= begin_year):
                 years.append(report_year)
                 href.append(filing.filinghref.get_text())
                 #href_dict[report_year] =  filing.filinghref.get_text()  
