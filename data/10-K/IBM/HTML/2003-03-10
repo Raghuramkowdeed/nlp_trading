@@ -1,0 +1,2455 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a2102367z10-k.htm
+<DESCRIPTION>10-K
+<TEXT>
+<HTML>
+<HEAD>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK=BLUE  VLINK=PURPLE>
+<BR>
+<FONT SIZE=3 ><A HREF="#03NYC1807_1">QuickLinks</A></FONT>
+<font size=3> -- Click here to rapidly navigate through this document</font>
+<HR NOSHADE>
+<HR NOSHADE>
+<P ALIGN="CENTER"><FONT SIZE=5><B>SECURITIES AND EXCHANGE COMMISSION<BR>  </B></FONT><FONT SIZE=2><B>WASHINGTON, D.C. 20549  </B></FONT></P>
+
+<HR NOSHADE ALIGN="CENTER" WIDTH="120">
+<P ALIGN="CENTER"><FONT SIZE=5><B>FORM 10-K<BR>  </B></FONT><FONT SIZE=2><B>ANNUAL REPORT<BR>
+pursuant to Section&nbsp;13 or 15 (d) of the<BR>
+Securities Exchange Act of 1934<BR>
+FOR THE YEAR ENDED DECEMBER 31, 2002  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><B> 1-2360<BR>  </B></FONT><FONT SIZE=2>(Commission file number) </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=4><B>INTERNATIONAL BUSINESS MACHINES CORPORATION<BR>  </B></FONT><FONT SIZE=2>(Exact name of registrant as specified in its charter) </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<DIV ALIGN="CENTER"><TABLE WIDTH="90%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="41%" ALIGN="CENTER"><FONT SIZE=2><B>NEW YORK<BR> </B></FONT><FONT SIZE=2>(State of Incorporation)</FONT></TD>
+<TD WIDTH="18%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="41%" ALIGN="CENTER"><FONT SIZE=2><B>13-0871985<BR> </B></FONT><FONT SIZE=2>(IRS Employer Identification Number)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="41%" ALIGN="CENTER"><BR><FONT SIZE=2><B>ARMONK, NEW YORK<BR> </B></FONT><FONT SIZE=2>(Address of principal executive offices)</FONT></TD>
+<TD WIDTH="18%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="41%" ALIGN="CENTER"><BR><FONT SIZE=2><B>10504<BR> </B></FONT><FONT SIZE=2>(Zip Code)</FONT></TD>
+</TR>
+</TABLE></DIV>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>914-499-1900<BR>  </B></FONT><FONT SIZE=2>(Registrant's telephone number) </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>Securities registered pursuant to Section&nbsp;12(b) of the Act:  </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="37%" ALIGN="LEFT"><FONT SIZE=1><B>Title of each class<BR> </B></FONT><HR NOSHADE></TH>
+<TH WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="20%" ALIGN="CENTER"><FONT SIZE=1><B>Voting shares outstanding<BR>
+at February 28, 2003</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="25%" ALIGN="CENTER"><FONT SIZE=1><B>Name of each exchange<BR>
+on which registered</B></FONT><HR NOSHADE></TH>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2><BR>
+Capital stock, par value $.20 per share</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+1,726,322,381</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2><BR>
+New York Stock Exchange<BR>
+Chicago Stock Exchange<BR>
+Pacific Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2><BR>
+6.45% Notes due 2007</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2><BR>
+New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>5.375% Notes due 2009</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>7.50% Debentures due 2013</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>8.375% Debentures due 2019</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>7.00% Debentures due 2025</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>6.22% Debentures due 2027</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>6.50% Debentures due 2028</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>7.00% Debentures due 2045</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="37%"><FONT SIZE=2>7.125% Debentures due 2096</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="20%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><FONT SIZE=2>New York Stock Exchange</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate
+by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12&nbsp;months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past
+90&nbsp;days. Yes <FONT FACE="WINGDINGS">&#253;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No <FONT FACE="WINGDINGS">&#111;</FONT> </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation&nbsp;S-K is not contained herein, and will not be contained, to the best of
+registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part&nbsp;III of this Form&nbsp;10-K or any amendment to this
+Form&nbsp;10-K. <FONT FACE="WINGDINGS">&#253;</FONT> </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indicate
+by check mark whether registrant is an accelerated filer (as defined in Exchange Act Rule 12b-2). Yes <FONT FACE="WINGDINGS">&#253;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No
+<FONT FACE="WINGDINGS">&#111;</FONT> </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+aggregate market value of the voting stock held by non-affiliates of the registrant at February&nbsp;28, 2003 was $134.6&nbsp;billion. </FONT></P>
+
+<P><FONT SIZE=2>Documents
+incorporated by reference: </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portions
+of IBM's Annual Report to Stockholders for the year ended December&nbsp;31, 2002 into Parts I, II and IV of Form&nbsp;10-K. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portions
+of IBM's definitive Proxy Statement dated March&nbsp;10, 2003 into Part&nbsp;III of Form&nbsp;10-K. </FONT></P>
+
+<HR NOSHADE>
+<HR NOSHADE>
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=1,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=150575,FOLIO='blank',FILE='DISK038:[03NYC7.03NYC1807]BA1807A.;18',USER='JLAWRENA',CD='10-MAR-2003;09:00' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="page_da1807_1_1"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="da1807_part_i"> </A>
+<A NAME="toc_da1807_1"> </A>
+<BR></FONT><FONT SIZE=2><B>PART I    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2><B>Item 1. Business:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Business Machines Corporation (IBM) was incorporated in the State of New York on June&nbsp;16, 1911, as the Computing-Tabulating-Recording Co.
+(C-T-R), a consolidation of the Computing Scale Co. of America, the Tabulating Machine Co., and The International Time Recording Co. of New York. In 1924,
+C-T-R adopted the name International Business Machines Corporation. </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM
+uses advanced information technology to provide customer solutions. The company operates primarily in a single industry using several segments that create value by offering a variety
+of solutions that include, either singularly or in some combination, technologies, systems, products, services, software and financing. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizationally,
+the company's major operations comprise a Global Services segment; three hardware product segments&#151;Systems Group, Personal Systems Group and Technology
+Group; a Software segment; a Global Financing segment and an Enterprise Investments segment. The segments are determined based on several factors, including customer base, homogeneity of products,
+technology and delivery channels. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM
+offers its products through its global sales and distribution organizations. The sales and distribution organizations have both a geographic focus (in the Americas, Europe/Middle
+East/Africa, and Asia Pacific) and a specialized and global industry focus. In addition, these organizations include a global sales and distribution effort devoted exclusively to small and medium
+businesses. IBM also offers its products through a variety of third party distributors and resellers, as well as through its on-line channels. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While
+the company's various proprietary intellectual property rights are important to its success, IBM believes its business as a whole is not materially dependent on any particular
+patent or license, or any
+particular group of patents or licenses. IBM owns or is licensed under a number of patents, which vary in duration, relating to its products. Licenses under patents owned by IBM have been and are
+being granted to others under reasonable terms and conditions. These protections may not prevent competitors from independently developing products and services similar to or duplicative of the
+company's nor can there be any assurance that these protections will adequately deter misappropriation or improper use of the company's technology. Also, there can be no assurances that IBM will be
+able to obtain from third parties the licenses it needs in the future. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM's
+businesses employ a wide variety of components, supplies and raw materials from a substantial number of suppliers around the world. Certain of the company's businesses rely on a
+single or limited number of suppliers, although the company makes every effort to assure that alternative sources are available if the need arises. The failure of the company's suppliers to deliver
+components, supplies and raw materials in sufficient quantities and in a timely manner could adversely affect the company's business. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM's
+revenues are affected by such factors as the introduction of new products, the length of the sales cycles and the seasonality of technology purchases. As a result, the company's
+results are difficult to predict. These factors historically have resulted in lower revenue in the first quarter than in the immediately preceding fourth quarter. </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+value of unfilled orders is not a meaningful indicator of future revenues from the company's product offerings due to the significant proportion of revenue from services, the volume
+of products delivered from shelf inventories, and the shortening of product delivery schedules. With respect to the company's Global Services segment, in 2002 the company signed contracts totaling
+$53&nbsp;billion, which contributed to a services backlog at December&nbsp;31, 2002 of $112&nbsp;billion, compared with $102&nbsp;billion at the end of 2001. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company operates in businesses that are subject to intense competitive pressures. The company's businesses face a significant number of competitors, ranging from Fortune 50 companies
+to </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>1</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=2,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=563590,FOLIO='1',FILE='DISK038:[03NYC7.03NYC1807]DA1807A.;36',USER='SGUNTHE',CD='10-MAR-2003;11:30' -->
+<A NAME="page_da1807_1_2"> </A>
+
+<P><FONT SIZE=2>
+an increasing number of relatively small, rapidly growing and highly specialized organizations. The company believes that its combination of technology, performance, quality, reliability, price and
+the breadth of products and service offerings are important competitive factors. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intense
+competitive pressures could affect prices or demand for the company's products and services, resulting in reduced profit margins and /or loss of market opportunity. Unlike many
+of its competitors, the company has a portfolio of businesses and must allocate resources across these businesses while competing with companies that specialize in one or more of these product lines.
+As a result, the company may not fund or invest in certain of its businesses to the same degree that its competitors do and these competitors may have greater financial, technical and marketing
+resources available to them than the businesses against which they compete. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company operates in more than 160 countries worldwide and derives more than half of its revenues from sales outside the United States. Changes in the laws or policies of the
+countries in which the company operates could affect the company's business in that country and the company's results of operations. The company's results of operations also could be affected by
+economic and political changes in those countries and by macroeconomic changes, including recessions and inflation. </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Audit Committee of the Board of Directors approved the categories of all non-audit services performed by the company's independent accountants during the period covered by this
+report. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+following information is included in IBM's 2002 Annual Report to Stockholders and is incorporated herein by reference: </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segment
+information and revenue by classes of similar products or services&#151;Pages&nbsp;100 to 104. </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial
+information by geographic areas&#151;Page&nbsp;104. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amount
+spent during each of the last three years on research and development activities&#151;Page&nbsp;90. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial
+information regarding environmental activities&#151;Page&nbsp;87. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+number of persons employed by the registrant&#151;Page&nbsp;60. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+management discussion overview&#151;Pages 43 and 44. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Available
+information&#151;Page&nbsp;107. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forward-looking
+and Cautionary Statements: Certain statements contained in this Annual Report may constitute "forward-looking statements" within the meaning of the Private Securities
+Litigation Reform Act of 1995 ("Reform Act"). The company may also make forward-looking statements in other reports filed with the Securities and Exchange Commission, in materials delivered to
+stockholders and in press releases. In addition, the company's representatives may from time to time make oral forward-looking statements. Forward-looking statements provide current expectations of
+future events based on certain
+assumptions and include any statement that does not directly relate to any historical or current fact. Words such as "anticipates," "believes," "expects," "estimates," "intends," "plans," "projects,"
+and similar expressions, may identify such forward-looking statements. The company assumes no obligation to update or revise any forward-looking statements. In accordance with the Reform Act, set
+forth below are cautionary statements that accompany those forward-looking statements. Readers should carefully review these cautionary statements as they identify certain important factors that could
+cause actual results to differ materially from those in the forward-looking statements and from historical trends. The following cautionary statements are not exclusive and are in addition to other
+factors discussed elsewhere in this Annual Report, in the company's filings with the Securities and Exchange Commission or in materials incorporated therein by reference. </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+Products and the Pace of Technological Change: The company's results of operations depend on the continued successful development and marketing of new and innovative products and
+services. The development of new products and services requires significant capital investments by the company's various businesses and the success of these products and services depends on their
+acceptance by customers and business partners. Further, the company's businesses are characterized by rapid technological changes and corresponding shifts in customer demand, resulting in
+unpredictable product </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>2</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=2,SEQ=3,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=438485,FOLIO='2',FILE='DISK038:[03NYC7.03NYC1807]DA1807A.;36',USER='SGUNTHE',CD='10-MAR-2003;11:30' -->
+<A NAME="page_da1807_1_3"> </A>
+
+<P><FONT SIZE=2>
+transitions and shortened life cycles and increasing emphasis on being first to market with new products and services. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There
+can be no assurance that the company will successfully introduce new products and services, that these products and services will be accepted by customers, or that the company's
+businesses will recoup or realize a return on their capital investments. In addition, from time to time the company may experience difficulties or delays in the development, production or marketing of
+new products and services. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Volatility
+of Stock Prices: The company's stock price is affected by a number of factors, including quarterly variations in results, the competitive landscape, general economic and
+market conditions and estimates and projections by the investment community. As a result, like other technology companies, the company's stock price is subject to significant volatility. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dependence
+on and Compensation of Key Personnel: Much of the future success of the company depends on the continued service and availability of skilled personnel, including technical,
+marketing and staff positions. Experienced personnel in the information technology industry are in high demand and competition for their talents is intense. There can be no assurance that the company
+will be able to successfully retain and attract the key personnel it needs. Many of the company's key personnel receive a total compensation package that includes stock options and other equity
+awards. New regulations, volatility in the stock market and other factors could diminish the value of the company's equity awards, putting the company at a competitive disadvantage or forcing the
+company to use more cash compensation. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currency
+and Customer Financing Risks: The company derives a significant percentage of its non-U.S. revenues from its affiliates operating in local currency environments and
+its results are affected by changes in the relative values of non-U.S. currencies and the U.S. dollar. Further, inherent in the company's customer financing business are risks related to
+the concentration of credit risk and the creditworthiness of the customer, interest rate and currency fluctuations on the associated debt and liabilities and the determination of residual values. The
+company employs a number of strategies to manage these risks, including the use of derivative financial instruments. Derivatives involve the risk of non-performance by the counterparty. In
+addition, there can be no assurance that the company's efforts to manage these risks will be successful. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution
+Channels: The company offers its products directly and through a variety of third party distributors and resellers. Changes in the financial or business condition of these
+distributors and resellers could subject the company to losses and affect its ability to bring its products to market. </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acquisitions
+and Alliances: The company has made and expects to continue to make acquisitions or enter into alliances from time to time. Acquisitions and alliances present significant
+challenges and risks relating to the integration of the business into the company, and there can be no assurances that the company will manage acquisitions and alliances successfully. </FONT></P>
+
+<P><FONT SIZE=2><B>Item 2. Properties:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At December&nbsp;31, 2002, IBM's manufacturing and development facilities in the United States had aggregate floor space of 34&nbsp;million square feet, of
+which 23&nbsp;million was owned and 11&nbsp;million was leased. Of these amounts, 4&nbsp;million square feet was vacant and 2&nbsp;million square feet was being leased to non-IBM
+businesses. Similar facilities in 16 other countries totaled 15&nbsp;million square feet, of which 10&nbsp;million was owned and 5&nbsp;million was leased. Of these amounts, 1&nbsp;million
+square feet was vacant and 2&nbsp;million square feet was being leased to non-IBM businesses. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although
+improved production techniques, productivity gains and infrastructure reduction actions have resulted in reduced manufacturing floor space, continuous upgrading of facilities is
+essential to maintain technological leadership, improve productivity, and meet customer demand. For additional information on expenditures for plant, rental machines and other property, refer to
+"Investments" on pages&nbsp;56 of IBM's 2002 Annual Report to Stockholders which is incorporated herein by reference. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>3</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=3,SEQ=4,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=333242,FOLIO='3',FILE='DISK038:[03NYC7.03NYC1807]DA1807A.;36',USER='SGUNTHE',CD='10-MAR-2003;11:30' -->
+<A NAME="page_da1807_1_4"> </A>
+
+<P><FONT SIZE=2><B>Executive Officers of the Registrant (at March&nbsp;10, 2003):  </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="80%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="83%" ALIGN="LEFT"><FONT SIZE=2>&nbsp;</FONT><BR></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="5%" ALIGN="CENTER"><FONT SIZE=1><B>Age</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="7%" ALIGN="CENTER"><FONT SIZE=1><B>Officer<BR>
+since</B></FONT><HR NOSHADE></TH>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Chairman of the Board, President and Chief Executive Officer</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Samuel J. Palmisano</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>51</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1997</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Senior Vice Presidents:</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Nicholas M. Donofrio, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>57</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1995</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Douglas T. Elix, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>54</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1999</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>J. Bruce Harreld, Strategy</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>52</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1995</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Paul M. Horn, Research</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>56</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1996</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Jon C. Iwata, Communications</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>40</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2002</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>John R. Joyce, Chief Financial Officer</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>49</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1999</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>John E. Kelly III, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>49</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2000</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Abby F. Kohnstamm, Marketing</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>49</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1998</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>J. Michael Lawrie, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>49</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2001</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Edward M. Lineen, General Counsel</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>62</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2002</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Mark Loughridge, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>49</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1998</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>J. Randall MacDonald, Human Resources</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>54</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2000</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Steven A. Mills, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>51</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2000</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Robert W. Moffat, Jr., Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>46</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2002</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Linda S. Sanford, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>50</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2000</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Stephen M. Ward, Jr., Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>47</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2003</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>William M. Zeitler, Group Executive</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>55</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2000</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Vice Presidents:</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Daniel E. O'Donnell, Secretary</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>55</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>1998</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Jesse J. Greene, Jr., Treasurer</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>57</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2002</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="83%"><FONT SIZE=2>Robert F. Woods, Controller</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>47</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>2000</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE ALIGN="LEFT" WIDTH="120">
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>(1)</FONT></DT><DD><FONT SIZE=2>Member
+of the Board of Directors. </FONT></DD></DL>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All
+executive officers are elected by the Board of Directors and serve until the next election of officers in conjunction with the annual meeting of the stockholders as provided in the
+By-laws. Each executive officer named above, with the exception of J. Randall MacDonald and Jesse J. Greene, Jr. have been an executive of IBM or its subsidiaries during the past five
+years. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;MacDonald
+was with GTE (now Verizon Communications), a telecommunications company, as executive vice president of human resources and administration until joining IBM in 2000.
+He was with GTE for 17&nbsp;years holding positions of increasing responsibility. Before joining GTE, Mr.&nbsp;MacDonald held human resources positions at Ingersoll-Rand Corporation
+and Sterling Drug,&nbsp;Inc. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;Greene
+was with Compaq Computer Corporation (now a part of Hewlett-Packard Company), a computer company, as Senior Vice President and Chief Financial Officer until joining IBM
+in 2002. He was with Compaq for two years. Before joining Compaq, Mr.&nbsp;Greene served as Corporate Senior Vice President and Director of Business Strategy and Information Technology at Eastman
+Kodak Company. During six years at Kodak, Mr.&nbsp;Greene held a number of financial positions including Vice President of Finance and Treasurer. Before joining Kodak, Mr.&nbsp;Greene spent 23
+years at IBM in a variety of financial positions including Assistant Treasurer. </FONT></P>
+
+<P><FONT SIZE=2><B>Item 3. Legal Proceedings:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to note&nbsp;O "Contingencies and Commitments" on page&nbsp;88 of IBM's 2002 Annual Report to Stockholders which is incorporated herein by reference. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>4</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=4,SEQ=5,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=642005,FOLIO='4',FILE='DISK038:[03NYC7.03NYC1807]DA1807A.;36',USER='SGUNTHE',CD='10-MAR-2003;11:30' -->
+<A NAME="page_da1807_1_5"> </A>
+
+<P><FONT SIZE=2><B>Item 4. Submission of Matters to a Vote of Security Holders:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not applicable. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="da1807_part_ii"> </A>
+<A NAME="toc_da1807_2"> </A>
+<BR></FONT><FONT SIZE=2><B>PART II    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2><B>Item 5. Market for the Registrant's Common Equity and Related Stockholder Matters:  </B></FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to pages&nbsp;106 and 107 of IBM's 2002 Annual Report to Stockholders which are incorporated herein by reference solely as they relate to this item. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IBM
+common stock is listed on the New York Stock Exchange, Chicago Stock Exchange and Pacific Stock Exchange. There were 680,296 common stockholders of record at February&nbsp;28,
+2003. </FONT></P>
+
+<P><FONT SIZE=2><B>Item 6. Selected Financial Data:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to pages&nbsp;105 and 106 of IBM's 2002 Annual Report to Stockholders which are incorporated herein by reference. </FONT></P>
+
+
+<P><FONT SIZE=2><B>Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to pages&nbsp;43 through 63 of IBM's 2002 Annual Report to Stockholders which are incorporated herein by reference. </FONT></P>
+
+<P><FONT SIZE=2><B>Item 7a. Quantitative and Qualitative Disclosures About Market Risks:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to the section titled "Market Risk" on pages&nbsp;58 and 59 of IBM'S 2002 Annual Report to Stockholders which is incorporated herein by reference. </FONT></P>
+
+
+<P><FONT SIZE=2><B>Item 8. Financial Statements and Supplementary Data:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to page&nbsp;42 and 64 through 104 of IBM's 2002 Annual Report to Stockholders which are incorporated herein by reference. Also refer to the Financial
+Statement Schedule on page S-1 of this Form. </FONT></P>
+
+<P><FONT SIZE=2><B>Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure:  </B></FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not
+applicable. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="da1807_part_iii"> </A>
+<A NAME="toc_da1807_3"> </A>
+<BR></FONT><FONT SIZE=2><B>PART III    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2><B>Item 10. Directors and Executive Officers of the Registrant:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to pages&nbsp;5 through&nbsp;7 of IBM's definitive Proxy Statement dated March&nbsp;10 2003, which are incorporated herein by reference. Also refer to
+Item 2 entitled "Executive Officers of the Registrant" in Part&nbsp;I of this Form. </FONT></P>
+
+
+<P><FONT SIZE=2><B>Item 11. Executive Compensation:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to pages&nbsp;12 through 21 of IBM's definitive Proxy Statement dated March&nbsp;10, 2003, which are incorporated herein by reference. </FONT></P>
+
+<P><FONT SIZE=2><B>Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to the section titled "Ownership of Securities" appearing on pages&nbsp;10 and 11 of IBM's definitive Proxy Statement dated March&nbsp;10, 2003, which
+is incorporated herein by reference. Also refer to the section titled "Equity Compensation Plan Information" appearing on page&nbsp;25 and 26 of IBM's definitive Proxy Statement dated
+March&nbsp;10, 2003, which is incorporated herein by reference. </FONT></P>
+
+<P><FONT SIZE=2><B>Item 13. Certain Relationships and Related Transactions:  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to the section entitled "Other Relationships" appearing on page&nbsp;9 of IBM's definitive Proxy Statement dated March&nbsp;10, 2003, which is
+incorporated herein by reference. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>5</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=5,SEQ=6,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=504830,FOLIO='5',FILE='DISK038:[03NYC7.03NYC1807]DA1807A.;36',USER='SGUNTHE',CD='10-MAR-2003;11:30' -->
+<A NAME="page_da1807_1_6"> </A>
+
+<P><FONT SIZE=2><B>Item 14. Controls and Procedures  </B></FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on their evaluation of the company's disclosure controls and procedures as of a date within 90&nbsp;days of the filing of this Report, the Chief Executive
+Officer and Chief Financial Officer have concluded that such controls and procedures are effective. There were no significant changes in the company's internal controls or in other factors that could
+significantly affect such controls subsequent to the date of their evaluation. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="da1807_part_iv"> </A>
+<A NAME="toc_da1807_4"> </A>
+<BR></FONT><FONT SIZE=2><B>PART IV    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2><B>Item 15. Exhibits, Financial Statement Schedules, and Reports on Form&nbsp;8-K:  </B></FONT></P>
+
+<UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>(a)</FONT></DT><DD><FONT SIZE=2>The
+following documents are filed as part of this report: </FONT>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>1.</FONT></DT><DD><FONT SIZE=2>Financial
+statements from IBM's 2002 Annual Report to Stockholders which are incorporated herein by reference: </FONT></DD></DL>
+</DD></DL>
+<UL>
+<UL>
+
+<P><FONT SIZE=2>Report
+of Independent Accountants (page&nbsp;42). </FONT></P>
+
+<P><FONT SIZE=2>Consolidated
+Statement of Earnings for the years ended December&nbsp;31, 2002, 2001 and 2000 (page&nbsp;64). </FONT></P>
+
+<P><FONT SIZE=2>Consolidated
+Statement of Financial Position at December&nbsp;31, 2002 and 2001 (page&nbsp;65). </FONT></P>
+
+<P><FONT SIZE=2>Consolidated
+Statement of Stockholders' Equity at December&nbsp;31, 2002, 2001 and 2000 (pages&nbsp;66 through&nbsp;68). </FONT></P>
+
+<P><FONT SIZE=2>Consolidated
+Statement of Cash Flows for the years ended December&nbsp;31, 2002, 2001 and 2000 (page&nbsp;69). </FONT></P>
+
+
+<P><FONT SIZE=2>Notes
+to Consolidated Financial Statements (pages&nbsp;70 through 104). </FONT></P>
+
+</UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>2.</FONT></DT><DD><FONT SIZE=2>Financial
+statement schedules required to be filed by Item 8 of this Form: </FONT></DD></DL>
+</UL>
+</UL>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="71%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="7%" ALIGN="CENTER"><FONT SIZE=1><B>Page</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="11%" ALIGN="CENTER"><FONT SIZE=1><B>Schedule<BR>
+Number</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="77%" ALIGN="LEFT"><FONT SIZE=1>&nbsp;</FONT><BR></TH>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>13</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="11%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="77%"><FONT SIZE=2>Report of Independent Accountants on Financial Statement Schedule.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>14</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="11%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="77%"><FONT SIZE=2>Report of Independent Auditors.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="7%" ALIGN="RIGHT"><FONT SIZE=2>S-1</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="11%" ALIGN="RIGHT"><FONT SIZE=2>II</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="77%"><FONT SIZE=2>Valuation and Qualifying Accounts and Reserves.</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All
+other schedules are omitted as the required matter is not present, the amounts are not significant or the information is shown in the consolidated financial statements or the notes
+thereto. </FONT></P>
+
+<UL>
+<UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>3.</FONT></DT><DD><FONT SIZE=2>Exhibits:
+</FONT></DD></DL>
+</UL>
+</UL>
+<UL>
+<UL>
+
+<P><FONT SIZE=2>Included
+in this Form&nbsp;10-K: </FONT></P>
+</UL>
+</UL>
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>12</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Computation of Ratio of Earnings From Continuing Operations to Fixed Charges and Earnings From Continuing Operations to Combined Fixed Charges and Preferred Stock Dividends.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>13</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>IBM's 2002 Annual Report to Stockholders, certain sections of<BR>
+which have been incorporated herein by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>21</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Parents and Subsidiaries.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>23.1</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Consent of Independent Accountants.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>23.2</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Consent of Independent Auditors.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>24.1</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Powers of Attorney.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>24.2</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Certified Resolutions of the IBM Board of Directors authorizing execution of this report by Powers of Attorney.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>99.1</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Certification by CEO pursuant to 18 U.S.C. Section 1350, as adopted<BR>
+pursuant to Section&nbsp;906 of the Sarbanes-Oxley Act of 2002.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="13%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2>99.2</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&#151;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="73%"><FONT SIZE=2>Certification by CFO pursuant to 18 U.S.C. Section 1350, as adopted<BR>
+pursuant to Section 906 of Sarbanes-Oxley Act of 2002.</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=2>6</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=6,SEQ=7,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=172897,FOLIO='6',FILE='DISK038:[03NYC7.03NYC1807]DA1807A.;36',USER='SGUNTHE',CD='10-MAR-2003;11:30' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+
+<P><FONT SIZE=2><A
+NAME="page_dc1807_1_7"> </A> </FONT> <FONT SIZE=2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not included in this Form&nbsp;10-K: </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<DIV ALIGN="CENTER"><TABLE WIDTH="64%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The Certificate of Incorporation of IBM is Exhibit&nbsp;(3)(i)&nbsp;to Form&nbsp;8-K filed April&nbsp;28, 1999, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The By-laws of IBM as amended through January&nbsp;1, 2003, is Attachment III, Exhibit 99.3 to Form&nbsp;8-K dated January&nbsp;16, 2003, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM 2001 Long-Term Performance Plan, a compensatory plan, is contained in Registration Statement No.&nbsp;333-87708 on Form&nbsp;S-8, filed on May&nbsp;7, 2002, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM 1999 Long-Term Performance Plan, a compensatory plan, is contained in Registration Statement No.&nbsp;333-30424 on Form&nbsp;S-8, filed on February&nbsp;15, 2000, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM 1997 Long-Term Performance Plan, a compensatory plan, is contained in Registration Statement No.&nbsp;333-31305 on Form&nbsp;S-8, filed on July&nbsp;15, 1997, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM PwCC Acquisition Long-Term Performance Plan, a compensatory plan, is contained in Registration Statement No.&nbsp;333-102872 on Form S-8, filed on January&nbsp;31, 2003, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+Board of Directors compensatory plans, as described under "Directors' Compensation" on pages&nbsp;9 and 10 of IBM's definitive Proxy Statement dated March&nbsp;10, 2003, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+IBM Board of Directors Deferred Compensation and Equity Award Plan is Exhibit&nbsp;X to Form&nbsp;10-K for the year ended December&nbsp;31, 1996, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM Non-Employee Directors Stock Option Plan is Appendix&nbsp;B to IBM's definitive Proxy Statement dated March&nbsp;14, 1995, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM Executive Deferred Compensation Plan is contained in Registration Statement No.&nbsp;333-33692 as Exhibit&nbsp;4 on Form&nbsp;S-8, filed March&nbsp;31, 2000, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM Supplemental Executive Retention Plan is Exhibit&nbsp;VII to Form&nbsp;10-K for the year ended December&nbsp;31, 1999, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM Extended Tax Deferred Savings Plan is Exhibit&nbsp;X to Form&nbsp;10-K for the year ended December&nbsp;31, 1994, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The IBM 2000 Employees Stock Purchase Plan, as set forth in Exhibit&nbsp;A of IBM's definitive Proxy Statement dated March&nbsp;13, 2000, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The Employment Agreement for L. V. Gerstner, Jr. is Exhibit&nbsp;19 to Form&nbsp;10-Q dated March&nbsp;31, 1993, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+Amendment to Employment Agreement for L. V. Gerstner, Jr. dated as of January&nbsp;1, 1996, is Exhibit&nbsp;XI to Form&nbsp;10-K for the year ended December&nbsp;31, 1995, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><BR><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+</TR>
+</TABLE></DIV>
+<!-- insert table folio -->
+<P ALIGN="CENTER"><FONT SIZE=2>7</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=8,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=609144,FOLIO='7',FILE='DISK038:[03NYC7.03NYC1807]DC1807A.;24',USER='NLUCCA',CD='10-MAR-2003;09:42' -->
+<A NAME="page_dc1807_1_8"> </A>
+<!-- end of table folio -->
+<DIV ALIGN="CENTER"><TABLE WIDTH="64%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+Second Amendment to Employment Agreement for L. V. Gerstner, Jr. dated as of November&nbsp;17, 1997, is Exhibit&nbsp;VI to Form&nbsp;10-K for the year ended December&nbsp;31, 1997, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+Third Amendment to Employment Agreement for L. V. Gerstner, Jr. dated as of January&nbsp;29, 2002, is Exhibit&nbsp;10 to Form&nbsp;10-Q dated May 15, 2002, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The instruments defining the rights of the holders of the 7.50% Debentures due 2013 are Exhibits 4(a) through 4(l) to Registration Statement No.&nbsp;33-49475(1) on Form&nbsp;S-3, filed May&nbsp;24, 1993, and are hereby incorporated by
+reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The instruments defining the rights of holders of the 8.375% Debentures due 2019 are Exhibits 4(a)(b)(c) and (d)&nbsp;to Registration Statement 33-31732 on Form&nbsp;S-3, filed on October&nbsp;24, 1989, and are hereby incorporated by
+reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The instruments defining the rights of holders of the 7.00% Debentures due 2025 and the 7.00% Debentures due 2045 are Exhibit&nbsp;2 and 3 to Form&nbsp;8-K, filed on October&nbsp;30, 1995, and are hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The instrument defining the rights of holders of the 7.125% Debentures due 2096 is Exhibit&nbsp;2 to Form&nbsp;8-K/A, filed on December&nbsp;6, 1996, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The instruments defining the rights of the holders of the 6.45% Notes due 2007 and the 6.22% Debentures due 2027 are Exhibits 2 and 3 to Form&nbsp;8-K, filed on August&nbsp;1, 1997, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The instruments defining the rights of the holders of the 6.50% Debentures due 2028 is Exhibit&nbsp;2 to Form&nbsp;8-K, filed on January&nbsp;8, 1998, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+The instruments defining the rights of the holders of the 5.375% Notes due 2009 is Exhibit&nbsp;2 to Form&nbsp;8-K, filed on January&nbsp;29, 1999, and is hereby incorporated by reference.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="3%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=2><BR>
+&#151;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="90%"><FONT SIZE=2><BR>
+IBM's definitive Proxy Statement dated March&nbsp;10, 2003, certain sections of which have been incorporated herein by reference.</FONT></TD>
+</TR>
+</TABLE></DIV>
+<!-- end of user-specified TAGGED TABLE -->
+
+<UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>(b)</FONT></DT><DD><FONT SIZE=2>Reports
+on Form&nbsp;8-K: </FONT></DD></DL>
+</UL>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K on October&nbsp;16, 2002, with respect to the company's financial results for the periods ended September&nbsp;30, 2002, and included
+unaudited Consolidated Statement of Earnings, Consolidated Statement of Financial Position and Segment Data for the periods ended September&nbsp;30,
+2002. In addition, IBM's Chief Financial Officer John R. Joyce's third quarter earnings presentation to securities analysts on Wednesday, October&nbsp;16, 2002, was filed as Attachment II of the
+Form&nbsp;8-K. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K on October&nbsp;29, 2002, announcing that Samuel J. Palmisano had been elected chairman of the board, effective January&nbsp;1, 2003,
+succeeding Louis V. Gerstner, Jr. No financial statements were filed with this Form&nbsp;8-K. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K on November&nbsp;4. 2002, publishing its 2001 financial statements as a result of the company's decision to sell its disk drive operations
+to Hitachi,&nbsp;Ltd., which under generally </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>8</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=2,SEQ=9,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=732976,FOLIO='8',FILE='DISK038:[03NYC7.03NYC1807]DC1807A.;24',USER='NLUCCA',CD='10-MAR-2003;09:42' -->
+<A NAME="page_dc1807_1_9"> </A>
+<BR>
+
+<P><FONT SIZE=2>
+accepted accounting principles will be accounted for as discontinued operations. The following financial statements and exhibits were filed with this Form&nbsp;8-K. </FONT></P>
+
+<UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>1.</FONT></DT><DD><FONT SIZE=2>IBM's
+audited financial statements and accompanying notes, and the management discussion for 2001, 2000 and 1999 reclassified to reflect the company's continuing and discontinued
+operations.
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>2.</FONT></DT><DD><FONT SIZE=2>Computation
+of Ratio of Income from Continuing Operations to Fixed Charges for the years 2001 through 1997.
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>3.</FONT></DT><DD><FONT SIZE=2>Consent
+of Independent Accountants. </FONT></DD></DL>
+</UL>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K on November&nbsp;14, 2002, with respect to certain remarks delivered by IBM's Chief Financial Officer, John R. Joyce, at IBM's Fall 2002
+Securities Analysts meeting on Wednesday, November&nbsp;13, 2002. Also filed were charts from the presentations by John R. Joyce, Ginny Rometty GM, IBM Business Consulting Services and
+Dr.&nbsp;John E. Kelly III, Senior Vice President and Group Executive, Technology Group. No financial statements were filed with this Form&nbsp;8-K. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K/A on November&nbsp;26, 2002, to amend page 3 of its Current Report on Form&nbsp;8-K, dated November&nbsp;20, 2002, due to
+inadvertent submission of the date thereof. The registrant also amended item 7 of its Current Report on Form&nbsp;8-K dated November&nbsp;20, 2002, due to the inadvertent failure to
+mention inclusion of Exhibit&nbsp;3 thereto. No financial statements were filed with this Form&nbsp;8-K. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K on November&nbsp;26, 2002, to incorporate by reference into Registration Statement No 333-37034 on
+Form&nbsp;S-3, effective June&nbsp;20, 2000, the following documents: </FONT></P>
+
+<UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>1.</FONT></DT><DD><FONT SIZE=2>Underwriting
+Agreement dated November&nbsp;20, 2002, among International Business Machines Corporation, J.P. Morgan Securities&nbsp;Inc., Morgan Stanley&nbsp;&amp; Co. Incorporated,
+Salomon Smith Barney&nbsp;Inc., ABN AMRO Incorporated, Banc of America Securities LLC, Banc One Capital Markets,&nbsp;Inc., Banca IMI S.p.A., Banca Nazionale del Lavoro S.p.A., Barclays
+Capital&nbsp;Inc., Bayerische Hypo-und Vereinsbank AG, Bear Stearns&nbsp;&amp; Co.&nbsp;Inc., BNP Paribas Securities Corp., Caboto IntesaBci-Sim S.p.A, Credit Suisse First
+Boston Corporation, Deutsche Bank Securities&nbsp;Inc., Dresdner Kleinwort Wasserstein-Granchester,&nbsp;Inc., Fleet Securities,&nbsp;Inc., Goldman, Sachs&nbsp;&amp; Co., HSBC Securities
+(USA)&nbsp;Inc., ING Financial Markets LLC, Lehman Brothers&nbsp;Inc., Merrill Lynch Pierce, Fenner&nbsp;&amp; Smith Incorporated, RBC Dominion Securities Corporation, The Royal Bank of Scotland
+plc, UBS Warburg LLC, Utendahl Capital Partners, L.P. and The Williams Capital Group, L.P.,
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>2.</FONT></DT><DD><FONT SIZE=2>Form
+of 4.750% Note due 2012,
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>3.</FONT></DT><DD><FONT SIZE=2>Form
+of 5.875% Debenture due 2032, </FONT></DD></DL>
+</UL>
+
+<P><FONT SIZE=2>relating
+to $2,000,000,000 aggregate principal amount of debt securities of the registrant. No financial statements were filed with this Form&nbsp;8-K. </FONT></P>
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K on December&nbsp;4, 2002, regarding its plan for pension funding. Also filed was IBM's Chief Financial Officer John R. Joyce's
+presentation on December&nbsp;4, 2002, to securities analysts, regarding the registrant's plan for pension funding. No financial statements were filed with this Form&nbsp;8-K. </FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+company filed Form&nbsp;8-K on December&nbsp;31, 2002, regarding the sale of its disk drive operations to Hitachi,&nbsp;Ltd. No financial statements were filed with
+this Form&nbsp;8-K. </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>9</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=3,SEQ=10,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=453475,FOLIO='9',FILE='DISK038:[03NYC7.03NYC1807]DC1807A.;24',USER='NLUCCA',CD='10-MAR-2003;09:42' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="page_de1807_1_10"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="de1807_signatures"> </A>
+<A NAME="toc_de1807_1"> </A>
+<BR></FONT><FONT SIZE=2><B>SIGNATURES    <BR>  </B></FONT></P>
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized. </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="45%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=3 ALIGN="CENTER"><FONT SIZE=2>INTERNATIONAL BUSINESS MACHINES CORPORATION<BR></FONT> <FONT SIZE=2>(Registrant)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="45%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="45%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="45%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>By:</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="45%" ALIGN="CENTER"><FONT SIZE=2>/s/ </FONT><FONT SIZE=2>SAMUEL J. PALMISANO</FONT><HR NOSHADE><FONT SIZE=2> (Samuel J. Palmisano)<BR></FONT> <FONT SIZE=2><I>Chairman of the Board,<BR>
+President and Chief<BR>
+Executive Officer</I></FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="45%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="45%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="45%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="45%" ALIGN="CENTER"><FONT SIZE=2>Date: March&nbsp;10, 2003</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on
+the dates indicated. </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="81%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="45%" ALIGN="CENTER"><FONT SIZE=1><B>Signature</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="31%" ALIGN="CENTER"><FONT SIZE=1><B>Title</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="19%" ALIGN="CENTER"><FONT SIZE=1><B>Date</B></FONT><HR NOSHADE></TH>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="45%" ALIGN="CENTER"><FONT SIZE=2><BR>
+/s/ </FONT><FONT SIZE=2>JOHN R. JOYCE</FONT><HR NOSHADE><FONT SIZE=2> (John R. Joyce)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="31%" VALIGN="CENTER"><FONT SIZE=2><BR>
+Senior Vice President, Chief<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Financial Officer</FONT></TD>
+<TD WIDTH="2%" VALIGN="CENTER"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="CENTER"><FONT SIZE=2><BR>
+March 10, 2003</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="45%" ALIGN="CENTER"><FONT SIZE=2><BR>
+/s/ </FONT><FONT SIZE=2>ROBERT F. WOODS</FONT><HR NOSHADE><FONT SIZE=2> (Robert F. Woods)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="31%" VALIGN="CENTER"><FONT SIZE=2><BR>
+Vice President and Controller</FONT></TD>
+<TD WIDTH="2%" VALIGN="CENTER"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="CENTER"><FONT SIZE=2><BR>
+March 10, 2003</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="78%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="32%"><FONT SIZE=2>CATHLEEN BLACK</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="14%"><FONT SIZE=2>Director</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="39%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="32%"><FONT SIZE=2>KENNETH I. CHENAULT</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="14%"><FONT SIZE=2>Director</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="39%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="32%"><FONT SIZE=2>NANNERL O. KEOHANE</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="14%"><FONT SIZE=2>Director</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="39%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="32%"><FONT SIZE=2>CHARLES F. KNIGHT</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="14%"><FONT SIZE=2>Director</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="39%"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="32%"><FONT SIZE=2>LUCIO A. NOTO<BR>
+JOHN B. SLAUGHTER<BR>
+SIDNEY TAUREL<BR>
+ALEX TROTMAN<BR>
+CHARLES M. VEST</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="14%"><FONT SIZE=2>Director<BR>
+Director<BR>
+Director<BR>
+Director<BR>
+Director</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2>By:</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="39%" ALIGN="CENTER"><FONT SIZE=2>/s/ </FONT><FONT SIZE=2>DANIEL E. O'DONNELL</FONT><HR NOSHADE><FONT SIZE=2> (DANIEL E. O'DONNELL)<BR></FONT> <FONT SIZE=2><I>Attorney-in-fact</I></FONT><FONT SIZE=2><BR>
+March 10, 2003</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=2>10</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=11,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=457795,FOLIO='10',FILE='DISK038:[03NYC7.03NYC1807]DE1807A.;17',USER='JLAWRENA',CD='10-MAR-2003;11:09' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="page_dg1807_1_11"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="dg1807_certification_pursuant_to_rule__cer05019"> </A>
+<A NAME="toc_dg1807_1"> </A>
+<BR></FONT><FONT SIZE=2><B>CERTIFICATION PURSUANT TO RULE 13A-14 OR 15D-14 OF THE SECURITIES<BR>  EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE<BR>  SARBANES-OXLEY ACT OF 2002    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2>I,
+Samuel J. Palmisano, certify that: </FONT></P>
+
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>1.</FONT></DT><DD><FONT SIZE=2>I
+have reviewed this annual report on Form&nbsp;10-K of International Business Machines Corporation;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>2.</FONT></DT><DD><FONT SIZE=2>Based
+on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>3.</FONT></DT><DD><FONT SIZE=2>Based
+on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>4.</FONT></DT><DD><FONT SIZE=2>The
+registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules&nbsp;13a-14 and 15d-14) for the registrant and have:
+<BR><BR></FONT>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>a.</FONT></DT><DD><FONT SIZE=2>Designed
+such disclosure controls and procedures to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this annual report is being prepared;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>b.</FONT></DT><DD><FONT SIZE=2>Evaluated
+the effectiveness of the registrant's disclosure controls and procedures as of a date within 90&nbsp;days prior to the filing date of this annual report (the "Evaluation
+Date"); and
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>c.</FONT></DT><DD><FONT SIZE=2>Presented
+in this annual report our conclusions about the effectiveness of the disclosure controls and procedures based on our evaluation as of the Evaluation Date; </FONT></DD></DL>
+</DD></DL>
+<UL>
+<BR>
+</UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>5.</FONT></DT><DD><FONT SIZE=2>The
+registrant's other certifying officers and I have disclosed, based on our most recent evaluation, to the registrant's auditors and the audit committee of registrant's board of
+directors (or persons performing the equivalent functions):
+<BR><BR></FONT>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>a.</FONT></DT><DD><FONT SIZE=2>All
+significant deficiencies in the design or operation of internal controls which could adversely affect the registrant's ability to record, process, summarize and report financial
+data and have identified for the registrant's auditors any material weaknesses in internal controls; and
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>b.</FONT></DT><DD><FONT SIZE=2>Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal controls; and </FONT></DD></DL>
+</DD></DL>
+<UL>
+<BR>
+</UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>6.</FONT></DT><DD><FONT SIZE=2>The
+registrant's other certifying officers and I have indicated in this annual report whether or not there were significant changes in internal controls or in other factors that could
+significantly affect internal controls subsequent to the date of our most recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses. </FONT></DD></DL>
+
+<P><FONT SIZE=2>Date:
+March 7, 2003 </FONT></P>
+
+<P><FONT SIZE=2>/s/&nbsp;&nbsp;</FONT><FONT
+SIZE=2>SAMUEL J. PALMISANO</FONT><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR></FONT></P>
+
+<HR NOSHADE ALIGN="LEFT" WIDTH="152">
+
+<P><FONT SIZE=2><BR>
+Samuel J. Palmisano<BR>
+Chairman, President and Chief Executive Officer </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>11</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=12,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=642764,FOLIO='11',FILE='DISK038:[03NYC7.03NYC1807]DG1807A.;6',USER='JLAWRENA',CD='10-MAR-2003;11:10' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="page_di1807_1_12"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="di1807_certification_pursuant_to_rule__cer05019"> </A>
+<A NAME="toc_di1807_1"> </A>
+<BR></FONT><FONT SIZE=2><B>CERTIFICATION PURSUANT TO RULE 13A-14 OR 15D-14 OF THE SECURITIES<BR>  EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE<BR>  SARBANES-OXLEY ACT OF 2002    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2>I,
+John R. Joyce, certify that: </FONT></P>
+
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>1.</FONT></DT><DD><FONT SIZE=2>I
+have reviewed this annual report on Form&nbsp;10-K of International Business Machines Corporation;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>2.</FONT></DT><DD><FONT SIZE=2>Based
+on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>3.</FONT></DT><DD><FONT SIZE=2>Based
+on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>4.</FONT></DT><DD><FONT SIZE=2>The
+registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules&nbsp;13a-14 and 15d-14) for the registrant and have:
+<BR><BR></FONT>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>a.</FONT></DT><DD><FONT SIZE=2>Designed
+such disclosure controls and procedures to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this annual report is being prepared;
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>b.</FONT></DT><DD><FONT SIZE=2>Ealuated
+the effectiveness of the registrant's disclosure controls and procedures as of a date within 90&nbsp;days prior to the filing date of this annual report (the "Evaluation
+Date"); and
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>c.</FONT></DT><DD><FONT SIZE=2>Presented
+in this annual report our conclusions about the effectiveness of the disclosure controls and procedures based on our evaluation as of the Evaluation Date; </FONT></DD></DL>
+</DD></DL>
+<UL>
+<BR>
+</UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>5.</FONT></DT><DD><FONT SIZE=2>The
+registrant's other certifying officers and I have disclosed, based on our most recent evaluation, to the registrant's auditors and the audit committee of registrant's board of
+directors (or persons performing the equivalent functions):
+<BR><BR></FONT>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>a.</FONT></DT><DD><FONT SIZE=2>All
+significant deficiencies in the design or operation of internal controls which could adversely affect the registrant's ability to record, process, summarize and report financial
+data and have identified for the registrant's auditors any material weaknesses in internal controls; and
+<BR><BR></FONT></DD><DT style='margin-bottom:-11pt;'><FONT SIZE=2>b.</FONT></DT><DD><FONT SIZE=2>Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal controls; and </FONT></DD></DL>
+</DD></DL>
+<UL>
+<BR>
+</UL>
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>6.</FONT></DT><DD><FONT SIZE=2>The
+registrant's other certifying officers and I have indicated in this annual report whether or not there were significant changes in internal controls or in other factors that could
+significantly affect internal controls subsequent to the date of our most recent evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses. </FONT></DD></DL>
+
+<P><FONT SIZE=2>Date:
+March 6, 2003 </FONT></P>
+
+<P><FONT SIZE=2>/s/&nbsp;&nbsp;</FONT><FONT
+SIZE=2>JOHN R. JOYCE</FONT><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR></FONT></P>
+
+<HR NOSHADE ALIGN="LEFT" WIDTH="152">
+
+<P><FONT SIZE=2><BR>
+John R. Joyce<BR>
+Senior Vice President,<BR>
+Chief Financial Officer </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>12</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=13,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=942161,FOLIO='12',FILE='DISK038:[03NYC7.03NYC1807]DI1807A.;9',USER='JLAWRENA',CD='10-MAR-2003;11:10' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="page_fa1807_1_13"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="fa1807_report_of_independent_accounta__rep02654"> </A>
+<A NAME="toc_fa1807_1"> </A>
+<BR></FONT><FONT SIZE=2><B>REPORT OF INDEPENDENT ACCOUNTANTS ON<BR>  FINANCIAL STATEMENT SCHEDULE    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2>To
+the Stockholders and Board of Directors of<BR>
+International Business Machines Corporation </FONT></P>
+
+<P><FONT SIZE=2>Our
+audits of the consolidated financial statements referred to in our report dated January&nbsp;16, 2003, except for note Y, as to which the date is February 21, 2003, appearing on page 42 of the
+2002 Annual Report to Stockholders of International Business Machines Corporation, (which report and consolidated financial statements are incorporated by reference in this Annual Report on
+Form&nbsp;10-K) also included an audit of the Financial Statement Schedule listed in Item 15(a)2 of this Form&nbsp;10-K. In our opinion, this Financial Statement Schedule
+presents fairly, in all material respects, the information set forth therein when read in conjunction with the related consolidated financial statements. </FONT></P>
+
+<P><FONT SIZE=2>/s/
+PricewaterhouseCoopers LLP<BR>
+PricewaterhouseCoopers LLP<BR>
+New York, New York<BR>
+January&nbsp;16, 2003, except for note Y, as to which the date is February 21, 2003 </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>13</FONT></P>
+
+<HR NOSHADE>
+
+<!-- ZEQ.=1,SEQ=14,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=628176,FOLIO='13',FILE='DISK038:[03NYC7.03NYC1807]FA1807A.;18',USER='JLAWRENA',CD='10-MAR-2003;11:10' -->
+<A NAME="page_fa1807_1_14"> </A>
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="fa1807_report_of_independent_auditors"> </A>
+<A NAME="toc_fa1807_2"> </A>
+<BR></FONT><FONT SIZE=2><B>REPORT OF INDEPENDENT AUDITORS    <BR>  </B></FONT></P>
+
+<BR>
+
+<P><FONT SIZE=2>TO
+THE BOARD OF DIRECTORS OF<BR>
+INTERNATIONAL BUSINESS MACHINES CORPORATION: </FONT></P>
+
+<P><FONT SIZE=2>We
+have audited the statement of assets and liabilities of the Business Consulting Services Reporting Unit (the "Reporting Unit") (a reporting unit as defined in Statement of Financial Accounting
+Standards No.&nbsp;142), of International Business Machines Corporation (the "Company") as of December&nbsp;31, 2002 and the related statement of revenues and expenses (collectively, the
+"statements") for the three months then ended (not separately presented herein). These statements are the responsibility of the Company's management. Our responsibility is to express an opinion on
+these statements based on our audit. </FONT></P>
+
+<P><FONT SIZE=2>We
+conducted our audit in accordance with auditing standards generally accepted in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about
+whether the statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the statements. An audit also includes
+assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the statements. We believe that our audit provides a reasonable
+basis for our opinion. </FONT></P>
+
+<P><FONT SIZE=2>The
+statements were prepared for the purpose of complying with the rules and regulations of the Securities and Exchange Commission (for use by the Company in connection with its various filings with
+the Commission). Certain corporate assets, liabilities and corporate expenses, that are not the responsibility of the Reporting Unit, and which have not been allocated, have been excluded from the
+statements. Accordingly, these statements are not intended to be a complete presentation of the financial position or results of operations of the Reporting Unit. </FONT></P>
+
+
+<P><FONT SIZE=2>In
+our opinion, the statements referred to above present fairly, in all material respects, the assets and liabilities and the revenues and expenses of the Reporting Unit as of December&nbsp;31, 2002
+and for the three months then ended, in conformity with accounting principles generally accepted in the United States. </FONT></P>
+
+<P><FONT SIZE=2>/s/
+Ernst &amp; Young LLP<BR></FONT></P>
+
+<P><FONT SIZE=2>Ernst
+&amp; Young LLP<BR>
+New York, New York<BR>
+January&nbsp;16, 2003 </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>14</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=2,SEQ=15,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=370173,FOLIO='14',FILE='DISK038:[03NYC7.03NYC1807]FA1807A.;18',USER='JLAWRENA',CD='10-MAR-2003;11:10' -->
+<BR>
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<P ALIGN="RIGHT"><FONT SIZE=2><A
+NAME="page_fd1807_1_1"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="RIGHT"><FONT SIZE=2><B>SCHEDULE II  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="fd1807_international_business_machine__int06677"> </A>
+<A NAME="toc_fd1807_1"> </A>
+<BR></FONT><FONT SIZE=2><B>INTERNATIONAL BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES<BR>  VALUATION AND QUALIFYING ACCOUNTS AND RESERVES<BR>  For the Years Ended December&nbsp;31:<BR>  (Dollars in Millions)    <BR>  </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="97%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH COLSPAN=3 ALIGN="LEFT"><FONT SIZE=1><B>Description<BR> </B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>Balance at<BR>
+Beginning<BR>
+of Period</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>Additions<BR>
+Charged<BR>
+to Costs<BR>
+and Expenses</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>Write-offs</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>Other (A)</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH COLSPAN=2 ALIGN="CENTER"><FONT SIZE=1><B>Balance at<BR>
+End<BR>
+of Period</B></FONT><HR NOSHADE></TH>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD COLSPAN=3><BR><FONT SIZE=2><B>Allowance For Doubtful Accounts<BR>
+2002</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="37%"><FONT SIZE=2>&#151;Current</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>984</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2>628</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2>349</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>49</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>1,312</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="37%"><FONT SIZE=2><BR>
+&#151;Noncurrent</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+97</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+45</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+54</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+21</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+109</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2><BR>
+<BR></FONT> <FONT SIZE=2><B>2001</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="37%"><FONT SIZE=2>&#151;Current</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>860</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2>418</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2>269</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>(25</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>984</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="37%"><FONT SIZE=2><BR>
+&#151;Noncurrent</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+87</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+73</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+49</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+(14</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+97</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2><BR>
+<BR></FONT> <FONT SIZE=2><B>2000</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=2><BR>
+<BR>
+&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="37%"><FONT SIZE=2>&#151;Current</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>854</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2>286</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2>247</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2>(33</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2>860</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="2%">&nbsp;</TD>
+<TD WIDTH="37%"><FONT SIZE=2><BR>
+&#151;Noncurrent</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+158</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+(15</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+45</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+(11</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+87</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD COLSPAN=3><FONT SIZE=2><BR>
+<BR></FONT> <FONT SIZE=2><B>Allowance For Inventory Losses<BR>
+2002</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+726</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+780</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+790</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+(20</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+696</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2><BR>
+<BR></FONT> <FONT SIZE=2><B>2001</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+695</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+590</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+582</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+23</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+726</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="BOTTOM">
+<TD WIDTH="2%">&nbsp;</TD>
+<TD COLSPAN=2><FONT SIZE=2><BR>
+<BR></FONT> <FONT SIZE=2><B>2000</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+869</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="13%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+527</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+643</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="5%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+(58</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2><BR><BR>)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2><BR><BR>$</FONT></TD>
+<TD WIDTH="9%" ALIGN="RIGHT"><FONT SIZE=2><BR>
+<BR>
+695</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=3><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+<TD WIDTH="1%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=2 ALIGN="RIGHT"><HR NOSHADE SIZE=4></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE ALIGN="LEFT" WIDTH="120">
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>(A)</FONT></DT><DD><FONT SIZE=2>Primarily
+comprises currency translation adjustments. </FONT></DD></DL>
+<P ALIGN="CENTER"><FONT SIZE=2>S-1</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=16,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=409770,FOLIO='S-1',FILE='DISK038:[03NYC7.03NYC1807]FD1807A.;7',USER='JPERLST',CD=';8-MAR-2003;02:48' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="ff1807_exhibit_index"> </A>
+<A NAME="toc_ff1807_1"> </A>
+<BR></FONT><FONT SIZE=2><B>EXHIBIT INDEX    <BR>  </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="83%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="17%" ALIGN="CENTER"><FONT SIZE=1><B>Reference<BR>
+Number per<BR>
+Item 601 of<BR>
+Regulation SK</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="58%" ALIGN="CENTER"><FONT SIZE=1><B>Description of Exhibits</B></FONT><HR NOSHADE></TH>
+<TH WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="19%" ALIGN="CENTER"><FONT SIZE=1><B>Exhibit Number<BR>
+in this Form 10-K</B></FONT><HR NOSHADE></TH>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(2</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Plan of acquisition, reorganization, arrangement, liquidation or succession</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>Not applicable</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(3</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Certificate of Incorporation and By-laws</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The Certificate of Incorporation of IBM is Exhibit (3)(i) to Form&nbsp;8-K filed April&nbsp;28, 1999, and is hereby incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The By-laws of IBM as amended through January&nbsp;1, 2003, is Exhibit 99.3, Attachment III to Form 8-K dated January&nbsp;16, 2003, and is hereby incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(4</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Instruments defining the rights of security holders</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The instruments defining the rights of the holders of the 7.50% Debentures due 2013 are Exhibits 4(a) through 4(l) to Registration Statement No. 33-49475(1) on Form S-3, filed May&nbsp;24, 1993, and are hereby
+incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The instruments defining the rights of the holders of the 8.375% Debentures due 2019 are Exhibits 4(a)(b)(c) and (d) to Registration Statement No. 33-31732 on Form&nbsp;S-3, filed on October&nbsp;24, 1989, and are hereby
+incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The instruments defining the rights of the holders of the 7.00% Debentures due 2025 and the 7.00% Debentures due 2045 are Exhibits 2 and 3 to Form 8-K, filed on October&nbsp;30, 1995, and are hereby incorporated by
+reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The instrument defining the rights of the holders of the 7.125% Debentures due 2096 is Exhibit 2 to Form 8-K/A, filed on December&nbsp;6, 1996, and is hereby incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The instruments defining the rights of the holders of the 6.45% Notes due 2007 and the 6.22% Debentures due 2027 are Exhibit&nbsp;2 and 3 to Form&nbsp;8-K, filed on August&nbsp;1, 1997, and is hereby incorporated by
+reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The instrument defining the rights of the holders of the 6.50% Debentures due 2028 is Exhibit&nbsp;2 to Form&nbsp;8-K, filed on January&nbsp;8, 1998, and is hereby incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The instrument defining the rights of the holders of the 5.375% Notes due 2009 is Exhibit 2 to Form 8-K, filed on January&nbsp;29, 1999, and is hereby incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(9</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Voting trust agreement</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>Not applicable</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(10</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Material contracts</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM 2001 Long-Term Performance Plan is contained in Registration Statement No. 333-87708 on Form S-8, filed on May&nbsp;7, 2002, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM 1999 Long-Term Performance Plan is contained in Registration Statement No. 333-30424 on Form S-8, filed on February&nbsp;15, 2000, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<!-- insert table folio -->
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=17,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=459330,FOLIO='blank',FILE='DISK038:[03NYC7.03NYC1807]FF1807A.;27',USER='JLAWRENA',CD='10-MAR-2003;09:13' -->
+<!-- end of table folio -->
+<TABLE WIDTH="83%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM 1997 Long-Term Performance Plan is contained in Registration Statement No. 33-331305 on Form S-8, filed on July&nbsp;15, 1997, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM PwCC Acquisition Long-Term Performance Plan is contained in Registration Statement No.&nbsp;333-102872 on Form S-8, filed on January&nbsp;31, 2003, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Board of Directors compensatory arrangements as described under "Directors' Compensation" on pages 9 and 10 of IBM's definitive Proxy Statement dated March&nbsp;10, 2003, and is hereby incorporated by
+reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM Supplemental Executive Retention Plan is Exhibit VII to Form 10-K for the year ended December&nbsp;31, 1999, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM Executive Deferred Compensation Plan is contained in Registration Statement No. 333-33692 as Exhibit 4 on Form S-8, filed March&nbsp;31, 2000, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM Board of Directors Deferred Compensation and Equity Award Plan is Exhibit X to Form 10-K for the year ended December&nbsp;31, 1996, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM Non-Employee Directors Stock Option Plan is Appendix B to IBM's definitive Proxy Statement dated March&nbsp;14, 1995, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM Extended Tax Deferred Savings Plan is Exhibit X to Form 10-K for the year ended December&nbsp;31, 1994, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The IBM 2000 Employees Stock Purchase Plan, set forth in Exhibit&nbsp;A of IBM's definitive Proxy Statement dated March&nbsp;13, 2000, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The Employment Agreement for L. V. Gerstner, Jr. is Exhibit 19 to Form&nbsp;10-Q dated March&nbsp;31, 1993, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Amendment to Employment Agreement for L. V. Gerstner, Jr. dated as of January&nbsp;1, 1996, is Exhibit XI to Form 10-K for the year ended December&nbsp;31, 1995, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Second Amendment to Employment Agreement for L.&nbsp;V.&nbsp;Gerstner, Jr. dated as of November&nbsp;17, 1997, is Exhibit VI to Form 10-K for the year ended December&nbsp;31, 1997, and is hereby incorporated by
+reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Third Amendment to Employment Agreement for L.&nbsp;V.&nbsp;Gerstner, Jr. dated as of January&nbsp;29, 2002, is Exhibit 10 to Form 10-Q dated May 15, 2002, and is hereby incorporated by reference*</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(11</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Statement re computation of per share earnings</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<!-- insert table folio -->
+<HR NOSHADE>
+<!-- ZEQ.=2,SEQ=18,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=557981,FOLIO='blank',FILE='DISK038:[03NYC7.03NYC1807]FF1807A.;27',USER='JLAWRENA',CD='10-MAR-2003;09:13' -->
+<!-- end of table folio -->
+<TABLE WIDTH="83%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>The statement re computation of per share earnings is note&nbsp;t, "Earnings Per Share of Common Stock" on page 93 of IBM's 2002 Annual Report to Stockholders, and is hereby incorporated by reference</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" VALIGN="BOTTOM"><FONT SIZE=2>&nbsp;</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(12</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Statement re computation of ratios</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>12</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(13</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Annual report to security holders</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>13</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(18</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Letter re change in accounting principles</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>Not applicable</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(19</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Previously unfiled documents</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>Not applicable</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(21</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Subsidiaries of the registrant</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>21</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(22</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Published report regarding matters submitted to vote of security holders</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>Not applicable</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(23.1</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Consent of experts and counsel</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>23.1</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(23.2</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Consent of experts and counsel</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>23.2</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(24.1</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Powers of attorney</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>24.1</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(24.2</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Certified Resolutions of the IBM Board of Directors authorizing execution of this report by Powers of Attorney</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>24.2</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(28</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Information from reports furnished to state insurance regulatory authorities</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>Not applicable</FONT></TD>
+</TR>
+<TR BGCOLOR="#CCEEFF" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(99.1</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Certification by CEO pursuant to 18&nbsp;U.S.C. Section&nbsp;1350, as adopted pursuant to Section&nbsp;906 of the Sarbanes-Oxley Act of 2002.</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>99.1</FONT></TD>
+</TR>
+<TR BGCOLOR="White" VALIGN="TOP">
+<TD WIDTH="17%" ALIGN="RIGHT"><FONT SIZE=2>(99.2</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>)</FONT></TD>
+<TD WIDTH="58%"><FONT SIZE=2>Certification by CFO pursuant to 18&nbsp;U.S.C. Section&nbsp;1350, as adopted pursuant to Section&nbsp;906 of the Sarbanes-Oxley Act of 2002.</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="19%" ALIGN="CENTER" VALIGN="BOTTOM"><FONT SIZE=2>99.2</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE ALIGN="LEFT" WIDTH="120">
+<DL compact>
+<DT style='margin-bottom:-11pt;'><FONT SIZE=2>*</FONT></DT><DD><FONT SIZE=2>Management
+contract or compensatory plan or arrangement. </FONT></DD></DL>
+<HR NOSHADE>
+<!-- ZEQ.=3,SEQ=19,EFW="2102367",CP="IBM CORPORATION",DN="1",CHK=21992,FOLIO='blank',FILE='DISK038:[03NYC7.03NYC1807]FF1807A.;27',USER='JLAWRENA',CD='10-MAR-2003;09:13' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<BR>
+<P><br><A NAME="03NYC1807_1">QuickLinks</A><br></P><!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_da1807_1">PART I</A></FONT><BR>
+<FONT SIZE=2><A HREF="#toc_da1807_2">PART II</A></FONT><BR>
+<FONT SIZE=2><A HREF="#toc_da1807_3">PART III</A></FONT><BR>
+<FONT SIZE=2><A HREF="#toc_da1807_4">PART IV</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_de1807_1">SIGNATURES</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_dg1807_1">CERTIFICATION PURSUANT TO RULE 13A-14 OR 15D-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_di1807_1">CERTIFICATION PURSUANT TO RULE 13A-14 OR 15D-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_fa1807_1">REPORT OF INDEPENDENT ACCOUNTANTS ON FINANCIAL STATEMENT SCHEDULE</A></FONT><BR>
+<FONT SIZE=2><A HREF="#toc_fa1807_2">REPORT OF INDEPENDENT AUDITORS</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_fd1807_1">INTERNATIONAL BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES VALUATION AND QUALIFYING ACCOUNTS AND RESERVES For the Years Ended December 31: (Dollars in Millions)</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_ff1807_1">EXHIBIT INDEX</A></FONT><BR>
+<!-- SEQ=,FILE='QUICKLINK',USER=SGUNTHE,SEQ=,EFW="2102367",CP="IBM CORPORATION",DN="1" -->
+<!-- TOCEXISTFLAG -->
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>

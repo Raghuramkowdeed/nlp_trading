@@ -9,6 +9,8 @@ Created on Tue Sep 12 05:48:48 2017
 import urllib2, os
 from bs4 import BeautifulSoup as BeautifulSoup
 import pandas as pd
+import numpy as np
+import datetime as dt
 
 #for creating file with given path structure
 def create_file(path):
@@ -156,3 +158,87 @@ def get_10k_reports(tickers, begin_year, end_year):
 
                 
 
+def extract_10k_item_1a(text_file):
+  
+    with open(text_file) as f:
+        lines  = f.readlines()
+        
+    lines = np.array(lines)      
+    lines_cl = [ x.strip() for x in lines ]
+    lines_np = np.array(lines_cl)
+    
+    begin_words = [ 'item 1a',
+                    'item 1a.', 
+                    'item1a',
+                    'item1a.',
+                    'item.1a',
+                    'item1.1a.',
+                    'item1a.risk factors',
+                    'item1a.risk factors.',
+                    'item1a.risk',
+                    'item1a.risk.',
+                    'item1a. risk factors',
+                    'item 1a. risk factors',
+                  ]
+    
+    end_words   = [ 'item 1b',
+                    'item 1b.',
+                    'item1b',
+                    'item1b.',
+                    'item.1b',
+                    'item.1b.',
+                    'item 1b.unresolved',
+                    'item 1b.unresolved.',
+                    'item1b.unresolved',
+                    'item1b.unresolved.',
+                    'item1b.unresolved staff comments',
+                    'item1b.unresolved staff comments.',
+                    'item1b. unresolved staff comments.',
+                    'item1b. unresolved',
+                    'item1b. unresolved staff',
+                   ]
+    
+    #denotes max num of characters item 1a heading can have
+    max_char_1 = 22
+    
+    ind_h = [ i for i,s in enumerate(lines_cl) if len(s) < max_char_1 ]
+    
+    f_1 = lambda(t_s): reduce( lambda x,y: x |y, [ (i in t_s)  for i in begin_words ] )
+    f_2 = lambda(t_s): reduce( lambda x,y: x |y, [ (i == t_s)  for i in end_words ] )
+    f_3 = lambda(t_s): reduce( lambda x,y: x |y, [ (i in t_s)  for i in end_words ] )
+    
+    start_ind = [ i for i in ind_h if  f_1(lines_cl[i] ) ]
+    print start_ind
+    # if no line find with item 1a as heading, serach for it with in line content
+    if len(start_ind) == 1 :
+        new_start_ind = [ i for i in range(len(lines_cl)) 
+                          if  f_1(lines_cl[i] ) & ( i > start_ind[0] ) ]
+        start_ind.append(new_start_ind[0])
+    start_line_num = start_ind[1]
+    
+    # check for line where item 1b occurs for the first time afer item 1a is found
+    end_ind = [ i for i in range(len(lines_cl)) if  f_2(lines_cl[i] ) & (i > start_line_num) ]
+    
+    
+    if(len(end_ind) == 0):
+       end_ind = [ i for i in range(len(lines_cl)) if  f_3(lines_cl[i] ) & (i > start_line_num) ]
+    
+    end_line_num = [ i for i in end_ind if i > start_line_num][0]
+     
+    
+    section_content = lines_np[start_line_num:(end_line_num+1)]
+    return section_content
+'''
+this_dir =  "../data/10-K/AAPL/TEXT/"
+file_names = os.listdir(this_dir)
+file_names = [ i for i in file_names if not '.swp' in i]
+content_dict = {}
+for i in file_names:
+    print i
+    if dt.datetime.strptime(i, '%Y-%m-%d') > dt.datetime.strptime('2015-01-01', '%Y-%m-%d'):
+       content = extract_10k_item_1a( this_dir+i)
+       content_dict[i] = content
+
+
+#content = extract_10k_item_1a("../data/10-K/GS/TEXT/2012-02-28")
+'''

@@ -1,0 +1,933 @@
+10-k
+a2129092z10-k.htm
+form 10-k
+quicklinks
+-- click here to rapidly navigate through this document
+united states
+securities and exchange commission washington, d.c. 20549
+form 10-k annual report
+pursuant to section13 or 15 (d)of the
+securities exchange act of 1934
+for the year ended december 31, 2003
+1-2360 (commission file number)
+international business machines corporation (exact name of registrant as specified in its charter)
+new york (state of incorporation)
+13-0871985 (irs employer identification number)
+armonk, new york (address of principal executive offices)
+10504 (zip code)
+914-499-1900 (registrant's telephone number)
+securities registered pursuant to section12(b) of the act:
+title of each class
+voting shares outstanding
+at february 10, 2004
+name of each exchange
+on which registered
+capital stock, par value $.20 per share
+1,699,415,513
+new york stock exchange
+chicago stock exchange
+pacific stock exchange
+6.45% notes due 2007
+new york stock exchange
+5.375% notes due 2009
+new york stock exchange
+7.50% debentures due 2013
+new york stock exchange
+8.375% debentures due 2019
+new york stock exchange
+7.00% debentures due 2025
+new york stock exchange
+6.22% debentures due 2027
+new york stock exchange
+6.50% debentures due 2028
+new york stock exchange
+7.00% debentures due 2045
+new york stock exchange
+7.125% debentures due 2096
+new york stock exchange
+indicate
+by check mark whether the registrant (1)has filed all reports required to be filed by section13 or 15(d) of the securities exchange act of 1934
+during the preceding 12months (or for such shorter period that the registrant was required to file such reports), and (2)has been subject to such filing requirements for the past
+90days. yesnoo
+indicate by check mark if disclosure of delinquent filers pursuant to item 405 of regulations-k is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in partiii of this form10-k or any amendment to
+this form10-k.
+indicate by check mark whether registrant is an accelerated filer (as defined in exchange act rule12b-2).
+yesnoo
+the aggregate market value of the voting stock held by non-affiliates of the registrant as of the last business day of the registrant's most recently
+completed second fiscal quarter was $142.7billion.
+documents
+incorporated by reference:
+portions
+of ibm's annual report to stockholders for the year ended december31, 2003 into parts i, ii and iv of form10-k.
+portions
+of ibm's definitive proxy statement filed on or about march8, 2004 into partiii of form10-k.
+part i
+item 1. business:
+international business machines corporation (ibm) was incorporated in the state of new york on june16, 1911, as the computing-tabulating-recording co.
+(c-t-r), a consolidation of the computing scale co. of america, the tabulating machine co., and the international time recording co. of new york. since that time, ibm has focused on the intersection
+of business insight and technological invention, and its operations and aims have been international in nature. this was signaled 80years ago, in 1924, when c-t-r changed its name to
+international business machines corporation. and it continues today: ibm is the largest information technology company in the world, the world's largest business and technology services company, the
+world's largest consulting services organization, the world's largest information technology research organization, and the world's largest financier of information technology.
+*
+* *
+over
+the past decade, ibm has been a leader in the it market's shift of focus from selling hardware, software, and services, to the creation of solutions to clients' business problems.
+during the early years of the internet's entry into mainstream commerce, communications and business operations in the mid-to late-1990s, value was created first through providing widespread access
+and then through the integration of business processes, such as supply chain, customer relationships and human resources. today, ibm is once again leading the industry toward the more fundamental,
+industry-specific transformations of on demand business.
+in
+its relationships with its clients, ibm has found that a majority of enterprises are concerned with four main issues:
+demand
+for faster innovation
+reducing
+expenses
+integration
+across the organization's "value chain" (representing every transaction or interaction within an enterprise, with other enterprises, and with individuals)
+demand
+for predictable return on investment
+by
+redesigning their business processes and organizational structure, supported by and enabled by new systems operating environments, these clients are seeking to become "on demand"
+businesses.
+ibm
+defines an on demand business as an enterprise whose business processes are:
+responsive
+to any client demand, market opportunity, or external threat;
+integrated
+end-to-end across the company; and
+integrated
+across industry value nets, the interconnected chains of partners, suppliers and clients.
+an
+essential aspect of an on demand operating environment is that its infrastructure be based on industry-wide standards (commonly referred to as "open standards"). in ibm's
+view, an investment in such an infrastructure provides the greatest returns, rather than relying on proprietary control by a single company or affiliation of companies. one positive development in
+this regard is the emergence of "open source" operating systems and programming languages that benefit from further
+development by the business and information technology (it) communities, as in the case of the linux operating system or the java programming language.
+however,
+to realize the full benefits of an on demand environment, solutions with the highest returns also require the transformation and integration of business processes within and
+among institutions.
+ibm's
+clients include many different kinds of enterprises, from sole proprietorships to the world's largest organizations, governments and companies, representing every major industry
+and endeavor.
+over
+the past decade, ibm has exited or greatly de-emphasized its involvement in consumer markets and divested itself of other non-core businesses to concentrate on the
+enterprise market. in ibm's view, the enterprise market represents approximately two-thirds of the it industry's revenue, as well as twice the growth and three times the profits compared
+to consumer areas of the industry. as a result, ibm has made acquisitions and invested in emerging business opportunities important to its enterprise clients. many of these investments have since
+grown to a point where their revenue and opportunity now can be considered part of ibm's mainline businesses. the majority of the company's enterprise business, which excludes the company's original
+equipment manufacturer (oem) technology business, occurs in industries that are broadly grouped into six sectors around which the company's sales and distribution activities, as well as an increasing
+number of its services and products businesses are organized:
+sector
+industries
+financial services
+banking
+financial markets
+insurance
+public
+education
+government
+healthcare
+life sciences
+industrial
+aerospace
+automotive
+defense
+chemical and petroleum
+electronics
+distribution
+consumer products
+retail
+travel
+transportation
+communications
+energy and utilities
+media and entertainment
+telecommunications
+small medium business
+the majority of business in this sector have fewer than 1,000 employees
+the it industry and ibm's strategy
+ibm operates in both the business services and it industries, which are comprised of the following three categories:
+business
+value
+infrastructure
+value
+component
+value
+the
+primary rationale for ibm's investments in the component value category is to provide a competitive advantage in the infrastructure value category, which in turn is considered a
+competitive advantage in the business value category.
+ibm
+sees a shift in revenue and profit growth up from component value to infrastructure value and into the business value category, where revenue and profit potential are thought to be
+greatest in the decade ahead.
+business value:
+overview:
+services and software to improve business performance for its enterprise computing clients. ibm helps its enterprise computing clients transform their business processes and gain competitive
+advantage by applying its skills and experience to processes specific to the client's industry or to business challenges across industries and processes. the company enters into long-term
+relationships and creates solutions for clients, on its own or in partnership with other companies, drawing upon its broad product and service offerings, and relying on its bcs organization, the
+capabilities of ibm research, its experience in chip design and application, and the company's own viewpoint of developing trends in business and technology.
+strategy:
+drive on demand business innovation
+capabilities:
+business consulting services: delivery of value to clients through consulting services for application innovation and systems integration, client
+relationship management, financial management, human capital, business strategy and change, supply chain management, and the transformation of business processes and operations. (global services)
+customer financing: lease and loan financing to clients and internal clients for terms generally between two and five years. (global financing)
+engineering& technology services (e&ts): system and component design services, strategic outsourcing of clients' design teams, and technology
+and manufacturing consulting services. (technology group)
+on demand innovation services (odis): ibm research scientists and experts work with bcs consultants to analyze clients' business challenges and provide
+solutions that address these challenges. odis offers a number of cross-industry micropractices with deep expertise in business optimization, security, mobile enablement, information mining and more.
+(global services)
+software and services to meet industry-specific needs: solutions and applications built on an on demand, standards-based infrastructure to transform a
+process that is unique to specific industries. (all ibm groups)
+infrastructure value:
+overview: hardware, software and services integrated into a computing environment. infrastructure value concerns systems, such as high-volume server
+computers; middleware software that can interconnect disparate operating systems and applications with data; storage networks and devices. it also refers to such services as infrastructure
+managementwhether on the client's premises or managed remotely at ibm's own facilitiesand consulting about how to improve and strengthen the infrastructure and realize
+greater return on investment in it. central to ibm's approach for building value in the infrastructure category is its support of open standards and its active promotion of linux, the open source
+operating system, which helps ibm's clients control costs and allows them to benefit from the latest developments created by the linux development community around the world. to support linux
+development and deployment, ibm has enabled its servers and storage products to operate with linux, ibm's leading middleware products are designed to work in a
+linux environment, and linux is a preferred choice for many of the company's services and consulting engagements.
+strategy:
+deliver open and integrated offerings; expand partnerships; continue to exit select markets, such as application software.
+capabilities:
+application management services: application development, management, maintenance and support services for packaged software, as well as custom and
+legacy applications. (global services)
+commercial financing: short-term inventory and accounts receivable financing to dealers and remarketers of it products. (global financing)
+db2 information management software: advanced database and content management software solutions that enable clients to leverage information on demand.
+(software)
+e-business hosting services: solutions for the management of clients' web-based infrastructure and business applications, as well as a
+growing portfolio of industry-specific independent software vendor (isv) solutions that are delivered as a service. (global services)
+integrated technology services (its): design, implementation, and maintenance of clients' technology infrastructures. (global services)
+lotus software: collaboration and messaging software that allows a company's employees, clients, vendors and partners to engage in real-time
+and asynchronous communication and knowledge management. (software)
+personal computers: desktop and notebook computers featuring thinkvantage technologies that provide enterprises and end-users with increased
+productivity and cost-effectiveness. (personal systems group)
+printing systems: production print solutions, on demand print-related solutions, enterprise workgroup print technologies, and print management software
+and services. (personal systems group)
+rational software: integrated tools designed to improve an organization's software development processes and capabilities. (software)
+remarketing: the sale and lease of used equipment (primarily sourced from the conclusion of lease transactions) to new or existing clients. (global
+financing)
+retail store solutions: point-of-sale retail checkout equipment, software, and solutions. (personal systems group)
+servers: ibm eserver systems using ibm operating systems (zseries and iseries), as well as aix, the ibm unix operating system (pseries) and the
+microsoft windows operating system (xseries). all servers can also run linux, a key open-source operating system. (systems group and software)
+storage: data storage products, including disk, tape and storage area networks. ibm continues to be the leading vendor in storage services. (systems
+group)
+strategic outsourcing services: competitive cost advantages through the outsourcing of processes and operations. (global services)
+tivoli software: software for infrastructure management, including security, change, configuration, job scheduling, storage capability, performance and
+availability. (software)
+websphere software: management of a wide variety of business processes using open standards to interconnect applications, data, and operating systems.
+(software)
+component value:
+overview:
+component value describes advanced semiconductor development and manufacturing for ibm's server and storage offerings, and services, technology and licenses provided to oemsthat
+create and market products requiring advanced chips and the other core technology elements.
+strategy:
+leverage components for infrastructure value; continue to participate in select markets and to pursue outsourcing for manufacturing of select products.
+capabilities:
+application specific integrated circuits: manufacturing of customized semiconductor products for clients. (technology group)
+advanced foundry: full suite of semiconductor manufacturing and integrated supply chain services using either a client's or ibm's design. (technology
+group)
+standard products and custom microprocessors: semiconductors designed and manufactured primarily based upon ibm's powerpc architecture. (technology
+group)
+business segments
+organizationally, the company's major operations comprise a global services segment; three hardware product segmentssystems group, personal systems
+group and technology group; a software segment; and a global financing segment. see the it industry and ibm's strategy section above for the specific capabilities relating to these business segments.
+global services is an important part of the company's strategy of providing insight and solutions to clients. while solutions often
+include industry-leading ibm software and hardware, other suppliers' products are also used if a specific client solution requires it. global services outsourcing contracts as
+well as bcs contracts with the u.s. federal government and its agencies are typically seven to ten years in duration. other contracts range in periods generally up to one year, including consulting
+contracts and its.
+the
+company's new business transformation outsourcing (bto) capabilities combine the insight of bcs with the company's process outsourcing capabilities to assume responsibility for the
+operations and management of a client's business processes in areas including human resources, procurement, customer relations management, finance and administration, among others. the company will
+only enter into bto agreements with clients when it believes that ibm can leverage its business knowledge and technology to drive client productivity and cost improvements. these generally are
+large-scale, multi-year contracts ranging up to ten years in length that include the operation transformation of the client's business processes. bto engagements may include support and involvement of
+various business units that have capabilities such as bcs, application management services, e-business hosting services, middleware and hardware.
+systems group provides business solutions to clients. approximately half of the systems group's sales transactions are through business
+partners and approximately 46percent are direct to clients, slightly more than half of which are through the web at ibm.com. while appropriately not reported as external revenue, hardware is
+also deployed to support global services solutions.
+technology group provides leading semiconductor technology and products, packaging solutions and engineering technology services to oem
+clients (approximately 78percent) and, although appropriately not reported as external revenue, to the systems group (approximately 21percent).
+using
+a "one-team" approach, systems group works hand-in-hand with the technology group on product planning and strategy given the high content level
+of technology group components inside systems group products. in recognition of the increasing degree of collaboration between the two segments and as discussed on page 118 of the ibm 2003 annual
+report which is hereby incorporated
+by
+reference, the company combined the systems group and the technology group in the first quarter of 2004.
+personal systems group includes the company's lines of personal computers, printers and point-of-sale terminals.
+these offerings are designed to assist clients to improve productivity and to reduce clients' total cost of ownership.
+software consists primarily of middleware and operating systems software. middleware software enables clients to integrate systems,
+processes, and applications across the clients' enterprise through the use of open standards. middleware is designed to be the underlying support for applications provided by business partner
+independent software vendors (isvs) who build industry- or process-specific applications according to open industry standards. operating systems are the engines that run computers. approximately
+70percent of software volumes are directly with the end-user clients and about 20percent are through business partners. while appropriately not reported as external
+revenue, the remainder is deployed internally to support global services solutions.
+approximately
+40percent of external software revenue relates to one-time charge (otc) arrangements whereby the client pays one up-front payment for a
+lifetime license. typically, arrangements for the sale of otc software include one year of maintenance. the client can also purchase ongoing maintenance after the first year, which includes product
+upgrades and technical support. the remaining software is sold on a monthly license charge arrangement.
+global financing is described on pages69 to 73 of the ibm 2003 annual report which are hereby incorporated by reference.
+enterprise investments develops and provides industry-specific it solutions supporting the hardware, software and global services segments
+of the company. primary product lines include product life cycle management software and document processing technologies. product life cycle management software primarily serves the industrial sector
+and helps clients manage the development and manufacturing of their products. document processor products service the financial services sector and include products that enable electronic banking.
+ibm worldwide organizations
+the following three company-wide organizations play key roles in ibm's delivery of value to its clients:
+sales
+and distribution organization, and related sales channels
+research,
+development, and intellectual property
+supply
+chain
+sales& distribution organization
+ibm offers its products through its global sales and distribution organizations. consistent with ibm's focus on business value, the company's global corps of
+account representatives combine a deep understanding of each client's organizational and industry-specific needs with comprehensive knowledge of the products, technologies, and services offered by ibm
+and its network of business partners.
+ibm
+also offers its products through a variety of other internal and external channels: four of these channels comprise ibm's business partner relationships, through which the company
+receives approximately one-third of its revenue.
+internal routes-to-market
+global services consultants: particularly in selling end-to-end solutions for large, complex business challenges, ibm very often relies on
+the practitioners and consultants within its global services unit, as
+these
+challenges generally require integrating services and on demand solutions from ibm and other suppliers.
+hardware
+and software brand specialists: ibm's own hardware and software brand product specialists work face-to-face with clients, selling ibm platforms as part
+of a discrete technology platform decision, typically to "self-integrating" it departments.
+ibm.com:
+online and telephone sales and assistance operations handle basic commodity transactions for large enterprises and small-to-medium businesses.
+business partners routes-to-market
+global/major independent software vendors: isvs deliver business process or industry-specific applications and, in doing so, often influence the sale of ibm
+hardware, middleware and services.
+global/major
+systems integrators (sis): sis identify business problems and design solutions when global services is not the preferred systems integrator; they also sell computing
+infrastructures from ibm and its competitors.
+regional
+isvs and sis: sis identify the business problems, and isvs deliver business process or industry-specific applications to medium-sized and large businesses requiring ibm
+computing infrastructure offerings.
+solutions
+providers, resellers and distributors: resellers sell ibm platforms and value-added services as part of a discrete technology platform decision to clients wanting third-party
+assistance.
+research, development and intellectual property
+ibm's research and development (r&d) operations differentiate ibm from its competitors. ibm annually spends approximately $5billion for r&d, including
+capitalized software costs, focusing its investments in high-growth opportunities. recent such efforts include e-business, initiatives to support linux, middleware software
+products, autonomic computing, advanced semiconductor technology, and other technologies supporting on demand. as a result of innovations in these and other areas, ibm was once again awarded more u.s.
+patents in 2003 than any other company. this marks the 11th year in a row that ibm achieved this distinction.
+a
+key transformation that has been taking place over the past decade and continues today is the change in the focus and the culture of ibm's r&d organization to be more closely linked to
+and primarily driven by industry-specific and client-specific needs. significant successes have been achieved by this changing focus, such as autonomic computing and linux developments, as mentioned
+above.
+in
+addition to producing world-class products and solutions for the company's clients, the company's investments in r&d also result in intellectual property (ip) income. some of ibm's
+technological breakthroughs are used exclusively in ibm products, while others are used by the company's licensees for their products when that new technology is not strategic to ibm's business goals.
+a third group is both used internally and licensed externally.
+in
+addition to these ip income sources, the company also generates value from its patent portfolio through cross-licensing arrangements and ip licensed in divestiture transactions.
+cross-licensing arrangements involve licensing of the company's ip to a third party in exchange for the right to use third party's ip. the value of these other two sources is not readily apparent in
+the financial results on pages54 and 74 of the ibm 2003 annual report which are hereby incorporated by reference, due to the fact that income on cross-licensing arrangements is recorded only
+to the extent cash is received. the value received by ibm for ip transferred in divestiture transactions is included in the overall gain or loss from the divestiture, not in the separately displayed
+ip income amounts on pages54 and 74 of the ibm 2003 annual report which are hereby incorporated by reference.
+supply chain
+just as ibm works to transform its clients' supply chains for greater efficiencies and responsiveness to market conditions, ibm has undertaken a large-scale
+initiative to re-cast ibm's own supply chain as an on demand business operation, thereby turning what had previously been a cost/expense to be managed into a strategic advantage for the
+company and, ultimately, for its clients.
+ibm
+spends nearly $39billion annually in its supply chain, procuring materials and services around the world. prior to 2002, the company's supply, manufacturing, and distribution
+operations were spread across its product brands and service offerings. these are now integrated in one operating unit that can:
+understand
+and respond to marketplace opportunities and external risks, as well as the needs of clients, employees and partners
+convert
+fixed costs to variable costs
+simplify
+and streamline internal operations to improve sales force productivity and processes and thereby, continuing to improve the experiences of the company's clients
+when working with ibm
+reduce
+inventories
+the
+cost savings this unit generates provides two opportunities for the company: directly improve financial results mostly through improved gross profit margins or improve
+competitiveness and market share by passing some or all of the cost savings to clients. accordingly, the cost savings generated by
+this unit will not always result in a dollar-for-dollar apparent gross margin improvement in the company's consolidated statement of earnings.
+while
+these efforts are largely concerned with product manufacturing and delivery, ibm is also applying supply chain principles to service delivery across its solutions and services
+lines of business.
+by
+the end of 2003, the work of transforming and integrating its supply chain resulted in the lowest inventory levels for ibm in more than 20years.
+in
+addition to its own manufacturing operations, the company uses a number of contract manufacturing (cm) companies around the world to manufacture ibm-designed products. the
+use of cm companies is intended to generate cost efficiencies and reduce time-to-market for certain ibm products. some of the company's relationships with cm companies are exclusive. ibm has key
+relationships with sanmina-sci for the manufacture of many intel-based products, or with solectron for a significant portion of the manufacturing operations of global asset recovery
+servicesan operation of global financing that restores end-of-lease personal computers and other it equipment for resale. further, some ibm-branded
+products are manufactured by third-party oemsand then purchased by ibm and resold under the ibm brand.
+significant factors affecting ibm's business
+forward-looking and cautionary statements:certain statements contained in this annual report may constitute "forward-looking
+statements" within the meaning of the private securities litigation reform act of 1995 ("reform act"). the company may also make forward-looking statements in other reports filed with the securities
+and exchange commission, in materials delivered to stockholders and in press releases. in addition, the company's representatives may from time to time make oral forward-looking statements.
+forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. words
+such as "anticipates," "believes," "expects," "estimates," "intends," "plans," "projects," and similar expressions, may identify such forward-looking statements. the company assumes no obligation to
+update or revise any forward-looking statements. in accordance with the reform act, set forth below are cautionary statements that accompany those forward-looking statements. readers should carefully
+review these cautionary statements as they identify certain important factors that could cause actual results to differ materially from those in the forward-looking statements and from historical
+trends. the following cautionary statements are not exclusive and are in addition to other factors discussed
+elsewhere
+in this annual report, in the company's filings with the securities and exchange commission or in materials incorporated therein by reference.
+economic environment and corporate it spending budgets:although the diverse nature of ibm's capabilities somewhat mitigates
+the impact of economic volatility on ibm's results, the company's financial performance is impacted by overall marketplace spending. although it spending is an important driver of ibm's financial
+results, a key objective is to outperform key competitors and gain market share during strong and weak economic environments.
+hardware
+and a large majority of the company's software business are more sensitive to changing demands associated with changes in the economic environment. the company's mix of
+offerings with contractual long-term cash and income streams and offerings with cyclical transaction-based sales, combined with the company's strategies discussed in the next two
+paragraphs, are designed to result in increased market share gains in strong and weak economies.
+technology
+group's microelectronics business is also particularly sensitive to cyclical changes in that industry; although such sensitivity has been greatly reduced in recent years
+through the company's exit of some of the commodity segments of that industry, such as dynamic random access memory (dram). movements in the general or industry-specific economic environment create
+financial opportunities and challenges with respect to the company's consulting business and certain of its inventories.
+to
+the extent demand for global services sharply and unexpectedly declines, the company may have excess people resources. as a result, the company may be required to decide whether to
+have a workforce action resulting in additional severance charges (which could result in charges to selling, general and administration expense), or to carry an underutilized consulting workforce in
+the hopes that the economic drop is short-term in nature (which could reduce services gross
+margins). conversely, to the extent that the demand for global services sharply and unexpectedly increases, the company could be required to quickly identify and hire the correct number of consultants
+with the appropriate skills at the same time that its competitors have the same goals. the company manages these risks by forecasting future demand and by the selected use of subcontracted labor. as
+referenced above, the company's supply chain initiatives are also an integral part of managing these risks to the global services business.
+to
+the extent demand for hardware products sharply and unexpectedly declines, the company may be left with excess or obsolete inventory (which could result in write-downs to cost of
+goods sold and therefore, in lower gross margins). management attempts to mitigate this risk by careful forecasting and through the supply chain initiatives discussed above. part of the supply chain
+initiatives is the reduction of inventory levels on hand. conversely, a sudden and unexpected rise in demand may result in supply constraints (which could reduce revenue and gross margins to the
+extent there are stranded fixed costs). again, the company minimizes this risk through its supply chain initiatives that convert traditionally fixed cost and inflexible aspects of the supply chain
+into a variable and flexible source of supply: one of the pillars of an on demand business.
+internal business transformation and efficiency initiatives:key to the success of ibm's strategy are its ongoing efforts to
+drive greater productivity and cost savings as ibm continues to transform itself into an on demand enterprise. integral to these efforts will be the internal supply chain initiatives discussed above
+as well the company's efforts to manage the cost of its resources worldwide. these efforts will continue to include the rebalancing of skills, developing the most cost-effective workforce
+structure, and continuing to make company's compensation programs competitive and aligned with organizational units. the degree of continued success in this area will impact the amount of company
+expense and cost structure improvements, as well as the amount of competitive leverage it can apply by passing such savings along to clients.
+technology innovations:ibm invests for new and innovative products and services. ibm has been moving away from commoditized
+categories of the it industry and into areas where it can differentiate
+itself
+through innovation, and by leveraging its investments in r&d. examples include ibm's leadership position in the design and fabrication of application specific integrated circuits (asics); the
+design of smaller, faster and energy-efficient semiconductor devices (using industry-leading innovations such as copper technology, silicon on insulator, silicon germanium, low-k
+dielectric, and nanotechnology); the design of "autonomic" or self-managing computing systems and "grid" computing networks that allow computers to share processing power; and the
+company's efforts to advance open technology standards such as linux. in the highly competitive it industry with large diversified competitors as well as smaller and nimble single-technology
+competitors, ibm's ability to continue its cutting-edge innovation is absolutely critical to maintaining and increasing market share. ibm is managing this risk by more closely linking its
+r&d organization to industry-specific and client-specific needs, as discussed on page7 of this form10-k.
+open standards:the broad adoption of open standards is essential to the computing model for e-business on
+demand. without the open standards that enable all manner of computing platforms to communicate and work with one another, the integration of any client's internal systems, applications and processes
+remains a monumental and expensive task. the broad-based acceptance of open standardsrather than closed, proprietary architecturesalso allows the computing infrastructure to
+more easily absorb new technical innovations. ibm is committed to fostering open standards because they benefit clients, because they are vital to the on demand computing model, and because their
+acceptance will expand growth opportunities across the entire business services and it industry. ibm's support is evidenced by the enabling of its products to support open standards such as linux, as
+well as its recent acquisition of rational. rational's software development tools can be used to develop and upgrade any other company's software products. accordingly, this acquisition is a critical
+part of ibm's open standards strategy.
+protection of intellectual property:while the company's various proprietary intellectual property rights are important to
+its success, ibm believes its business as a whole is not materially dependent on any particular patent or license, or any particular group of patents or licenses. ibm owns or is licensed under a
+number of patents, which vary in duration, relating to its products. licenses under patents owned by ibm have been and are being granted to others under reasonable terms and conditions. these
+protections may not prevent competitors from independently developing products and services similar to or duplicative to the company's nor can there be any assurance that these protections will
+adequately deter misappropriation or improper use of the company's technology. also, there can be no assurances that ibm will be able to obtain from third parties the licenses it needs in the future.
+relationships with critical suppliers:ibm's business employs a wide variety of components, supplies, services and raw
+materials from a substantial number of suppliers around the world. certain of the company's businesses rely on single or limited number of suppliers, although the company makes every effort to assure
+that alternative sources are available if the need arises. the failure of the company's suppliers to deliver components, supplies, services and raw materials in sufficient quantities and in a timely
+manner could adversely affect the company's business.
+seasonality of revenues:ibm's revenues are affected by such factors as the introduction of new products, the length of the
+sales cycles and the seasonality of technology purchases. as a result, the company's results are difficult to predict. these factors historically have resulted in lower revenue in the first quarter
+than in the immediately preceding fourth quarter.
+local legal and economic conditions:the company operates in more than 160 countries worldwide and derives more than half of
+its revenues from sales outside the united states. changes in the laws or policies of the countries in which the company operates could affect the company's business in that country and the company's
+results of operations. the company's results of operations also could be affected by economic and political changes in those countries and by macroeconomic changes, including recessions and inflation.
+competitive conditions:the company operates in businesses that are subject to intense competitive pressures. the company's
+businesses face a significant number of competitors, ranging from fortune 50 companies to an increasing number of relatively small, rapidly growing and highly specialized organizations. the company
+believes that its combination of technology, performance, quality, reliability, price and the breadth of products and service offerings are important competitive factors.
+intense
+competitive pressures could affect prices or demand for the company's products and services, resulting in reduced profit margins and/or loss of market opportunity. unlike many of
+its competitors, the company has a portfolio of businesses and must allocate resources across these businesses while competing with companies that specialize in one or more of these product lines. as
+a result, the company may not fund or invest in certain of its businesses to the same degree that its competitors do and these competitors may have greater financial, technical and marketing resources
+available to them than the businesses against which they compete.
+volatility of stock prices:the company's stock price is affected by a number of factors, including quarterly variations in
+results, the competitive landscape, general economic and market conditions and estimates and projections by the investment community. as a result, like other technology companies, the company's stock
+price is subject to significant volatility.
+dependence on and compensation of key personnel:much of the future success of the company depends on the continued service
+and availability of skilled personnel, including technical, marketing and staff positions. experienced personnel in the information technology industry are in high demand and competition for their
+talents is intense. there can be no assurance that the company will be able to successfully retain and attract the key personnel it needs. many of the company's key personnel receive a total
+compensation package that includes stock options and other equity awards. new regulations, volatility in the stock market and other factors could diminish the value of the company's equity awards,
+putting the company at a competitive disadvantage or forcing the company to use more cash compensation.
+currency and customer financing risks:the company derives a significant percentage of its non-u.s. revenues from
+its affiliates operating in local currency environments and its results are affected by changes in the relative values of non-u.s. currencies and the u.s.
+dollar. further, inherent in the company's customer financing business are risks related to the concentration of credit risk and the creditworthiness of the client, interest rate and currency
+fluctuations on the associated debt and liabilities and the determination of residual values. the company employs a number of strategies to manage these risks, including the use of derivative
+financial instruments. derivatives involve the risk of non-performance by the counterparty. in addition, there can be no assurance that the company's efforts to manage these risks will be
+successful.
+distribution channels:the company offers its products directly and through a variety of third party distributors and
+resellers. changes in the financial or business condition of these distributors and resellers could subject the company to losses and affect its ability to bring its products to market.
+acquisitions and alliances:the company has made and expects to continue to make acquisitions or enter into alliances from
+time to time. acquisitions and alliances present significant challenges and risks relating to the integration of the business into the company, and there can be no assurances that the company will
+manage acquisitions and alliances successfully.
+backlog:the value of unfilled orders is not a meaningful indicator of future revenues from the company's product offerings
+due to the significant proportion of revenue from services, the volume of products delivered from shelf inventories, and the shortening of product delivery schedules. with respect to the company's
+global services segment, in 2003 the company signed contracts totaling $55billion, which contributed to a services backlog at december31, 2003 of $120billion, compared with
+$112billion at the end of 2002.
+the
+following information is included in ibm's 2003 annual report to stockholders and is incorporated herein by reference:
+segment
+information and revenue by classes of similar products or servicespages117 to 121.
+financial
+information by geographic areaspage121.
+amount
+spent during each of the last three years on r&d activitiespage104.
+financial
+information regarding environmental activitiespages99 and 100.
+the
+number of persons employed by the registrantpage69.
+the
+management discussion overviewpages43 to 44.
+available
+informationinside back cover.
+item 2. properties:
+at december31, 2003, ibm's manufacturing and development facilities in the united states had aggregate floor space of 33million square feet, of
+which 24million was owned and 9million was leased. of these amounts, 4million square feet was vacant and 2million square feet was being leased to non-ibm
+businesses. similar facilities in 15 other countries totaled 10million square feet, of which 6million was owned and 4million was leased. of these amounts, 1million
+square feet was being leased to non-ibm businesses.
+although
+improved production techniques, productivity gains and infrastructure reduction actions have resulted in reduced manufacturing floor space, continuous upgrading of facilities is
+essential to maintain technological leadership, improve productivity, and meet customer demand.
+executive officers of the registrant (at march8, 2004):
+age
+officer since
+chairman of the board, president and chief executive officer
+samuel j. palmisano(1)
+senior vice presidents:
+nicholas m. donofrio, group executive
+douglas t. elix, group executive
+j. bruce harreld, strategy
+paul m. horn, research
+jon c. iwata, communications
+john r. joyce, chief financial officer
+john e. kelly iii, group executive
+abby f. kohnstamm, marketing
+j. michael lawrie, group executive
+edward m. lineen, general counsel
+mark loughridge, group executive
+j. randall macdonald, human resources
+steven a. mills, group executive
+robert w. moffat, jr., group executive
+linda s. sanford, group executive
+stephen m. ward, jr., group executive
+william m. zeitler, group executive
+vice presidents:
+daniel e. o'donnell, secretary
+jesse j. greene, jr., treasurer
+robert f. woods, controller
+(1)member
+of the board of directors.
+all
+executive officers are elected by the board of directors and serve until the next election of officers in conjunction with the annual meeting of the stockholders as
+provided in the by-laws. each executive officer named above, with the exception of j. randall macdonald and jesse j. greene, jr. have been an executive of ibm or its subsidiaries during
+the past five years.
+mr.macdonald
+was with gte (now verizon communications), a telecommunications company, as executive vice president of human resources and administration until joining ibm in 2000.
+he was with gte for 17years holding positions of increasing responsibility. before joining gte, mr.macdonald held human resources positions at ingersoll-rand corporation
+and sterling drug,inc.
+mr.greene
+was with compaq computer corporation (now a part of hewlett-packard company), a computer company, as senior vice president and chief financial officer until joining ibm
+in 2002. he was with compaq for two years. before joining compaq, mr.greene served as corporate senior vice president and director of business strategy and information technology at eastman
+kodak company. during six years at kodak, mr.greene held a number of financial positions including vice president of finance and treasurer. before joining kodak, mr.greene spent
+23years at ibm in a variety of financial positions including assistant treasurer.
+item 3. legal proceedings:
+refer to noteo "contingencies and commitments" on pages101 to 103 of ibm's 2003 annual report to stockholders which is incorporated herein by
+reference.
+item 4. submission of matters to a vote of security holders:
+not applicable.
+part ii
+item 5. market for the registrant's common equity and related stockholder matters:
+refer to page123 and the inside back cover of ibm's 2003 annual report to stockholders which are incorporated herein by reference solely as they relate to
+this item.
+ibm
+common stock is listed on the new york stock exchange, chicago stock exchange and pacific stock exchange. there were 673,607 common stockholders of record at february10,
+2004.
+item 6. selected financial data:
+refer to pages122 and 123 of ibm's 2003 annual report to stockholders which are incorporated herein by reference.
+item 7. management's discussion and analysis of financial condition and results of operations:
+refer to pages43 through 73 of ibm's 2003 annual report to stockholders which are incorporated herein by reference.
+item 7a. quantitative and qualitative disclosures about market risks:
+refer to the section titled "market risk" on page68 of ibm's 2003 annual report to stockholders which is incorporated herein by reference.
+item 8. financial statements and supplementary data:
+refer to pages42 and 74 through 121 of ibm's 2003 annual report to stockholders which are incorporated herein by reference. also refer to the financial
+statement schedule on pages-1 of this form.
+item 9. changes in and disagreements with accountants on accounting and financial disclosure:
+not applicable.
+item 9a. controls and procedures:
+the company's management evaluated, with the participation of the chief executive officer and chief financial officer, the effectiveness of the company's
+disclosure controls and procedures as of the end of the period covered by this report. based on that evaluation, the chief executive officer and chief financial officer have concluded that the
+company's disclosure controls and procedures were effective as of the end of the period covered by this report. there has been no change in the company's internal control over financial reporting that
+occurred during the fourth fiscal quarter that has materially affected, or is reasonably likely to material affect, the company's internal control over financial reporting.
+part iii
+item 10. directors and executive officers of the registrant:
+refer to pages5 through 7 of ibm's definitive proxy statement filed on or about march8, 2004, which are incorporated herein by reference. also
+refer to item 2 entitled "executive officers of the registrant" in parti of this form. also refer to the sections titled "committees of the board" and "audit committee" on pages 8 and 9 of
+ibm's definitive proxy statement filed on or about march8, 2004, and the section titled "section16(a) beneficial ownership reporting compliance" on page 10 of such proxy statement,
+which sections are incorporated herein by reference. ibm's website (www.ibm.com/investor/corporategovernance) contains ibm's business conduct guidelines (bcgs), which is the company's code of business
+conduct and ethics for its directors, executive officers and employees. any amendment to the bcgs that applies to the company's directors or executive officers will be disclosed on ibm's website, and
+any waiver of the bcgs for directors or executive officers may be made only by the ibm board of directors or a board committee and will be disclosed on ibm's website. the bcgs are available in print
+to any stockholder who requests them.
+item 11. executive compensation:
+refer to pages12 through 20 of ibm's definitive proxy statement filed on or about march8, 2004, which are incorporated herein by reference.
+item 12. security ownership of certain beneficial owners and management and related stockholder matters:
+refer to the section titled "ownership of securities" appearing on pages10 and 11 of ibm's definitive proxy statement filed on or about march8,
+2004, which is incorporated herein by reference. also refer to the section titled "equity compensation plan information" appearing on page24 of ibm's definitive proxy statement filed on or
+about march8, 2004, which is incorporated herein by reference.
+item 13. certain relationships and related transactions:
+refer to the section entitled "other relationships" appearing on page9 of ibm's definitive proxy statement filed on or about march8, 2004, which
+is incorporated herein by reference.
+item 14. principal accountant fees and services:
+refer to the section entitled "audit and non-audit fees" appearing on page21 of ibm's definitive proxy statement filed on or about
+march8, 2004, which is incorporated herein by reference.
+part iv
+item 15. exhibits, financial statement schedules, and reports on form8-k:
+(a)the
+following documents are filed as part of this report:
+1.financial
+statements from ibm's 2003 annual report to stockholders which are incorporated herein by reference:
+report
+of independent auditors (page42).
+consolidated
+statement of earnings for the years ended december31, 2003, 2002 and 2001 (page74).
+consolidated
+statement of financial position at december31, 2003 and 2002 (page75).
+consolidated
+statement of stockholders' equity at december31, 2003, 2002 and 2001 (pages76 through 78).
+consolidated
+statement of cash flows for the years ended december31, 2003, 2002 and 2001 (page79).
+notes
+to consolidated financial statements (pages80 through 121).
+2.financial
+statement schedules required to be filed by item 8 of this form:
+page
+schedule
+number
+report of independent auditors on financial statement schedule.
+report of independent auditors.
+s-1
+ii
+valuation and qualifying accounts and reserves.
+all
+other schedules are omitted as the required matter is not present, the amounts are not significant or the information is shown in the consolidated financial statements or the notes
+thereto.
+3.exhibits:
+included
+in this form10-k:
+by-laws of ibm as amended through march1, 2004
+computation of ratio of earnings from continuing operations to fixed charges and earnings from continuing operations to combined fixed charges and preferred stock dividends.
+ibm's 2003 annual report to stockholders, certain sections of which have been incorporated herein by reference.
+parents and subsidiaries.
+23.1
+consent of independent auditors.
+23.2
+consent of independent auditors.
+24.1
+powers of attorney.
+24.2
+certified resolutions of the ibm board of directors authorizing execution of this report by powers of attorney.
+31.1
+certification by ceo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002
+31.2
+certification by cfo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002
+32.1
+certification by ceo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002.
+32.2
+certification by cfo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of sarbanes-oxley act of 2002.
+not
+included in this form10-k:
+the certificate of incorporation of ibm is exhibit (3)(i) to form 8-k filed april 28, 1999, and is hereby incorporated by reference.
+the ibm 2001 long-term performance plan, a compensatory plan, is contained in registration statement no.333-87708 on forms-8, filed on may7, 2002, and is hereby incorporated by reference.
+the ibm 1999 long-term performance plan, a compensatory plan, is contained in registration statement no. 333-30424 on form s-8, filed on february 15, 2000, and is hereby incorporated by reference.
+the ibm 1997 long-term performance plan, a compensatory plan, is contained in registration statement no. 333-31305 on form s-8, filed on july 15, 1997, and is hereby incorporated by reference.
+the ibm pwcc acquisition long-term performance plan, a compensatory plan, is contained in registration statement no. 333-102872 on form s-8, filed on january 31, 2003, and is hereby incorporated by reference.
+board of directors compensatory plans, as described under "directors' compensation" on page10 of ibm's definitive proxy statement filed on or about march8, 2004, and is hereby incorporated by reference.
+ibm board of directors deferred compensation and equity award plan is exhibit x to form 10-k for the year ended december 31, 1996, and is hereby incorporated by reference.
+the ibm non-employee directors stock option plan is appendix b to ibm's definitive proxy statement dated march 14, 1995, and is hereby incorporated by reference.
+the ibm executive deferred compensation plan is contained in registration statement no.333-33692 as exhibit4 on forms-8, filed march31, 2000, and is hereby incorporated by reference.
+the ibm supplemental executive retention plan is exhibit vii to form 10-k for the year ended december 31, 1999, and is hereby incorporated by reference.
+the ibm extended tax deferred savings plan is exhibit x to form 10-k for the year ended december 31, 1994, and is hereby incorporated by reference.
+the ibm 2003 employees stock purchase plan, as set forth in appendix a of ibm's definitive proxy statement dated march 10, 2003, and is hereby incorporated by reference.
+the instruments defining the rights of the holders of the 7.50% debentures due 2013 are exhibits 4(a) through 4(l) to registration statement no. 33-49475(1) on form s-3, filed may 24, 1993, and are hereby incorporated by reference.
+the instruments defining the rights of holders of the 8.375% debentures due 2019 are exhibits 4(a)(b)(c) and (d) to registration statement 33-31732 on form s-3, filed on october 24, 1989, and are hereby incorporated by reference.
+the instruments defining the rights of holders of the 7.00% debentures due 2025 and the 7.00% debentures due 2045 are exhibit 2 and 3 to form 8-k, filed on october 30, 1995, and are hereby incorporated by reference.
+the instrument defining the rights of holders of the 7.125% debentures due 2096 is exhibit 2 to form 8-k/a, filed on december 6, 1996, and is hereby incorporated by reference.
+the instruments defining the rights of the holders of the 6.45% notes due 2007 and the 6.22% debentures due 2027 are exhibits 2 and 3 to form 8-k, filed on august 1, 1997, and is hereby incorporated by reference.
+the instruments defining the rights of the holders of the 6.50% debentures due 2028 is exhibit 2 to form 8-k, filed on january 8, 1998, and is hereby incorporated by reference.
+the instruments defining the rights of the holders of the 5.375% notes due 2009 is exhibit 2 to form 8-k, filed on january 29, 1999, and is hereby incorporated by reference.
+ibm's definitive proxy statement filed on or about march8, 2004, certain sections of which have been incorporated herein by reference.
+(b)reports
+on form8-k:
+the
+company filed form8-k on october15, 2003, with respect to the company's financial results for the periods ended september30, 2003, and included
+unaudited consolidated statement of earnings, consolidated statement of financial position and segment data for the periods ended september30, 2003. in addition, ibm's chief financial officer
+john r. joyce's third quarter earnings presentation to securities analysts on wednesday, october15, 2003, was filed as attachment ii and attachment iii of the form8-k.
+the
+company filed form8-k on october28, 2003, containing its press release announcing that joane. spero had been elected to the board, effective
+january1, 2004.
+signatures
+pursuant to the requirements of section13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+international business machines corporation (registrant)
+by:
+/s/samuel j. palmisano (samuel j. palmisano) chairman of the board,
+president and chief executive officer
+date: march8, 2004
+pursuant
+to the requirements of the securities exchange act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on
+the dates indicated.
+signature
+title
+date
+/s/john r. joyce (john r. joyce)
+senior vice president, chief financial officer
+march8, 2004
+/s/robert f. woods (robert f. woods)
+vice president and controller
+march8, 2004
+cathleen black
+kenneth i. chenault
+nannerl o. keohane
+charles f. knight
+lucio a. noto
+john b. slaughter
+joan e. spero
+sidney taurel
+alex trotman
+charles m. vest
+director
+director
+director
+director
+director
+director
+director
+director
+director
+director
+by:
+/s/ daniel e. o'donnell daniel e. o'donnell attorney-in-fact
+march8, 2004
+report of independent auditors on  financial statement schedule
+to
+the stockholders and board of directors of
+international business machines corporation:
+our
+audits of the consolidated financial statements referred to in our report dated january15, 2004 appearing on page 42 of the 2003 annual report to stockholders of
+international business machines corporation (which report and consolidated financial statements are incorporated by reference in this annual report on form10-k) also included an
+audit of the financial statement schedule listed in item 15(a)2 of this form10-k. in our opinion, this financial statement schedule presents fairly, in all material respects, the
+information set forth therein when read in conjunction with the related consolidated financial statements.
+/s/
+pricewaterhousecoopers llp
+pricewaterhousecoopers
+llp
+new york, new york
+january15, 2004
+report of independent auditors
+to
+the board of directors of
+international business machines corporation:
+we
+have audited the statement of assets and liabilities of the business consulting services reporting unit (the "reporting unit") (a reporting unit as defined in statement of financial
+accounting standards no.142), of international business machines corporation (the "company") as of december31, 2003 and the related statement of revenues and expenses (collectively,
+the "statements") for the three months then ended (not separately presented herein). these statements are the responsibility of the company's management. our responsibility is to express an opinion on
+these statements based on our audit.
+we
+conducted our audit in accordance with auditing standards generally accepted in the united states. those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the statements are free of material misstatement. an audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the statements. an audit also
+includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the statements. we believe that our audit provides a
+reasonable basis for our opinion.
+the
+statements were prepared for the purpose of complying with the rules and regulations of the securities and exchange commission (for use by the company in connection with its various
+filings with the commission). certain corporate assets, liabilities and corporate expenses, that are not the responsibility of the reporting unit, and which have not been allocated, have been excluded
+from the statements. accordingly, these statements are not intended to be a complete presentation of the financial position or results of operations of the reporting unit.
+in
+our opinion, the statements referred to above present fairly, in all material respects, the assets and liabilities and the revenues and expenses of the reporting unit as of
+december31, 2003 and for the three months then ended, in conformity with accounting principles generally accepted in the united states.
+/s/
+ernst& young llp
+ernst&
+young llp
+new york, new york
+january15, 2004
+schedule ii
+international business machines corporation and subsidiary companies  valuation and qualifying accounts and reserves  for the years ended december31:  (dollars in millions)
+description
+balance at
+beginning
+of period
+additions
+charged
+to costs
+and expenses
+write-offs
+other (a)
+balance at
+end of
+period
+allowance for doubtful accounts
+current
+$
+1,312
+$
+$
+$
+$
+1,100
+noncurrent
+$
+$
+$
+$
+$
+current
+$
+$
+$
+$
+$
+1,312
+noncurrent
+$
+$
+$
+$
+$
+current
+$
+$
+$
+$
+(25
+)
+$
+noncurrent
+$
+$
+$
+$
+(14
+)
+$
+allowance for inventory losses
+$
+$
+$
+$
+$
+$
+$
+$
+$
+(20
+)
+$
+$
+$
+$
+$
+$
+(a)primarily
+comprises currency translation adjustments.
+s-1
+exhibit index
+reference number per item 601 of regulation sk
+description of exhibits
+exhibit number
+in this
+form10-k
+(2)
+plan of acquisition, reorganization, arrangement, liquidation or succession
+not applicable
+(3)
+certificate of incorporation and by-laws
+the certificate of incorporation of ibm is exhibit (3)(i) to form 8-k filed april 28, 1999, and is hereby incorporated by reference
+the by-laws of ibm as amended through march1, 2004
+(4)
+instruments defining the rights of security holders
+the instruments defining the rights of the holders of the 7.50% debentures due 2013 are exhibits 4(a) through 4(l) to registration statement no. 33-49475(1) on form s-3, filed may 24, 1993, and are hereby incorporated by reference
+the instruments defining the rights of the holders of the 8.375% debentures due 2019 are exhibits 4(a)(b)(c) and (d) to registration statement no. 33-31732 on form s-3, filed on october 24, 1989, and are hereby incorporated by reference
+the instruments defining the rights of the holders of the 7.00% debentures due 2025 and the 7.00% debentures due 2045 are exhibits 2 and 3 to form 8-k, filed on october 30, 1995, and are hereby incorporated by reference
+the instrument defining the rights of the holders of the 7.125% debentures due 2096 is exhibit 2 to form 8-k/a, filed on december 6, 1996, and is hereby incorporated by reference
+the instruments defining the rights of the holders of the 6.45% notes due 2007 and the 6.22% debentures due 2027 are exhibit 2 and 3 to form 8-k, filed on august 1, 1997, and is hereby incorporated by reference
+the instrument defining the rights of the holders of the 6.50% debentures due 2028 is exhibit 2 to form 8-k, filed on january 8, 1998, and is hereby incorporated by reference
+the instrument defining the rights of the holders of the 5.375% notes due 2009 is exhibit 2 to form 8-k, filed on january 29, 1999, and is hereby incorporated by reference
+(9)
+voting trust agreement
+not applicable
+(10)
+material contracts
+the ibm 2001 long-term performance plan is contained in registration statement no. 333-87708 on form s-8, filed on may 7, 2002, and is hereby incorporated by reference*
+the ibm 1999 long-term performance plan is contained in registration statement no. 333-30424 on form s-8, filed on february15, 2000, and is hereby incorporated by reference*
+the ibm 1997 long-term performance plan is contained in registration statement no. 33-331305 on form s-8, filed on july 15, 1997, and is hereby incorporated by reference*
+the ibm pwcc acquisition long-term performance plan is contained in registration statement no. 333-102872 on form s-8, filed on january 31, 2003, and is hereby incorporated by reference*
+board of directors compensatory arrangements as described under "directors' compensation" on pages 9 and 10 of ibm's definitive proxy statement dated march 10, 2003, and is hereby incorporated by reference*
+the ibm supplemental executive retention plan is exhibit vii to form 10-k for the year ended december 31, 1999, and is hereby incorporated by reference*
+the ibm executive deferred compensation plan is contained in registration statement no. 333-33692 as exhibit 4 on form s-8, filed march 31, 2000, and is hereby incorporated by reference*
+the ibm board of directors deferred compensation and equity award plan is exhibit x to form 10-k for the year ended december31, 1996, and is hereby incorporated by reference*
+the ibm non-employee directors stock option plan is appendix b to ibm's definitive proxy statement dated march 14, 1995, and is hereby incorporated by reference*
+the ibm extended tax deferred savings plan is exhibit x to form 10-k for the year ended december 31, 1994, and is hereby incorporated by reference*
+the ibm 2003 employees stock purchase plan, set forth in appendix a of ibm's definitive proxy statement dated march 10, 2003, and is hereby incorporated by reference*
+(11)
+statement re computation of per share earnings
+the statement re computation of per share earnings is note t, "earnings per share of common stock" on page 108 of ibm's 2003 annual report to stockholders, and is hereby incorporated by reference
+(12)
+statement re computation of ratios
+(13)
+annual report to security holders
+(18)
+letter re change in accounting principles
+not applicable
+(19)
+previously unfiled documents
+not applicable
+(21)
+subsidiaries of the registrant
+(22)
+published report regarding matters submitted to vote of security holders
+not applicable
+(23.1)
+consent of experts
+23.1
+(23.2)
+consent of experts
+23.2
+(24.1)
+powers of attorney
+24.1
+(24.2)
+certified resolutions of the ibm board of directors authorizing execution of this report by powers of attorney
+24.2
+(28)
+information from reports furnished to state insurance regulatory authorities
+not applicable
+(31.1)
+certification by ceo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002
+31.1
+(31.2)
+certification by cfo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002
+31.2
+(32.1)
+certification by ceo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002.
+32.1
+(32.2)
+certification by cfo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002.
+32.2
+*management
+contract or compensatory plan or arrangement.
+quicklinks
+part i
+item 2. properties
+item 3. legal proceedings
+item 4. submission of matters to a vote of security holders
+part ii
+item 5. market for the registrant's common equity and related stockholder matters
+item 6. selected financial data
+item 7. management's discussion and analysis of financial condition and results of operations
+item 7a. quantitative and qualitative disclosures about market risks
+item 8. financial statements and supplementary data
+item 9. changes in and disagreements with accountants on accounting and financial disclosure
+item 9a. controls and procedures
+part iii
+item 10. directors and executive officers of the registrant
+item 11. executive compensation
+item 12. security ownership of certain beneficial owners and management and related stockholder matters
+item 13. certain relationships and related transactions
+item 14. principal accountant fees and services
+part iv
+item 15. exhibits, financial statement schedules, and reports on form 8-k
+signatures
+report of independent auditors on financial statement schedule
+report of independent auditors
+schedule ii
+international business machines corporation and subsidiary companies valuation and qualifying accounts and reserves for the years ended december 31: (dollars in millions)
+exhibit index
