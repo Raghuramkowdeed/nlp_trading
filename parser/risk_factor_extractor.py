@@ -1,3 +1,10 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep 12 05:48:48 2017
+
+@author: raghuramkowdeed
+"""
 from bs4 import BeautifulSoup as soup
 import numpy as np
 import os
@@ -5,64 +12,70 @@ import os
 def create_file(path):
     dir = os.path.dirname(path)
     if not os.path.exists(dir):
-        os.makedirs(dir)
-    
+       os.makedirs(dir)
+
     f = open(path, 'w')
     f.close()    
 
 
-def html_to_text(html_file, text_file):
-    create_file(text_file)
-    with open(html_file) as f:
-         data = f.read()
-    f.close()     
-    html = soup(data, 'html.parser')
-    st = html.get_text()
-    st_safe = st.encode('ascii','ignore')
-    st_safe = st_safe.split('\n')
-    
-    st_clean = []
-    
-    for s in st_safe:
-        this_s = s.strip() .lower() 
-        if not  this_s.isdigit():
-           if len(this_s) > 0 :
-             if this_s[0] != '\n':
-                   st_clean.append(  ( this_s ) + '\n' ) 
-                   
-    final_st = ''.join(st_clean)
-    
-    with open(text_file, 'w') as f:
-         f.write(final_st) 
-    f.close()
-    
-    
 
-    
-    
-    
-def extract_risk_factor_section(file_name) :
-    with open(file_name) as f:
-         data = f.read()
 
-    html = soup(data, 'html.parser')
 
-    risk_factors = []
-    flag = 0
-    for elem in html.find_all('p'):
-      if elem.parent.name == 'div':
-        if u'Item\xa01A.' in elem.text:
-            flag = 1
-        if flag:
-            #risk_factors.append(elem.text)
-            risk_factors.append(elem)
-        if '1B' in elem.text:
-            flag = 0
+
+def parse_mda(text, start=0):
+    debug = False
+    """
+        Return Values
+    """
+
+    mda = ""
+    end = 0
+
+    """
+        Parsing Rules
+    """
+
+    # Define start & end signal for parsing
+    item7_begins = [ '\nITEM 7.', '\nITEM 7 –','\nITEM 7:', '\nITEM 7 ', '\nITEM 7\n' ]
+    item7_ends   = [ '\nITEM 7A' ]
+    if start != 0:
+        item7_ends.append('\nITEM 7') # Case: ITEM 7A does not exist
+    item8_begins = [ '\nITEM 8'  ]
+
+    """
+        Parsing code section
+    """
+    text = text[start:]
+
+    # Get begin
+    for item7 in item7_begins:
+        begin = text.find(item7)
+        if debug:
+            print(item7,begin)
+        if begin != -1:
             break
 
-    content = ''
-    for rf in risk_factors:
-        content += rf
+    if begin != -1: # Begin found
+        for item7A in item7_ends:
+            end = text.find(item7A, begin+1)
+            if debug:
+                print(item7A,end)
+            if end != -1:
+                break
 
-#    return content
-    return rf
+        if end == -1: # ITEM 7A does not exist
+            for item8 in item8_begins:
+                end = text.find(item8, begin+1)
+                if debug:
+                    print(item8,end)
+                if end != -1:
+                    break
+
+        # Get MDA
+        if end > begin:
+            mda = text[begin:end].strip()
+        else:
+            end = 0
+
+    return mda, end    
+

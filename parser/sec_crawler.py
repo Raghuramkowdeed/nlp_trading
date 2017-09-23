@@ -10,7 +10,15 @@ import urllib2, os
 from bs4 import BeautifulSoup as BeautifulSoup
 import pandas as pd
 import numpy as np
-import datetime as dt
+#import datetime as dt
+#import requests
+import unicodedata
+import re
+import codecs
+
+from multiprocessing import Pool
+#from pathos.helpers import cpu_count
+#from pathos.pools import ProcessPool
 
 #for creating file with given path structure
 def create_file(path):
@@ -48,34 +56,8 @@ def html_to_text(html_file, text_file):
 
     
 # Step 1: Define funtions to download filings
-def get_10_k_links(ticker, begin_year):
 
-    base_url_part1 = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK="
-    base_url_part2 = "&type=&dateb=&owner=&start="
-    base_url_part3 = "&count=100&output=xml"
-    href = []
-    years = []
-    href_dict = {}
-       
-    for page_number in range(0,2000,100):
-    
-        base_url = base_url_part1 + ticker + base_url_part2 + str(page_number) + base_url_part3
-
-        sec_page = urllib2.urlopen(base_url)
-        sec_soup = BeautifulSoup(sec_page)
-        
-        filings = sec_soup.findAll('filing')
-        
-        for filing in filings:
-            report_year = int(filing.datefiled.get_text()[0:4])
-            if (filing.type.get_text() == "10-K") & (report_year < begin_year):
-
-                years.append(report_year)
-                href.append(filing.filinghref.get_text())
-                href_dict[report_year] =  filing.filinghref.get_text()  
-    return href_dict
-
-def get_10_k_links_2(cik_id, begin_year, end_year):
+def get_10_k_links(cik_id, begin_year, end_year):
 
     cik_id = '0000'+cik_id
     base_url_part1 = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK="+cik_id
@@ -91,7 +73,7 @@ def get_10_k_links_2(cik_id, begin_year, end_year):
 
 
     sec_page = urllib2.urlopen(base_url)
-    sec_soup = BeautifulSoup(sec_page)
+    sec_soup = BeautifulSoup(sec_page, "html.parser")
         
     filings = sec_soup.findAll('filing')
         
@@ -99,7 +81,8 @@ def get_10_k_links_2(cik_id, begin_year, end_year):
         filing_date = filing.datefiled.get_text()
         report_year = int(filing_date[0:4])
 
-        if (filing.type.get_text() == "10-K") & (report_year >= begin_year):
+        if (filing.type.get_text() == "10-K") :
+            if (report_year >= begin_year) and  (report_year <= end_year):
                 years.append(report_year)
                 href.append(filing.filinghref.get_text())
                 #href_dict[report_year] =  filing.filinghref.get_text()  
@@ -107,6 +90,39 @@ def get_10_k_links_2(cik_id, begin_year, end_year):
     return href_dict
 
 
+def process_text(text):
+        """
+            Preprocess Text
+        """
+        text = unicodedata.normalize("NFKD", text) # Normalize
+        text = '\n'.join(text.splitlines()) # Let python take care of unicode break lines
+
+        # Convert to upper
+        text = text.upper() # Convert to upper
+
+        # Take care of breaklines & whitespaces combinations due to beautifulsoup parsing
+        text = re.sub(r'[ ]+\n', '\n', text)
+        text = re.sub(r'\n[ ]+', '\n', text)
+        text = re.sub(r'\n+', '\n', text)
+
+        # To find MDA section, reformat item headers
+        text = text.replace('\n.\n','.\n') # Move Period to beginning
+
+        text = text.replace('\nI\nTEM','\nITEM')
+        text = text.replace('\nITEM\n','\nITEM ')
+        text = text.replace('\nITEM  ','\nITEM ')
+
+        text = text.replace(':\n','.\n')
+
+        # Math symbols for clearer looks
+        text = text.replace('$\n','$')
+        text = text.replace('\n%','%')
+
+        # Reformat
+        text = text.replace('\n','\n\n') # Reformat by additional breakline
+
+        return text
+    
 def download_report(url_dict, dir_path):
     
     
@@ -115,10 +131,10 @@ def download_report(url_dict, dir_path):
     target_file_type = '10-K'
     
     for year, report_url in url_dict.iteritems():
-        html_file_path = dir_path + 'HTML/'+ str(year)
+#        html_file_path = dir_path + 'HTML/'+ str(year)
         text_file_path = dir_path + 'TEXT/'+ str(year)
         report_page = urllib2.urlopen(report_url)
-        report_soup = BeautifulSoup(report_page)
+        report_soup = BeautifulSoup(report_page, "html.parser")
         
         xbrl_file = report_soup.findAll('tr')
         
@@ -128,36 +144,60 @@ def download_report(url_dict, dir_path):
                              
                     target_url = target_base_url + item.findAll('td')[2].find('a')['href']
                     
-
-                    create_file(html_file_path)
-
-                   
-                    xbrl_report = urllib2.urlopen(target_url)
-                    output = open(html_file_path,'wb')
-                    output.write(xbrl_report.read())
-                    output.close()
+                 
+                    r = urllib2.urlopen(target_url)
+                    soup = BeautifulSoup( r, "html.parser" )
+                    text = soup.get_text("\n") 
                     
-                    html_to_text(  html_file_path, text_file_path )
+                    text = process_text(text)
+                    create_file(text_file_path)
+                    
+                    with codecs.open(text_file_path,'w',encoding='utf-8') as fout:
+                        fout.write(text)
                     
             except:
                 pass
 def get_tickers_df():
-    df = pd.read_csv("./data/cik_ticker.csv",  sep= "|" )
+    df = pd.read_csv("./cik_ticker.csv",  sep= "|" )
     return df
 
 
+def download_10k_func(ticker, begin_year, end_year):
+    df = get_tickers_df()
+    x = df.loc[df['Ticker'] == ticker.upper(), ]
+    cik_id = str(x.iloc[0,0])
+    href_dict = get_10_k_links(cik_id, begin_year, end_year )
+    dir_path = './data/10-K/'+ticker.upper()+"/"
+    download_report(href_dict, dir_path)
             
+
 def get_10k_reports(tickers, begin_year, end_year):
     df = get_tickers_df()
-    for ticker in tickers :
+    
+    for ticker in tickers:
         x = df.loc[df['Ticker'] == ticker.upper(), ]
         cik_id = str(x.iloc[0,0])
-        href_dict = get_10_k_links_2(cik_id, begin_year, end_year )
+        href_dict = get_10_k_links(cik_id, begin_year, end_year )
         dir_path = './data/10-K/'+ticker.upper()+"/"
         download_report(href_dict, dir_path)
+    
+
+def get_10k_reports_parallel(tickers, begin_year, end_year):
+#    begin_year = 2010
+#    end_year = 2016
+    
+    def my_func(tic):
+       return get_10k_reports([tic], begin_year=2010, end_year=2015)
+ 
+
+    
+    #ncpus = cpu_count() if cpu_count() <= 8 else 8;
+    #pool = Pool( ncpus )
+    p = Pool(processes = 4)
+    result = p.map(my_func,tickers)
+    return result
 
                 
-
 def extract_10k_item_1a(text_file):
   
     with open(text_file) as f:

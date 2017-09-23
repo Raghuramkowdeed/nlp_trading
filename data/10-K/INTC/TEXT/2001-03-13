@@ -1,873 +1,2058 @@
-10-k
-a2040883z10-k.htm
-10-k
-prepared by merrill corporation www.edgaradvantage.com
-united states
-securities and exchange commission washington, d.c. 20549
-form 10-k
-(mark one)
-/x/
-annual report pursuant to section13 or 15(d) of the securities exchange act of 1934
-for the fiscal year ended december30, 2000,
-//
-transition report pursuant to section13 or 15(d) of the securities exchange act of 1934
-for the transition period fromto.
-commission file number 0-6217
-intel corporation (exact name of registrant as specified in its charter)
-delaware
-(state or other jurisdiction of
-incorporation or organization)
+
+
+10-K
+
+1
+
+A2040883Z10-K.HTM
+
+10-K
+
+PREPARED BY MERRILL CORPORATION WWW.EDGARADVANTAGE.COM
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+(MARK ONE)
+
+/X/
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED DECEMBER 30, 2000,
+
+/ /
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE TRANSITION PERIOD FROM      TO      .
+
+COMMISSION FILE NUMBER 0-6217
+
+INTEL CORPORATION
+
+(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+DELAWARE
+
+(STATE OR OTHER JURISDICTION OF
+
+INCORPORATION OR ORGANIZATION)
+
 94-1672743
-(i.r.s. employer
-identification no.)
-2200 mission college boulevard, santa clara, california, 95052-8119
-(address of principal executive offices, zip code)
-registrant's
-telephone number, including area code (408)765-8080
-securities
-registered pursuant to section12(b) of the act:
-title of each class
-name of each exchange on
-which registered
-none
-securities
-registered pursuant to section12(g) of the act:
-common
-stock, $0.001 par value
-indicate
-by check mark whether the registrant (1)has filed all reports required to be filed by section13 or 15(d) of the securities exchange act of 1934 during the
-preceding 12months (or for such shorter period that the registrant was required to file such reports), and (2)has been subject to such filing requirements for the past
-90days.yes/x/no//
-indicate
-by check mark if disclosure of delinquent filers pursuant to item 405 of regulations-k is not contained herein, and will not be contained, to the best of
-registrant's knowledge, in definitive proxy or information statements incorporated by reference in partiii of this form10-k or any amendment to this
-form10-k.//
-aggregate
-market value of voting stock held
-by non-affiliates of the registrant as of february23, 2001
-$194.2billion
-6,718million
-shares of common stock outstanding as of february23, 2001
-documents
-incorporated by reference
-(1)portions
-of annual report to stockholders for fiscal year ended december30, 2000parts i, ii and iv.
-(2)portions
-of the company's proxy statement relating to its 2001 annual meeting of stockholders, to be filed subsequentlypartiii
-part i **
-item 1. business
-industry
-intel corporation, the world's largest semiconductor chip maker, supplies the computing and communications industries with chips, boards, and systems building
-blocks that are integral to computers, servers, and networking and communications products. our products are offered at various levels of integration and are used by industry members to create
-advanced computing and communications systems. intel was incorporated in california in 1968 and reincorporated in delaware in 1989.
-products
-our major products include microprocessors, chipsets, flash memory products, networking and communications products, embedded processors and microcontrollers,
-and pc peripheral products. our component-level products consist of integrated circuits used to process information. integrated circuits are silicon chips, known as semiconductors, etched with
-interconnected electronic switches.
-our
-customers are:
-original
-equipment manufacturers (oems) who make computer systems, telecommunications and data communications equipment, and peripherals;
-pc
-and computing appliance users (including individual consumers, large and small businesses, and internet service providers) who buy intel's pc
-enhancement products, business communications products and networking products through retail and industrial distributors and resellers throughout the world;
-other
-manufacturers, including makers of a wide range of industrial and communications equipment; and
-businesses
-that are building or enhancing internet data centers or providing e-commerce services to their customers or clients.
-we
-are organized into five operating segments according to our various product lines: the intel architecture group, the wireless communications and computing group, the network
-communications group, the communications products group, and the new business group. each group has a vice president who reports directly to intel's chief executive officer. the intel architecture
-group is the only reportable operating segment for financial statement purposes. no other operating segment represents 10% or more of our revenues or operating profit. operating results of segments
-that are not individually reportable are included in the "all other" category for financial statement segment reporting purposes. the information regarding revenues and operating profit by reportable
-segments, and revenues from unaffiliated customers by geographic region, under the headings "operating segment and geographic information" on page 33 of our 2000 annual report to stockholders and
-"management's discussion and analysis of financial condition and results of operations" on pages 36 to 41 of the 2000 annual report is incorporated by reference.
-**page
-references to the 2000 annual report to stockholders under items1 and 2 in parti and items5, 6, 7, 7a and 8 in partii; and item14 in
-partiv relate to the bound, printed versions of the annual report, not to the electronic version appearing at the intel internet site (www.intc.com/intel/annual00/). however, all
-data referred to also appears in the electronic version.
-intel architecture group
-the intel architecture group (iag) develops platform solutions around our microprocessors and chipsets for all major computing segments worldwide, using a
-tiered branding approach. our strategy is to provide the best price for performance through a broad range of microprocessors, chipsets, boards and systems for end products in the desktop, mobile and
-server market segments.
-desktop and mobile platforms incorporate our microprocessor and chipset products in desktop computers,
-notebooks, entry-level servers and workstations, and internet appliances.
-server platform products are targeted for mid-range to high-end servers and
-workstations. servers are powerful systems, often with multiple microprocessors working together, that house large amounts of data, direct data traffic, and control central functions in local and wide
-area networks and on the internet. workstations offer higher performance than standard desktop pcs, especially in graphics processing and in the ability to carry out several tasks at the same time.
-iag
-products include processors and board- and system-level products based on the p6 micro-architecture (including the intel celeron, pentium  iii and pentium iii xeon processors) as well as the intel
-netburst micro-architecture with the release of the pentium 4 processor. we also provide core-logic chipsets for most of our microprocessor products, which
-improve ease of use for our oem customers, provide new capabilities and enable system performance to scale as the processor performance increases. in addition, to further enhance the acceptance and
-deployment of these products by our customers, we provide e-business enabling solutions.
-microprocessors.a microprocessor is the central processing unit of a computer system. it
-processes system data and controls other devices in the system, acting as the brains of the computer. one indicator of microprocessor performance is its clock speed, the rate at which its internal
-logic operates, which is measured in units of hertz, or cycles processed per second. one megahertz (mhz) equals one million cycles processed per second, and one gigahertz (ghz) equals one billion
-cycles processed per second. other indicators of chip performance are memory storage and access. the memory stored on a chip is measured in bytes, with 1,024 bytes equaling one kilobyte (kb),
-1.049million bytes equaling one megabyte (mb), and 1.074billion bytes equaling one gigabyte (gb). cache is a memory subsystem in which frequently used data is duplicated for quick
-access. a second level of cache (l2) located directly on the microprocessor, can also be used to further increase system performance.
-our
-developments in semiconductor design and manufacturing have made it possible to decrease the size of circuits etched into silicon, permitting a greater number of transistors to be
-used on each
-microprocessor die, and a greater number of microprocessors to be made from each silicon wafer. the result is smaller, faster microprocessors that consume less power and cost less to manufacture. the
-width of the individual transistors on a chip is measured in microns; one micron equals one millionth of a meter. in 2000, we finished converting substantially all of our microprocessor manufacturing
-to the 0.18-micron process technology, and in november we announced completion of the development of the 0.13-micron process technology. see the discussion of manufacturing
-process technologies under the heading "manufacturing, assembly and test" in parti, item 1 of this form10-k.
-in
-2000, we announced several new microprocessor products aimed at the various computing market segments ranging from value pcs (systems costing less than $1,000) to
-high-performance workstations and servers.
-value pcs.the intel celeron processor meets the core computing needs and affordability requirements common to many new
-pc users. during 2000, we introduced several higher speed versions of the celeron processor running at speeds ranging from 533 to 766 mhz. the 566 mhz and 600 mhz versions, introduced in
-march2000, were the first celeron processors to integrate internet
-streaming simd extensions, which help improve multimedia performance significantly over previous versions. in january2001, we introduced an 800-mhz version of the celeron
-processor, our first desktop value pc processor to include a 100-mhz system bus. this technology provides a wider communications path between the processor and the rest of the system,
-resulting in faster overall system performance.
-performance desktop pcs.the pentium iii processor is aimed at desktop
-pc users who need powerful performance for a variety of demanding applications and internet functions. this processor features an integrated l2 cache that runs at the full speed of the processor core.
-l2 cache, also known as advanced transfer cache, enables the performance of applications to scale with increasing clock frequencies. in march2000, we introduced the pentium  iii processor running at 1
-ghz. during 2000, we also introduced versions running at 850, 866 and 933 mhz.
-in
-november2000, we introduced the pentium 4 processor running at 1.5 and 1.4 ghz. at the end of 2000, this was our highest performance processor for the desktop pc segment.
-the pentium 4 processor is our first completely new desktop processor design since the p6 micro-architecture was introduced in 1995. the pentium 4 processor incorporates the intel netburst
-micro-architecture to deliver improved performance for video and audio, 3d graphics, and a variety of internet technologies, including streaming video, speech processing and other multimedia
-processing tasks.
-mobile pcs.we design our products for mobile pcs to provide notebook and laptop pc users with the performance they
-need while meeting the power consumption and size constraints of mobile pcs. as with our desktop products, mobile products are available at a variety of price/performance points which allows our oem
-customers to meet the demands of all notebook pc designs. these notebook designs include full size, thin and light and ultra-portable. in 2000, we introduced several mobile celeron processors ranging
-from 400 to 700 mhz, aimed at the value mobile pc market segment. in january2000, we introduced mobile pentium iii processors featuring
-intel speedstep technology running at 600 and 650 mhz. intel speedstep technology allows the processor to switch to a lower voltage and clock speed when the user is
-disconnected from an ac power source in order to extend the system's battery life; the chip resumes full speed when the user plugs back into an outlet or docking station. in june2000, we
-introduced two more pentium iii processors featuring intel speedstep technology, including one that consumes less than one watt of power on average. in
-september2000, we introduced 800- and 850-mhz versions of the mobile pentium iii processor, which use intel speedstep
-technology to drop power consumption down to as low as 1.35 volts.
-in
-january2001, we introduced the ultra low voltage mobile pentium iiiprocessor running at 500 mhz. designed for mobile
-pcs weighing less than 3 pounds and measuring one inch in height, it is the industry's first processor to operate at under 1 volt while consuming less than half a watt of power. at the same time, we
-announced the ultra low voltage mobile celeron processor running at 500 mhz. in february2001, we introduced the low voltage mobile pentium iii
-processor running at 700 mhz capable at operating at 1.1 volts while consuming less than 1 watt of power. the ultra low voltage processors are targeted for the sub-notebook market while
-the low voltage processors are targeted for the mini-notebook market, both in the ultra-portable design category.
-servers and workstations.in may2000, we announced new pentium  iii xeon processors for use in high-performance
-multiprocessing servers, which use between four and eight processors per system. the
-700-mhz processors were the first "large cache" pentium iii xeon processors built on our 0.18-micron manufacturing technology,
-and have either 1 or 2 mb of l2 cache on the die. the 2-mb version integrates 140million transistors on a single microprocessor die. in august2000, we introduced the
-industry's first ghz processor for servers and high-end workstations. oemsbegan offering systems featuring the pentium iii xeon
-processor running at 1 ghz in the third quarter of 2000, targeting the high-end workstation and front-end server segments. front-end or internet servers, featuring
-one or
-two processors, have become a common solution for companies conducting e-business over the internet.
-in
-february2001, we announced that the next generation of our 32-bit processor line for servers, formerly codenamed foster, will be branded intel
-xeon, dropping the pentium portion in the name. the intel xeon processor is based on the intel netburst micro-architecture. we expect to introduce products under the intel xeon name in 2001.
-we
-continued development of our next-generation 64-bit processor for high-end servers and workstations, the intel itanium processor.
-this microprocessor will expand the capabilities of the intel architecture to address the high-performance server and workstation market segments, while still running the software that
-currently operates on machines based on our 32-bit processors. a 64-bit microprocessor is more complex than a 32-bit microprocessor and requires a more complex
-system architecture, but it can handle twice as much data in each clock cycle. thus, a 64-bit processor enables most data-intensive applications, such as enterprise resource
-planning and intensive graphics modeling, to run much faster than they would on a 32-bit processor. in october2000, we hosted the exchange e-business summit, at which
-many oemsdemonstrated server systems based on a prototype version of the itanium processor. more than 400 applications are in development, and we have shipped thousands of prototype systems
-and processors since november1999. in 2000, we began to ship processors for systems used by information technology end users in pilot installations and we expect the release of production
-systems during 2001.
-also
-during 2000, we announced e-business enabling solutions designed to further enhance the acceptance and deployment of intel architecture-based systems. these services
-will be deployed through our intel solution centers and include hardware, software, lab testing equipment and engineering services that web integrators can use to validate and deploy comprehensive
-e-business solutions in conjunction with leading industry suppliers.
-chipsets.chipsets perform essential logic functions supporting the central processing unit,
-and extend the graphics, audio, video and other capabilities of many systems based on our processors. our chipsets are compatible with one or more of a variety of industry-accepted buses, such as the
-peripheral components interconnect (pci) local bus specification and the accelerated graphics port (agp) specification. a bus is a circuit that carries data between parts of the system, for example,
-between the processor and main memory.
-to
-help computer makers accelerate their products' time-to-market, we design, manufacture and sell chipsets for each computing market segment. in 2000, we
-introduced the intel 820e, 815 and 815e chipsets for pentium iii processor-based pcs, each with a new input/output controller hub
-delivering greater system performance and flexibility. we also introduced the intel 815em mobile chipset with integrated graphics for mobile pcs based on the pentium  iii and celeron processors, and the
-intel 850 chipset supporting the pentium 4 processor.
-in
-january2001, we introduced the intel 810e2 chipset for celeron processors, which enables pc makers to provide faster disk drive performance, more universal
-serial bus (usb) ports and surround sound audio in systems priced at less than $1,000.
-for
-workstation and server makers, we provide the intel 840 chipset, which supports the pentium iii xeon processor to
-enhance system features and capabilities allowing greater texturing, more fluid movements, and better display output in demanding workstations and servers. we also offer the profusion
-chipset, supporting up to eight pentiumiii xeon processors, designed to help oem customers build advanced multiprocessing servers.
-intel's customers demand alternatives in the area of memory architecture. in response to that demand intel chipsets currently support rambus dynamic random access memory (rdram) and
-synchronous dram (sdram). in the future intel expects to add support for double data rate dram (ddr) to its product line. intel has adopted rdram as the primary memory solution for its flagship
-desktop pentium 4 processors and is actively working with the industry to promote rdram as the highest performance desktop memory solution.
-board-level products.while many of our oem customers use our microprocessors as components in
-designing their own computer products, some use board-level products that we design and build as basic building blocks in their products. oemsmay buy at this level of integration to accelerate
-their time-to-market and direct their own investments to other areas of their product lines. we provide board-level products to give our oem customers flexibility, and
-board-level products based on our microprocessors are available for most computing market segments.
-sales and gross margin.during 2000 and 1999, sales of microprocessors and related board-level
-products, including chipsets, based on the p6 micro-architecture comprised a substantial majority of our consolidated net revenues and gross margin. for 1998, these products represented a majority of
-our consolidated net revenues and a substantial majority of gross margin. sales of pentium family processors, including pentium processors with mmx technology were rapidly
-declining but still a significant portion of our revenues and gross margin for 1998. in 2000, we initiated a program to replace motherboards that had a defective memory translator hub component that
-enabled sdram to work with the intel 820 chipset. the total impact on gross margin for this program was approximately $253million.
-wireless communications and computing group
-the wireless communications and computing group (wccg) provides a variety of component-level hardware and software used in digital cellular communications
-products and other applications using both low-power processing and flash memory. wccg products support handheld devices such as mobile phones, two-way pagers and personal
-digital assistants.
-flash memory.flash memory is a specialized type of memory component used to store user data
-and program code; it retains this information even when the power is off. our flash memory is used predominantly in mobile phones, but is also found in other products including mp3 music players,
-handheld pc organizers, handheld voice recorders and digital answering machines, in addition to industrial products such as network routers and communications systems. in may2000, we reached a
-significant milestone, shipping our billionth flash memory chip since the product's introduction in 1988.
-in
-april2000, we announced the intel 0.18-micron advanced+ boot block flash memory, our first flash memory product using our 0.18-micron
-manufacturing process. this fourth-generation boot block memory product includes next-generation advanced security features that minimize the risk of cloning and other types of fraud in
-digital mobile phones and internet appliances. in october2000, we announced the intel 1.8 volt wireless flash memory, with four times higher performance than previous flash
-products and low-voltage features that allow internet-enabled cellular phones to save up to 60% of their energy, thus extending battery life.
-embedded solutions for handheld devices.in august2000, we introduced the
-intel xscale micro-architecture, a new chip architecture designed to be used in a wide variety of advanced handheld devices, wireless internet devices and networking
-infrastructure applications. building on intel strongarm technology which we license from arm,ltd., the intel xscale micro-architecture offers low-power operation (as
-low as 1/10,000th of a watt) and fast clock speeds (approaching 1ghz), supplying the needs of a diverse set of internet client devices as well as networking and storage equipment. the
-low-power capabilities of the intel xscale micro-architecture are enhanced with our
-dynamic voltage management and intel media processing technology. dynamic voltage management allows developers to scale the clock frequency and voltage dynamically to adjust performance
-to application needs, while maintaining battery life. intel media processing technology is a co-processor engine that enables more power-efficient multimedia processing for internet
-applications.
-in
-december2000, we joined with analog devices,inc. to introduce the integrated micro signal architecture, which incorporates digital signal processor (dsp) and
-microcontroller features in a single platform. the architecture improves ease of programmability, performance and power consumption, and is optimized for processing modem, audio, video, image and
-voice signals in battery-powered communications applications.
-other wireless technologies.in september2000, we introduced a new platform
-architecture designed to accelerate the development of next-generation internet applications for wireless devices. the intel personal internet client architecture (pca) is a
-blueprint that defines specifications for building new wireless solutions capable of processing advanced internet applications such as those envisioned for internet-ready cell phones and other
-wireless handheld devices. this architecture allows parallel development of software and hardware, resulting in faster time-to-market for oems.
-in
-may2000, we announced that we would work with mitsubishi electric corporation to co-develop a cellular chipset for the third-generation (3g) wireless technology
-market, integrating high-speed internet access with more traditional phone functions. this relationship is part of a broader strategy to advance wireless technologies around the world. in
-2000, we announced the formation of two wireless competence centers, in tsukuba, japan and beijing, china. the mission of these centers is to promote development of wireless internet technology
-through cooperation with leading companies in the local cellular phone industries.
-network communications group
-the network communications group (ncg) provides component-level networking silicon building blocks for networking and communications systems. ncg delivers
-networking products to oemsbuilding communications systems for home and small and mid-sized businesses. ncg's products include network connectivity products including wireless
-products, network processors, high-speed adapters for internet access, and optical networking components. ncg also offers embedded microprocessors and microcontrollers for networking and
-communications as well as other applications.
-during
-2000, we continued to execute our strategy of acquiring companies with key technologies to extend and accelerate our product offerings in networking and communications. in
-march2000, we acquired ambient technologies,inc. ambient develops highly integrated digital subscriber line (dsl) silicon solutions and analog modems designed to bring
-high-speed internet access to home users and small businesses.
-also
-in march2000, we acquired giga a/s, headquartered in copenhagen, denmark. giga provides high-performance networking chips enabling the rapid development of
-the fiber-optic infrastructure necessary to support internet growth.
-in
-may2000, we acquired basis communications corporation, a maker of advanced semiconductors and other products for a range of network access systems such as switches linking
-local area networks to the internet.
-in
-august2000, we acquired trillium digital systemsinc., a supplier of communications software products, support and services that will help us accelerate our ability
-to offer networking and telecommunications customers a more complete platform-level solution.
-in january2001, we announced that we entered into a definitive agreement to acquire xircom, inc and in march we successfully completed the tender offer. xircom is a supplier
-of pc cards and other products used to connect mobile computing devices to corporate networks and the internet.
-in
-february2001, we announced that we entered into a definitive agreement to acquire privately held vxtelinc. for approximately $550million in a cash
-transaction. vxtel develops voice-over-packet products that deliver high-quality voice and data communications over next-generation optical networks.
-the completion of this acquisition is subject to regulatory review and normal closing conditions.
-networking connectivity products.in 2000, we continued to introduce enhanced versions of
-networking connectivity products. in january2000, we announced our new family of fast ethernet intel pro/100 s network security-enabled adapters, which are designed to produce
-higher performance and end-to-end security within the local area network (lan). all of the intel pro network connections feature the intel
-singledriver technology, which is designed to lower network support costs and complexity by providing a common set of software drivers for servers, desktops, network pcs and mobile
-clients. ethernet, fast ethernet and gigabit ethernet refer to a local network used to transfer information at 10, 100 and 1,000million bits per second, respectively. in june2000, we
-introduced the intel pro/1000 fserver adapter, which provides gigabit ethernet over fiber-optic cables, as well as the intel pro/1000 tserver adapter,
-delivering high-performance network connections over copper wiring. at the heart of these new gigabit ethernet products is the intel 82543gc gigabit ethernet controller, which
-includes integrated support for ethernet, fast ethernet and gigabit ethernet network connections in a single chip. this controller allows these technologies to interact seamlessly on the same network
-and provides a clear migration path from older ethernet networks to the next-generation gigabit ethernet networks.
-in
-june2000, we introduced wireless lan (wlan) solutions based on the institute of electrical and electronics engineers (ieee) 802.11b high-rate industry standard.
-we introduced the intel pro/wireless 2011 lan pc card, a credit-card-size product that can be inserted into a laptop, allowing secure, high-speed,
-reliable wireless network and internet transmissions to be sent and received. along with this product introduction, we introduced the intel pro/wireless 2011 lan access point, which
-functions as a wireless hub to the mobile pc cards, connecting the wired network and the wireless devices. these wireless devices are the first products resulting from the joint development agreement
-announced in february2000 between intel and symbol technologies,inc.
-we
-also introduced optical networking products in 2000. in june, we introduced seven optical networking chips for applications such as voice, lan and wide area network (wan) data
-traffic,
-storage area networks (sans) and virtual private networks (vpns). these new components are aimed at the telecommunications infrastructure, from the access point of the optical network to the network
-core, and include receiver chips, transmitter chips, chips that improve transmission quality, chips providing packet framing, multiplexer chips and channel-mapping chips.
-in
-august2000, we introduced the intel gigablade network accelerator. this device is designed to provide greater intelligence about the type of
-traffic that flows over an optical network, enabling service providers to offer enhanced services to their customers. server cards based on the intel gigablade network accelerator connect wans to
-metropolitan area networks (mans) and lans. by acting as a monitor on the optical fiber, the intel gigablade network accelerator is capable of viewing traffic flows and extracting data, which can then
-be processed by a wide range of standard applications running on the server, including billing, provisioning, hacker intrusion detection and asset deployment.
-network processors.our intel ixa architecture provides a flexible platform for the networking
-and communications industry to build faster, more intelligent networks using reprogrammable silicon. in may2000, we announced a new higher performance network processor based on our ixp1200
-product line. the new version is capable of processing 3million packets of data per second. the ixp1200 chips have the intel strongarm technology, allowing them to consume less than 5 watts of
-power. in november2000, we extended this line with the intel ixp225 dsl and ixp220 dsl network processors. the former combines voice and data in dsl-based internet
-access devices and gateways, while the latter brings network processing to data-only equipment, such as entry-level bridges and routers.
-embedded control products.our embedded control products include a range of components used to
-control functions in networking and communications applications, such as telecommunications, hubs, routers and wan systems. our embedded control chips are also used in laser printers, imaging, storage
-media, point-of-sale systems, industrial automation equipment, automotive systems and other applications.
-adding
-to our embedded product line offerings, in may2000, we introduced a range of higher speed pentium iii and celeron
-processors for applied computing applications, consisting of high-performance connected systems designed for networking and communications, and commercial and industrial market segments.
-in
-june2000, we introduced the first input/output (i/o) processor to offer an integrated 64-bit, 66-mhz pci-to-pci bridge,
-which doubles pci speed and bandwidth over previous generations. the intel 80303 i/o processor is our third-generation i/o processor, successor to the popular i960 rn i/o
-processor. the 80303 is optimized for data-intensive applications, such as sans, communications systems and networking line cards.
-other networking products.in january2000, we announced the intel pro/dsl
-3100 modem. this modem is based on two industry standards that allow access to the internet at speeds up to 150 times faster than the fastest analog modems.
-in
-april2000, we launched our first wireless anypoint home networking products, which allow several pcs or laptops in a home to share files, printers and a single
-simultaneous internet connection without wires.
-communications products group
-the communications products group provides system-level communications products directed at service providers running e-business data centers.
-these products include hubs, routers and switches for ethernet and fast ethernet networks, e-commerce infrastructure appliances and computer telephony components. computer telephony is a
-term used to encompass a wide variety of technologies and applications that use the information processing capabilities of a computer to add intelligence to telephone functions and to combine these
-functions with data processing.
-in
-february2000, we introduced the intel netstructure family of communications products and services designed to help businesses improve their
-e-commerce capabilities through faster online connections, security authentication and improved server response time. in may2000, we announced intel netstructure products that
-intelligently and more reliably control secure extensible markup language (xml)-based internet transactions for business-to-business e-commerce. in
-december2000, we announced that hewlett-packard would be the first major oem customer to adopt the intel netstructure product line. this announcement reflects a strategic transition that we
-announced in november2000, shifting the intel netstructure product line from a branded product strategy to an oem sales model.
-in
-april2000, we acquired picazo communications,inc., a computer telephony solutions provider. this acquisition provides us and our dialogic subsidiary with channel
-expertise and intellectual property to accelerate customer deployment of communications solutions based on ct media server software. ct media is a software platform for building advanced
-telecommunications servers that support
-communications applications such as ip telephony, network communications, integrated messaging, fax, contact management and other applications from different companies.
-in september2000, we announced key new technology building blocks for accessing web sites using speech commands. the new products have a voice portal capability that provides
-the first standardized platform for speech-enabled application development in the internet-based voice servers.
-in
-october2000, we acquired ziatech corporation. ziatech designs and markets a full range of intel architecture-based circuit boards, hardware platforms and development
-systems.
-new business group
-the new business group (nbg) focuses on nurturing and growing opportunities in new market segments, including businesses based on the internet and the pc. the
-group currently offers web hosting, e-commerce data center services and connected peripherals.
-in
-2000, intel online services,inc. opened seven data centers in the united states, europe, india, japan, korea and australia, offering web hosting and data center services.
-these services include facilities, servers and other services needed to help customers maintain and grow their e-business activities.
-also
-in 2000, nbg products included four new offerings in our intel pc camera series; the intel wireless series of pc peripherals, including an intel branded
-game pad, mouse, keyboard and base station; and innovative pc enhanced toys including the intel play computer sound morpher.
-in
-december2000, intel and excalibur technologies corporation formed a new company, convera corporation. we contributed our interactive media services division and cash to
-convera in exchange for a retained interest in the company. convera provides advanced technologies, products and services to digital content owners, allowing them to manage, enhance and securely
-distribute digital content over the internet, intranets, set-top boxes and wireless devices.
-manufacturing, assembly and test
-the majority of our wafer production, including microprocessor, flash memory and networking silicon fabrication, is conducted within the united states at our
-facilities in new mexico, oregon, arizona, california and massachusetts. a significant portion of our wafer production, primarily microprocessor and chipset fabrication, is conducted outside the
-united states at facilities in israel and ireland. for the fourth quarter of 2000, the israel and ireland facilities accounted for approximately 30% of our total wafer fabrication.
-as
-of year-end 2000, substantially all of our microprocessors were built using the 0.18-micron process technology. we are manufacturing wafers using the
-0.18-micron process technology in arizona, california, ireland, israel, new mexico and oregon. in november2000, we announced the completion of the development of the
-0.13-micron (130 nanometer) process technology. the 0.13-micron process technology features structures that are smaller than 1/1,000th the thickness of a human hair (0.18
-microns is 1/500th the thickness of a human hair). we expect to begin manufacturing our first product using 0.13-micron process technology in production volumes in the second half of 2001,
-enabling us to continue to deliver new generations of high-performance microprocessors. we believe that we were the first company to complete development of the 0.13-micron
-process technology and to demonstrate manufacturing readiness with complex integrated circuits.
-in
-2000, we announced that we would begin building high-volume 300mm (12-inch wafer) fabrication facilities. some of these facilities will begin production on
-0.13-micron process technology. the largest wafer size we currently use in wafer production is 200mm (8-inch wafer). we expect the larger 300mm wafer size to cut die
-manufacturing costs by more than 30%. we plan to start production using 300mm wafers in 2002.
-during
-the first quarter of 2000, we purchased a fabrication facility in colorado. during 2000, we made substantial retrofitting changes and process improvements at this facility,
-including equipment installations to manufacture flash memory. we expect to begin manufacturing at the colorado facility in the second quarter of 2001.
-we
-also manufacture microprocessor- and networking-related board-level products and systems at facilities in malaysia, oregon and washington. in addition, we manufacture board-level
-products in puerto rico; however, in january2001, we announced that we would phase out our manufacturing operations in puerto rico during the first half of 2001. based on an assessment across
-our worldwide
-board-level manufacturing facilities, we concluded that the operations in puerto rico were less cost competitive than our other operations.
-a
-substantial majority of our components assembly and testing, including assembly and testing for microprocessors, is performed at facilities in costa rica, malaysia and the
-philippines. we also perform components assembly and testing at a facility in china, and in august2000 announced plans to expand this facility.
-to
-augment capacity in the united states as well as internationally, we use subcontractors to perform assembly of certain products and wafer fabrication for certain components,
-primarily flash memory, chipsets, and networking and communications component products. we also use subcontractors for the manufacture of some board-level products and systems, and purchase certain
-communication networking products and pc peripherals from external vendors.
-in
-general, if we were unable to manufacture wafers or to assemble and test our products abroad, or if air transportation between our foreign facilities and the united states were
-disrupted, there could be a material adverse effect upon our operations. in addition to normal manufacturing, assembly and test risks, our operations outside the united states are subject to certain
-additional exposures, including currency controls and fluctuations; tariff, import and other restrictions and regulations; and
-political instability, such as unrest in israel. to date, we have not experienced significant difficulties related to these foreign business risks.
-manufacturing
-of integrated circuits is a complex process. normal manufacturing risks include errors and interruptions in the production process and defects in raw materials, as well
-as other risks, all of which can affect yields. a substantial decrease in yields would result in higher manufacturing costs and the possibility of not being able to produce sufficient volume to meet
-specific product demand.
-employees
-as of december30, 2000, we employed approximately 86,100 people worldwide.
-sales
-most of our products are sold or licensed through sales offices located near major concentrations of users throughout north america, europe,
-asia-pacific, japan and other parts of the world.
-we
-also use industrial and retail distributors and representatives to distribute our products both within and outside the united states. typically, distributors handle a wide variety
-of products, including those that compete with our products, and fill orders for many customers. most of our sales to distributors are made under agreements allowing for price protection on unsold
-merchandise and right of return on stipulated quantities of unsold merchandise. sales representatives generally do not offer directly competitive products but may carry complementary items
-manufactured by others. representatives do not maintain a product inventory; instead, their customers place orders directly with us or through distributors. we conducted business with more than 2,500
-customers worldwide in 2000, including customers of our acquired companies. compaq computer corporation and dell computer corporation each contributed approximately 13% to our total sales in 2000. a
-substantial majority of the sales to these two customers consisted of intel architecture group products. no other customer accounted for more than 10% of our total revenues. sales to our five largest
-customers accounted for approximately 42% of total revenues. the information regarding revenues and operating profit by reportable segments and revenues from unaffiliated customers by geographic
-region under the heading "operating segment and geographic information" on page 33 of our 2000 annual report to stockholders, is incorporated by reference.
-backlog
-our sales are made primarily pursuant to standard purchase orders for delivery of standard products. we have some agreements that give a customer the right to
-purchase a specific number of products during a specified time period. although not generally obligating the customer to purchase any particular number of such products, some of these agreements do
-contain billback clauses. under these clauses, customers who do not purchase the full volume agreed to are liable for billback on previous shipments up to the price appropriate for the quantity
-actually purchased. as a matter of industry practice, billback clauses are difficult to enforce. the quantity actually purchased by the customer, as well as the shipment schedules, are frequently
-revised during the agreement term to reflect changes in the customer's needs. in light of industry practice and experience, we do not believe that such agreements are meaningful for determining
-backlog amounts. we believe that only a small portion of our order backlog is noncancellable and that the dollar amount associated with the noncancellable portion is not material. therefore, we do not
-believe that backlog as of any particular date is indicative of future results.
-competition
-our goal is to be the preeminent building block supplier to the worldwide internet economy. our primary focus areas are the desktop and mobile platforms, the
-server platform, and networking and communications including wireless communications, as well as new business opportunities around the internet. in each of these market segments, we compete, to
-various degrees, on the basis of functionality, performance, quality, price and availability. we are engaged in a rapidly advancing field of technology in which our ability to compete depends upon our
-ability to improve our products and processes, develop new products to meet changing customer requirements and reduce costs. prices decline rapidly in the semiconductor industry as unit volumes grow,
-further competition develops and production experience is accumulated. many companies compete with us in the various computing, networking and communications market segments and are engaged in the
-same basic fields of activity, including research and development. both within and outside the united states, these competitors range in size from large multinational companies to smaller companies
-competing in specialized market segments.
-the
-intel architecture group operating segment supports the desktop, mobile and server platform initiatives. our strategy for the desktop, mobile and server platforms is to introduce
-ever-higher performance microprocessors and chipsets, developed for different market segments of the worldwide computing market, using a tiered branding approach. to further enhance the
-acceptance and deployment of these products by our customers, we also provide e-business enabling solutions. in line with our strategy, we seek to develop higher performance
-microprocessors based on the p6 micro-architecture specifically for each computing segment. we also plan to introduce higher performance versions of processors based on the intel netburst
-micro-architecture.
-our
-financial results are substantially dependent on sales of microprocessors by the intel architecture group. a number of competitors market software-compatible products intended to
-compete with intel architecture-based processors. we also face significant competition from companies offering rival microprocessor architectures. the celeron processor competes with existing and
-future products in the highly competitive value pc market segment. the pentium iii processor and the pentium 4 processor compete with existing and
-future products in the performance desktop and entry-level workstation market segment. competitive product offerings in the performance desktop market segment have recently increased. the
-pentiumiii xeon processor competes in the mid-range and high-end server and workstation market segments with established
-products based on rival architectures.
-many
-of our competitors are licensed to use our patents. furthermore, based on current case law, our competitors can design microprocessors that are compatible with our
-microprocessors and avoid our patent rights through the use of foundry services that have licenses with us. competitors' products may add features, increase performance or sell at lower prices. we
-cannot predict whether our products will continue to compete successfully with such existing rival architectures or whether new architectures will
-establish or gain market acceptance or provide increased competition with our products. future distortion of price maturity curves could occur if software-compatible products enter the market segment
-in significant volume or alternative architectures gain market acceptance.
-we
-plan to cultivate new businesses as well as continue to work with the computing industry to expand internet capabilities and product offerings, and develop compelling software
-applications that can take advantage of higher performance microprocessors and chipsets, increasing demand for intel's newer products in each computing market segment. we may continue to take various
-steps, including reducing microprocessor prices and offering rebates at such times as we deem appropriate, in order to increase acceptance of our latest technology and to remain competitive within
-each relevant market segment.
-in the networking and communications infrastructure area, our strategy is to deliver both system-level communications building blocks at various levels of integration and
-component-level silicon building blocks for networking and communications systems. we have made acquisitions and expect to make additional acquisitions to grow the networking and communications areas.
-the network communications silicon and network connectivity products from the network communications group face competition from both established and emerging companies. the competitors in these areas
-use aggressive product and acquisition plans in efforts to achieve leading-edge market positions. the communications products group operating segment supports initiatives to deliver the
-system-level communications products directed at service providers running e-business data centers. the communications products group focuses on selling its intel netstructure products to
-oem customers. the communications products group also provides component-level products for converged voice and data communications systems for the telecommunications industry. these products compete
-in the small and mid-sized enterprise market segments with established products and leading-edge internet communications systems and server products. we cannot predict whether
-our networking and communications products will continue to compete successfully with products from existing competitors or products from new entrants to these market segments.
-in
-the cellular wireless communications business, our strategy is to deliver feature-rich, enhanced flash memory products and high-speed processors for
-handheld wireless devices that require high performance and low power. in supplying these products, our wireless communications and computing group faces competition from established companies in the
-flash memory, applications processor and baseband chipset market segments.
-research and development
-our competitive position has developed to a large extent because of our emphasis on research and development. this emphasis has enabled us to deliver
-leading-edge technology and has permitted our customers to commit to the use of these new products in the development of their own products. our research and development activities are
-directed toward developing new products, hardware technologies and manufacturing processes, as well as improving existing products and lowering costs.
-a
-substantial majority of the design and development of components and other products is performed in the united states at our facilities in california, oregon, arizona and
-washington. outside the united states, we have product development facilities at various locations, including israel, denmark and malaysia. we also maintain research and development facilities
-dedicated to improving manufacturing processes in arizona, california and oregon.
-in
-2000, we shipped thousands of prototype processors based on the ia-64 architecture for high-end servers, under the itanium brand, and began to ship
-processors for systems used by information technology end users in pilot installations. we expect the release of production systems during 2001. the itanium processor is built on the
-0.18-micron process technology. during 2000, approximately half of our microprocessor research and development budget was spent on initiatives related to the server and workstation market
-segment.
-in
-addition to microprocessor and chipset research and development, we have research and development initiatives in wireless devices, networking and communications products, connected
-peripherals and other areas. these research and development initiatives include projects surrounding the intel xscale micro-architecture for wireless devices and the intel ixa architecture for
-networking and communications products. we have also acquired ongoing research and development activities in these areas with businesses acquired in 2000.
-our
-expenditures for research and development were $3,897million in fiscal year 2000, $3,111million in fiscal year 1999 and $2,509million in fiscal year 1998.
-these amounts exclude charges for purchased in-process research and development related to acquisitions of $109million for fiscal year 2000, $392million for fiscal year
-1999 and $165million for fiscal year 1998. at december2000, we had approximately 20,500 employees engaged in research and development. the success of our research and development
-activities is dependent upon competitive circumstances as well as our ability to bring new
-products to market in each computing market segment and in our other businesses in a timely and cost-effective manner.
-acquisitions and strategic investments
-during 2000, we acquired 16 businesses for more than $2.7billion, augmenting our capabilities in a number of strategic areas. the companies acquired
-included ambient, giga, picazo, basis, trillium and ziatech. these acquisitions are discussed under the "products" heading in parti, item 1 of this form10-k in connection
-with each related business group.
-under
-our intel capital program, we also make equity investments to further our strategic objectives and to support our key business initiatives in the areas of desktop and mobile
-platforms, server platforms, networking and communications, and internet services. we want to stimulate growth in computing, communications and the internet, and to grow the total information
-infrastructure, in order to create and expand markets for our products. this strategic investment program helps advance our overall mission of being a leading provider of key building blocks to the
-internet economy. while financial returns are not our primary goal, our strategic investment program seeks to invest in companies that can succeed and have an impact on their market segment. when the
-strategic objectives of an investment have been achieved, or if the investment diverges from our strategic objectives, we may decide to dispose of the investment. as of year-end 2000, our
-strategic equity portfolio was valued
-at approximately $3.7billion, including marketable investments at their market value and non-marketable investments at cost.
-intellectual property and licensing
-intellectual property rights that apply to our various products include patents, copyrights, trade secrets, trademarks and maskwork rights. intel has
-established an active program to protect its investment in technology by enforcing its intellectual property rights. we do not intend to license our intellectual property rights broadly unless we can
-obtain adequate consideration. we also refer to information appearing under the heading "competition" in parti, item 1 of this form10-k.
-we
-have filed and obtained a number of patents in the united states and abroad, and we have entered into patent cross-license agreements with many of our major competitors and other
-parties. while our
-intellectual property rights are important to our success, our business as a whole is not materially dependent upon any particular patent or license. we and other companies in the computer,
-telecommunications and related high-technology fields typically apply for and receive, in the aggregate, thousands of patents annually in the united states and other countries. in
-addition, because of the fast pace of innovation and product development, our products are often obsolete before the patents related to them expire. as a result, we believe that the duration of the
-applicable patents is adequate relative to the expected lives of our products.
-we
-protect many of our computer programs by copyrighting them. we have registered numerous copyrights with the united states copyright office. the ability to protect or copyright
-software in some foreign jurisdictions is not clear. however, it is our policy to require customers to obtain a software license contract before we provide them with certain computer programs. certain
-components contain embedded computer programs, and we have also obtained copyright protection for some of these programs. in addition, we have obtained protection for the maskworks for a number of our
-components under the chip protection act of 1984.
-we
-have obtained certain trademarks and trade names for our products to distinguish genuine intel products from our competitors' products, and we are currently engaged in a
-cooperative program with oemsto identify with the intel inside logo certain personal computers containing genuine intel microprocessors. we maintain certain details about our
-processes, products and strategies as trade secrets.
-like
-many companies in the semiconductor and other high-technology industries, we have from time to time been notified of claims that we may be infringing certain
-intellectual property rights of others. these claims have been referred to counsel, and they are in various stages of evaluation and negotiation. if it appears necessary or desirable, we may seek
-licenses for these intellectual property rights. we can give no assurance that licenses will be offered by all claimants, that the terms of any offered licenses will be acceptable to us or that in all
-cases the dispute will be resolved without litigation, which may be time consuming and expensive, and may result in injunctive relief or the payment of damages by us. we also refer to the information
-appearing under the heading "legal proceedings" in parti, item 3 of this form10-k.
-compliance with environmental regulations
-to our present knowledge, compliance with federal, state and local provisions enacted or adopted for protection of the environment has had no material effect
-upon our operations. reference is made to the information appearing under the heading "legal proceedings" in parti, item 3 of this form10-k.
-executive officers
-the following sets forth certain information with regard to executive officers of intel (ages are as of december30, 2000):
-craig
-r. barrett (age 61)has been a director of intel since 1992, chief executive officer since 1998 and president since 1997. prior to that, dr.barrett was chief
-operating officer from 1993 to 1998 and executive vice president from 1990 to 1997.
-andrew
-s. grove (age 64)has been a director of intel since 1974 and chairman of the board since 1997. dr.grove was chief executive officer from 1987 to 1998 and
-president from 1979 to 1997.
-gordon
-e. moore (age 71)has been a director of intel since 1968 and chairman emeritus of the board since 1997. prior to that, dr.moore was chairman of the board from
-1979 to 1997.
-leslie
-l. vadasz (age 64)has been a director of intel since 1988 and executive vice president and president, intel capital, since january2000. prior to that,
-mr.vadasz was senior vice president and director of corporate business development from 1991 to january2000.
-paul
-s. otellini (age 50)has been executive vice president and general manager, intel architecture group, since 1998. prior to that, mr.otellini was executive vice
-president and director, sales and marketing group, from 1996 to 1998, and senior vice president and director, sales and marketing group, from 1994 to 1996.
-gerhard
-h. parker (age 57)has been executive vice president and general manager, new business group, since 1998. prior to that, dr.parker was executive vice president
-and general manager, technology and manufacturing group, from 1996 to 1998, and senior vice president and general manager, technology and manufacturing group, from 1992 to 1996.
-andy
-d. bryant (age 50)has been executive vice president and chief financial and enterprise services officer since january2001, and senior vice president and chief
-financial and enterprise services officer from 1999 to january2001. prior to that, mr.bryant was senior vice president and chief financial officer for 1999 and vice president and chief
-financial officer from 1994 to 1999.
-sean
-m. maloney (age 44)has been executive vice president and director, sales and marketing group, since january2001, senior vice president and director, sales and
-marketing group, from 1999 to january2001, and vice president and director, sales and marketing group, from 1998 to 1999. prior to that, mr.maloney was vice president, sales, and
-general manager, asia-pacific operations, from 1995 to 1998.
-michael
-r. splinter (age 50)has been executive vice president and general manager, technology and manufacturing group, since january2001; senior vice president and
-general manager, technology and manufacturing group, from 1999 to january2001; and vice president and general manager, technology and manufacturing group, from 1998 to 1999. prior to that,
-mr.splinter was vice president and assistant general manager, technology and manufacturing group, from 1996 to 1998.
-albert
-y. c. yu (age 59)has been senior vice president and general manager, optoelectronics, since october2000. prior to that, mr.yu was senior vice president
-and general manager, microprocessor products group, from 1993 to october2000.
-f.
-thomas dunlap, jr. (age 49)has been senior vice president, general counsel and secretary since january2001 and vice president, general counsel and secretary from
-1987 to january2001.
-arvind
-sodhani (age 46)has been vice president and treasurer since 1990.
-item 2. properties
-at december30, 2000, we owned the major facilities described below:
-no. of
-bldgs.
-location
-total sq. ft.
-use
-united states
+
+(I.R.S. EMPLOYER
+
+IDENTIFICATION NO.)
+
+2200 MISSION COLLEGE BOULEVARD, SANTA CLARA, CALIFORNIA, 95052-8119
+
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES, ZIP CODE)
+
+REGISTRANT'S
+
+TELEPHONE NUMBER, INCLUDING AREA CODE (408) 765-8080
+
+SECURITIES
+
+REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT.
+
+TITLE OF EACH CLASS
+
+NAME OF EACH EXCHANGE ON
+
+WHICH REGISTERED
+
+NONE
+
+SECURITIES
+
+REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT.
+
+COMMON
+
+STOCK, $0.001 PAR VALUE
+
+INDICATE
+
+BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS REQUIRED TO BE FILED BY SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 DURING THE
+
+PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH FILING REQUIREMENTS FOR THE PAST
+
+90 DAYS. YES /X/  NO / /
+
+INDICATE
+
+BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO ITEM 405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO THE BEST OF
+
+REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION STATEMENTS INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY AMENDMENT TO THIS
+
+FORM 10-K. / /
+
+AGGREGATE
+
+MARKET VALUE OF VOTING STOCK HELD
+
+BY NON-AFFILIATES OF THE REGISTRANT AS OF FEBRUARY 23, 2001
+
+$194.2 BILLION
+
+6,718 MILLION
+
+SHARES OF COMMON STOCK OUTSTANDING AS OF FEBRUARY 23, 2001
+
+DOCUMENTS
+
+INCORPORATED BY REFERENCE
+
+(1)
+
+PORTIONS
+
+OF ANNUAL REPORT TO STOCKHOLDERS FOR FISCAL YEAR ENDED DECEMBER 30, 2000PARTS I, II AND IV.
+
+(2)
+
+PORTIONS
+
+OF THE COMPANY'S PROXY STATEMENT RELATING TO ITS 2001 ANNUAL MEETING OF STOCKHOLDERS, TO BE FILED SUBSEQUENTLYPART III
+
+PART I **
+
+ITEM 1. BUSINESS
+
+INDUSTRY
+
+INTEL CORPORATION, THE WORLD'S LARGEST SEMICONDUCTOR CHIP MAKER, SUPPLIES THE COMPUTING AND COMMUNICATIONS INDUSTRIES WITH CHIPS, BOARDS, AND SYSTEMS BUILDING
+
+BLOCKS THAT ARE INTEGRAL TO COMPUTERS, SERVERS, AND NETWORKING AND COMMUNICATIONS PRODUCTS. OUR PRODUCTS ARE OFFERED AT VARIOUS LEVELS OF INTEGRATION AND ARE USED BY INDUSTRY MEMBERS TO CREATE
+
+ADVANCED COMPUTING AND COMMUNICATIONS SYSTEMS. INTEL WAS INCORPORATED IN CALIFORNIA IN 1968 AND REINCORPORATED IN DELAWARE IN 1989.
+
+PRODUCTS
+
+OUR MAJOR PRODUCTS INCLUDE MICROPROCESSORS, CHIPSETS, FLASH MEMORY PRODUCTS, NETWORKING AND COMMUNICATIONS PRODUCTS, EMBEDDED PROCESSORS AND MICROCONTROLLERS,
+
+AND PC PERIPHERAL PRODUCTS. OUR COMPONENT-LEVEL PRODUCTS CONSIST OF INTEGRATED CIRCUITS USED TO PROCESS INFORMATION. INTEGRATED CIRCUITS ARE SILICON CHIPS, KNOWN AS SEMICONDUCTORS, ETCHED WITH
+
+INTERCONNECTED ELECTRONIC SWITCHES.
+
+OUR
+
+CUSTOMERS ARE.
+
+
+
+ORIGINAL
+
+EQUIPMENT MANUFACTURERS (OEMS) WHO MAKE COMPUTER SYSTEMS, TELECOMMUNICATIONS AND DATA COMMUNICATIONS EQUIPMENT, AND PERIPHERALS;
+
+
+
+PC
+
+AND COMPUTING APPLIANCE USERS (INCLUDING INDIVIDUAL CONSUMERS, LARGE AND SMALL BUSINESSES, AND INTERNET SERVICE PROVIDERS) WHO BUY INTEL'S PC
+
+ENHANCEMENT PRODUCTS, BUSINESS COMMUNICATIONS PRODUCTS AND NETWORKING PRODUCTS THROUGH RETAIL AND INDUSTRIAL DISTRIBUTORS AND RESELLERS THROUGHOUT THE WORLD;
+
+
+
+OTHER
+
+MANUFACTURERS, INCLUDING MAKERS OF A WIDE RANGE OF INDUSTRIAL AND COMMUNICATIONS EQUIPMENT; AND
+
+
+
+BUSINESSES
+
+THAT ARE BUILDING OR ENHANCING INTERNET DATA CENTERS OR PROVIDING E-COMMERCE SERVICES TO THEIR CUSTOMERS OR CLIENTS.
+
+WE
+
+ARE ORGANIZED INTO FIVE OPERATING SEGMENTS ACCORDING TO OUR VARIOUS PRODUCT LINES: THE INTEL ARCHITECTURE GROUP, THE WIRELESS COMMUNICATIONS AND COMPUTING GROUP, THE NETWORK
+
+COMMUNICATIONS GROUP, THE COMMUNICATIONS PRODUCTS GROUP, AND THE NEW BUSINESS GROUP. EACH GROUP HAS A VICE PRESIDENT WHO REPORTS DIRECTLY TO INTEL'S CHIEF EXECUTIVE OFFICER. THE INTEL ARCHITECTURE
+
+GROUP IS THE ONLY REPORTABLE OPERATING SEGMENT FOR FINANCIAL STATEMENT PURPOSES. NO OTHER OPERATING SEGMENT REPRESENTS 10% OR MORE OF OUR REVENUES OR OPERATING PROFIT. OPERATING RESULTS OF SEGMENTS
+
+THAT ARE NOT INDIVIDUALLY REPORTABLE ARE INCLUDED IN THE "ALL OTHER" CATEGORY FOR FINANCIAL STATEMENT SEGMENT REPORTING PURPOSES. THE INFORMATION REGARDING REVENUES AND OPERATING PROFIT BY REPORTABLE
+
+SEGMENTS, AND REVENUES FROM UNAFFILIATED CUSTOMERS BY GEOGRAPHIC REGION, UNDER THE HEADINGS "OPERATING SEGMENT AND GEOGRAPHIC INFORMATION" ON PAGE 33 OF OUR 2000 ANNUAL REPORT TO STOCKHOLDERS AND
+
+"MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS" ON PAGES 36 TO 41 OF THE 2000 ANNUAL REPORT IS INCORPORATED BY REFERENCE.
+
+**
+
+PAGE
+
+REFERENCES TO THE 2000 ANNUAL REPORT TO STOCKHOLDERS UNDER ITEMS 1 AND 2 IN PART I AND ITEMS 5, 6, 7, 7A AND 8 IN PART II; AND ITEM 14 IN
+
+PART IV RELATE TO THE BOUND, PRINTED VERSIONS OF THE ANNUAL REPORT, NOT TO THE ELECTRONIC VERSION APPEARING AT THE INTEL® INTERNET SITE (WWW.INTC.COM/INTEL/ANNUAL00/). HOWEVER, ALL
+
+DATA REFERRED TO ALSO APPEARS IN THE ELECTRONIC VERSION.
+
+1
+
+INTEL ARCHITECTURE GROUP
+
+THE INTEL ARCHITECTURE GROUP (IAG) DEVELOPS PLATFORM SOLUTIONS AROUND OUR MICROPROCESSORS AND CHIPSETS FOR ALL MAJOR COMPUTING SEGMENTS WORLDWIDE, USING A
+
+TIERED BRANDING APPROACH. OUR STRATEGY IS TO PROVIDE THE BEST PRICE FOR PERFORMANCE THROUGH A BROAD RANGE OF MICROPROCESSORS, CHIPSETS, BOARDS AND SYSTEMS FOR END PRODUCTS IN THE DESKTOP, MOBILE AND
+
+SERVER MARKET SEGMENTS.
+
+
+
+DESKTOP AND MOBILE
+
+PLATFORMS INCORPORATE OUR MICROPROCESSOR AND CHIPSET PRODUCTS IN DESKTOP COMPUTERS,
+
+NOTEBOOKS, ENTRY-LEVEL SERVERS AND WORKSTATIONS, AND INTERNET APPLIANCES.
+
+
+
+SERVER
+
+PLATFORM PRODUCTS ARE TARGETED FOR MID-RANGE TO HIGH-END SERVERS AND
+
+WORKSTATIONS. SERVERS ARE POWERFUL SYSTEMS, OFTEN WITH MULTIPLE MICROPROCESSORS WORKING TOGETHER, THAT HOUSE LARGE AMOUNTS OF DATA, DIRECT DATA TRAFFIC, AND CONTROL CENTRAL FUNCTIONS IN LOCAL AND WIDE
+
+AREA NETWORKS AND ON THE INTERNET. WORKSTATIONS OFFER HIGHER PERFORMANCE THAN STANDARD DESKTOP PCS, ESPECIALLY IN GRAPHICS PROCESSING AND IN THE ABILITY TO CARRY OUT SEVERAL TASKS AT THE SAME TIME.
+
+IAG
+
+PRODUCTS INCLUDE PROCESSORS AND BOARD- AND SYSTEM-LEVEL PRODUCTS BASED ON THE P6 MICRO-ARCHITECTURE (INCLUDING THE INTEL® CELERON, PENTIUM®
+
+III
+
+AND PENTIUM®
+
+III
+
+XEON PROCESSORS) AS WELL AS THE INTEL®
+
+NETBURST MICRO-ARCHITECTURE WITH THE RELEASE OF THE PENTIUM® 4 PROCESSOR. WE ALSO PROVIDE CORE-LOGIC CHIPSETS FOR MOST OF OUR MICROPROCESSOR PRODUCTS, WHICH
+
+IMPROVE EASE OF USE FOR OUR OEM CUSTOMERS, PROVIDE NEW CAPABILITIES AND ENABLE SYSTEM PERFORMANCE TO SCALE AS THE PROCESSOR PERFORMANCE INCREASES. IN ADDITION, TO FURTHER ENHANCE THE ACCEPTANCE AND
+
+DEPLOYMENT OF THESE PRODUCTS BY OUR CUSTOMERS, WE PROVIDE E-BUSINESS ENABLING SOLUTIONS.
+
+MICROPROCESSORS.
+
+A MICROPROCESSOR IS THE CENTRAL PROCESSING UNIT OF A COMPUTER SYSTEM. IT
+
+PROCESSES SYSTEM DATA AND CONTROLS OTHER DEVICES IN THE SYSTEM, ACTING AS THE BRAINS OF THE COMPUTER. ONE INDICATOR OF MICROPROCESSOR PERFORMANCE IS ITS CLOCK SPEED, THE RATE AT WHICH ITS INTERNAL
+
+LOGIC OPERATES, WHICH IS MEASURED IN UNITS OF HERTZ, OR CYCLES PROCESSED PER SECOND. ONE MEGAHERTZ (MHZ) EQUALS ONE MILLION CYCLES PROCESSED PER SECOND, AND ONE GIGAHERTZ (GHZ) EQUALS ONE BILLION
+
+CYCLES PROCESSED PER SECOND. OTHER INDICATORS OF CHIP PERFORMANCE ARE MEMORY STORAGE AND ACCESS. THE MEMORY STORED ON A CHIP IS MEASURED IN BYTES, WITH 1,024 BYTES EQUALING ONE KILOBYTE (KB),
+
+1.049 MILLION BYTES EQUALING ONE MEGABYTE (MB), AND 1.074 BILLION BYTES EQUALING ONE GIGABYTE (GB). CACHE IS A MEMORY SUBSYSTEM IN WHICH FREQUENTLY USED DATA IS DUPLICATED FOR QUICK
+
+ACCESS. A SECOND LEVEL OF CACHE (L2) LOCATED DIRECTLY ON THE MICROPROCESSOR, CAN ALSO BE USED TO FURTHER INCREASE SYSTEM PERFORMANCE.
+
+OUR
+
+DEVELOPMENTS IN SEMICONDUCTOR DESIGN AND MANUFACTURING HAVE MADE IT POSSIBLE TO DECREASE THE SIZE OF CIRCUITS ETCHED INTO SILICON, PERMITTING A GREATER NUMBER OF TRANSISTORS TO BE
+
+USED ON EACH
+
+MICROPROCESSOR DIE, AND A GREATER NUMBER OF MICROPROCESSORS TO BE MADE FROM EACH SILICON WAFER. THE RESULT IS SMALLER, FASTER MICROPROCESSORS THAT CONSUME LESS POWER AND COST LESS TO MANUFACTURE. THE
+
+WIDTH OF THE INDIVIDUAL TRANSISTORS ON A CHIP IS MEASURED IN MICRONS; ONE MICRON EQUALS ONE MILLIONTH OF A METER. IN 2000, WE FINISHED CONVERTING SUBSTANTIALLY ALL OF OUR MICROPROCESSOR MANUFACTURING
+
+TO THE 0.18-MICRON PROCESS TECHNOLOGY, AND IN NOVEMBER WE ANNOUNCED COMPLETION OF THE DEVELOPMENT OF THE 0.13-MICRON PROCESS TECHNOLOGY. SEE THE DISCUSSION OF MANUFACTURING
+
+PROCESS TECHNOLOGIES UNDER THE HEADING "MANUFACTURING, ASSEMBLY AND TEST" IN PART I, ITEM 1 OF THIS FORM 10-K.
+
+IN
+
+2000, WE ANNOUNCED SEVERAL NEW MICROPROCESSOR PRODUCTS AIMED AT THE VARIOUS COMPUTING MARKET SEGMENTS RANGING FROM VALUE PCS (SYSTEMS COSTING LESS THAN $1,000) TO
+
+HIGH-PERFORMANCE WORKSTATIONS AND SERVERS.
+
+VALUE PCS.
+
+THE INTEL CELERON PROCESSOR MEETS THE CORE COMPUTING NEEDS AND AFFORDABILITY REQUIREMENTS COMMON TO MANY NEW
+
+PC USERS. DURING 2000, WE INTRODUCED SEVERAL HIGHER SPEED VERSIONS OF THE CELERON PROCESSOR RUNNING AT SPEEDS RANGING FROM 533 TO 766 MHZ. THE 566 MHZ AND 600 MHZ VERSIONS, INTRODUCED IN
+
+MARCH 2000, WERE THE FIRST CELERON PROCESSORS TO INTEGRATE INTERNET
+
+2
+
+STREAMING SIMD EXTENSIONS, WHICH HELP IMPROVE MULTIMEDIA PERFORMANCE SIGNIFICANTLY OVER PREVIOUS VERSIONS. IN JANUARY 2001, WE INTRODUCED AN 800-MHZ VERSION OF THE CELERON
+
+PROCESSOR, OUR FIRST DESKTOP VALUE PC PROCESSOR TO INCLUDE A 100-MHZ SYSTEM BUS. THIS TECHNOLOGY PROVIDES A WIDER COMMUNICATIONS PATH BETWEEN THE PROCESSOR AND THE REST OF THE SYSTEM,
+
+RESULTING IN FASTER OVERALL SYSTEM PERFORMANCE.
+
+PERFORMANCE DESKTOP PCS.
+
+THE PENTIUM
+
+III
+
+PROCESSOR IS AIMED AT DESKTOP
+
+PC USERS WHO NEED POWERFUL PERFORMANCE FOR A VARIETY OF DEMANDING APPLICATIONS AND INTERNET FUNCTIONS. THIS PROCESSOR FEATURES AN INTEGRATED L2 CACHE THAT RUNS AT THE FULL SPEED OF THE PROCESSOR CORE.
+
+L2 CACHE, ALSO KNOWN AS ADVANCED TRANSFER CACHE, ENABLES THE PERFORMANCE OF APPLICATIONS TO SCALE WITH INCREASING CLOCK FREQUENCIES. IN MARCH 2000, WE INTRODUCED THE PENTIUM
+
+III
+
+PROCESSOR RUNNING AT 1
+
+GHZ. DURING 2000, WE ALSO INTRODUCED VERSIONS RUNNING AT 850, 866 AND 933 MHZ.
+
+IN
+
+NOVEMBER 2000, WE INTRODUCED THE PENTIUM 4 PROCESSOR RUNNING AT 1.5 AND 1.4 GHZ. AT THE END OF 2000, THIS WAS OUR HIGHEST PERFORMANCE PROCESSOR FOR THE DESKTOP PC SEGMENT.
+
+THE PENTIUM 4 PROCESSOR IS OUR FIRST COMPLETELY NEW DESKTOP PROCESSOR DESIGN SINCE THE P6 MICRO-ARCHITECTURE WAS INTRODUCED IN 1995. THE PENTIUM 4 PROCESSOR INCORPORATES THE INTEL NETBURST
+
+MICRO-ARCHITECTURE TO DELIVER IMPROVED PERFORMANCE FOR VIDEO AND AUDIO, 3D GRAPHICS, AND A VARIETY OF INTERNET TECHNOLOGIES, INCLUDING STREAMING VIDEO, SPEECH PROCESSING AND OTHER MULTIMEDIA
+
+PROCESSING TASKS.
+
+MOBILE PCS.
+
+WE DESIGN OUR PRODUCTS FOR MOBILE PCS TO PROVIDE NOTEBOOK AND LAPTOP PC USERS WITH THE PERFORMANCE THEY
+
+NEED WHILE MEETING THE POWER CONSUMPTION AND SIZE CONSTRAINTS OF MOBILE PCS. AS WITH OUR DESKTOP PRODUCTS, MOBILE PRODUCTS ARE AVAILABLE AT A VARIETY OF PRICE/PERFORMANCE POINTS WHICH ALLOWS OUR OEM
+
+CUSTOMERS TO MEET THE DEMANDS OF ALL NOTEBOOK PC DESIGNS. THESE NOTEBOOK DESIGNS INCLUDE FULL SIZE, THIN AND LIGHT AND ULTRA-PORTABLE. IN 2000, WE INTRODUCED SEVERAL MOBILE CELERON PROCESSORS RANGING
+
+FROM 400 TO 700 MHZ, AIMED AT THE VALUE MOBILE PC MARKET SEGMENT. IN JANUARY 2000, WE INTRODUCED MOBILE PENTIUM
+
+III
+
+PROCESSORS FEATURING
+
+INTEL® SPEEDSTEP TECHNOLOGY RUNNING AT 600 AND 650 MHZ. INTEL SPEEDSTEP TECHNOLOGY ALLOWS THE PROCESSOR TO SWITCH TO A LOWER VOLTAGE AND CLOCK SPEED WHEN THE USER IS
+
+DISCONNECTED FROM AN AC POWER SOURCE IN ORDER TO EXTEND THE SYSTEM'S BATTERY LIFE; THE CHIP RESUMES FULL SPEED WHEN THE USER PLUGS BACK INTO AN OUTLET OR DOCKING STATION. IN JUNE 2000, WE
+
+INTRODUCED TWO MORE PENTIUM
+
+III
+
+PROCESSORS FEATURING INTEL SPEEDSTEP TECHNOLOGY, INCLUDING ONE THAT CONSUMES LESS THAN ONE WATT OF POWER ON AVERAGE. IN
+
+SEPTEMBER 2000, WE INTRODUCED 800- AND 850-MHZ VERSIONS OF THE MOBILE PENTIUM
+
+III
+
+PROCESSOR, WHICH USE INTEL SPEEDSTEP
+
+TECHNOLOGY TO DROP POWER CONSUMPTION DOWN TO AS LOW AS 1.35 VOLTS.
+
+IN
+
+JANUARY 2001, WE INTRODUCED THE ULTRA LOW VOLTAGE MOBILE PENTIUM
+
+III
+
+PROCESSOR RUNNING AT 500 MHZ. DESIGNED FOR MOBILE
+
+PCS WEIGHING LESS THAN 3 POUNDS AND MEASURING ONE INCH IN HEIGHT, IT IS THE INDUSTRY'S FIRST PROCESSOR TO OPERATE AT UNDER 1 VOLT WHILE CONSUMING LESS THAN HALF A WATT OF POWER. AT THE SAME TIME, WE
+
+ANNOUNCED THE ULTRA LOW VOLTAGE MOBILE CELERON PROCESSOR RUNNING AT 500 MHZ. IN FEBRUARY 2001, WE INTRODUCED THE LOW VOLTAGE MOBILE PENTIUM
+
+III
+
+PROCESSOR RUNNING AT 700 MHZ CAPABLE AT OPERATING AT 1.1 VOLTS WHILE CONSUMING LESS THAN 1 WATT OF POWER. THE ULTRA LOW VOLTAGE PROCESSORS ARE TARGETED FOR THE SUB-NOTEBOOK MARKET WHILE
+
+THE LOW VOLTAGE PROCESSORS ARE TARGETED FOR THE MINI-NOTEBOOK MARKET, BOTH IN THE ULTRA-PORTABLE DESIGN CATEGORY.
+
+SERVERS AND WORKSTATIONS.
+
+IN MAY 2000, WE ANNOUNCED NEW PENTIUM
+
+III
+
+XEON PROCESSORS FOR USE IN HIGH-PERFORMANCE
+
+MULTIPROCESSING SERVERS, WHICH USE BETWEEN FOUR AND EIGHT PROCESSORS PER SYSTEM. THE
+
+700-MHZ PROCESSORS WERE THE FIRST "LARGE CACHE" PENTIUM
+
+III
+
+XEON PROCESSORS BUILT ON OUR 0.18-MICRON MANUFACTURING TECHNOLOGY,
+
+AND HAVE EITHER 1 OR 2 MB OF L2 CACHE ON THE DIE. THE 2-MB VERSION INTEGRATES 140 MILLION TRANSISTORS ON A SINGLE MICROPROCESSOR DIE. IN AUGUST 2000, WE INTRODUCED THE
+
+INDUSTRY'S FIRST GHZ PROCESSOR FOR SERVERS AND HIGH-END WORKSTATIONS. OEMS BEGAN OFFERING SYSTEMS FEATURING THE PENTIUM
+
+III
+
+XEON
+
+PROCESSOR RUNNING AT 1 GHZ IN THE THIRD QUARTER OF 2000, TARGETING THE HIGH-END WORKSTATION AND FRONT-END SERVER SEGMENTS. FRONT-END OR INTERNET SERVERS, FEATURING
+
+ONE OR
+
+3
+
+TWO PROCESSORS, HAVE BECOME A COMMON SOLUTION FOR COMPANIES CONDUCTING E-BUSINESS OVER THE INTERNET.
+
+IN
+
+FEBRUARY 2001, WE ANNOUNCED THAT THE NEXT GENERATION OF OUR 32-BIT PROCESSOR LINE FOR SERVERS, FORMERLY CODENAMED FOSTER, WILL BE BRANDED INTEL®
+
+XEON, DROPPING THE PENTIUM PORTION IN THE NAME. THE INTEL XEON PROCESSOR IS BASED ON THE INTEL NETBURST MICRO-ARCHITECTURE. WE EXPECT TO INTRODUCE PRODUCTS UNDER THE INTEL XEON NAME IN 2001.
+
+WE
+
+CONTINUED DEVELOPMENT OF OUR NEXT-GENERATION 64-BIT PROCESSOR FOR HIGH-END SERVERS AND WORKSTATIONS, THE INTEL ITANIUM PROCESSOR.
+
+THIS MICROPROCESSOR WILL EXPAND THE CAPABILITIES OF THE INTEL ARCHITECTURE TO ADDRESS THE HIGH-PERFORMANCE SERVER AND WORKSTATION MARKET SEGMENTS, WHILE STILL RUNNING THE SOFTWARE THAT
+
+CURRENTLY OPERATES ON MACHINES BASED ON OUR 32-BIT PROCESSORS. A 64-BIT MICROPROCESSOR IS MORE COMPLEX THAN A 32-BIT MICROPROCESSOR AND REQUIRES A MORE COMPLEX
+
+SYSTEM ARCHITECTURE, BUT IT CAN HANDLE TWICE AS MUCH DATA IN EACH CLOCK CYCLE. THUS, A 64-BIT PROCESSOR ENABLES MOST DATA-INTENSIVE APPLICATIONS, SUCH AS ENTERPRISE RESOURCE
+
+PLANNING AND INTENSIVE GRAPHICS MODELING, TO RUN MUCH FASTER THAN THEY WOULD ON A 32-BIT PROCESSOR. IN OCTOBER 2000, WE HOSTED THE EXCHANGE E-BUSINESS SUMMIT, AT WHICH
+
+MANY OEMS DEMONSTRATED SERVER SYSTEMS BASED ON A PROTOTYPE VERSION OF THE ITANIUM PROCESSOR. MORE THAN 400 APPLICATIONS ARE IN DEVELOPMENT, AND WE HAVE SHIPPED THOUSANDS OF PROTOTYPE SYSTEMS
+
+AND PROCESSORS SINCE NOVEMBER 1999. IN 2000, WE BEGAN TO SHIP PROCESSORS FOR SYSTEMS USED BY INFORMATION TECHNOLOGY END USERS IN PILOT INSTALLATIONS AND WE EXPECT THE RELEASE OF PRODUCTION
+
+SYSTEMS DURING 2001.
+
+ALSO
+
+DURING 2000, WE ANNOUNCED E-BUSINESS ENABLING SOLUTIONS DESIGNED TO FURTHER ENHANCE THE ACCEPTANCE AND DEPLOYMENT OF INTEL ARCHITECTURE-BASED SYSTEMS. THESE SERVICES
+
+WILL BE DEPLOYED THROUGH OUR INTEL SOLUTION CENTERS AND INCLUDE HARDWARE, SOFTWARE, LAB TESTING EQUIPMENT AND ENGINEERING SERVICES THAT WEB INTEGRATORS CAN USE TO VALIDATE AND DEPLOY COMPREHENSIVE
+
+E-BUSINESS SOLUTIONS IN CONJUNCTION WITH LEADING INDUSTRY SUPPLIERS.
+
+CHIPSETS.
+
+CHIPSETS PERFORM ESSENTIAL LOGIC FUNCTIONS SUPPORTING THE CENTRAL PROCESSING UNIT,
+
+AND EXTEND THE GRAPHICS, AUDIO, VIDEO AND OTHER CAPABILITIES OF MANY SYSTEMS BASED ON OUR PROCESSORS. OUR CHIPSETS ARE COMPATIBLE WITH ONE OR MORE OF A VARIETY OF INDUSTRY-ACCEPTED BUSES, SUCH AS THE
+
+PERIPHERAL COMPONENTS INTERCONNECT (PCI) LOCAL BUS SPECIFICATION AND THE ACCELERATED GRAPHICS PORT (AGP) SPECIFICATION. A BUS IS A CIRCUIT THAT CARRIES DATA BETWEEN PARTS OF THE SYSTEM, FOR EXAMPLE,
+
+BETWEEN THE PROCESSOR AND MAIN MEMORY.
+
+TO
+
+HELP COMPUTER MAKERS ACCELERATE THEIR PRODUCTS' TIME-TO-MARKET, WE DESIGN, MANUFACTURE AND SELL CHIPSETS FOR EACH COMPUTING MARKET SEGMENT. IN 2000, WE
+
+INTRODUCED THE INTEL® 820E, 815 AND 815E CHIPSETS FOR PENTIUM
+
+III
+
+PROCESSOR-BASED PCS, EACH WITH A NEW INPUT/OUTPUT CONTROLLER HUB
+
+DELIVERING GREATER SYSTEM PERFORMANCE AND FLEXIBILITY. WE ALSO INTRODUCED THE INTEL® 815EM MOBILE CHIPSET WITH INTEGRATED GRAPHICS FOR MOBILE PCS BASED ON THE PENTIUM
+
+III
+
+AND CELERON PROCESSORS, AND THE
+
+INTEL® 850 CHIPSET SUPPORTING THE PENTIUM 4 PROCESSOR.
+
+IN
+
+JANUARY 2001, WE INTRODUCED THE INTEL® 810E2 CHIPSET FOR CELERON PROCESSORS, WHICH ENABLES PC MAKERS TO PROVIDE FASTER DISK DRIVE PERFORMANCE, MORE UNIVERSAL
+
+SERIAL BUS (USB) PORTS AND SURROUND SOUND AUDIO IN SYSTEMS PRICED AT LESS THAN $1,000.
+
+FOR
+
+WORKSTATION AND SERVER MAKERS, WE PROVIDE THE INTEL® 840 CHIPSET, WHICH SUPPORTS THE PENTIUM
+
+III
+
+XEON PROCESSOR TO
+
+ENHANCE SYSTEM FEATURES AND CAPABILITIES ALLOWING GREATER TEXTURING, MORE FLUID MOVEMENTS, AND BETTER DISPLAY OUTPUT IN DEMANDING WORKSTATIONS AND SERVERS. WE ALSO OFFER THE PROFUSION
+
+CHIPSET, SUPPORTING UP TO EIGHT PENTIUM
+
+III
+
+XEON PROCESSORS, DESIGNED TO HELP OEM CUSTOMERS BUILD ADVANCED MULTIPROCESSING SERVERS.
+
+4
+
+INTEL'S CUSTOMERS DEMAND ALTERNATIVES IN THE AREA OF MEMORY ARCHITECTURE. IN RESPONSE TO THAT DEMAND INTEL CHIPSETS CURRENTLY SUPPORT RAMBUS DYNAMIC RANDOM ACCESS MEMORY (RDRAM) AND
+
+SYNCHRONOUS DRAM (SDRAM). IN THE FUTURE INTEL EXPECTS TO ADD SUPPORT FOR DOUBLE DATA RATE DRAM (DDR) TO ITS PRODUCT LINE. INTEL HAS ADOPTED RDRAM AS THE PRIMARY MEMORY SOLUTION FOR ITS FLAGSHIP
+
+DESKTOP PENTIUM 4 PROCESSORS AND IS ACTIVELY WORKING WITH THE INDUSTRY TO PROMOTE RDRAM AS THE HIGHEST PERFORMANCE DESKTOP MEMORY SOLUTION.
+
+BOARD-LEVEL PRODUCTS.
+
+WHILE MANY OF OUR OEM CUSTOMERS USE OUR MICROPROCESSORS AS COMPONENTS IN
+
+DESIGNING THEIR OWN COMPUTER PRODUCTS, SOME USE BOARD-LEVEL PRODUCTS THAT WE DESIGN AND BUILD AS BASIC BUILDING BLOCKS IN THEIR PRODUCTS. OEMS MAY BUY AT THIS LEVEL OF INTEGRATION TO ACCELERATE
+
+THEIR TIME-TO-MARKET AND DIRECT THEIR OWN INVESTMENTS TO OTHER AREAS OF THEIR PRODUCT LINES. WE PROVIDE BOARD-LEVEL PRODUCTS TO GIVE OUR OEM CUSTOMERS FLEXIBILITY, AND
+
+BOARD-LEVEL PRODUCTS BASED ON OUR MICROPROCESSORS ARE AVAILABLE FOR MOST COMPUTING MARKET SEGMENTS.
+
+SALES AND GROSS MARGIN.
+
+DURING 2000 AND 1999, SALES OF MICROPROCESSORS AND RELATED BOARD-LEVEL
+
+PRODUCTS, INCLUDING CHIPSETS, BASED ON THE P6 MICRO-ARCHITECTURE COMPRISED A SUBSTANTIAL MAJORITY OF OUR CONSOLIDATED NET REVENUES AND GROSS MARGIN. FOR 1998, THESE PRODUCTS REPRESENTED A MAJORITY OF
+
+OUR CONSOLIDATED NET REVENUES AND A SUBSTANTIAL MAJORITY OF GROSS MARGIN. SALES OF PENTIUM® FAMILY PROCESSORS, INCLUDING PENTIUM PROCESSORS WITH MMX TECHNOLOGY WERE RAPIDLY
+
+DECLINING BUT STILL A SIGNIFICANT PORTION OF OUR REVENUES AND GROSS MARGIN FOR 1998. IN 2000, WE INITIATED A PROGRAM TO REPLACE MOTHERBOARDS THAT HAD A DEFECTIVE MEMORY TRANSLATOR HUB COMPONENT THAT
+
+ENABLED SDRAM TO WORK WITH THE INTEL® 820 CHIPSET. THE TOTAL IMPACT ON GROSS MARGIN FOR THIS PROGRAM WAS APPROXIMATELY $253 MILLION.
+
+WIRELESS COMMUNICATIONS AND COMPUTING GROUP
+
+THE WIRELESS COMMUNICATIONS AND COMPUTING GROUP (WCCG) PROVIDES A VARIETY OF COMPONENT-LEVEL HARDWARE AND SOFTWARE USED IN DIGITAL CELLULAR COMMUNICATIONS
+
+PRODUCTS AND OTHER APPLICATIONS USING BOTH LOW-POWER PROCESSING AND FLASH MEMORY. WCCG PRODUCTS SUPPORT HANDHELD DEVICES SUCH AS MOBILE PHONES, TWO-WAY PAGERS AND PERSONAL
+
+DIGITAL ASSISTANTS.
+
+FLASH MEMORY.
+
+FLASH MEMORY IS A SPECIALIZED TYPE OF MEMORY COMPONENT USED TO STORE USER DATA
+
+AND PROGRAM CODE; IT RETAINS THIS INFORMATION EVEN WHEN THE POWER IS OFF. OUR FLASH MEMORY IS USED PREDOMINANTLY IN MOBILE PHONES, BUT IS ALSO FOUND IN OTHER PRODUCTS INCLUDING MP3 MUSIC PLAYERS,
+
+HANDHELD PC ORGANIZERS, HANDHELD VOICE RECORDERS AND DIGITAL ANSWERING MACHINES, IN ADDITION TO INDUSTRIAL PRODUCTS SUCH AS NETWORK ROUTERS AND COMMUNICATIONS SYSTEMS. IN MAY 2000, WE REACHED A
+
+SIGNIFICANT MILESTONE, SHIPPING OUR BILLIONTH FLASH MEMORY CHIP SINCE THE PRODUCT'S INTRODUCTION IN 1988.
+
+IN
+
+APRIL 2000, WE ANNOUNCED THE INTEL® 0.18-MICRON ADVANCED+ BOOT BLOCK FLASH MEMORY, OUR FIRST FLASH MEMORY PRODUCT USING OUR 0.18-MICRON
+
+MANUFACTURING PROCESS. THIS FOURTH-GENERATION BOOT BLOCK MEMORY PRODUCT INCLUDES NEXT-GENERATION ADVANCED SECURITY FEATURES THAT MINIMIZE THE RISK OF CLONING AND OTHER TYPES OF FRAUD IN
+
+DIGITAL MOBILE PHONES AND INTERNET APPLIANCES. IN OCTOBER 2000, WE ANNOUNCED THE INTEL® 1.8 VOLT WIRELESS FLASH MEMORY, WITH FOUR TIMES HIGHER PERFORMANCE THAN PREVIOUS FLASH
+
+PRODUCTS AND LOW-VOLTAGE FEATURES THAT ALLOW INTERNET-ENABLED CELLULAR PHONES TO SAVE UP TO 60% OF THEIR ENERGY, THUS EXTENDING BATTERY LIFE.
+
+EMBEDDED SOLUTIONS FOR HANDHELD DEVICES.
+
+IN AUGUST 2000, WE INTRODUCED THE
+
+INTEL® XSCALE MICRO-ARCHITECTURE, A NEW CHIP ARCHITECTURE DESIGNED TO BE USED IN A WIDE VARIETY OF ADVANCED HANDHELD DEVICES, WIRELESS INTERNET DEVICES AND NETWORKING
+
+INFRASTRUCTURE APPLICATIONS. BUILDING ON INTEL® STRONGARM TECHNOLOGY WHICH WE LICENSE FROM ARM, LTD., THE INTEL XSCALE MICRO-ARCHITECTURE OFFERS LOW-POWER OPERATION (AS
+
+LOW AS 1/10,000TH OF A WATT) AND FAST CLOCK SPEEDS (APPROACHING 1 GHZ), SUPPLYING THE NEEDS OF A DIVERSE SET OF INTERNET CLIENT DEVICES AS WELL AS NETWORKING AND STORAGE EQUIPMENT. THE
+
+LOW-POWER CAPABILITIES OF THE INTEL XSCALE MICRO-ARCHITECTURE ARE ENHANCED WITH OUR
+
+5
+
+DYNAMIC VOLTAGE MANAGEMENT AND INTEL® MEDIA PROCESSING TECHNOLOGY. DYNAMIC VOLTAGE MANAGEMENT ALLOWS DEVELOPERS TO SCALE THE CLOCK FREQUENCY AND VOLTAGE DYNAMICALLY TO ADJUST PERFORMANCE
+
+TO APPLICATION NEEDS, WHILE MAINTAINING BATTERY LIFE. INTEL MEDIA PROCESSING TECHNOLOGY IS A CO-PROCESSOR ENGINE THAT ENABLES MORE POWER-EFFICIENT MULTIMEDIA PROCESSING FOR INTERNET
+
+APPLICATIONS.
+
+IN
+
+DECEMBER 2000, WE JOINED WITH ANALOG DEVICES, INC. TO INTRODUCE THE INTEGRATED MICRO SIGNAL ARCHITECTURE, WHICH INCORPORATES DIGITAL SIGNAL PROCESSOR (DSP) AND
+
+MICROCONTROLLER FEATURES IN A SINGLE PLATFORM. THE ARCHITECTURE IMPROVES EASE OF PROGRAMMABILITY, PERFORMANCE AND POWER CONSUMPTION, AND IS OPTIMIZED FOR PROCESSING MODEM, AUDIO, VIDEO, IMAGE AND
+
+VOICE SIGNALS IN BATTERY-POWERED COMMUNICATIONS APPLICATIONS.
+
+OTHER WIRELESS TECHNOLOGIES.
+
+IN SEPTEMBER 2000, WE INTRODUCED A NEW PLATFORM
+
+ARCHITECTURE DESIGNED TO ACCELERATE THE DEVELOPMENT OF NEXT-GENERATION INTERNET APPLICATIONS FOR WIRELESS DEVICES. THE INTEL® PERSONAL INTERNET CLIENT ARCHITECTURE (PCA) IS A
+
+BLUEPRINT THAT DEFINES SPECIFICATIONS FOR BUILDING NEW WIRELESS SOLUTIONS CAPABLE OF PROCESSING ADVANCED INTERNET APPLICATIONS SUCH AS THOSE ENVISIONED FOR INTERNET-READY CELL PHONES AND OTHER
+
+WIRELESS HANDHELD DEVICES. THIS ARCHITECTURE ALLOWS PARALLEL DEVELOPMENT OF SOFTWARE AND HARDWARE, RESULTING IN FASTER TIME-TO-MARKET FOR OEMS.
+
+IN
+
+MAY 2000, WE ANNOUNCED THAT WE WOULD WORK WITH MITSUBISHI ELECTRIC CORPORATION TO CO-DEVELOP A CELLULAR CHIPSET FOR THE THIRD-GENERATION (3G) WIRELESS TECHNOLOGY
+
+MARKET, INTEGRATING HIGH-SPEED INTERNET ACCESS WITH MORE TRADITIONAL PHONE FUNCTIONS. THIS RELATIONSHIP IS PART OF A BROADER STRATEGY TO ADVANCE WIRELESS TECHNOLOGIES AROUND THE WORLD. IN
+
+2000, WE ANNOUNCED THE FORMATION OF TWO WIRELESS COMPETENCE CENTERS, IN TSUKUBA, JAPAN AND BEIJING, CHINA. THE MISSION OF THESE CENTERS IS TO PROMOTE DEVELOPMENT OF WIRELESS INTERNET TECHNOLOGY
+
+THROUGH COOPERATION WITH LEADING COMPANIES IN THE LOCAL CELLULAR PHONE INDUSTRIES.
+
+NETWORK COMMUNICATIONS GROUP
+
+THE NETWORK COMMUNICATIONS GROUP (NCG) PROVIDES COMPONENT-LEVEL NETWORKING SILICON BUILDING BLOCKS FOR NETWORKING AND COMMUNICATIONS SYSTEMS. NCG DELIVERS
+
+NETWORKING PRODUCTS TO OEMS BUILDING COMMUNICATIONS SYSTEMS FOR HOME AND SMALL AND MID-SIZED BUSINESSES. NCG'S PRODUCTS INCLUDE NETWORK CONNECTIVITY PRODUCTS INCLUDING WIRELESS
+
+PRODUCTS, NETWORK PROCESSORS, HIGH-SPEED ADAPTERS FOR INTERNET ACCESS, AND OPTICAL NETWORKING COMPONENTS. NCG ALSO OFFERS EMBEDDED MICROPROCESSORS AND MICROCONTROLLERS FOR NETWORKING AND
+
+COMMUNICATIONS AS WELL AS OTHER APPLICATIONS.
+
+DURING
+
+2000, WE CONTINUED TO EXECUTE OUR STRATEGY OF ACQUIRING COMPANIES WITH KEY TECHNOLOGIES TO EXTEND AND ACCELERATE OUR PRODUCT OFFERINGS IN NETWORKING AND COMMUNICATIONS. IN
+
+MARCH 2000, WE ACQUIRED AMBIENT TECHNOLOGIES, INC. AMBIENT DEVELOPS HIGHLY INTEGRATED DIGITAL SUBSCRIBER LINE (DSL) SILICON SOLUTIONS AND ANALOG MODEMS DESIGNED TO BRING
+
+HIGH-SPEED INTERNET ACCESS TO HOME USERS AND SMALL BUSINESSES.
+
+ALSO
+
+IN MARCH 2000, WE ACQUIRED GIGA A/S, HEADQUARTERED IN COPENHAGEN, DENMARK. GIGA PROVIDES HIGH-PERFORMANCE NETWORKING CHIPS ENABLING THE RAPID DEVELOPMENT OF
+
+THE FIBER-OPTIC INFRASTRUCTURE NECESSARY TO SUPPORT INTERNET GROWTH.
+
+IN
+
+MAY 2000, WE ACQUIRED BASIS COMMUNICATIONS CORPORATION, A MAKER OF ADVANCED SEMICONDUCTORS AND OTHER PRODUCTS FOR A RANGE OF NETWORK ACCESS SYSTEMS SUCH AS SWITCHES LINKING
+
+LOCAL AREA NETWORKS TO THE INTERNET.
+
+IN
+
+AUGUST 2000, WE ACQUIRED TRILLIUM DIGITAL SYSTEMS INC., A SUPPLIER OF COMMUNICATIONS SOFTWARE PRODUCTS, SUPPORT AND SERVICES THAT WILL HELP US ACCELERATE OUR ABILITY
+
+TO OFFER NETWORKING AND TELECOMMUNICATIONS CUSTOMERS A MORE COMPLETE PLATFORM-LEVEL SOLUTION.
+
+6
+
+IN JANUARY 2001, WE ANNOUNCED THAT WE ENTERED INTO A DEFINITIVE AGREEMENT TO ACQUIRE XIRCOM, INC AND IN MARCH WE SUCCESSFULLY COMPLETED THE TENDER OFFER. XIRCOM IS A SUPPLIER
+
+OF PC CARDS AND OTHER PRODUCTS USED TO CONNECT MOBILE COMPUTING DEVICES TO CORPORATE NETWORKS AND THE INTERNET.
+
+IN
+
+FEBRUARY 2001, WE ANNOUNCED THAT WE ENTERED INTO A DEFINITIVE AGREEMENT TO ACQUIRE PRIVATELY HELD VXTEL INC. FOR APPROXIMATELY $550 MILLION IN A CASH
+
+TRANSACTION. VXTEL DEVELOPS VOICE-OVER-PACKET PRODUCTS THAT DELIVER HIGH-QUALITY VOICE AND DATA COMMUNICATIONS OVER NEXT-GENERATION OPTICAL NETWORKS.
+
+THE COMPLETION OF THIS ACQUISITION IS SUBJECT TO REGULATORY REVIEW AND NORMAL CLOSING CONDITIONS.
+
+NETWORKING CONNECTIVITY PRODUCTS.
+
+IN 2000, WE CONTINUED TO INTRODUCE ENHANCED VERSIONS OF
+
+NETWORKING CONNECTIVITY PRODUCTS. IN JANUARY 2000, WE ANNOUNCED OUR NEW FAMILY OF FAST ETHERNET INTEL® PRO/100 S NETWORK SECURITY-ENABLED ADAPTERS, WHICH ARE DESIGNED TO PRODUCE
+
+HIGHER PERFORMANCE AND END-TO-END SECURITY WITHIN THE LOCAL AREA NETWORK (LAN). ALL OF THE INTEL PRO NETWORK CONNECTIONS FEATURE THE INTEL®
+
+SINGLEDRIVER TECHNOLOGY, WHICH IS DESIGNED TO LOWER NETWORK SUPPORT COSTS AND COMPLEXITY BY PROVIDING A COMMON SET OF SOFTWARE DRIVERS FOR SERVERS, DESKTOPS, NETWORK PCS AND MOBILE
+
+CLIENTS. ETHERNET, FAST ETHERNET AND GIGABIT ETHERNET REFER TO A LOCAL NETWORK USED TO TRANSFER INFORMATION AT 10, 100 AND 1,000 MILLION BITS PER SECOND, RESPECTIVELY. IN JUNE 2000, WE
+
+INTRODUCED THE INTEL® PRO/1000 F SERVER ADAPTER, WHICH PROVIDES GIGABIT ETHERNET OVER FIBER-OPTIC CABLES, AS WELL AS THE INTEL® PRO/1000 T SERVER ADAPTER,
+
+DELIVERING HIGH-PERFORMANCE NETWORK CONNECTIONS OVER COPPER WIRING. AT THE HEART OF THESE NEW GIGABIT ETHERNET PRODUCTS IS THE INTEL® 82543GC GIGABIT ETHERNET CONTROLLER, WHICH
+
+INCLUDES INTEGRATED SUPPORT FOR ETHERNET, FAST ETHERNET AND GIGABIT ETHERNET NETWORK CONNECTIONS IN A SINGLE CHIP. THIS CONTROLLER ALLOWS THESE TECHNOLOGIES TO INTERACT SEAMLESSLY ON THE SAME NETWORK
+
+AND PROVIDES A CLEAR MIGRATION PATH FROM OLDER ETHERNET NETWORKS TO THE NEXT-GENERATION GIGABIT ETHERNET NETWORKS.
+
+IN
+
+JUNE 2000, WE INTRODUCED WIRELESS LAN (WLAN) SOLUTIONS BASED ON THE INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEERS (IEEE) 802.11B HIGH-RATE INDUSTRY STANDARD.
+
+WE INTRODUCED THE INTEL® PRO/WIRELESS 2011 LAN PC CARD, A CREDIT-CARD-SIZE PRODUCT THAT CAN BE INSERTED INTO A LAPTOP, ALLOWING SECURE, HIGH-SPEED,
+
+RELIABLE WIRELESS NETWORK AND INTERNET TRANSMISSIONS TO BE SENT AND RECEIVED. ALONG WITH THIS PRODUCT INTRODUCTION, WE INTRODUCED THE INTEL® PRO/WIRELESS 2011 LAN ACCESS POINT, WHICH
+
+FUNCTIONS AS A WIRELESS HUB TO THE MOBILE PC CARDS, CONNECTING THE WIRED NETWORK AND THE WIRELESS DEVICES. THESE WIRELESS DEVICES ARE THE FIRST PRODUCTS RESULTING FROM THE JOINT DEVELOPMENT AGREEMENT
+
+ANNOUNCED IN FEBRUARY 2000 BETWEEN INTEL AND SYMBOL TECHNOLOGIES, INC.
+
+WE
+
+ALSO INTRODUCED OPTICAL NETWORKING PRODUCTS IN 2000. IN JUNE, WE INTRODUCED SEVEN OPTICAL NETWORKING CHIPS FOR APPLICATIONS SUCH AS VOICE, LAN AND WIDE AREA NETWORK (WAN) DATA
+
+TRAFFIC,
+
+STORAGE AREA NETWORKS (SANS) AND VIRTUAL PRIVATE NETWORKS (VPNS). THESE NEW COMPONENTS ARE AIMED AT THE TELECOMMUNICATIONS INFRASTRUCTURE, FROM THE ACCESS POINT OF THE OPTICAL NETWORK TO THE NETWORK
+
+CORE, AND INCLUDE RECEIVER CHIPS, TRANSMITTER CHIPS, CHIPS THAT IMPROVE TRANSMISSION QUALITY, CHIPS PROVIDING PACKET FRAMING, MULTIPLEXER CHIPS AND CHANNEL-MAPPING CHIPS.
+
+IN
+
+AUGUST 2000, WE INTRODUCED THE INTEL® GIGABLADE NETWORK ACCELERATOR. THIS DEVICE IS DESIGNED TO PROVIDE GREATER INTELLIGENCE ABOUT THE TYPE OF
+
+TRAFFIC THAT FLOWS OVER AN OPTICAL NETWORK, ENABLING SERVICE PROVIDERS TO OFFER ENHANCED SERVICES TO THEIR CUSTOMERS. SERVER CARDS BASED ON THE INTEL GIGABLADE NETWORK ACCELERATOR CONNECT WANS TO
+
+METROPOLITAN AREA NETWORKS (MANS) AND LANS. BY ACTING AS A MONITOR ON THE OPTICAL FIBER, THE INTEL GIGABLADE NETWORK ACCELERATOR IS CAPABLE OF VIEWING TRAFFIC FLOWS AND EXTRACTING DATA, WHICH CAN THEN
+
+BE PROCESSED BY A WIDE RANGE OF STANDARD APPLICATIONS RUNNING ON THE SERVER, INCLUDING BILLING, PROVISIONING, HACKER INTRUSION DETECTION AND ASSET DEPLOYMENT.
+
+NETWORK PROCESSORS.
+
+OUR INTEL IXA ARCHITECTURE PROVIDES A FLEXIBLE PLATFORM FOR THE NETWORKING
+
+AND COMMUNICATIONS INDUSTRY TO BUILD FASTER, MORE INTELLIGENT NETWORKS USING REPROGRAMMABLE SILICON. IN MAY 2000, WE ANNOUNCED A NEW HIGHER PERFORMANCE NETWORK PROCESSOR BASED ON OUR IXP1200
+
+PRODUCT LINE. THE NEW VERSION IS CAPABLE OF PROCESSING 3 MILLION PACKETS OF DATA PER SECOND. THE IXP1200 CHIPS HAVE THE INTEL STRONGARM TECHNOLOGY, ALLOWING THEM TO CONSUME LESS THAN 5 WATTS OF
+
+7
+
+POWER. IN NOVEMBER 2000, WE EXTENDED THIS LINE WITH THE INTEL® IXP225 DSL AND IXP220 DSL NETWORK PROCESSORS. THE FORMER COMBINES VOICE AND DATA IN DSL-BASED INTERNET
+
+ACCESS DEVICES AND GATEWAYS, WHILE THE LATTER BRINGS NETWORK PROCESSING TO DATA-ONLY EQUIPMENT, SUCH AS ENTRY-LEVEL BRIDGES AND ROUTERS.
+
+EMBEDDED CONTROL PRODUCTS.
+
+OUR EMBEDDED CONTROL PRODUCTS INCLUDE A RANGE OF COMPONENTS USED TO
+
+CONTROL FUNCTIONS IN NETWORKING AND COMMUNICATIONS APPLICATIONS, SUCH AS TELECOMMUNICATIONS, HUBS, ROUTERS AND WAN SYSTEMS. OUR EMBEDDED CONTROL CHIPS ARE ALSO USED IN LASER PRINTERS, IMAGING, STORAGE
+
+MEDIA, POINT-OF-SALE SYSTEMS, INDUSTRIAL AUTOMATION EQUIPMENT, AUTOMOTIVE SYSTEMS AND OTHER APPLICATIONS.
+
+ADDING
+
+TO OUR EMBEDDED PRODUCT LINE OFFERINGS, IN MAY 2000, WE INTRODUCED A RANGE OF HIGHER SPEED PENTIUM
+
+III
+
+AND CELERON
+
+PROCESSORS FOR APPLIED COMPUTING APPLICATIONS, CONSISTING OF HIGH-PERFORMANCE CONNECTED SYSTEMS DESIGNED FOR NETWORKING AND COMMUNICATIONS, AND COMMERCIAL AND INDUSTRIAL MARKET SEGMENTS.
+
+IN
+
+JUNE 2000, WE INTRODUCED THE FIRST INPUT/OUTPUT (I/O) PROCESSOR TO OFFER AN INTEGRATED 64-BIT, 66-MHZ PCI-TO-PCI BRIDGE,
+
+WHICH DOUBLES PCI SPEED AND BANDWIDTH OVER PREVIOUS GENERATIONS. THE INTEL® 80303 I/O PROCESSOR IS OUR THIRD-GENERATION I/O PROCESSOR, SUCCESSOR TO THE POPULAR I960® RN I/O
+
+PROCESSOR. THE 80303 IS OPTIMIZED FOR DATA-INTENSIVE APPLICATIONS, SUCH AS SANS, COMMUNICATIONS SYSTEMS AND NETWORKING LINE CARDS.
+
+OTHER NETWORKING PRODUCTS.
+
+IN JANUARY 2000, WE ANNOUNCED THE INTEL® PRO/DSL
+
+3100 MODEM. THIS MODEM IS BASED ON TWO INDUSTRY STANDARDS THAT ALLOW ACCESS TO THE INTERNET AT SPEEDS UP TO 150 TIMES FASTER THAN THE FASTEST ANALOG MODEMS.
+
+IN
+
+APRIL 2000, WE LAUNCHED OUR FIRST WIRELESS ANYPOINT HOME NETWORKING PRODUCTS, WHICH ALLOW SEVERAL PCS OR LAPTOPS IN A HOME TO SHARE FILES, PRINTERS AND A SINGLE
+
+SIMULTANEOUS INTERNET CONNECTION WITHOUT WIRES.
+
+COMMUNICATIONS PRODUCTS GROUP
+
+THE COMMUNICATIONS PRODUCTS GROUP PROVIDES SYSTEM-LEVEL COMMUNICATIONS PRODUCTS DIRECTED AT SERVICE PROVIDERS RUNNING E-BUSINESS DATA CENTERS.
+
+THESE PRODUCTS INCLUDE HUBS, ROUTERS AND SWITCHES FOR ETHERNET AND FAST ETHERNET NETWORKS, E-COMMERCE INFRASTRUCTURE APPLIANCES AND COMPUTER TELEPHONY COMPONENTS. COMPUTER TELEPHONY IS A
+
+TERM USED TO ENCOMPASS A WIDE VARIETY OF TECHNOLOGIES AND APPLICATIONS THAT USE THE INFORMATION PROCESSING CAPABILITIES OF A COMPUTER TO ADD INTELLIGENCE TO TELEPHONE FUNCTIONS AND TO COMBINE THESE
+
+FUNCTIONS WITH DATA PROCESSING.
+
+IN
+
+FEBRUARY 2000, WE INTRODUCED THE INTEL® NETSTRUCTURE FAMILY OF COMMUNICATIONS PRODUCTS AND SERVICES DESIGNED TO HELP BUSINESSES IMPROVE THEIR
+
+E-COMMERCE CAPABILITIES THROUGH FASTER ONLINE CONNECTIONS, SECURITY AUTHENTICATION AND IMPROVED SERVER RESPONSE TIME. IN MAY 2000, WE ANNOUNCED INTEL NETSTRUCTURE PRODUCTS THAT
+
+INTELLIGENTLY AND MORE RELIABLY CONTROL SECURE EXTENSIBLE MARKUP LANGUAGE (XML)-BASED INTERNET TRANSACTIONS FOR BUSINESS-TO-BUSINESS E-COMMERCE. IN
+
+DECEMBER 2000, WE ANNOUNCED THAT HEWLETT-PACKARD WOULD BE THE FIRST MAJOR OEM CUSTOMER TO ADOPT THE INTEL NETSTRUCTURE PRODUCT LINE. THIS ANNOUNCEMENT REFLECTS A STRATEGIC TRANSITION THAT WE
+
+ANNOUNCED IN NOVEMBER 2000, SHIFTING THE INTEL NETSTRUCTURE PRODUCT LINE FROM A BRANDED PRODUCT STRATEGY TO AN OEM SALES MODEL.
+
+IN
+
+APRIL 2000, WE ACQUIRED PICAZO COMMUNICATIONS, INC., A COMPUTER TELEPHONY SOLUTIONS PROVIDER. THIS ACQUISITION PROVIDES US AND OUR DIALOGIC SUBSIDIARY WITH CHANNEL
+
+EXPERTISE AND INTELLECTUAL PROPERTY TO ACCELERATE CUSTOMER DEPLOYMENT OF COMMUNICATIONS SOLUTIONS BASED ON CT MEDIA SERVER SOFTWARE. CT MEDIA IS A SOFTWARE PLATFORM FOR BUILDING ADVANCED
+
+TELECOMMUNICATIONS SERVERS THAT SUPPORT
+
+COMMUNICATIONS APPLICATIONS SUCH AS IP TELEPHONY, NETWORK COMMUNICATIONS, INTEGRATED MESSAGING, FAX, CONTACT MANAGEMENT AND OTHER APPLICATIONS FROM DIFFERENT COMPANIES.
+
+8
+
+IN SEPTEMBER 2000, WE ANNOUNCED KEY NEW TECHNOLOGY BUILDING BLOCKS FOR ACCESSING WEB SITES USING SPEECH COMMANDS. THE NEW PRODUCTS HAVE A VOICE PORTAL CAPABILITY THAT PROVIDES
+
+THE FIRST STANDARDIZED PLATFORM FOR SPEECH-ENABLED APPLICATION DEVELOPMENT IN THE INTERNET-BASED VOICE SERVERS.
+
+IN
+
+OCTOBER 2000, WE ACQUIRED ZIATECH CORPORATION. ZIATECH DESIGNS AND MARKETS A FULL RANGE OF INTEL ARCHITECTURE-BASED CIRCUIT BOARDS, HARDWARE PLATFORMS AND DEVELOPMENT
+
+SYSTEMS.
+
+NEW BUSINESS GROUP
+
+THE NEW BUSINESS GROUP (NBG) FOCUSES ON NURTURING AND GROWING OPPORTUNITIES IN NEW MARKET SEGMENTS, INCLUDING BUSINESSES BASED ON THE INTERNET AND THE PC. THE
+
+GROUP CURRENTLY OFFERS WEB HOSTING, E-COMMERCE DATA CENTER SERVICES AND CONNECTED PERIPHERALS.
+
+IN
+
+2000, INTEL ONLINE SERVICES, INC. OPENED SEVEN DATA CENTERS IN THE UNITED STATES, EUROPE, INDIA, JAPAN, KOREA AND AUSTRALIA, OFFERING WEB HOSTING AND DATA CENTER SERVICES.
+
+THESE SERVICES INCLUDE FACILITIES, SERVERS AND OTHER SERVICES NEEDED TO HELP CUSTOMERS MAINTAIN AND GROW THEIR E-BUSINESS ACTIVITIES.
+
+ALSO
+
+IN 2000, NBG PRODUCTS INCLUDED FOUR NEW OFFERINGS IN OUR INTEL® PC CAMERA SERIES; THE INTEL® WIRELESS SERIES OF PC PERIPHERALS, INCLUDING AN INTEL BRANDED
+
+GAME PAD, MOUSE, KEYBOARD AND BASE STATION; AND INNOVATIVE PC ENHANCED TOYS INCLUDING THE INTEL® PLAY COMPUTER SOUND MORPHER.
+
+IN
+
+DECEMBER 2000, INTEL AND EXCALIBUR TECHNOLOGIES CORPORATION FORMED A NEW COMPANY, CONVERA CORPORATION. WE CONTRIBUTED OUR INTERACTIVE MEDIA SERVICES DIVISION AND CASH TO
+
+CONVERA IN EXCHANGE FOR A RETAINED INTEREST IN THE COMPANY. CONVERA PROVIDES ADVANCED TECHNOLOGIES, PRODUCTS AND SERVICES TO DIGITAL CONTENT OWNERS, ALLOWING THEM TO MANAGE, ENHANCE AND SECURELY
+
+DISTRIBUTE DIGITAL CONTENT OVER THE INTERNET, INTRANETS, SET-TOP BOXES AND WIRELESS DEVICES.
+
+9
+
+MANUFACTURING, ASSEMBLY AND TEST
+
+THE MAJORITY OF OUR WAFER PRODUCTION, INCLUDING MICROPROCESSOR, FLASH MEMORY AND NETWORKING SILICON FABRICATION, IS CONDUCTED WITHIN THE UNITED STATES AT OUR
+
+FACILITIES IN NEW MEXICO, OREGON, ARIZONA, CALIFORNIA AND MASSACHUSETTS. A SIGNIFICANT PORTION OF OUR WAFER PRODUCTION, PRIMARILY MICROPROCESSOR AND CHIPSET FABRICATION, IS CONDUCTED OUTSIDE THE
+
+UNITED STATES AT FACILITIES IN ISRAEL AND IRELAND. FOR THE FOURTH QUARTER OF 2000, THE ISRAEL AND IRELAND FACILITIES ACCOUNTED FOR APPROXIMATELY 30% OF OUR TOTAL WAFER FABRICATION.
+
+AS
+
+OF YEAR-END 2000, SUBSTANTIALLY ALL OF OUR MICROPROCESSORS WERE BUILT USING THE 0.18-MICRON PROCESS TECHNOLOGY. WE ARE MANUFACTURING WAFERS USING THE
+
+0.18-MICRON PROCESS TECHNOLOGY IN ARIZONA, CALIFORNIA, IRELAND, ISRAEL, NEW MEXICO AND OREGON. IN NOVEMBER 2000, WE ANNOUNCED THE COMPLETION OF THE DEVELOPMENT OF THE
+
+0.13-MICRON (130 NANOMETER) PROCESS TECHNOLOGY. THE 0.13-MICRON PROCESS TECHNOLOGY FEATURES STRUCTURES THAT ARE SMALLER THAN 1/1,000TH THE THICKNESS OF A HUMAN HAIR (0.18
+
+MICRONS IS 1/500TH THE THICKNESS OF A HUMAN HAIR). WE EXPECT TO BEGIN MANUFACTURING OUR FIRST PRODUCT USING 0.13-MICRON PROCESS TECHNOLOGY IN PRODUCTION VOLUMES IN THE SECOND HALF OF 2001,
+
+ENABLING US TO CONTINUE TO DELIVER NEW GENERATIONS OF HIGH-PERFORMANCE MICROPROCESSORS. WE BELIEVE THAT WE WERE THE FIRST COMPANY TO COMPLETE DEVELOPMENT OF THE 0.13-MICRON
+
+PROCESS TECHNOLOGY AND TO DEMONSTRATE MANUFACTURING READINESS WITH COMPLEX INTEGRATED CIRCUITS.
+
+IN
+
+2000, WE ANNOUNCED THAT WE WOULD BEGIN BUILDING HIGH-VOLUME 300MM (12-INCH WAFER) FABRICATION FACILITIES. SOME OF THESE FACILITIES WILL BEGIN PRODUCTION ON
+
+0.13-MICRON PROCESS TECHNOLOGY. THE LARGEST WAFER SIZE WE CURRENTLY USE IN WAFER PRODUCTION IS 200MM (8-INCH WAFER). WE EXPECT THE LARGER 300MM WAFER SIZE TO CUT DIE
+
+MANUFACTURING COSTS BY MORE THAN 30%. WE PLAN TO START PRODUCTION USING 300MM WAFERS IN 2002.
+
+DURING
+
+THE FIRST QUARTER OF 2000, WE PURCHASED A FABRICATION FACILITY IN COLORADO. DURING 2000, WE MADE SUBSTANTIAL RETROFITTING CHANGES AND PROCESS IMPROVEMENTS AT THIS FACILITY,
+
+INCLUDING EQUIPMENT INSTALLATIONS TO MANUFACTURE FLASH MEMORY. WE EXPECT TO BEGIN MANUFACTURING AT THE COLORADO FACILITY IN THE SECOND QUARTER OF 2001.
+
+WE
+
+ALSO MANUFACTURE MICROPROCESSOR- AND NETWORKING-RELATED BOARD-LEVEL PRODUCTS AND SYSTEMS AT FACILITIES IN MALAYSIA, OREGON AND WASHINGTON. IN ADDITION, WE MANUFACTURE BOARD-LEVEL
+
+PRODUCTS IN PUERTO RICO; HOWEVER, IN JANUARY 2001, WE ANNOUNCED THAT WE WOULD PHASE OUT OUR MANUFACTURING OPERATIONS IN PUERTO RICO DURING THE FIRST HALF OF 2001. BASED ON AN ASSESSMENT ACROSS
+
+OUR WORLDWIDE
+
+BOARD-LEVEL MANUFACTURING FACILITIES, WE CONCLUDED THAT THE OPERATIONS IN PUERTO RICO WERE LESS COST COMPETITIVE THAN OUR OTHER OPERATIONS.
+
+A
+
+SUBSTANTIAL MAJORITY OF OUR COMPONENTS ASSEMBLY AND TESTING, INCLUDING ASSEMBLY AND TESTING FOR MICROPROCESSORS, IS PERFORMED AT FACILITIES IN COSTA RICA, MALAYSIA AND THE
+
+PHILIPPINES. WE ALSO PERFORM COMPONENTS ASSEMBLY AND TESTING AT A FACILITY IN CHINA, AND IN AUGUST 2000 ANNOUNCED PLANS TO EXPAND THIS FACILITY.
+
+TO
+
+AUGMENT CAPACITY IN THE UNITED STATES AS WELL AS INTERNATIONALLY, WE USE SUBCONTRACTORS TO PERFORM ASSEMBLY OF CERTAIN PRODUCTS AND WAFER FABRICATION FOR CERTAIN COMPONENTS,
+
+PRIMARILY FLASH MEMORY, CHIPSETS, AND NETWORKING AND COMMUNICATIONS COMPONENT PRODUCTS. WE ALSO USE SUBCONTRACTORS FOR THE MANUFACTURE OF SOME BOARD-LEVEL PRODUCTS AND SYSTEMS, AND PURCHASE CERTAIN
+
+COMMUNICATION NETWORKING PRODUCTS AND PC PERIPHERALS FROM EXTERNAL VENDORS.
+
+IN
+
+GENERAL, IF WE WERE UNABLE TO MANUFACTURE WAFERS OR TO ASSEMBLE AND TEST OUR PRODUCTS ABROAD, OR IF AIR TRANSPORTATION BETWEEN OUR FOREIGN FACILITIES AND THE UNITED STATES WERE
+
+DISRUPTED, THERE COULD BE A MATERIAL ADVERSE EFFECT UPON OUR OPERATIONS. IN ADDITION TO NORMAL MANUFACTURING, ASSEMBLY AND TEST RISKS, OUR OPERATIONS OUTSIDE THE UNITED STATES ARE SUBJECT TO CERTAIN
+
+ADDITIONAL EXPOSURES, INCLUDING CURRENCY CONTROLS AND FLUCTUATIONS; TARIFF, IMPORT AND OTHER RESTRICTIONS AND REGULATIONS; AND
+
+10
+
+POLITICAL INSTABILITY, SUCH AS UNREST IN ISRAEL. TO DATE, WE HAVE NOT EXPERIENCED SIGNIFICANT DIFFICULTIES RELATED TO THESE FOREIGN BUSINESS RISKS.
+
+MANUFACTURING
+
+OF INTEGRATED CIRCUITS IS A COMPLEX PROCESS. NORMAL MANUFACTURING RISKS INCLUDE ERRORS AND INTERRUPTIONS IN THE PRODUCTION PROCESS AND DEFECTS IN RAW MATERIALS, AS WELL
+
+AS OTHER RISKS, ALL OF WHICH CAN AFFECT YIELDS. A SUBSTANTIAL DECREASE IN YIELDS WOULD RESULT IN HIGHER MANUFACTURING COSTS AND THE POSSIBILITY OF NOT BEING ABLE TO PRODUCE SUFFICIENT VOLUME TO MEET
+
+SPECIFIC PRODUCT DEMAND.
+
+EMPLOYEES
+
+AS OF DECEMBER 30, 2000, WE EMPLOYED APPROXIMATELY 86,100 PEOPLE WORLDWIDE.
+
+SALES
+
+MOST OF OUR PRODUCTS ARE SOLD OR LICENSED THROUGH SALES OFFICES LOCATED NEAR MAJOR CONCENTRATIONS OF USERS THROUGHOUT NORTH AMERICA, EUROPE,
+
+ASIA-PACIFIC, JAPAN AND OTHER PARTS OF THE WORLD.
+
+WE
+
+ALSO USE INDUSTRIAL AND RETAIL DISTRIBUTORS AND REPRESENTATIVES TO DISTRIBUTE OUR PRODUCTS BOTH WITHIN AND OUTSIDE THE UNITED STATES. TYPICALLY, DISTRIBUTORS HANDLE A WIDE VARIETY
+
+OF PRODUCTS, INCLUDING THOSE THAT COMPETE WITH OUR PRODUCTS, AND FILL ORDERS FOR MANY CUSTOMERS. MOST OF OUR SALES TO DISTRIBUTORS ARE MADE UNDER AGREEMENTS ALLOWING FOR PRICE PROTECTION ON UNSOLD
+
+MERCHANDISE AND RIGHT OF RETURN ON STIPULATED QUANTITIES OF UNSOLD MERCHANDISE. SALES REPRESENTATIVES GENERALLY DO NOT OFFER DIRECTLY COMPETITIVE PRODUCTS BUT MAY CARRY COMPLEMENTARY ITEMS
+
+MANUFACTURED BY OTHERS. REPRESENTATIVES DO NOT MAINTAIN A PRODUCT INVENTORY; INSTEAD, THEIR CUSTOMERS PLACE ORDERS DIRECTLY WITH US OR THROUGH DISTRIBUTORS. WE CONDUCTED BUSINESS WITH MORE THAN 2,500
+
+CUSTOMERS WORLDWIDE IN 2000, INCLUDING CUSTOMERS OF OUR ACQUIRED COMPANIES. COMPAQ COMPUTER CORPORATION AND DELL COMPUTER CORPORATION EACH CONTRIBUTED APPROXIMATELY 13% TO OUR TOTAL SALES IN 2000. A
+
+SUBSTANTIAL MAJORITY OF THE SALES TO THESE TWO CUSTOMERS CONSISTED OF INTEL ARCHITECTURE GROUP PRODUCTS. NO OTHER CUSTOMER ACCOUNTED FOR MORE THAN 10% OF OUR TOTAL REVENUES. SALES TO OUR FIVE LARGEST
+
+CUSTOMERS ACCOUNTED FOR APPROXIMATELY 42% OF TOTAL REVENUES. THE INFORMATION REGARDING REVENUES AND OPERATING PROFIT BY REPORTABLE SEGMENTS AND REVENUES FROM UNAFFILIATED CUSTOMERS BY GEOGRAPHIC
+
+REGION UNDER THE HEADING "OPERATING SEGMENT AND GEOGRAPHIC INFORMATION" ON PAGE 33 OF OUR 2000 ANNUAL REPORT TO STOCKHOLDERS, IS INCORPORATED BY REFERENCE.
+
+BACKLOG
+
+OUR SALES ARE MADE PRIMARILY PURSUANT TO STANDARD PURCHASE ORDERS FOR DELIVERY OF STANDARD PRODUCTS. WE HAVE SOME AGREEMENTS THAT GIVE A CUSTOMER THE RIGHT TO
+
+PURCHASE A SPECIFIC NUMBER OF PRODUCTS DURING A SPECIFIED TIME PERIOD. ALTHOUGH NOT GENERALLY OBLIGATING THE CUSTOMER TO PURCHASE ANY PARTICULAR NUMBER OF SUCH PRODUCTS, SOME OF THESE AGREEMENTS DO
+
+CONTAIN BILLBACK CLAUSES. UNDER THESE CLAUSES, CUSTOMERS WHO DO NOT PURCHASE THE FULL VOLUME AGREED TO ARE LIABLE FOR BILLBACK ON PREVIOUS SHIPMENTS UP TO THE PRICE APPROPRIATE FOR THE QUANTITY
+
+ACTUALLY PURCHASED. AS A MATTER OF INDUSTRY PRACTICE, BILLBACK CLAUSES ARE DIFFICULT TO ENFORCE. THE QUANTITY ACTUALLY PURCHASED BY THE CUSTOMER, AS WELL AS THE SHIPMENT SCHEDULES, ARE FREQUENTLY
+
+REVISED DURING THE AGREEMENT TERM TO REFLECT CHANGES IN THE CUSTOMER'S NEEDS. IN LIGHT OF INDUSTRY PRACTICE AND EXPERIENCE, WE DO NOT BELIEVE THAT SUCH AGREEMENTS ARE MEANINGFUL FOR DETERMINING
+
+BACKLOG AMOUNTS. WE BELIEVE THAT ONLY A SMALL PORTION OF OUR ORDER BACKLOG IS NONCANCELLABLE AND THAT THE DOLLAR AMOUNT ASSOCIATED WITH THE NONCANCELLABLE PORTION IS NOT MATERIAL. THEREFORE, WE DO NOT
+
+BELIEVE THAT BACKLOG AS OF ANY PARTICULAR DATE IS INDICATIVE OF FUTURE RESULTS.
+
+11
+
+COMPETITION
+
+OUR GOAL IS TO BE THE PREEMINENT BUILDING BLOCK SUPPLIER TO THE WORLDWIDE INTERNET ECONOMY. OUR PRIMARY FOCUS AREAS ARE THE DESKTOP AND MOBILE PLATFORMS, THE
+
+SERVER PLATFORM, AND NETWORKING AND COMMUNICATIONS INCLUDING WIRELESS COMMUNICATIONS, AS WELL AS NEW BUSINESS OPPORTUNITIES AROUND THE INTERNET. IN EACH OF THESE MARKET SEGMENTS, WE COMPETE, TO
+
+VARIOUS DEGREES, ON THE BASIS OF FUNCTIONALITY, PERFORMANCE, QUALITY, PRICE AND AVAILABILITY. WE ARE ENGAGED IN A RAPIDLY ADVANCING FIELD OF TECHNOLOGY IN WHICH OUR ABILITY TO COMPETE DEPENDS UPON OUR
+
+ABILITY TO IMPROVE OUR PRODUCTS AND PROCESSES, DEVELOP NEW PRODUCTS TO MEET CHANGING CUSTOMER REQUIREMENTS AND REDUCE COSTS. PRICES DECLINE RAPIDLY IN THE SEMICONDUCTOR INDUSTRY AS UNIT VOLUMES GROW,
+
+FURTHER COMPETITION DEVELOPS AND PRODUCTION EXPERIENCE IS ACCUMULATED. MANY COMPANIES COMPETE WITH US IN THE VARIOUS COMPUTING, NETWORKING AND COMMUNICATIONS MARKET SEGMENTS AND ARE ENGAGED IN THE
+
+SAME BASIC FIELDS OF ACTIVITY, INCLUDING RESEARCH AND DEVELOPMENT. BOTH WITHIN AND OUTSIDE THE UNITED STATES, THESE COMPETITORS RANGE IN SIZE FROM LARGE MULTINATIONAL COMPANIES TO SMALLER COMPANIES
+
+COMPETING IN SPECIALIZED MARKET SEGMENTS.
+
+THE
+
+INTEL ARCHITECTURE GROUP OPERATING SEGMENT SUPPORTS THE DESKTOP, MOBILE AND SERVER PLATFORM INITIATIVES. OUR STRATEGY FOR THE DESKTOP, MOBILE AND SERVER PLATFORMS IS TO INTRODUCE
+
+EVER-HIGHER PERFORMANCE MICROPROCESSORS AND CHIPSETS, DEVELOPED FOR DIFFERENT MARKET SEGMENTS OF THE WORLDWIDE COMPUTING MARKET, USING A TIERED BRANDING APPROACH. TO FURTHER ENHANCE THE
+
+ACCEPTANCE AND DEPLOYMENT OF THESE PRODUCTS BY OUR CUSTOMERS, WE ALSO PROVIDE E-BUSINESS ENABLING SOLUTIONS. IN LINE WITH OUR STRATEGY, WE SEEK TO DEVELOP HIGHER PERFORMANCE
+
+MICROPROCESSORS BASED ON THE P6 MICRO-ARCHITECTURE SPECIFICALLY FOR EACH COMPUTING SEGMENT. WE ALSO PLAN TO INTRODUCE HIGHER PERFORMANCE VERSIONS OF PROCESSORS BASED ON THE INTEL NETBURST
+
+MICRO-ARCHITECTURE.
+
+OUR
+
+FINANCIAL RESULTS ARE SUBSTANTIALLY DEPENDENT ON SALES OF MICROPROCESSORS BY THE INTEL ARCHITECTURE GROUP. A NUMBER OF COMPETITORS MARKET SOFTWARE-COMPATIBLE PRODUCTS INTENDED TO
+
+COMPETE WITH INTEL ARCHITECTURE-BASED PROCESSORS. WE ALSO FACE SIGNIFICANT COMPETITION FROM COMPANIES OFFERING RIVAL MICROPROCESSOR ARCHITECTURES. THE CELERON PROCESSOR COMPETES WITH EXISTING AND
+
+FUTURE PRODUCTS IN THE HIGHLY COMPETITIVE VALUE PC MARKET SEGMENT. THE PENTIUM
+
+III
+
+PROCESSOR AND THE PENTIUM 4 PROCESSOR COMPETE WITH EXISTING AND
+
+FUTURE PRODUCTS IN THE PERFORMANCE DESKTOP AND ENTRY-LEVEL WORKSTATION MARKET SEGMENT. COMPETITIVE PRODUCT OFFERINGS IN THE PERFORMANCE DESKTOP MARKET SEGMENT HAVE RECENTLY INCREASED. THE
+
+PENTIUM
+
+III
+
+XEON PROCESSOR COMPETES IN THE MID-RANGE AND HIGH-END SERVER AND WORKSTATION MARKET SEGMENTS WITH ESTABLISHED
+
+PRODUCTS BASED ON RIVAL ARCHITECTURES.
+
+MANY
+
+OF OUR COMPETITORS ARE LICENSED TO USE OUR PATENTS. FURTHERMORE, BASED ON CURRENT CASE LAW, OUR COMPETITORS CAN DESIGN MICROPROCESSORS THAT ARE COMPATIBLE WITH OUR
+
+MICROPROCESSORS AND AVOID OUR PATENT RIGHTS THROUGH THE USE OF FOUNDRY SERVICES THAT HAVE LICENSES WITH US. COMPETITORS' PRODUCTS MAY ADD FEATURES, INCREASE PERFORMANCE OR SELL AT LOWER PRICES. WE
+
+CANNOT PREDICT WHETHER OUR PRODUCTS WILL CONTINUE TO COMPETE SUCCESSFULLY WITH SUCH EXISTING RIVAL ARCHITECTURES OR WHETHER NEW ARCHITECTURES WILL
+
+ESTABLISH OR GAIN MARKET ACCEPTANCE OR PROVIDE INCREASED COMPETITION WITH OUR PRODUCTS. FUTURE DISTORTION OF PRICE MATURITY CURVES COULD OCCUR IF SOFTWARE-COMPATIBLE PRODUCTS ENTER THE MARKET SEGMENT
+
+IN SIGNIFICANT VOLUME OR ALTERNATIVE ARCHITECTURES GAIN MARKET ACCEPTANCE.
+
+WE
+
+PLAN TO CULTIVATE NEW BUSINESSES AS WELL AS CONTINUE TO WORK WITH THE COMPUTING INDUSTRY TO EXPAND INTERNET CAPABILITIES AND PRODUCT OFFERINGS, AND DEVELOP COMPELLING SOFTWARE
+
+APPLICATIONS THAT CAN TAKE ADVANTAGE OF HIGHER PERFORMANCE MICROPROCESSORS AND CHIPSETS, INCREASING DEMAND FOR INTEL'S NEWER PRODUCTS IN EACH COMPUTING MARKET SEGMENT. WE MAY CONTINUE TO TAKE VARIOUS
+
+STEPS, INCLUDING REDUCING MICROPROCESSOR PRICES AND OFFERING REBATES AT SUCH TIMES AS WE DEEM APPROPRIATE, IN ORDER TO INCREASE ACCEPTANCE OF OUR LATEST TECHNOLOGY AND TO REMAIN COMPETITIVE WITHIN
+
+EACH RELEVANT MARKET SEGMENT.
+
+12
+
+IN THE NETWORKING AND COMMUNICATIONS INFRASTRUCTURE AREA, OUR STRATEGY IS TO DELIVER BOTH SYSTEM-LEVEL COMMUNICATIONS BUILDING BLOCKS AT VARIOUS LEVELS OF INTEGRATION AND
+
+COMPONENT-LEVEL SILICON BUILDING BLOCKS FOR NETWORKING AND COMMUNICATIONS SYSTEMS. WE HAVE MADE ACQUISITIONS AND EXPECT TO MAKE ADDITIONAL ACQUISITIONS TO GROW THE NETWORKING AND COMMUNICATIONS AREAS.
+
+THE NETWORK COMMUNICATIONS SILICON AND NETWORK CONNECTIVITY PRODUCTS FROM THE NETWORK COMMUNICATIONS GROUP FACE COMPETITION FROM BOTH ESTABLISHED AND EMERGING COMPANIES. THE COMPETITORS IN THESE AREAS
+
+USE AGGRESSIVE PRODUCT AND ACQUISITION PLANS IN EFFORTS TO ACHIEVE LEADING-EDGE MARKET POSITIONS. THE COMMUNICATIONS PRODUCTS GROUP OPERATING SEGMENT SUPPORTS INITIATIVES TO DELIVER THE
+
+SYSTEM-LEVEL COMMUNICATIONS PRODUCTS DIRECTED AT SERVICE PROVIDERS RUNNING E-BUSINESS DATA CENTERS. THE COMMUNICATIONS PRODUCTS GROUP FOCUSES ON SELLING ITS INTEL NETSTRUCTURE PRODUCTS TO
+
+OEM CUSTOMERS. THE COMMUNICATIONS PRODUCTS GROUP ALSO PROVIDES COMPONENT-LEVEL PRODUCTS FOR CONVERGED VOICE AND DATA COMMUNICATIONS SYSTEMS FOR THE TELECOMMUNICATIONS INDUSTRY. THESE PRODUCTS COMPETE
+
+IN THE SMALL AND MID-SIZED ENTERPRISE MARKET SEGMENTS WITH ESTABLISHED PRODUCTS AND LEADING-EDGE INTERNET COMMUNICATIONS SYSTEMS AND SERVER PRODUCTS. WE CANNOT PREDICT WHETHER
+
+OUR NETWORKING AND COMMUNICATIONS PRODUCTS WILL CONTINUE TO COMPETE SUCCESSFULLY WITH PRODUCTS FROM EXISTING COMPETITORS OR PRODUCTS FROM NEW ENTRANTS TO THESE MARKET SEGMENTS.
+
+IN
+
+THE CELLULAR WIRELESS COMMUNICATIONS BUSINESS, OUR STRATEGY IS TO DELIVER FEATURE-RICH, ENHANCED FLASH MEMORY PRODUCTS AND HIGH-SPEED PROCESSORS FOR
+
+HANDHELD WIRELESS DEVICES THAT REQUIRE HIGH PERFORMANCE AND LOW POWER. IN SUPPLYING THESE PRODUCTS, OUR WIRELESS COMMUNICATIONS AND COMPUTING GROUP FACES COMPETITION FROM ESTABLISHED COMPANIES IN THE
+
+FLASH MEMORY, APPLICATIONS PROCESSOR AND BASEBAND CHIPSET MARKET SEGMENTS.
+
+13
+
+RESEARCH AND DEVELOPMENT
+
+OUR COMPETITIVE POSITION HAS DEVELOPED TO A LARGE EXTENT BECAUSE OF OUR EMPHASIS ON RESEARCH AND DEVELOPMENT. THIS EMPHASIS HAS ENABLED US TO DELIVER
+
+LEADING-EDGE TECHNOLOGY AND HAS PERMITTED OUR CUSTOMERS TO COMMIT TO THE USE OF THESE NEW PRODUCTS IN THE DEVELOPMENT OF THEIR OWN PRODUCTS. OUR RESEARCH AND DEVELOPMENT ACTIVITIES ARE
+
+DIRECTED TOWARD DEVELOPING NEW PRODUCTS, HARDWARE TECHNOLOGIES AND MANUFACTURING PROCESSES, AS WELL AS IMPROVING EXISTING PRODUCTS AND LOWERING COSTS.
+
+A
+
+SUBSTANTIAL MAJORITY OF THE DESIGN AND DEVELOPMENT OF COMPONENTS AND OTHER PRODUCTS IS PERFORMED IN THE UNITED STATES AT OUR FACILITIES IN CALIFORNIA, OREGON, ARIZONA AND
+
+WASHINGTON. OUTSIDE THE UNITED STATES, WE HAVE PRODUCT DEVELOPMENT FACILITIES AT VARIOUS LOCATIONS, INCLUDING ISRAEL, DENMARK AND MALAYSIA. WE ALSO MAINTAIN RESEARCH AND DEVELOPMENT FACILITIES
+
+DEDICATED TO IMPROVING MANUFACTURING PROCESSES IN ARIZONA, CALIFORNIA AND OREGON.
+
+IN
+
+2000, WE SHIPPED THOUSANDS OF PROTOTYPE PROCESSORS BASED ON THE IA-64 ARCHITECTURE FOR HIGH-END SERVERS, UNDER THE ITANIUM BRAND, AND BEGAN TO SHIP
+
+PROCESSORS FOR SYSTEMS USED BY INFORMATION TECHNOLOGY END USERS IN PILOT INSTALLATIONS. WE EXPECT THE RELEASE OF PRODUCTION SYSTEMS DURING 2001. THE ITANIUM PROCESSOR IS BUILT ON THE
+
+0.18-MICRON PROCESS TECHNOLOGY. DURING 2000, APPROXIMATELY HALF OF OUR MICROPROCESSOR RESEARCH AND DEVELOPMENT BUDGET WAS SPENT ON INITIATIVES RELATED TO THE SERVER AND WORKSTATION MARKET
+
+SEGMENT.
+
+IN
+
+ADDITION TO MICROPROCESSOR AND CHIPSET RESEARCH AND DEVELOPMENT, WE HAVE RESEARCH AND DEVELOPMENT INITIATIVES IN WIRELESS DEVICES, NETWORKING AND COMMUNICATIONS PRODUCTS, CONNECTED
+
+PERIPHERALS AND OTHER AREAS. THESE RESEARCH AND DEVELOPMENT INITIATIVES INCLUDE PROJECTS SURROUNDING THE INTEL XSCALE MICRO-ARCHITECTURE FOR WIRELESS DEVICES AND THE INTEL IXA ARCHITECTURE FOR
+
+NETWORKING AND COMMUNICATIONS PRODUCTS. WE HAVE ALSO ACQUIRED ONGOING RESEARCH AND DEVELOPMENT ACTIVITIES IN THESE AREAS WITH BUSINESSES ACQUIRED IN 2000.
+
+OUR
+
+EXPENDITURES FOR RESEARCH AND DEVELOPMENT WERE $3,897 MILLION IN FISCAL YEAR 2000, $3,111 MILLION IN FISCAL YEAR 1999 AND $2,509 MILLION IN FISCAL YEAR 1998.
+
+THESE AMOUNTS EXCLUDE CHARGES FOR PURCHASED IN-PROCESS RESEARCH AND DEVELOPMENT RELATED TO ACQUISITIONS OF $109 MILLION FOR FISCAL YEAR 2000, $392 MILLION FOR FISCAL YEAR
+
+1999 AND $165 MILLION FOR FISCAL YEAR 1998. AT DECEMBER 2000, WE HAD APPROXIMATELY 20,500 EMPLOYEES ENGAGED IN RESEARCH AND DEVELOPMENT. THE SUCCESS OF OUR RESEARCH AND DEVELOPMENT
+
+ACTIVITIES IS DEPENDENT UPON COMPETITIVE CIRCUMSTANCES AS WELL AS OUR ABILITY TO BRING NEW
+
+PRODUCTS TO MARKET IN EACH COMPUTING MARKET SEGMENT AND IN OUR OTHER BUSINESSES IN A TIMELY AND COST-EFFECTIVE MANNER.
+
+ACQUISITIONS AND STRATEGIC INVESTMENTS
+
+DURING 2000, WE ACQUIRED 16 BUSINESSES FOR MORE THAN $2.7 BILLION, AUGMENTING OUR CAPABILITIES IN A NUMBER OF STRATEGIC AREAS. THE COMPANIES ACQUIRED
+
+INCLUDED AMBIENT, GIGA, PICAZO, BASIS, TRILLIUM AND ZIATECH. THESE ACQUISITIONS ARE DISCUSSED UNDER THE "PRODUCTS" HEADING IN PART I, ITEM 1 OF THIS FORM 10-K IN CONNECTION
+
+WITH EACH RELATED BUSINESS GROUP.
+
+UNDER
+
+OUR INTEL CAPITAL PROGRAM, WE ALSO MAKE EQUITY INVESTMENTS TO FURTHER OUR STRATEGIC OBJECTIVES AND TO SUPPORT OUR KEY BUSINESS INITIATIVES IN THE AREAS OF DESKTOP AND MOBILE
+
+PLATFORMS, SERVER PLATFORMS, NETWORKING AND COMMUNICATIONS, AND INTERNET SERVICES. WE WANT TO STIMULATE GROWTH IN COMPUTING, COMMUNICATIONS AND THE INTERNET, AND TO GROW THE TOTAL INFORMATION
+
+INFRASTRUCTURE, IN ORDER TO CREATE AND EXPAND MARKETS FOR OUR PRODUCTS. THIS STRATEGIC INVESTMENT PROGRAM HELPS ADVANCE OUR OVERALL MISSION OF BEING A LEADING PROVIDER OF KEY BUILDING BLOCKS TO THE
+
+INTERNET ECONOMY. WHILE FINANCIAL RETURNS ARE NOT OUR PRIMARY GOAL, OUR STRATEGIC INVESTMENT PROGRAM SEEKS TO INVEST IN COMPANIES THAT CAN SUCCEED AND HAVE AN IMPACT ON THEIR MARKET SEGMENT. WHEN THE
+
+STRATEGIC OBJECTIVES OF AN INVESTMENT HAVE BEEN ACHIEVED, OR IF THE INVESTMENT DIVERGES FROM OUR STRATEGIC OBJECTIVES, WE MAY DECIDE TO DISPOSE OF THE INVESTMENT. AS OF YEAR-END 2000, OUR
+
+STRATEGIC EQUITY PORTFOLIO WAS VALUED
+
+14
+
+AT APPROXIMATELY $3.7 BILLION, INCLUDING MARKETABLE INVESTMENTS AT THEIR MARKET VALUE AND NON-MARKETABLE INVESTMENTS AT COST.
+
+INTELLECTUAL PROPERTY AND LICENSING
+
+INTELLECTUAL PROPERTY RIGHTS THAT APPLY TO OUR VARIOUS PRODUCTS INCLUDE PATENTS, COPYRIGHTS, TRADE SECRETS, TRADEMARKS AND MASKWORK RIGHTS. INTEL HAS
+
+ESTABLISHED AN ACTIVE PROGRAM TO PROTECT ITS INVESTMENT IN TECHNOLOGY BY ENFORCING ITS INTELLECTUAL PROPERTY RIGHTS. WE DO NOT INTEND TO LICENSE OUR INTELLECTUAL PROPERTY RIGHTS BROADLY UNLESS WE CAN
+
+OBTAIN ADEQUATE CONSIDERATION. WE ALSO REFER TO INFORMATION APPEARING UNDER THE HEADING "COMPETITION" IN PART I, ITEM 1 OF THIS FORM 10-K.
+
+WE
+
+HAVE FILED AND OBTAINED A NUMBER OF PATENTS IN THE UNITED STATES AND ABROAD, AND WE HAVE ENTERED INTO PATENT CROSS-LICENSE AGREEMENTS WITH MANY OF OUR MAJOR COMPETITORS AND OTHER
+
+PARTIES. WHILE OUR
+
+INTELLECTUAL PROPERTY RIGHTS ARE IMPORTANT TO OUR SUCCESS, OUR BUSINESS AS A WHOLE IS NOT MATERIALLY DEPENDENT UPON ANY PARTICULAR PATENT OR LICENSE. WE AND OTHER COMPANIES IN THE COMPUTER,
+
+TELECOMMUNICATIONS AND RELATED HIGH-TECHNOLOGY FIELDS TYPICALLY APPLY FOR AND RECEIVE, IN THE AGGREGATE, THOUSANDS OF PATENTS ANNUALLY IN THE UNITED STATES AND OTHER COUNTRIES. IN
+
+ADDITION, BECAUSE OF THE FAST PACE OF INNOVATION AND PRODUCT DEVELOPMENT, OUR PRODUCTS ARE OFTEN OBSOLETE BEFORE THE PATENTS RELATED TO THEM EXPIRE. AS A RESULT, WE BELIEVE THAT THE DURATION OF THE
+
+APPLICABLE PATENTS IS ADEQUATE RELATIVE TO THE EXPECTED LIVES OF OUR PRODUCTS.
+
+WE
+
+PROTECT MANY OF OUR COMPUTER PROGRAMS BY COPYRIGHTING THEM. WE HAVE REGISTERED NUMEROUS COPYRIGHTS WITH THE UNITED STATES COPYRIGHT OFFICE. THE ABILITY TO PROTECT OR COPYRIGHT
+
+SOFTWARE IN SOME FOREIGN JURISDICTIONS IS NOT CLEAR. HOWEVER, IT IS OUR POLICY TO REQUIRE CUSTOMERS TO OBTAIN A SOFTWARE LICENSE CONTRACT BEFORE WE PROVIDE THEM WITH CERTAIN COMPUTER PROGRAMS. CERTAIN
+
+COMPONENTS CONTAIN EMBEDDED COMPUTER PROGRAMS, AND WE HAVE ALSO OBTAINED COPYRIGHT PROTECTION FOR SOME OF THESE PROGRAMS. IN ADDITION, WE HAVE OBTAINED PROTECTION FOR THE MASKWORKS FOR A NUMBER OF OUR
+
+COMPONENTS UNDER THE CHIP PROTECTION ACT OF 1984.
+
+WE
+
+HAVE OBTAINED CERTAIN TRADEMARKS AND TRADE NAMES FOR OUR PRODUCTS TO DISTINGUISH GENUINE INTEL PRODUCTS FROM OUR COMPETITORS' PRODUCTS, AND WE ARE CURRENTLY ENGAGED IN A
+
+COOPERATIVE PROGRAM WITH OEMS TO IDENTIFY WITH THE INTEL INSIDE® LOGO CERTAIN PERSONAL COMPUTERS CONTAINING GENUINE INTEL MICROPROCESSORS. WE MAINTAIN CERTAIN DETAILS ABOUT OUR
+
+PROCESSES, PRODUCTS AND STRATEGIES AS TRADE SECRETS.
+
+LIKE
+
+MANY COMPANIES IN THE SEMICONDUCTOR AND OTHER HIGH-TECHNOLOGY INDUSTRIES, WE HAVE FROM TIME TO TIME BEEN NOTIFIED OF CLAIMS THAT WE MAY BE INFRINGING CERTAIN
+
+INTELLECTUAL PROPERTY RIGHTS OF OTHERS. THESE CLAIMS HAVE BEEN REFERRED TO COUNSEL, AND THEY ARE IN VARIOUS STAGES OF EVALUATION AND NEGOTIATION. IF IT APPEARS NECESSARY OR DESIRABLE, WE MAY SEEK
+
+LICENSES FOR THESE INTELLECTUAL PROPERTY RIGHTS. WE CAN GIVE NO ASSURANCE THAT LICENSES WILL BE OFFERED BY ALL CLAIMANTS, THAT THE TERMS OF ANY OFFERED LICENSES WILL BE ACCEPTABLE TO US OR THAT IN ALL
+
+CASES THE DISPUTE WILL BE RESOLVED WITHOUT LITIGATION, WHICH MAY BE TIME CONSUMING AND EXPENSIVE, AND MAY RESULT IN INJUNCTIVE RELIEF OR THE PAYMENT OF DAMAGES BY US. WE ALSO REFER TO THE INFORMATION
+
+APPEARING UNDER THE HEADING "LEGAL PROCEEDINGS" IN PART I, ITEM 3 OF THIS FORM 10-K.
+
+COMPLIANCE WITH ENVIRONMENTAL REGULATIONS
+
+TO OUR PRESENT KNOWLEDGE, COMPLIANCE WITH FEDERAL, STATE AND LOCAL PROVISIONS ENACTED OR ADOPTED FOR PROTECTION OF THE ENVIRONMENT HAS HAD NO MATERIAL EFFECT
+
+UPON OUR OPERATIONS. REFERENCE IS MADE TO THE INFORMATION APPEARING UNDER THE HEADING "LEGAL PROCEEDINGS" IN PART I, ITEM 3 OF THIS FORM 10-K.
+
+15
+
+EXECUTIVE OFFICERS
+
+THE FOLLOWING SETS FORTH CERTAIN INFORMATION WITH REGARD TO EXECUTIVE OFFICERS OF INTEL (AGES ARE AS OF DECEMBER 30, 2000).
+
+CRAIG
+
+R. BARRETT (AGE 61) HAS BEEN A DIRECTOR OF INTEL SINCE 1992, CHIEF EXECUTIVE OFFICER SINCE 1998 AND PRESIDENT SINCE 1997. PRIOR TO THAT, DR. BARRETT WAS CHIEF
+
+OPERATING OFFICER FROM 1993 TO 1998 AND EXECUTIVE VICE PRESIDENT FROM 1990 TO 1997.
+
+ANDREW
+
+S. GROVE (AGE 64) HAS BEEN A DIRECTOR OF INTEL SINCE 1974 AND CHAIRMAN OF THE BOARD SINCE 1997. DR. GROVE WAS CHIEF EXECUTIVE OFFICER FROM 1987 TO 1998 AND
+
+PRESIDENT FROM 1979 TO 1997.
+
+GORDON
+
+E. MOORE (AGE 71) HAS BEEN A DIRECTOR OF INTEL SINCE 1968 AND CHAIRMAN EMERITUS OF THE BOARD SINCE 1997. PRIOR TO THAT, DR. MOORE WAS CHAIRMAN OF THE BOARD FROM
+
+1979 TO 1997.
+
+LESLIE
+
+L. VADASZ (AGE 64) HAS BEEN A DIRECTOR OF INTEL SINCE 1988 AND EXECUTIVE VICE PRESIDENT AND PRESIDENT, INTEL CAPITAL, SINCE JANUARY 2000. PRIOR TO THAT,
+
+MR. VADASZ WAS SENIOR VICE PRESIDENT AND DIRECTOR OF CORPORATE BUSINESS DEVELOPMENT FROM 1991 TO JANUARY 2000.
+
+PAUL
+
+S. OTELLINI (AGE 50) HAS BEEN EXECUTIVE VICE PRESIDENT AND GENERAL MANAGER, INTEL ARCHITECTURE GROUP, SINCE 1998. PRIOR TO THAT, MR. OTELLINI WAS EXECUTIVE VICE
+
+PRESIDENT AND DIRECTOR, SALES AND MARKETING GROUP, FROM 1996 TO 1998, AND SENIOR VICE PRESIDENT AND DIRECTOR, SALES AND MARKETING GROUP, FROM 1994 TO 1996.
+
+GERHARD
+
+H. PARKER (AGE 57) HAS BEEN EXECUTIVE VICE PRESIDENT AND GENERAL MANAGER, NEW BUSINESS GROUP, SINCE 1998. PRIOR TO THAT, DR. PARKER WAS EXECUTIVE VICE PRESIDENT
+
+AND GENERAL MANAGER, TECHNOLOGY AND MANUFACTURING GROUP, FROM 1996 TO 1998, AND SENIOR VICE PRESIDENT AND GENERAL MANAGER, TECHNOLOGY AND MANUFACTURING GROUP, FROM 1992 TO 1996.
+
+ANDY
+
+D. BRYANT (AGE 50) HAS BEEN EXECUTIVE VICE PRESIDENT AND CHIEF FINANCIAL AND ENTERPRISE SERVICES OFFICER SINCE JANUARY 2001, AND SENIOR VICE PRESIDENT AND CHIEF
+
+FINANCIAL AND ENTERPRISE SERVICES OFFICER FROM 1999 TO JANUARY 2001. PRIOR TO THAT, MR. BRYANT WAS SENIOR VICE PRESIDENT AND CHIEF FINANCIAL OFFICER FOR 1999 AND VICE PRESIDENT AND CHIEF
+
+FINANCIAL OFFICER FROM 1994 TO 1999.
+
+SEAN
+
+M. MALONEY (AGE 44) HAS BEEN EXECUTIVE VICE PRESIDENT AND DIRECTOR, SALES AND MARKETING GROUP, SINCE JANUARY 2001, SENIOR VICE PRESIDENT AND DIRECTOR, SALES AND
+
+MARKETING GROUP, FROM 1999 TO JANUARY 2001, AND VICE PRESIDENT AND DIRECTOR, SALES AND MARKETING GROUP, FROM 1998 TO 1999. PRIOR TO THAT, MR. MALONEY WAS VICE PRESIDENT, SALES, AND
+
+GENERAL MANAGER, ASIA-PACIFIC OPERATIONS, FROM 1995 TO 1998.
+
+MICHAEL
+
+R. SPLINTER (AGE 50) HAS BEEN EXECUTIVE VICE PRESIDENT AND GENERAL MANAGER, TECHNOLOGY AND MANUFACTURING GROUP, SINCE JANUARY 2001; SENIOR VICE PRESIDENT AND
+
+GENERAL MANAGER, TECHNOLOGY AND MANUFACTURING GROUP, FROM 1999 TO JANUARY 2001; AND VICE PRESIDENT AND GENERAL MANAGER, TECHNOLOGY AND MANUFACTURING GROUP, FROM 1998 TO 1999. PRIOR TO THAT,
+
+MR. SPLINTER WAS VICE PRESIDENT AND ASSISTANT GENERAL MANAGER, TECHNOLOGY AND MANUFACTURING GROUP, FROM 1996 TO 1998.
+
+ALBERT
+
+Y. C. YU (AGE 59) HAS BEEN SENIOR VICE PRESIDENT AND GENERAL MANAGER, OPTOELECTRONICS, SINCE OCTOBER 2000. PRIOR TO THAT, MR. YU WAS SENIOR VICE PRESIDENT
+
+AND GENERAL MANAGER, MICROPROCESSOR PRODUCTS GROUP, FROM 1993 TO OCTOBER 2000.
+
+F.
+
+THOMAS DUNLAP, JR. (AGE 49) HAS BEEN SENIOR VICE PRESIDENT, GENERAL COUNSEL AND SECRETARY SINCE JANUARY 2001 AND VICE PRESIDENT, GENERAL COUNSEL AND SECRETARY FROM
+
+1987 TO JANUARY 2001.
+
+ARVIND
+
+SODHANI (AGE 46) HAS BEEN VICE PRESIDENT AND TREASURER SINCE 1990.
+
+16
+
+ITEM 2. PROPERTIES
+
+AT DECEMBER 30, 2000, WE OWNED THE MAJOR FACILITIES DESCRIBED BELOW.
+
+NO. OF
+
+BLDGS.
+
+LOCATION
+
+TOTAL SQ. FT.
+
+USE
+
+107
+
+UNITED STATES
+
 21,223,000
-executive and administrative offices, wafer fabrication, research and development, sales and marketing, computer and service functions, e-commerce data center services, boards and systems manufacturing, and
-warehousing.
-ireland
+
+EXECUTIVE AND ADMINISTRATIVE OFFICES, WAFER FABRICATION, RESEARCH AND DEVELOPMENT, SALES AND MARKETING, COMPUTER AND SERVICE FUNCTIONS, E-COMMERCE DATA CENTER SERVICES, BOARDS AND SYSTEMS MANUFACTURING, AND
+
+WAREHOUSING.
+
+8
+
+IRELAND
+
 1,982,000
-wafer fabrication, warehousing and administrative offices.
-malaysia (a)
+
+WAFER FABRICATION, WAREHOUSING AND ADMINISTRATIVE OFFICES.
+
+12
+
+MALAYSIA (A)
+
 1,781,000
-components assembly and testing, boards and systems manufacturing, research and development, warehousing and administrative offices.
-israel (b)
+
+COMPONENTS ASSEMBLY AND TESTING, BOARDS AND SYSTEMS MANUFACTURING, RESEARCH AND DEVELOPMENT, WAREHOUSING AND ADMINISTRATIVE OFFICES.
+
+11
+
+ISRAEL (B)
+
 1,599,000
-wafer fabrication, research and development, warehousing and administrative offices.
-philippines (c)
+
+WAFER FABRICATION, RESEARCH AND DEVELOPMENT, WAREHOUSING AND ADMINISTRATIVE OFFICES.
+
+6
+
+PHILIPPINES (C)
+
 1,364,000
-components assembly and testing, warehousing and administrative offices.
-costa rica
+
+COMPONENTS ASSEMBLY AND TESTING, WAREHOUSING AND ADMINISTRATIVE OFFICES.
+
+3
+
+COSTA RICA
+
 735,000
-components assembly and testing, warehousing and administrative offices.
-puerto rico
+
+COMPONENTS ASSEMBLY AND TESTING, WAREHOUSING AND ADMINISTRATIVE OFFICES.
+
+5
+
+PUERTO RICO
+
 426,000
-boards manufacturing, warehousing and administrative offices.
-people's republic of china (d)
+
+BOARDS MANUFACTURING, WAREHOUSING AND ADMINISTRATIVE OFFICES.
+
+1
+
+PEOPLE'S REPUBLIC OF CHINA (D)
+
 187,000
-components assembly and testing and administrative offices.
-united kingdom
+
+COMPONENTS ASSEMBLY AND TESTING AND ADMINISTRATIVE OFFICES.
+
+1
+
+UNITED KINGDOM
+
 175,000
-sales and marketing and administrative offices.
-japan
+
+SALES AND MARKETING AND ADMINISTRATIVE OFFICES.
+
+3
+
+JAPAN
+
 167,000
-sales and marketing and administrative offices.
-germany
+
+SALES AND MARKETING AND ADMINISTRATIVE OFFICES.
+
+1
+
+GERMANY
+
 80,000
-sales and marketing and administrative offices.
-as
-of december30, 2000, we also leased 61 major facilities in the united states totaling approximately 2,586,000 square feet, and 47 facilities in other countries totaling
-approximately 1,440,000 square feet. leased facilities increased during 2000, primarily due to overall growth of operations. these leases expire at varying dates through 2013 and include renewals at
-our option. we believe that our existing facilities are suitable and adequate for our present purposes, and that the productive capacity in such facilities is substantially being utilized; however, in
-january2001, we announced that we would phase out our manufacturing operations in puerto rico during the first half of 2001. we also have approximately 3.4million square feet of
-building space in the united states and approximately 1.5million square feet of building space in various international sites under various stages of construction for manufacturing and
-administrative purposes.
-we
-do not identify or allocate assets or depreciation by operating segment. information on net property, plant and equipment by country under the heading "operating segment and
-geographic information" on page 33 of the registrant's 2000 annual report to stockholders, is incorporated by reference.
-(a)leases
-on portions of the land used for these facilities expire in 2003 through 2057.
-(b)lease
-on a portion of the land used for these facilities expires in 2039.
-(c)leases
-on portions of the land used for these facilities expire in 2008 through 2046.
-(d)lease
-on a portion of the land used for these facilities expires in 2046.
-item 3. legal proceedings
-a. litigation
-intergraph
-corporation v. intel u.s. district court, northern district of alabama, northeastern division (cv-97-n-3023-ne)
-in
-november1997, intergraph corporation filed suit in federal district court in alabama, generally alleging that intel attempted to coerce intergraph into relinquishing certain patent rights.
-the suit alleges that intel infringes five intergraph microprocessor-related patents and includes alleged violations of antitrust laws and various state law claims. the suit seeks injunctive relief,
-damages and prejudgment interest, and further alleges that intel's infringement is willful and that any damages awarded should be trebled. intergraph's expert witness has claimed that intergraph is
-entitled to damages of approximately $2.2billion for intel's alleged patent infringement, $500million for the alleged antitrust violations and an undetermined amount for alleged state
-law violations. intel believes that it does not infringe intergraph's patents and believes those patents are invalid and unenforceable. intel has counterclaimed that the intergraph patents are invalid
-and further alleges infringement of seven intel patents, breach of contract and misappropriation of trade secrets. in october1999, the court reconsidered an earlier adverse ruling and granted
-intel's motion for summary judgment that the intergraph patents are licensed to intel, and dismissed all of intergraph's patent infringement claims with prejudice. this ruling has been reversed by the
-court of appeals for the federal circuit, and as a result, the patent issues are returned to the district court. in march2000, the district court granted intel's motion for summary judgment on
-intergraph's federal antitrust claims, and in april2000, intergraph appealed this ruling. intergraph's state law claims remain at issue in the trial court. the company disputes intergraph's
-claims and intends to defend the lawsuit vigorously.
-b. environmental proceedings
-we
-have been named to the california and u.s. superfund lists for three of our sites and have completed, along with two other companies, a remedial investigation/feasibility study with the u.s.
-environmental protection agency (epa) to evaluate the groundwater in areas adjacent to one of our former sites. the epa has issued a record of decision with respect to a groundwater cleanup plan at
-that site, including expected costs to complete. under the california and u.s. superfund statutes, liability for cleanup of this site and the adjacent area is joint and several. we, however, have
-reached agreement with those same two companies that significantly limits our liabilities under the proposed cleanup plan. also, we have completed extensive studies at our other sites and are engaged
-in cleanup at several of these sites. in the opinion of management, including internal counsel, the potential losses to us in excess of amounts already accrued arising out of these matters would not
-have a material adverse effect on our financial position or overall trends in results of operations, even if joint and several liability were to be assessed.
-we
-are currently party to various legal proceedings, including those noted above. while management, including internal counsel, currently believes that the ultimate outcome of these
-proceedings, individually and in the aggregate, will not have a material adverse effect on our financial position or overall trends in results of operations, litigation is subject to inherent
-uncertainties. were an unfavorable ruling to occur, there exists the possibility of a material adverse impact on the net income of the period in which the ruling occurs. the estimate of the potential
-impact on our financial position or overall results of operations for the above legal proceedings could change in the future.
-item 4. submission of matters to a vote of security holders
-none.
-part ii **
-item 5. market for the registrant's common equity and related stockholder matters
-(a)the
-information regarding market, market price range and dividend information appearing under "financial information by quarter (unaudited)" on page 35 of the company's 2000 annual
-report to stockholders is incorporated by reference.
-(b)as
-of february23, 2001, there were approximately 258,000 registered holders of record of intel's common stock.
-(c)unregistered
-sales of equity securities.
-in
-connection with the acquisition of level one communications, incorporated, intel assumed level one's obligations from its prior acquisition of sf telecom,inc. in complete satisfaction of
-these obligations to the former stockholders of sf telecom,inc., intel issued 23,685 shares of intel common stock to the former stockholders of sf telecom in november2000. this
-transaction was made, without general solicitation or advertising, pursuant to the exemption from registration provided by section4(2) of the securities act of 1933. the company believes that
-each purchaser (i)was an accredited investor or a sophisticated investor (either alone or through its representative) with access to all relevant information necessary, (ii)was
-acquiring the intel common stock solely for his or her own account and for investment, and (iii)does not intend to offer, sell or dispose of such shares except in compliance with the
-securities act of 1933.
-item 6. selected financial data
-the information regarding selected financial data for the fiscal years 1996 through 2000, under the heading "financial summary" on page 17 of the company's
-2000 annual report to stockholders, is incorporated by reference.
-in
-addition, the ratios of earnings to fixed charges for each of the five years in the period ended december30, 2000 are as follows:
-fiscal year
-108x
-206x
-167x
-166x
-171x
-fixed
-charges consist of interest expense and the estimated interest component of rent expense.
-item 7. management's discussion and analysis of financial condition and results of operations
-the information appearing under the heading "management's discussion and analysis of financial condition and results of operations" on pages 36 through 41 of
-our 2000 annual report to stockholders is incorporated by reference.
-in
-january2001, we announced that we entered into a definitive agreement to acquire xircom, inc and in march we successfully completed the tender offer. xircom is a supplier
-of pc cards and other products used to connect mobile computing devices to corporate networks and the internet.
-in
-february2001, we announced that we entered into a definitive agreement to acquire privately held vxtelinc. for approximately $550million in a cash
-transaction. vxtel develops voice-over-packet products that deliver high-quality voice and data communications over next-generation optical networks.
-the completion of this acquisition is subject to regulatory review and normal closing conditions.
-status of outlook and related risk factor statements
-we expect that our corporate representatives will meet privately from time to time with investors, the media, investment analysts and others. at these meetings
-we may reiterate the outlook as published in our outlook release of march8, 2001, including portions that are repeated or incorporated by reference into this annual report. at the same time,
-we will keep our outlook release and outlook publicly available on our web site (www.intc.com). prior to the start of the quiet period (described below), the public can continue to rely on the outlook
-on the web site as still being our current expectations on matters covered, unless we publish a notice stating otherwise.
-beginning
-march10, 2001, we will observe a "quiet period" when we no longer publish, or update, outlook as our current expectations and intel representatives will not comment
-concerning outlook or intel's financial results and expectations. the quiet period will extend until the day when our next quarterly earnings release is published, presently scheduled for
-april17, 2001.
-item 7a. quantitative and qualitative disclosures about market risk
-the information appearing under the subheading "financial market risks" under the heading "management's discussion and analysis of financial condition and
-results of operations" on pages 38 and 39 of the company's 2000 annual report to stockholders is incorporated by reference.
-item 8. financial statements and supplementary data
-consolidated financial statements of intel at december30, 2000 and december25, 1999, and for each of the three years in the period ended
-december30, 2000 and the report of independent auditors thereon, and the company's unaudited quarterly financial data for the two-year period ended december30, 2000 are
-incorporated by reference from the company's 2000 annual report to stockholders, on pages 17 through 35.
-item 9. changes in and disagreements with accountants on accounting and financial disclosure
-not applicable.
-part iii **
-item 10. directors and executive officers of the registrant
-the information regarding directors and executive officers appearing under the heading "election of directors" and "section16(a) beneficial ownership
-reporting compliance" of the company's proxy statement relating to its 2001 annual meeting of stockholders (the "2001 proxy statement") is incorporated by reference.
-item 11. executive compensation
-the information appearing under the headings "directors' compensation," "employment contracts and change of control arrangements," "compensation committee
-report on executive compensation," "stock price performance graph," and "executive compensation" of the 2001 proxy statement is incorporated by reference.
-item 12. security ownership of certain beneficial owners and management
-the
-information appearing in the 2001 proxy statement under the heading "security ownership of certain beneficial owners and management" is incorporated by reference.
-item 13. certain relationships and related transactions
-not applicable.
-part iv **
-item 14. exhibits, financial statement schedules and reports on form 8-k
-(a)
+
+SALES AND MARKETING AND ADMINISTRATIVE OFFICES.
+
+AS
+
+OF DECEMBER 30, 2000, WE ALSO LEASED 61 MAJOR FACILITIES IN THE UNITED STATES TOTALING APPROXIMATELY 2,586,000 SQUARE FEET, AND 47 FACILITIES IN OTHER COUNTRIES TOTALING
+
+APPROXIMATELY 1,440,000 SQUARE FEET. LEASED FACILITIES INCREASED DURING 2000, PRIMARILY DUE TO OVERALL GROWTH OF OPERATIONS. THESE LEASES EXPIRE AT VARYING DATES THROUGH 2013 AND INCLUDE RENEWALS AT
+
+OUR OPTION. WE BELIEVE THAT OUR EXISTING FACILITIES ARE SUITABLE AND ADEQUATE FOR OUR PRESENT PURPOSES, AND THAT THE PRODUCTIVE CAPACITY IN SUCH FACILITIES IS SUBSTANTIALLY BEING UTILIZED; HOWEVER, IN
+
+JANUARY 2001, WE ANNOUNCED THAT WE WOULD PHASE OUT OUR MANUFACTURING OPERATIONS IN PUERTO RICO DURING THE FIRST HALF OF 2001. WE ALSO HAVE APPROXIMATELY 3.4 MILLION SQUARE FEET OF
+
+BUILDING SPACE IN THE UNITED STATES AND APPROXIMATELY 1.5 MILLION SQUARE FEET OF BUILDING SPACE IN VARIOUS INTERNATIONAL SITES UNDER VARIOUS STAGES OF CONSTRUCTION FOR MANUFACTURING AND
+
+ADMINISTRATIVE PURPOSES.
+
+WE
+
+DO NOT IDENTIFY OR ALLOCATE ASSETS OR DEPRECIATION BY OPERATING SEGMENT. INFORMATION ON NET PROPERTY, PLANT AND EQUIPMENT BY COUNTRY UNDER THE HEADING "OPERATING SEGMENT AND
+
+GEOGRAPHIC INFORMATION" ON PAGE 33 OF THE REGISTRANT'S 2000 ANNUAL REPORT TO STOCKHOLDERS, IS INCORPORATED BY REFERENCE.
+
+(A)
+
+LEASES
+
+ON PORTIONS OF THE LAND USED FOR THESE FACILITIES EXPIRE IN 2003 THROUGH 2057.
+
+(B)
+
+LEASE
+
+ON A PORTION OF THE LAND USED FOR THESE FACILITIES EXPIRES IN 2039.
+
+(C)
+
+LEASES
+
+ON PORTIONS OF THE LAND USED FOR THESE FACILITIES EXPIRE IN 2008 THROUGH 2046.
+
+(D)
+
+LEASE
+
+ON A PORTION OF THE LAND USED FOR THESE FACILITIES EXPIRES IN 2046.
+
+17
+
+ITEM 3. LEGAL PROCEEDINGS
+
+A. LITIGATION
+
+INTERGRAPH
+
+CORPORATION V. INTEL
+
+U.S. DISTRICT COURT, NORTHERN DISTRICT OF ALABAMA, NORTHEASTERN DIVISION (CV-97-N-3023-NE)
+
+IN
+
+NOVEMBER 1997, INTERGRAPH CORPORATION FILED SUIT IN FEDERAL DISTRICT COURT IN ALABAMA, GENERALLY ALLEGING THAT INTEL ATTEMPTED TO COERCE INTERGRAPH INTO RELINQUISHING CERTAIN PATENT RIGHTS.
+
+THE SUIT ALLEGES THAT INTEL INFRINGES FIVE INTERGRAPH MICROPROCESSOR-RELATED PATENTS AND INCLUDES ALLEGED VIOLATIONS OF ANTITRUST LAWS AND VARIOUS STATE LAW CLAIMS. THE SUIT SEEKS INJUNCTIVE RELIEF,
+
+DAMAGES AND PREJUDGMENT INTEREST, AND FURTHER ALLEGES THAT INTEL'S INFRINGEMENT IS WILLFUL AND THAT ANY DAMAGES AWARDED SHOULD BE TREBLED. INTERGRAPH'S EXPERT WITNESS HAS CLAIMED THAT INTERGRAPH IS
+
+ENTITLED TO DAMAGES OF APPROXIMATELY $2.2 BILLION FOR INTEL'S ALLEGED PATENT INFRINGEMENT, $500 MILLION FOR THE ALLEGED ANTITRUST VIOLATIONS AND AN UNDETERMINED AMOUNT FOR ALLEGED STATE
+
+LAW VIOLATIONS. INTEL BELIEVES THAT IT DOES NOT INFRINGE INTERGRAPH'S PATENTS AND BELIEVES THOSE PATENTS ARE INVALID AND UNENFORCEABLE. INTEL HAS COUNTERCLAIMED THAT THE INTERGRAPH PATENTS ARE INVALID
+
+AND FURTHER ALLEGES INFRINGEMENT OF SEVEN INTEL PATENTS, BREACH OF CONTRACT AND MISAPPROPRIATION OF TRADE SECRETS. IN OCTOBER 1999, THE COURT RECONSIDERED AN EARLIER ADVERSE RULING AND GRANTED
+
+INTEL'S MOTION FOR SUMMARY JUDGMENT THAT THE INTERGRAPH PATENTS ARE LICENSED TO INTEL, AND DISMISSED ALL OF INTERGRAPH'S PATENT INFRINGEMENT CLAIMS WITH PREJUDICE. THIS RULING HAS BEEN REVERSED BY THE
+
+COURT OF APPEALS FOR THE FEDERAL CIRCUIT, AND AS A RESULT, THE PATENT ISSUES ARE RETURNED TO THE DISTRICT COURT. IN MARCH 2000, THE DISTRICT COURT GRANTED INTEL'S MOTION FOR SUMMARY JUDGMENT ON
+
+INTERGRAPH'S FEDERAL ANTITRUST CLAIMS, AND IN APRIL 2000, INTERGRAPH APPEALED THIS RULING. INTERGRAPH'S STATE LAW CLAIMS REMAIN AT ISSUE IN THE TRIAL COURT. THE COMPANY DISPUTES INTERGRAPH'S
+
+CLAIMS AND INTENDS TO DEFEND THE LAWSUIT VIGOROUSLY.
+
+B. ENVIRONMENTAL PROCEEDINGS
+
+WE
+
+HAVE BEEN NAMED TO THE CALIFORNIA AND U.S. SUPERFUND LISTS FOR THREE OF OUR SITES AND HAVE COMPLETED, ALONG WITH TWO OTHER COMPANIES, A REMEDIAL INVESTIGATION/FEASIBILITY STUDY WITH THE U.S.
+
+ENVIRONMENTAL PROTECTION AGENCY (EPA) TO EVALUATE THE GROUNDWATER IN AREAS ADJACENT TO ONE OF OUR FORMER SITES. THE EPA HAS ISSUED A RECORD OF DECISION WITH RESPECT TO A GROUNDWATER CLEANUP PLAN AT
+
+THAT SITE, INCLUDING EXPECTED COSTS TO COMPLETE. UNDER THE CALIFORNIA AND U.S. SUPERFUND STATUTES, LIABILITY FOR CLEANUP OF THIS SITE AND THE ADJACENT AREA IS JOINT AND SEVERAL. WE, HOWEVER, HAVE
+
+REACHED AGREEMENT WITH THOSE SAME TWO COMPANIES THAT SIGNIFICANTLY LIMITS OUR LIABILITIES UNDER THE PROPOSED CLEANUP PLAN. ALSO, WE HAVE COMPLETED EXTENSIVE STUDIES AT OUR OTHER SITES AND ARE ENGAGED
+
+IN CLEANUP AT SEVERAL OF THESE SITES. IN THE OPINION OF MANAGEMENT, INCLUDING INTERNAL COUNSEL, THE POTENTIAL LOSSES TO US IN EXCESS OF AMOUNTS ALREADY ACCRUED ARISING OUT OF THESE MATTERS WOULD NOT
+
+HAVE A MATERIAL ADVERSE EFFECT ON OUR FINANCIAL POSITION OR OVERALL TRENDS IN RESULTS OF OPERATIONS, EVEN IF JOINT AND SEVERAL LIABILITY WERE TO BE ASSESSED.
+
+WE
+
+ARE CURRENTLY PARTY TO VARIOUS LEGAL PROCEEDINGS, INCLUDING THOSE NOTED ABOVE. WHILE MANAGEMENT, INCLUDING INTERNAL COUNSEL, CURRENTLY BELIEVES THAT THE ULTIMATE OUTCOME OF THESE
+
+PROCEEDINGS, INDIVIDUALLY AND IN THE AGGREGATE, WILL NOT HAVE A MATERIAL ADVERSE EFFECT ON OUR FINANCIAL POSITION OR OVERALL TRENDS IN RESULTS OF OPERATIONS, LITIGATION IS SUBJECT TO INHERENT
+
+UNCERTAINTIES. WERE AN UNFAVORABLE RULING TO OCCUR, THERE EXISTS THE POSSIBILITY OF A MATERIAL ADVERSE IMPACT ON THE NET INCOME OF THE PERIOD IN WHICH THE RULING OCCURS. THE ESTIMATE OF THE POTENTIAL
+
+IMPACT ON OUR FINANCIAL POSITION OR OVERALL RESULTS OF OPERATIONS FOR THE ABOVE LEGAL PROCEEDINGS COULD CHANGE IN THE FUTURE.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+NONE.
+
+18
+
+PART II **
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+(A)
+
+THE
+
+INFORMATION REGARDING MARKET, MARKET PRICE RANGE AND DIVIDEND INFORMATION APPEARING UNDER "FINANCIAL INFORMATION BY QUARTER (UNAUDITED)" ON PAGE 35 OF THE COMPANY'S 2000 ANNUAL
+
+REPORT TO STOCKHOLDERS IS INCORPORATED BY REFERENCE.
+
+(B)
+
+AS
+
+OF FEBRUARY 23, 2001, THERE WERE APPROXIMATELY 258,000 REGISTERED HOLDERS OF RECORD OF INTEL'S COMMON STOCK.
+
+(C)
+
+UNREGISTERED
+
+SALES OF EQUITY SECURITIES.
+
+IN
+
+CONNECTION WITH THE ACQUISITION OF LEVEL ONE COMMUNICATIONS, INCORPORATED, INTEL ASSUMED LEVEL ONE'S OBLIGATIONS FROM ITS PRIOR ACQUISITION OF SF TELECOM, INC. IN COMPLETE SATISFACTION OF
+
+THESE OBLIGATIONS TO THE FORMER STOCKHOLDERS OF SF TELECOM, INC., INTEL ISSUED 23,685 SHARES OF INTEL COMMON STOCK TO THE FORMER STOCKHOLDERS OF SF TELECOM IN NOVEMBER 2000. THIS
+
+TRANSACTION WAS MADE, WITHOUT GENERAL SOLICITATION OR ADVERTISING, PURSUANT TO THE EXEMPTION FROM REGISTRATION PROVIDED BY SECTION 4(2) OF THE SECURITIES ACT OF 1933. THE COMPANY BELIEVES THAT
+
+EACH PURCHASER (I) WAS AN ACCREDITED INVESTOR OR A SOPHISTICATED INVESTOR (EITHER ALONE OR THROUGH ITS REPRESENTATIVE) WITH ACCESS TO ALL RELEVANT INFORMATION NECESSARY, (II) WAS
+
+ACQUIRING THE INTEL COMMON STOCK SOLELY FOR HIS OR HER OWN ACCOUNT AND FOR INVESTMENT, AND (III) DOES NOT INTEND TO OFFER, SELL OR DISPOSE OF SUCH SHARES EXCEPT IN COMPLIANCE WITH THE
+
+SECURITIES ACT OF 1933.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+THE INFORMATION REGARDING SELECTED FINANCIAL DATA FOR THE FISCAL YEARS 1996 THROUGH 2000, UNDER THE HEADING "FINANCIAL SUMMARY" ON PAGE 17 OF THE COMPANY'S
+
+2000 ANNUAL REPORT TO STOCKHOLDERS, IS INCORPORATED BY REFERENCE.
+
+IN
+
+ADDITION, THE RATIOS OF EARNINGS TO FIXED CHARGES FOR EACH OF THE FIVE YEARS IN THE PERIOD ENDED DECEMBER 30, 2000 ARE AS FOLLOWS.
+
+FISCAL YEAR
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+108X
+
+206X
+
+167X
+
+166X
+
+171X
+
+FIXED
+
+CHARGES CONSIST OF INTEREST EXPENSE AND THE ESTIMATED INTEREST COMPONENT OF RENT EXPENSE.
+
+19
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+THE INFORMATION APPEARING UNDER THE HEADING "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS" ON PAGES 36 THROUGH 41 OF
+
+OUR 2000 ANNUAL REPORT TO STOCKHOLDERS IS INCORPORATED BY REFERENCE.
+
+IN
+
+JANUARY 2001, WE ANNOUNCED THAT WE ENTERED INTO A DEFINITIVE AGREEMENT TO ACQUIRE XIRCOM, INC AND IN MARCH WE SUCCESSFULLY COMPLETED THE TENDER OFFER. XIRCOM IS A SUPPLIER
+
+OF PC CARDS AND OTHER PRODUCTS USED TO CONNECT MOBILE COMPUTING DEVICES TO CORPORATE NETWORKS AND THE INTERNET.
+
+IN
+
+FEBRUARY 2001, WE ANNOUNCED THAT WE ENTERED INTO A DEFINITIVE AGREEMENT TO ACQUIRE PRIVATELY HELD VXTEL INC. FOR APPROXIMATELY $550 MILLION IN A CASH
+
+TRANSACTION. VXTEL DEVELOPS VOICE-OVER-PACKET PRODUCTS THAT DELIVER HIGH-QUALITY VOICE AND DATA COMMUNICATIONS OVER NEXT-GENERATION OPTICAL NETWORKS.
+
+THE COMPLETION OF THIS ACQUISITION IS SUBJECT TO REGULATORY REVIEW AND NORMAL CLOSING CONDITIONS.
+
+STATUS OF OUTLOOK AND RELATED RISK FACTOR STATEMENTS
+
+WE EXPECT THAT OUR CORPORATE REPRESENTATIVES WILL MEET PRIVATELY FROM TIME TO TIME WITH INVESTORS, THE MEDIA, INVESTMENT ANALYSTS AND OTHERS. AT THESE MEETINGS
+
+WE MAY REITERATE THE OUTLOOK AS PUBLISHED IN OUR OUTLOOK RELEASE OF MARCH 8, 2001, INCLUDING PORTIONS THAT ARE REPEATED OR INCORPORATED BY REFERENCE INTO THIS ANNUAL REPORT. AT THE SAME TIME,
+
+WE WILL KEEP OUR OUTLOOK RELEASE AND OUTLOOK PUBLICLY AVAILABLE ON OUR WEB SITE (WWW.INTC.COM). PRIOR TO THE START OF THE QUIET PERIOD (DESCRIBED BELOW), THE PUBLIC CAN CONTINUE TO RELY ON THE OUTLOOK
+
+ON THE WEB SITE AS STILL BEING OUR CURRENT EXPECTATIONS ON MATTERS COVERED, UNLESS WE PUBLISH A NOTICE STATING OTHERWISE.
+
+BEGINNING
+
+MARCH 10, 2001, WE WILL OBSERVE A "QUIET PERIOD" WHEN WE NO LONGER PUBLISH, OR UPDATE, OUTLOOK AS OUR CURRENT EXPECTATIONS AND INTEL REPRESENTATIVES WILL NOT COMMENT
+
+CONCERNING OUTLOOK OR INTEL'S FINANCIAL RESULTS AND EXPECTATIONS. THE QUIET PERIOD WILL EXTEND UNTIL THE DAY WHEN OUR NEXT QUARTERLY EARNINGS RELEASE IS PUBLISHED, PRESENTLY SCHEDULED FOR
+
+APRIL 17, 2001.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+THE INFORMATION APPEARING UNDER THE SUBHEADING "FINANCIAL MARKET RISKS" UNDER THE HEADING "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS" ON PAGES 38 AND 39 OF THE COMPANY'S 2000 ANNUAL REPORT TO STOCKHOLDERS IS INCORPORATED BY REFERENCE.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+CONSOLIDATED FINANCIAL STATEMENTS OF INTEL AT DECEMBER 30, 2000 AND DECEMBER 25, 1999, AND FOR EACH OF THE THREE YEARS IN THE PERIOD ENDED
+
+DECEMBER 30, 2000 AND THE REPORT OF INDEPENDENT AUDITORS THEREON, AND THE COMPANY'S UNAUDITED QUARTERLY FINANCIAL DATA FOR THE TWO-YEAR PERIOD ENDED DECEMBER 30, 2000 ARE
+
+INCORPORATED BY REFERENCE FROM THE COMPANY'S 2000 ANNUAL REPORT TO STOCKHOLDERS, ON PAGES 17 THROUGH 35.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+NOT APPLICABLE.
+
+20
+
+PART III **
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+THE INFORMATION REGARDING DIRECTORS AND EXECUTIVE OFFICERS APPEARING UNDER THE HEADING "ELECTION OF DIRECTORS" AND "SECTION 16(A) BENEFICIAL OWNERSHIP
+
+REPORTING COMPLIANCE" OF THE COMPANY'S PROXY STATEMENT RELATING TO ITS 2001 ANNUAL MEETING OF STOCKHOLDERS (THE "2001 PROXY STATEMENT") IS INCORPORATED BY REFERENCE.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+THE INFORMATION APPEARING UNDER THE HEADINGS "DIRECTORS' COMPENSATION," "EMPLOYMENT CONTRACTS AND CHANGE OF CONTROL ARRANGEMENTS," "COMPENSATION COMMITTEE
+
+REPORT ON EXECUTIVE COMPENSATION," "STOCK PRICE PERFORMANCE GRAPH," AND "EXECUTIVE COMPENSATION" OF THE 2001 PROXY STATEMENT IS INCORPORATED BY REFERENCE.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+THE
+
+INFORMATION APPEARING IN THE 2001 PROXY STATEMENT UNDER THE HEADING "SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT" IS INCORPORATED BY REFERENCE.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+NOT APPLICABLE.
+
+21
+
+PART IV **
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(A)
+
 1.
-financial statements
-the financial statements listed in the accompanying index to financial statements and financial statement schedules are filed or incorporated by reference as part of this annual report.
+
+FINANCIAL STATEMENTS
+
+THE FINANCIAL STATEMENTS LISTED IN THE ACCOMPANYING INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES ARE FILED OR INCORPORATED BY REFERENCE AS PART OF THIS ANNUAL REPORT.
+
 2.
-financial statement schedule
-the financial statement schedule listed in the accompanying index to financial statements and financial statement schedules is filed as part of this annual report.
+
+FINANCIAL STATEMENT SCHEDULE
+
+THE FINANCIAL STATEMENT SCHEDULE LISTED IN THE ACCOMPANYING INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES IS FILED AS PART OF THIS ANNUAL REPORT.
+
 3.
-exhibits
-the exhibits listed in the accompanying index to exhibits are filed or incorporated by reference as part of this annual report.
-(b)
-reports on form8-k
-on october20, 2000, intel filed a report on form8-k relating to financial information for intel corporation for the quarter ended september30, 2000 and forward-looking statements relating to the fourth
-quarter of 2000 and the second half of 2000, as presented in a press release of october17, 2000.
-on december8, 2000, intel filed a report on form8-k relating to an announcement regarding an update to forward-looking statements relating to 2000 and the fourth quarter of 2000 as presented in a press release
-of december7, 2000.
-index to financial statements and financial statement schedules
-(item 14 (a))
-reference page
-form 10-k
-2000 annual reportto stockholders
-consolidated balance sheets at
-december30, 2000 and december25, 1999
-consolidated statements of income for
-the years ended december30, 2000,
-december25, 1999 and december26, 1998
-consolidated statements of cash flows
-for the years ended december30, 2000,
-december25, 1999 and december26, 1998
-consolidated statements of stockholders'
-equity for the years ended december30, 2000,
-december25, 1999 and december26, 1998
-notes to consolidated financial statements for
-december30, 2000, december25, 1999 and
-december26, 1998
+
+EXHIBITS
+
+THE EXHIBITS LISTED IN THE ACCOMPANYING INDEX TO EXHIBITS ARE FILED OR INCORPORATED BY REFERENCE AS PART OF THIS ANNUAL REPORT.
+
+(B)
+
+REPORTS ON FORM 8-K
+
+ON OCTOBER 20, 2000, INTEL FILED A REPORT ON FORM 8-K RELATING TO FINANCIAL INFORMATION FOR INTEL CORPORATION FOR THE QUARTER ENDED SEPTEMBER 30, 2000 AND FORWARD-LOOKING STATEMENTS RELATING TO THE FOURTH
+
+QUARTER OF 2000 AND THE SECOND HALF OF 2000, AS PRESENTED IN A PRESS RELEASE OF OCTOBER 17, 2000.
+
+ON DECEMBER 8, 2000, INTEL FILED A REPORT ON FORM 8-K RELATING TO AN ANNOUNCEMENT REGARDING AN UPDATE TO FORWARD-LOOKING STATEMENTS RELATING TO 2000 AND THE FOURTH QUARTER OF 2000 AS PRESENTED IN A PRESS RELEASE
+
+OF DECEMBER 7, 2000.
+
+22
+
+INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES
+
+(ITEM 14 (A))
+
+REFERENCE PAGE
+
+FORM 10-K
+
+2000 ANNUAL REPORT TO STOCKHOLDERS
+
+CONSOLIDATED BALANCE SHEETS AT
+
+DECEMBER 30, 2000 AND DECEMBER 25, 1999
+
+19
+
+CONSOLIDATED STATEMENTS OF INCOME FOR
+
+THE YEARS ENDED DECEMBER 30, 2000,
+
+DECEMBER 25, 1999 AND DECEMBER 26, 1998
+
+18
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+FOR THE YEARS ENDED DECEMBER 30, 2000,
+
+DECEMBER 25, 1999 AND DECEMBER 26, 1998
+
+20
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS'
+
+EQUITY FOR THE YEARS ENDED DECEMBER 30, 2000,
+
+DECEMBER 25, 1999 AND DECEMBER 26, 1998
+
+21
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS FOR
+
+DECEMBER 30, 2000, DECEMBER 25, 1999 AND
+
+DECEMBER 26, 1998
+
 22-33
-report of ernst& young llp, independent auditors
-supplemental information
-financial information by quarter (unaudited)
-schedule for the years ended december30, 2000,
-december25, 1999 and december26, 1998:
-iivaluation and qualifying accounts
-schedules
-other than the one listed above are omitted for the reason that they are not required or are not applicable, or the required information is shown in the financial statements
-or notes thereto.
-the
-consolidated financial statements listed in the above index, which are included in our 2000 annual report to stockholders, are incorporated by reference. with the exception of the
-pages listed in the above index and the portions of such report referred to in items 1, 5, 6, 7, 7a and 8 of this form10-k, the 2000 annual report to stockholders is not to be
-deemed filed as part of this report.
-intel corporation
-schedule iivaluation and qualifying accounts
-december26,
-1998, december25, 1999 and december30, 2000
-(in millions)
-balance at
-beginning
-of year
-additions
-charged to
-costs and
-expenses
-deductions (a)
-balance
-at end
-of year
-allowance for doubtful receivables
-$
-$
-$
-$
-allowance for doubtful receivables
-$
-$
-$
-$
-allowance for doubtful receivables
-$
-$
-$
-$
-(a)uncollectible
-accounts written off, net of recoveries.
-index to exhibits
-(item
-14(a))
-description
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+34
+
+SUPPLEMENTAL INFORMATION
+
+FINANCIAL INFORMATION BY QUARTER (UNAUDITED)
+
+35
+
+SCHEDULE FOR THE YEARS ENDED DECEMBER 30, 2000,
+
+DECEMBER 25, 1999 AND DECEMBER 26, 1998.
+
+IIVALUATION AND QUALIFYING ACCOUNTS
+
+24
+
+SCHEDULES
+
+OTHER THAN THE ONE LISTED ABOVE ARE OMITTED FOR THE REASON THAT THEY ARE NOT REQUIRED OR ARE NOT APPLICABLE, OR THE REQUIRED INFORMATION IS SHOWN IN THE FINANCIAL STATEMENTS
+
+OR NOTES THERETO.
+
+THE
+
+CONSOLIDATED FINANCIAL STATEMENTS LISTED IN THE ABOVE INDEX, WHICH ARE INCLUDED IN OUR 2000 ANNUAL REPORT TO STOCKHOLDERS, ARE INCORPORATED BY REFERENCE. WITH THE EXCEPTION OF THE
+
+PAGES LISTED IN THE ABOVE INDEX AND THE PORTIONS OF SUCH REPORT REFERRED TO IN ITEMS 1, 5, 6, 7, 7A AND 8 OF THIS FORM 10-K, THE 2000 ANNUAL REPORT TO STOCKHOLDERS IS NOT TO BE
+
+DEEMED FILED AS PART OF THIS REPORT.
+
+23
+
+INTEL CORPORATION
+
+SCHEDULE IIVALUATION AND QUALIFYING ACCOUNTS
+
+DECEMBER 26,
+
+1998, DECEMBER 25, 1999 AND DECEMBER 30, 2000
+
+(IN MILLIONS)
+
+BALANCE AT
+
+BEGINNING
+
+OF YEAR
+
+ADDITIONS
+
+CHARGED TO
+
+COSTS AND
+
+EXPENSES
+
+DEDUCTIONS (A)
+
+BALANCE
+
+AT END
+
+OF YEAR
+
+1998
+
+ALLOWANCE FOR DOUBTFUL RECEIVABLES
+
+$65
+
+$14
+
+$17
+
+$62
+
+1999
+
+ALLOWANCE FOR DOUBTFUL RECEIVABLES
+
+$62
+
+$17
+
+$12
+
+$67
+
+2000
+
+ALLOWANCE FOR DOUBTFUL RECEIVABLES
+
+$67
+
+$33
+
+$16
+
+$84
+
+(A)
+
+UNCOLLECTIBLE
+
+ACCOUNTS WRITTEN OFF, NET OF RECOVERIES.
+
+24
+
+INDEX TO EXHIBITS
+
+(ITEM
+
+14(A))
+
+DESCRIPTION
+
 3.1
-intel corporation restated certificate of incorporation dated may11, 1993, certificate of amendment to the restated certificate of incorporation dated june2, 1997 (incorporated by reference to exhibit3.1
-of registrant's form10-k as filed on march27, 1998) and certificate of amendment to the restated certificate of incorporation dated may18, 2000 (incorporated by reference to exhibit3.1 of registrant's form10-q as filed
-on august14, 2000).
+
+INTEL CORPORATION RESTATED CERTIFICATE OF INCORPORATION DATED MAY 11, 1993, CERTIFICATE OF AMENDMENT TO THE RESTATED CERTIFICATE OF INCORPORATION DATED JUNE 2, 1997 (INCORPORATED BY REFERENCE TO EXHIBIT 3.1
+
+OF REGISTRANT'S FORM 10-K AS FILED ON MARCH 27, 1998) AND CERTIFICATE OF AMENDMENT TO THE RESTATED CERTIFICATE OF INCORPORATION DATED MAY 18, 2000 (INCORPORATED BY REFERENCE TO EXHIBIT 3.1 OF REGISTRANT'S FORM 10-Q AS FILED
+
+ON AUGUST 14, 2000).
+
 3.2
-intel corporation bylaws as amended (incorporated by reference to exhibit3.1 of registrant's form10-q for the quarter ended june26, 1999 as filed on august2, 1999).
+
+INTEL CORPORATION BYLAWS AS AMENDED (INCORPORATED BY REFERENCE TO EXHIBIT 3.1 OF REGISTRANT'S FORM 10-Q FOR THE QUARTER ENDED JUNE 26, 1999 AS FILED ON AUGUST 2, 1999).
+
 4.1
-agreement to provide instruments defining the rights of security holders (incorporated by reference to exhibit4.1 of registrant's form10-k as filed on march28, 1986).
+
+AGREEMENT TO PROVIDE INSTRUMENTS DEFINING THE RIGHTS OF SECURITY HOLDERS (INCORPORATED BY REFERENCE TO EXHIBIT 4.1 OF REGISTRANT'S FORM 10-K AS FILED ON MARCH 28, 1986).
+
 10.1*
-intel corporation 1984 stock option plan as amended and restated, effective july16, 1997 (incorporated by reference to exhibit10.1 of registrant's form10-q for the quarter ended june27, 1998 as filed on august11,
+
+INTEL CORPORATION 1984 STOCK OPTION PLAN AS AMENDED AND RESTATED, EFFECTIVE JULY 16, 1997 (INCORPORATED BY REFERENCE TO EXHIBIT 10.1 OF REGISTRANT'S FORM 10-Q FOR THE QUARTER ENDED JUNE 27, 1998 AS FILED ON AUGUST 11,
+
 1998).
+
 10.2*
-intel corporation 1988 executive long-term stock option plan as amended and restated, effective july16, 1997 (incorporated by reference to exhibit10.2 of registrant's form10-q for the quarter ended june27, 1998 as filed on
-august11, 1998).
+
+INTEL CORPORATION 1988 EXECUTIVE LONG-TERM STOCK OPTION PLAN AS AMENDED AND RESTATED, EFFECTIVE JULY 16, 1997 (INCORPORATED BY REFERENCE TO EXHIBIT 10.2 OF REGISTRANT'S FORM 10-Q FOR THE QUARTER ENDED JUNE 27, 1998 AS FILED ON
+
+AUGUST 11, 1998).
+
 10.3*
-intel corporation executive officer bonus plan as amended and restated effective january1, 2000 (incorporated by reference to exhibita of registrant's proxy statement on schedule14a as filed on april12, 2000).
+
+INTEL CORPORATION EXECUTIVE OFFICER BONUS PLAN AS AMENDED AND RESTATED EFFECTIVE JANUARY 1, 2000 (INCORPORATED BY REFERENCE TO EXHIBIT A OF REGISTRANT'S PROXY STATEMENT ON SCHEDULE 14A AS FILED ON APRIL 12, 2000).
+
 10.4*
-intel corporation sheltered employee retirement plan plus, as amended and restated effective july15, 1996 (incorporated by reference to exhibit4.1.1 of registrant's post-effective amendment no.1 to registration statement on form
-s-8 as filed on july17, 1996).
+
+INTEL CORPORATION SHELTERED EMPLOYEE RETIREMENT PLAN PLUS, AS AMENDED AND RESTATED EFFECTIVE JULY 15, 1996 (INCORPORATED BY REFERENCE TO EXHIBIT 4.1.1 OF REGISTRANT'S POST-EFFECTIVE AMENDMENT NO. 1 TO REGISTRATION STATEMENT ON FORM
+
+S-8 AS FILED ON JULY 17, 1996).
+
 10.5*
-special deferred compensation plan (incorporated by reference to exhibit4.1 of registrant's registration statement on forms-8 as filed on february2, 1998).
+
+SPECIAL DEFERRED COMPENSATION PLAN (INCORPORATED BY REFERENCE TO EXHIBIT 4.1 OF REGISTRANT'S REGISTRATION STATEMENT ON FORM S-8 AS FILED ON FEBRUARY 2, 1998).
+
 10.6*
-intel corporation deferral plan for outside directors, effective july1, 1998 (incorporated by reference to exhibit10.6 of the registrant's form10-k as filed on march26, 1999).
+
+INTEL CORPORATION DEFERRAL PLAN FOR OUTSIDE DIRECTORS, EFFECTIVE JULY 1, 1998 (INCORPORATED BY REFERENCE TO EXHIBIT 10.6 OF THE REGISTRANT'S FORM 10-K AS FILED ON MARCH 26, 1999).
+
 12.
-statement setting forth the computation of ratios of earnings to fixed charges.
+
+STATEMENT SETTING FORTH THE COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES.
+
 13.
-portions of the annual report to stockholders for the fiscal year ended december30, 2000, as specified elsewhere in this document, are expressly incorporated by reference herein.
+
+PORTIONS OF THE ANNUAL REPORT TO STOCKHOLDERS FOR THE FISCAL YEAR ENDED DECEMBER 30, 2000, AS SPECIFIED ELSEWHERE IN THIS DOCUMENT, ARE EXPRESSLY INCORPORATED BY REFERENCE HEREIN.
+
 21.
-intel subsidiaries.
+
+INTEL SUBSIDIARIES.
+
 23.
-consent of ernst& young llp, independent auditors.
-*compensation
-plans or arrangements in which directors and executive officers are eligible to participate.
-signatures
-pursuant to the requirements of section13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this report to be signed on
-its behalf by the undersigned, thereunto duly authorized.
-intel corporation registrant
-by
-/s/f. thomas dunlap, jr. f. thomas dunlap, jr.
-senior vice president, general counsel
-and secretary
-march12, 2001
-pursuant
-to the requirements of the securities exchange act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the
-capacities and on the dates indicated.
-/s/craig r. barrett craig r. barrett
-president, chief executive officer and director, principal executive officer
-march12, 2001
-/s/gordon e. moore gordon e. moore
-chairman emeritus of the board and director
-march12, 2001
-/s/john p. browne john p. browne
-director
-march12, 2001
-/s/david s. pottruck david s. pottruck
-director
-march12, 2001
-/s/andy d. bryant andy d. bryant
-executive vice president, chief financial officer and principal accounting officer
-march12, 2001
-/s/jane e. shaw jane e. shaw
-director
-march12, 2001
-/s/winston h. chen winston h. chen
-director
-march12, 2001
-/s/leslie l. vadasz leslie l. vadasz
-executive vice president director
-march12, 2001
-/s/andrew s. grove andrew s. grove
-chairman of the board and director
-march12, 2001
-/s/david b. yoffie david b. yoffie
-director
-march12, 2001
-/s/d. james guzy d. james guzy
-director
-march12, 2001
-/s/charles e. young charles e. young
-director
-march12, 2001
+
+CONSENT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS.
+
+*
+
+COMPENSATION
+
+PLANS OR ARRANGEMENTS IN WHICH DIRECTORS AND EXECUTIVE OFFICERS ARE ELIGIBLE TO PARTICIPATE.
+
+25
+
+SIGNATURES
+
+PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934, THE REGISTRANT HAS DULY CAUSED THIS REPORT TO BE SIGNED ON
+
+ITS BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED.
+
+INTEL CORPORATION
+
+REGISTRANT
+
+BY
+
+/S/
+
+F. THOMAS DUNLAP, JR.
+
+F. THOMAS DUNLAP, JR.
+
+SENIOR VICE PRESIDENT, GENERAL COUNSEL
+
+AND SECRETARY
+
+MARCH 12, 2001
+
+PURSUANT
+
+TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE REGISTRANT AND IN THE
+
+CAPACITIES AND ON THE DATES INDICATED.
+
+/S/
+
+CRAIG R. BARRETT
+
+CRAIG R. BARRETT
+
+PRESIDENT, CHIEF EXECUTIVE OFFICER AND DIRECTOR, PRINCIPAL EXECUTIVE OFFICER
+
+MARCH 12, 2001
+
+/S/
+
+GORDON E. MOORE
+
+GORDON E. MOORE
+
+CHAIRMAN EMERITUS OF THE BOARD AND DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+JOHN P. BROWNE
+
+JOHN P. BROWNE
+
+DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+DAVID S. POTTRUCK
+
+DAVID S. POTTRUCK
+
+DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+ANDY D. BRYANT
+
+ANDY D. BRYANT
+
+EXECUTIVE VICE PRESIDENT, CHIEF FINANCIAL OFFICER AND PRINCIPAL ACCOUNTING OFFICER
+
+MARCH 12, 2001
+
+/S/
+
+JANE E. SHAW
+
+JANE E. SHAW
+
+DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+WINSTON H. CHEN
+
+WINSTON H. CHEN
+
+DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+LESLIE L. VADASZ
+
+LESLIE L. VADASZ
+
+EXECUTIVE VICE PRESIDENT DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+ANDREW S. GROVE
+
+ANDREW S. GROVE
+
+CHAIRMAN OF THE BOARD AND DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+DAVID B. YOFFIE
+
+DAVID B. YOFFIE
+
+DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+D. JAMES GUZY
+
+D. JAMES GUZY
+
+DIRECTOR
+
+MARCH 12, 2001
+
+/S/
+
+CHARLES E. YOUNG
+
+CHARLES E. YOUNG
+
+DIRECTOR
+
+MARCH 12, 2001
+
+26
+

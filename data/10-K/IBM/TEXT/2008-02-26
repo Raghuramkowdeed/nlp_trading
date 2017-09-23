@@ -1,1151 +1,2756 @@
-10-k
-a2181836z10-k.htm
-10-k
-quicklinks
--- click here to rapidly navigate through this document
-united states
-securities and exchange commission washington, d.c. 20549
-form 10-k annual report
-pursuant to section13 or 15 (d)of the
-securities exchange act of 1934
-for the year ended december 31, 2007
-1-2360 (commission file number)
-international business machines corporation (exact name of registrant as specified in its charter)
-new york (state of incorporation)
-13-0871985 (irs employer identification number)
-armonk, new york (address of principal executive offices)
-10504 (zip code)
-914-499-1900 (registrant's telephone number)
-securities registered pursuant to section12(b) of the act:
-title of each class
-voting shares outstanding
-at february8, 2008
-name of each exchange
-on which registered
-capital stock, par value $.20 per share
+
+
+10-K
+
+1
+
+A2181836Z10-K.HTM
+
+10-K
+
+QUICKLINKS
+
+-- CLICK HERE TO RAPIDLY NAVIGATE THROUGH THIS DOCUMENT
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+ANNUAL REPORT
+
+PURSUANT TO SECTION 13 OR 15 (D) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE YEAR ENDED DECEMBER 31, 2007
+
+1-2360
+
+(COMMISSION FILE NUMBER)
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+NEW YORK
+
+(STATE OF INCORPORATION)
+
+13-0871985
+
+(IRS EMPLOYER IDENTIFICATION NUMBER)
+
+ARMONK, NEW YORK
+
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+10504
+
+(ZIP CODE)
+
+914-499-1900
+
+(REGISTRANT'S TELEPHONE NUMBER)
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT.
+
+TITLE OF EACH CLASS
+
+VOTING SHARES OUTSTANDING
+
+AT FEBRUARY 8, 2008
+
+NAME OF EACH EXCHANGE
+
+ON WHICH REGISTERED
+
+CAPITAL STOCK, PAR VALUE $.20 PER SHARE
+
 1,384,330,881
-new york stock exchange
-chicago stock exchange
-5.375% notes due 2009
-new york stock exchange
-4.00% notes due 2011
-new york stock exchange
-4.95% notes due 2011
-new york stock exchange
-7.50% debentures due 2013
-new york stock exchange
-8.375% debentures due 2019
-new york stock exchange
-7.00% debentures due 2025
-new york stock exchange
-6.22% debentures due 2027
-new york stock exchange
-6.50% debentures due 2028
-new york stock exchange
-7.00% debentures due 2045
-new york stock exchange
-7.125% debentures due 2096
-new york stock exchange
-indicate by check mark if the registrant is a well-known seasoned issuer as defined in
-rule405 of the securities act. yesnoo
-indicate by check mark if the registrant is not required to file reports pursuant to section13 or
-section15(d) of the act. yesono
-indicate by check mark whether the registrant (1)has filed all reports required to be filed by
-section13 or 15(d) of the securities exchange act of 1934 during the preceding 12months (or for such shorter period that the registrant was required to file such reports), and
-(2)has been subject to such filing requirements for the past 90days.
-yesnoo
-indicate by check mark if disclosure of delinquent filers pursuant to item 405 of
-regulations-k is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in
-partiii of this form10-k or any amendment to this form10-k.
-indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
-non-accelerated filer, or a smaller reporting company. see definition of "accelerated filer," "large accelerated filer" and "smaller reporting company" in rule12b-2 of
-the exchange act.
-large accelerated filer
-acceleratedfilero
-non-accelerated filero
-smaller reporting companyo
-(do not check if a smaller reporting company)
-indicate by check mark whether the registrant is a shell company (as defined in exchange act
-rule12b-2). yesono
-the aggregate market value of the voting stock held by non-affiliates of the registrant as of
-the last business day of the registrant's most recently completed second fiscal quarter was $144.1billion.
-documents incorporated by reference:
-portions of ibm's annual report to stockholders for the year ended december31, 2007 into parts i, ii
-and iv of form10-k.
-portions of ibm's definitive proxy statement to be filed with the securities and exchange commission and
-delivered to stockholders in connection with the annual meeting of stockholders to be held april29, 2008 are incorporated by reference into partiii of form10-k.
-part i
-item 1. business:
-international business machines corporation (ibm or the company) was incorporated in the state of new york on june16, 1911, as the
-computing-tabulating-recording co. (c-t-r), a consolidation of the computing scale co. of america, the tabulating machine co. and the international time recording co. of new
-york. since that time, ibm has focused on the intersection of business insight and technological invention, and its operations and aims have been international in nature. this was signaled over
-80years ago, in 1924, when c-t-r changed its name to international business machines corporation. and it continues today: ibm is a globally integrated innovation
-company, serving the needs of enterprises and institutions worldwide. to help clients achieve growth, effectiveness, efficiency and the realization of greater value through innovation, ibm draws upon
-the world's leading systems, software and services capabilities.
+
+NEW YORK STOCK EXCHANGE
+
+CHICAGO STOCK EXCHANGE
+
+5.375% NOTES DUE 2009
+
+NEW YORK STOCK EXCHANGE
+
+4.00% NOTES DUE 2011
+
+NEW YORK STOCK EXCHANGE
+
+4.95% NOTES DUE 2011
+
+NEW YORK STOCK EXCHANGE
+
+7.50% DEBENTURES DUE 2013
+
+NEW YORK STOCK EXCHANGE
+
+8.375% DEBENTURES DUE 2019
+
+NEW YORK STOCK EXCHANGE
+
+7.00% DEBENTURES DUE 2025
+
+NEW YORK STOCK EXCHANGE
+
+6.22% DEBENTURES DUE 2027
+
+NEW YORK STOCK EXCHANGE
+
+6.50% DEBENTURES DUE 2028
+
+NEW YORK STOCK EXCHANGE
+
+7.00% DEBENTURES DUE 2045
+
+NEW YORK STOCK EXCHANGE
+
+7.125% DEBENTURES DUE 2096
+
+NEW YORK STOCK EXCHANGE
+
+INDICATE BY CHECK MARK IF THE REGISTRANT IS A WELL-KNOWN SEASONED ISSUER AS DEFINED IN
+
+RULE 405 OF THE SECURITIES ACT. YES
+
+Ý
+
+NO
+
+O
+
+INDICATE BY CHECK MARK IF THE REGISTRANT IS NOT REQUIRED TO FILE REPORTS PURSUANT TO SECTION 13 OR
+
+SECTION 15(D) OF THE ACT. YES
+
+O
+
+NO
+
+Ý
+
+INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS REQUIRED TO BE FILED BY
+
+SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND
+
+(2) HAS BEEN SUBJECT TO SUCH FILING REQUIREMENTS FOR THE PAST 90 DAYS.
+
+YES
+
+Ý
+
+NO
+
+O
+
+INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO ITEM 405 OF
+
+REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO THE BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION STATEMENTS INCORPORATED BY REFERENCE IN
+
+PART III OF THIS FORM 10-K OR ANY AMENDMENT TO THIS FORM 10-K.
+
+Ý
+
+INDICATE BY CHECK MARK WHETHER THE REGISTRANT IS A LARGE ACCELERATED FILER, AN ACCELERATED FILER, A
+
+NON-ACCELERATED FILER, OR A SMALLER REPORTING COMPANY. SEE DEFINITION OF "ACCELERATED FILER," "LARGE ACCELERATED FILER" AND "SMALLER REPORTING COMPANY" IN RULE 12B-2 OF
+
+THE EXCHANGE ACT.
+
+LARGE ACCELERATED FILER
+
+Ý
+
+ACCELERATED FILER
+
+O
+
+NON-ACCELERATED FILER
+
+O
+
+SMALLER REPORTING COMPANY
+
+O
+
+(DO NOT CHECK IF A SMALLER REPORTING COMPANY)
+
+INDICATE BY CHECK MARK WHETHER THE REGISTRANT IS A SHELL COMPANY (AS DEFINED IN EXCHANGE ACT
+
+RULE 12B-2). YES
+
+O
+
+NO
+
+Ý
+
+THE AGGREGATE MARKET VALUE OF THE VOTING STOCK HELD BY NON-AFFILIATES OF THE REGISTRANT AS OF
+
+THE LAST BUSINESS DAY OF THE REGISTRANT'S MOST RECENTLY COMPLETED SECOND FISCAL QUARTER WAS $144.1 BILLION.
+
+DOCUMENTS INCORPORATED BY REFERENCE.
+
+PORTIONS OF IBM'S ANNUAL REPORT TO STOCKHOLDERS FOR THE YEAR ENDED DECEMBER 31, 2007 INTO PARTS I, II
+
+AND IV OF FORM 10-K.
+
+PORTIONS OF IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND
+
+DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008 ARE INCORPORATED BY REFERENCE INTO PART III OF FORM 10-K.
+
+PART I
+
+ITEM 1. BUSINESS.
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM OR THE COMPANY) WAS INCORPORATED IN THE STATE OF NEW YORK ON JUNE 16, 1911, AS THE
+
+COMPUTING-TABULATING-RECORDING CO. (C-T-R), A CONSOLIDATION OF THE COMPUTING SCALE CO. OF AMERICA, THE TABULATING MACHINE CO. AND THE INTERNATIONAL TIME RECORDING CO. OF NEW
+
+YORK. SINCE THAT TIME, IBM HAS FOCUSED ON THE INTERSECTION OF BUSINESS INSIGHT AND TECHNOLOGICAL INVENTION, AND ITS OPERATIONS AND AIMS HAVE BEEN INTERNATIONAL IN NATURE. THIS WAS SIGNALED OVER
+
+80 YEARS AGO, IN 1924, WHEN C-T-R CHANGED ITS NAME TO INTERNATIONAL BUSINESS MACHINES CORPORATION. AND IT CONTINUES TODAY: IBM IS A GLOBALLY INTEGRATED INNOVATION
+
+COMPANY, SERVING THE NEEDS OF ENTERPRISES AND INSTITUTIONS WORLDWIDE. TO HELP CLIENTS ACHIEVE GROWTH, EFFECTIVENESS, EFFICIENCY AND THE REALIZATION OF GREATER VALUE THROUGH INNOVATION, IBM DRAWS UPON
+
+THE WORLD'S LEADING SYSTEMS, SOFTWARE AND SERVICES CAPABILITIES.
+
 *
+
 * *
-description of business
-ibm is a globally integrated enterprise that targets the intersection of technology and effective business. the company seeks to be a partner in its clients'
-success by enabling their own capacity for distinctive innovation. to help clients achieve growth, effectiveness, efficiency and the realization of greater value through innovation, ibm draws upon the
-world's leading systems, software and services capabilities.
-ibm's strategy
-in ibm's view, today's networked economy has created a global business landscape and a mandate for business change. integrated global economies have opened
-markets of new opportunity and new sources of skills. the internet has enabled communication and collaboration across the world and brought with it a new computing model premised on continuous global
-connection. in that landscape, companies can distribute work and technology anywhere in the world.
-given
-these opportunities, ibm is working with its clients to develop new business designs and technical architectures that allow their businesses the flexibility required to compete in
-this new landscape. the business is also adjusting its footprint towards emerging geographies, tapping their double-digit growth, providing the technology infrastructure they need, and taking
-advantage of the talent pools they provide to better service the company's clients.
-ibm's
-strategy addresses this new era and delivers value to its clients through three strategic priorities:
-focus on open technologies and high-value solutions
-the pc era has ended, representing a fundamental shift in the technology requirements of the company's clients. ibm is well positioned to provide its enterprise
-clients the open technologies and high-value solutions they will need to compete.
-ibm is leveraging its leadership position in the convergence of software and services, in soa, in virtualization, in high-performance
-chips, in open and modular itcontinuing its shift from commoditizing segments to higher value segments with better profit opportunity.
-the company continues to be a leading force in open source solutions to enable its clients to achieve higher levels of interoperability, cost
-efficiency and quality.
-deliver integration and innovation to clients
-changes in the market have caused ibm's clients to seek flexibility and innovation in everything from technical architecture to their business model. in response,
-ibm is focused on delivering integration and innovation to its clientsoffering them technologies and services that support real value creation.
-ibm has a long heritage of transforming the business operations of large enterprises and has earned the trust to be their innovation partner and
-global integrator.
-the company has a deep set of global assets and capabilities it is applying to improve services profitability, both for its clients and for
-itself.
-become the premier globally integrated enterprise
-as global networks and technology capabilities change business economics, legacy business designs can quickly become non-competitive. ibm believes a
-globally integrated enterprise, designed for this new landscape can compete effectively and will benefit from the opportunities offered.
-to reshape its business for the global economy, ibm has replaced vertical hierarchies with horizontally integrated teams.
-across the business, the company has made significant investments in emerging markets, taking core processes and functions that were once managed
-regionally and shifting them to a globally integrated model.
-looking
-forward, ibm is confident it understands the economic shift of globalization, the evolution of the new computing model and the powerful role of innovation in this new landscape.
-its unique
-capabilities are well adapted to help the company's clients innovate and compete effectively in the new landscape.
-business segments and capabilities
-the company's major operations comprise a global technology services segment; a global business services segment; a systems and technology segment; a software
-segment; and a global financing segment.
-global services is a critical component of the company's strategy of providing it infrastructure and business insight and solutions to clients. while
-solutions often include industry-leading ibm software and hardware, other suppliers' products are also used if a client solution requires it. contracts for ibm servicescommonly referred
-to as "signings"can range from less than one year to over ten years. within global services there are two reportable segments: global technology services and global business services.
-global technology services (gts) segment primarily reflects it infrastructure services and business process services, delivering value through the
-company's global scale, standardization and automation.
-gts capabilities
-strategic outsourcing services.comprehensive it services integrated with business insight working with clients to reduce
-costs and improve productivity through the outsourcing of processes and operations.
-business transformation outsourcing.a range of offerings from standardized processing platforms and business process
-outsourcing through transformational offerings that delivers improved business results to clients through the strategic change and/or operation of the client's business processes, applications and
-infrastructure.
-integrated technology services.services offerings that help clients access, manage and support their technology
-infrastructures, through a combination of skilled resources, software and ibm's knowledge of business processes.
-maintenance.a number of support services from product maintenance through solution support to maintain and improve the
-availability of clients' it infrastructure.
-global business services (gbs) segment primarily reflects professional services and application outsourcing services, delivering business value and
-innovation to clients through solutions which leverage industry- and business-process expertise.
-gbs capabilities
-consulting and systems integration.delivery of value to clients through consulting services for client-relationship
-management, financial management, human capital management, business strategy and change, and supply-chain management.
-application management services.application development, management, maintenance and support services for packaged software,
-as well as custom and legacy applications. delivering value through the company's global resource capabilities, industry knowledge, and the standardization and automation of application development.
-systems and technology segment provides ibm's clients with business solutions requiring advanced computing power and storage capabilities. approximately
-55percent of the systems and technology's server and storage sales transactions are through the company's business partners; approximately 45percent are direct to end-user
-clients, more than 40percent of which are through the
-internet at ibm.com. in addition, systems and technology provides leading semiconductor technology and products, packaging solutions and engineering technology services to clients and for ibm's own
-advanced technology needs. while not reported as external revenue, systems hardware is also deployed to support services solutions.
-systems and technology capabilities
-servers.ibm systems, which are typically connected to a network and provide the required infrastructure for business. these
-systems use both ibm and non-ibm operating systems and all ibm servers can also run linux, a key open source operating system. (systemz, systemi, systemp,
-systemx and bladecenter).
-storage.information infrastructure products and solutions, which address critical client requirements for information
-retention and archiving, availability and virtualization, and security and compliance. the portfolio consists of a broad range of disk and tape storage systems and software.
-microelectronics.semiconductor design and manufacturing for use in ibm systems and for sale to external clients.
-engineering and technology services.system and component design services, blue gene "supercomputer systems," outsourcing of
-clients' design teams and technology and manufacturing consulting services.
-retail store solutions.point-of-sale retail systems (network connected cash registers) as well as
-solutions which connect them to other store systems (for example, inventory).
-software consists primarily of middleware and operating systems software. middleware software enables clients to integrate systems, processes and
-applications across a standard software platform. ibm middleware is designed to open standards which allows the efficient integration of disparate client applications that may have been built
-internally, or provided by package software vendors or system integrators. operating systems are the software engines that run computers. in addition, software
-includes product lifecycle management software which primarily serves the industrial sector. approximately two-thirds of external software segment revenue is annuity-based, coming from
-recurring license charges and on-going subscription and support from one-time charge (otc) arrangements. the remaining one-third of external revenue relates to otc
-arrangements, in which the client pays one up-front payment for a perpetual license. typically, arrangements for the sale of otc software include one year of maintenance. the client can
-also purchase ongoing maintenance after the first year, which includes product upgrades and technical support. while not reported as external revenue, software is also deployed to support services
-solutions.
-software capabilites
-websphere software.management of a wide variety of business processes using open standards to interconnect applications,
-data and operating systems. provides the foundation for web-enabled applications and is a key product set in deploying a services oriented architecture.
-information management software.advanced database, content management and information integration software that helps
-companies integrate, manage and gain value from their business information.
-tivoli software.software for infrastructure management, including security and storage management that will help
-organizations better manage their it infrastructure to more effectively deliver it services.
-lotus software.collaboration, messaging and social networking software that enables businesses to communicate, collaborate
-and increase productivity.
-rational software.software tools that help clients manage their software development processes and capabilities.
-operating systems.software engines that manage the fundamental processes that make computers run.
-global financing is described on pages50 and51 in ibm's 2007 annual report to stockholders.
-global financing capabilities
-commercial financing.short-term inventory and accounts receivable financing to dealers and remarketers of it
-products.
-client financing.lease and loan financing to external and internal clients for terms generally between two and seven years.
-remarketing.the sale and lease of used equipment (primarily sourced from the conclusion of lease transactions) to new or
-existing clients.
-ibm worldwide organizations
-the following worldwide organizations play key roles in ibm's delivery of value to its clients:
-sales and distribution organization
-research, development and intellectual property
-integrated operations
-sales and distribution organization
-the company's sales and distribution organization manages a strong global footprint, with dedicated country based operating units focused on delivering client
-value. within these units, client relationship professionals work with integrated teams of consultants, product specialists and delivery fulfillment teams to improve clients' business performance.
-these teams deliver value by understanding the client's business and needs, and then bring together capabilities from across ibm and an extensive network of business partners to develop and implement
-solutions for clients.
-by
-combining global expertise with local experience, ibm's geographic structure enables dedicated management focus for local clients, speed in addressing new market opportunities and
-timely investments in emerging opportunities. the geographic units align industry skilled resources to serve clients' agendas. ibm extends capabilities to mid-market client segments by leveraging
-industry skills with marketing, ibm.com and local business partner resources.
-the
-majority of ibm's revenue, excluding the company's original equipment manufacturer (oem) technology business, occurs in industries that are broadly grouped into six sectors:
-financial services: banking, financial markets, insurance
-public: education, government, healthcare, life sciences
-industrial: aerospace and defense, automotive, chemical and petroleum, electronics
-distribution: consumer products, retail, travel and transportation
-communications: telecommunications, media and entertainment, energy and utilities
-small and medium business: mainly companies with less than 1,000 employees
-research, development and intellectual property
-ibm's research and development (r&d) operations differentiate the company from its competitors. ibm annually spends approximately $6billion for r&d,
-focusing its investments in high-growth, high-value opportunities. in 2007, the company's investment in r&d was approximately 15percent of its combined hardware and
-software revenue. as a result of innovations in these and other areas, ibm was once again awarded more u.s. patents in 2007 than any other company. this marks the 15th year in a row that ibm achieved
-this distinction.
-in
-addition to producing world-class hardware and software products, ibm innovations are a major differentiator in providing solutions for the company's clients through its growing
-services activities. the company's investments in r&d also result in intellectual property (ip) income of approximately $1billion annually. some of ibm's technological breakthroughs are used
-exclusively in ibm products, while others are licensed and may be used in either/both ibm products and/or the products of the licensee.
-integrated operations
-ibm's ability to deliver differentiating innovation to its clients is being greatly enhanced by the company's global integration which is simultaneously giving
-the company better economics and deeper capabilities, while eliminating redundancies that were built up over fifty years as a growing multinational enterprise. the company operates in 170 countries,
-with approximately 69percent of its employees outside the u.s. as a globally integrated enterprise, the company organizes work based on the right costs, the right skills and the right business
-environment, integrating deeply with its partners, suppliers and clients. being global is about gaining access to talent and skills and then scaling them globally to develop new, distinctive
-capabilities. the company's integrated operations enable ibm to be the most efficient, responsive and globally integrated enterpriseable to instantly leverage its expertise and
-capabilitiesanywhere, at any time. although bound by a common mission and principles, integrated operations is comprised of three distinct units, each with very specific objectives
-closely aligned with the ibm businesses they support.
-integrated supply chain
-just as ibm works to transform its clients' supply chains for greater efficiency and responsiveness to global market conditions, the company continues to derive
-business value from its own globally integrated supply chain, reinvented as a strategic advantage for the company to create value for clients and shareholders. ibm leverages its supply-chain expertise
-for clients through its supply-chain business transformation outsourcing service to optimize and help operate clients' end-to-end supply-chain processes, from procurement to
-logistics.
-ibm
-spends approximately $38billion annually through its supply chain, procuring materials and services around the world. the company's supply, manufacturing and logistics and
-customer fulfillment operations are integrated in one operating unit that has reduced inventories, improved response to marketplace opportunities and external risks and converted fixed to variable
-costs. simplifying and streamlining internal processes has improved operations, sales force productivity and processes, and these actions have improved client satisfaction.
-integrated technology delivery
-integrated technology delivery (itd) brings together all of the company's worldwide service delivery capabilities for strategic outsourcing with strong local and
-regional management teams supported by a set of global competencies. itd leverages the company's global scale and advanced technology to deliver standardized solutions that are automated, repeatable
-and globally integrated.
-through
-the company's global position, clients gain cost advantages, access to industry-leading skills and access to ibm's scale and overall flexibility. itd manages the world's largest
-privately-owned it infrastructure with employees in over 30 countries supporting over 400data centers.
-integrated managed business process delivery
-integrated managed business process delivery (imbpd) provides highly efficient, world class delivery capabilities in ibm's business process delivery operations,
-which include business transformation outsourcing, business process outsourcing, business process services and application on demand. imbpd has employees and delivery centers in over 40 countries
-worldwide.
-key business drivers
-the following are some of the key drivers of the company's business.
-economic environment and corporate spending budgets
-global demand for systems, software and services is a key driver of the company's business and financial performance. ibm's diverse set of products and offerings
-is designed to provide more consistent results in both strong and weak economic environments. the company accomplishes this by not only having a mix of offerings with long-term cash and
-income streams, as well as cyclical transaction-based sales, but also by continually developing competitive products and solutions and effectively managing a skilled resource base. ibm continues to
-transform itself to take advantage of shifting demand trends, focusing on client- or industry-specific solutions, business performance and open standards.
-internal business transformation and global integration initiatives
-ibm is committed to its transformation to a globally integrated enterprise. the company continues to drive greater productivity, flexibility and cost savings by
-transforming and globally integrating its own business processes and functions. in addition to eliminating redundancies and overhead structures to drive productivity, this integration has improved
-ibm's capacity to innovate by providing greater clarity of key priorities around shared goals and objectives and led to a sharper focus for the company on learning, development and knowledge sharing.
-innovation initiatives
-ibm invests to improve its ability to help its clients innovate. investment may occur in the research and development of new products and services, as well as in
-the establishment of new collaborative and co-creation relationships with developers, other companies and other institutions. examples include ibm's leadership positions in the design of
-smaller, faster and energy-efficient semiconductor devices; systems virtualization, green data centers and the design of "grid" computing networks that allow computers to share processing power.
-open standards
-the broad adoption of open standards is essential to the computing model for an on demand business and is a significant driver of collaborative innovation across
-all industries. without interoperability among all manner of computing platforms, the integration of any client's internal systems, applications and processes remains a monumental and expensive task.
-the broad-based acceptance of open standardsrather than closed, proprietary architecturesalso allows the computing infrastructure to more easily absorb (and thus benefit
-from) new technical innovations. ibm's support of open standards is evidenced by the enabling of its products to support open standards such as linux,
-and
-the development of rational software development tools, which can be used to develop and upgrade other companies' software products.
-investing in growth opportunities
-the company is continuing to refocus its business on the higher value segments of enterprise computingproviding technology and transformation
-services to clients' businesses. consistent with that focus, the company continues to significantly invest in growth opportunities as a way to drive revenue growth and market share gains. areas of
-investment include strategic acquisitions, primarily in software and services, focused client- and industry-specific solutions, maintaining technology leadership and emerging growth countries
-worldwide.
-forward-looking and cautionary statements
-certain statements contained in this form10-k may constitute "forward-looking statements" within the meaning of the private securities litigation reform
-act of 1995 ("reform act"). the company may also make forward-looking statements in other reports filed with the securities and exchange commission, in materials delivered to stockholders and in press
-releases. in addition, the company's representatives may from time to time make oral forward-looking statements. forward-looking statements provide current expectations of future events based on
-certain assumptions and include any statement that does not directly relate to any historical or current fact. words such as "anticipates," "believes," "expects," "estimates," "intends," "plans,"
-"projects," and similar expressions, may identify such forward-looking statements. the company assumes no obligation to update or revise any forward-looking statements. in accordance with the reform
-act, set forth under item1a. "risk factors" on pages10 through 14 are cautionary statements that accompany those forward-looking statements. readers should carefully review such
-cautionary statements as they identify certain important factors that could cause actual results to differ materially from those in the forward-looking statements and
-from historical trends. those cautionary statements are not exclusive and are in addition to other factors discussed elsewhere in this form10-k, in the company's filings with the securities
-and exchange commission or in materials incorporated therein by reference.
-the following information is included in ibm's 2007 annual report to stockholders and is incorporated herein by reference:
-segment
-information and revenue by classes of similar products or servicespages116 to 119.
-financial
-information by geographic areaspage 119.
-amount
-spent during each of the last three years on r&d activitiespage99.
-financial
-information regarding environmental activitiespage92.
-the
-number of persons employed by the registrantpage50.
-the
-management discussion overviewpages16 and 17.
-available
-informationpage124.
-also
-refer to item1a. entitled "risk factors" in part i of this form.
-executive officers of the registrant (at february22, 2008):
-age
-officer since
-chairman of the board, president and chief executive officer:
-samuel j. palmisano(1)
-executive vice president:
-nicholas m. donofrio, innovation and technology
-senior vice presidents:
-rodney c. adkins, development and manufacturing
-michael e. daniels, global technology services
-douglas t. elix, group executive, sales and distribution
-j. bruce harreld, marketing and strategy
-jon c. iwata, communications
-john e. kelly, iii, research and intellectual property
-mark loughridge, chief financial officer
-j. randall macdonald, human resources
-steven a. mills, group executive, software group
-robert w. moffat, jr., integrated operations
-virginia m. rometty, global business services
-linda s. sanford, enterprise on demand transformation
-robert c. weber, legal and regulatory affairs, and general counsel
-william m. zeitler, group executive, systems and technology group
-vice president:
-timothy s. shaughnessy, controller
-(1)member
-of the board of directors.
-all
-executive officers are elected by the board of directors and serve until the next election of officers in conjunction with the annual meeting of the stockholders as
-provided in the by-laws. each executive officer named above, with the exception of robertc. weber, has been an executive of ibm or its subsidiaries during the past five years.
-mr.weber
-was a partner at jones day, an international law firm, until joining ibm in 2006. he was with jones day for almost 30years, and his career included counseling
-corporations, individuals and boards of directors, as well as extensive experience in corporate derivative litigation, federal and state enforcement actions and commercial litigation.
-item 1a. risk factors:
-economic environment and corporate it spending budgets:if overall demand for systems, software and services changes, whether
-due to general economic conditions or a shift in corporate buying patterns, sales performance could be impacted. ibm's diverse set of products and offerings is designed to provide more consistent
-results in both strong and weak economic environments. the company addresses this by not only having a mix of offerings with long-term cash and income streams, as well as cyclical
-transaction-based sales, but also by continually developing competitive products and solutions and effectively managing a skilled resource base. ibm continues to transform itself to take advantage of
-shifting demand trends, focusing on client or industry-specific solutions, business performance and open standards.
-internal business transformation and global integration initiatives:ibm continues to drive greater productivity, flexibility
-and cost savings by transforming and globally integrating its own business processes and functions. in addition to eliminating redundancies and overhead structures to drive productivity, this
-integration has improved ibm's capacity to innovate by providing greater clarity of key priorities around shared goals and objectives and leads to a sharper focus for the company on learning,
-development and knowledge sharing. as ibm continues to drive higher levels of automation and integration into its business, ibm's dependency on internal it systems also increases.
-innovation initiatives:ibm invests to improve its ability to help its clients innovate. investment may occur in the research
-and development of new products and services, as well as in the establishment of new collaborative and co-creation relationships with developers, other companies and other institutions. to
-deliver value that helps clients differentiate themselves for competitive advantage, ibm has been moving away from commoditized categories of the it industry and into areas in which it can
-differentiate itself through innovation and by leveraging its investments in r&d. in the highly competitive it industry, with large diversified competitors as well as smaller and nimble single
-technology competitors, ibm's ability to continue its cutting-edge innovation is critical to maintaining and increasing market share. ibm is managing this risk by more closely linking its
-r&d organization to industry-specific and client-specific needs. in addition, ibm has one of the strongest brand names in the world, and its brand and overall reputation depends in part on its ability
-to continue to stand for industry-leading technology and solutions that provide business advantages.
-open standards:the broad adoption of open standards is essential to the computing model for on demand business and is a
-significant driver of collaborative innovation across all industries. without interoperability among all manner of computing platforms, the integration of any client's internal systems, applications
-and processes remains a monumental and expensive task. the broad-based acceptance of open standardsrather than closed, proprietary architecturesalso allows the computing
-infrastructure to more easily absorb (and thus benefit from) new technical innovations. ibm is committed to fostering open standards because they are vital to the on demand operating environment, and
-because their acceptance will expand growth opportunities across the entire business services and it industry. there are a number of competitors in the it industry with significant resources and
-investments who are committed to closed and proprietary platforms as a way to lock customers into a particular architecture. this competition may result in increased pricing pressure and/or ip claims
-and proceedings.
-investing in growth opportunities:the company is continuing to refocus its business on the higher-value segments of
-enterprise computingproviding technology and transformation services to clients' businesses. consistent with that focus, the company continues to significantly invest in growth
-opportunities, as a way to drive revenue growth and market share gains. ibm continues to invest in dozens of emerging growth countries including brazil, russia, india and china. the developing nature
-of emerging growth countries presents political, social and economic risks to ibm's business, including
-risks
-from inadequate infrastructure and labor disruptions in these countries, which could impact the company's ability to deliver to its clients around the world.
-protection of intellectual property:while the company's various proprietary intellectual property rights are important to
-its success, ibm believes its business as a whole is not materially dependent on any particular patent or license, or any particular group of patents or licenses. ibm owns or is licensed under a
-number of patents, which vary in duration, relating to its products. licenses under patents owned by ibm have been and are being granted to others under reasonable terms and conditions. these
-protections may not prevent competitors from independently developing products and services similar to or duplicative to the company's nor can there be any assurance that these protections will
-adequately deter misappropriation or improper use of the company's technology. also, there can be no assurances that ibm will be able to obtain from third parties the licenses it needs in the future.
-data protection:the company's products and services, as well as its internal systems and processes, involve the storage and
-transmission of proprietary information and sensitive or confidential data, including personal information of employees, customers and others. breaches of the company's security measures could expose
-the company, its customers or the individuals affected to a risk of loss or misuse of this information, resulting in litigation and potential liability for the company, as well as the loss of existing
-or potential customers and damage to the company's brand and reputation. in addition, the cost and operational consequences of implementing further data protection measures could be significant.
-seasonality of revenues and purchases:ibm's revenues are affected by such factors as the introduction of new products and
-services, the length of the sales cycles and the seasonality of technology purchases. as a result, the company's results are difficult to predict. these factors historically have resulted in lower
-revenue in the first quarter than in the immediately preceding fourth quarter. in addition, the high volume of products ordered at the end of each quarter, especially at the end of the fourth quarter,
-may affect ibm's ability to successfully ship all orders before the end of the quarter.
-local legal, economic and health conditions:the company is a globally integrated entity, operating in 170 countries
-worldwide and deriving more than sixty percent of its revenues from sales outside the united states. changes in the laws or policies of the countries in which the company operates could affect the
-company's business in that country and the company's overall results of operations. the company's results of operations also could be affected by economic and political changes in those countries and
-by macroeconomic changes, including recessions, inflation and currency fluctuations
-between the u.s.dollar and local currency. in addition, any widespread outbreak of an illness or other health issue, such as severe acute respiratory syndrome (sars), avian influenza (bird
-flu) or any other pandemic, or local or global health issues, could adversely affect the company's operations and its ability to source and deliver products and services to its customers and customer
-demand.
-insurance:the company maintains third party insurance coverage against various liability risks and risks of property loss.
-while we believe these arrangements are an effective way to insure against liability and property damage risks, the potential liabilities associated with those risks or other events could exceed the
-coverage provided by such arrangements.
-environmental matters:the company is subject to various federal, state, local and foreign laws and regulations concerning
-the discharge of materials into the environment or otherwise related to environmental protection, including the u.s. superfund law. the company could incur substantial costs, including cleanup costs,
-fines and civil or criminal sanctions, as well as third-party claims for property damage or personal injury, if it were to violate or become liable under environmental laws and
-regulations.
-compliance with environmental laws and regulations is not expected to have a material adverse effect on the company's financial position, results of operations and competitive position.
-tax matters:the company is subject to income taxes in both the united states and numerous foreign jurisdictions. ibm's
-provision for income taxes and cash tax liability in the future could be adversely affected by numerous factors including, but not limited to, income before taxes being lower than anticipated in
-countries with lower statutory tax rates and higher than anticipated in countries with higher statutory tax rates, changes in the valuation of deferred tax assets and liabilities, and changes in tax
-laws, regulations, accounting principles or interpretations thereof, which could adversely impact the company's results of operations and financial condition in future periods. in addition, ibm is
-subject to the continuous examination of its income tax returns by the internal revenue service and other tax authorities. the company regularly assesses the likelihood of adverse outcomes resulting
-from these examinations to determine the adequacy of its provision for income taxes. there can be no assurance that the outcomes from these continuous examinations will not have an adverse effect on
-the company's provision for income taxes and cash tax liability.
-internal controls:effective internal controls are necessary for the company to provide reasonable assurance with respect to
-its financial reports and to effectively prevent fraud. if the company cannot provide reasonable assurance with respect to its financial reports and effectively prevent fraud, the company's operating
-results could be affected. pursuant to the sarbanes-oxley act of 2002, the company is required to furnish a report by management on internal control over financial reporting, including management's
-assessment of the effectiveness of such control. internal control over financial reporting may not prevent or detect misstatements because of its inherent limitations, including the possibility of
-human error, the circumvention or overriding of controls, or fraud. therefore, even effective internal controls can provide only reasonable assurance with respect to the preparation and fair
-presentation of financial statements. in addition, projections of any evaluation of effectiveness of internal control over financial reporting to future periods are subject to the risk that the
-control may
-become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. if the company fails to maintain the adequacy of its internal
-controls, including any failure to implement required new or improved controls, or if the company experiences difficulties in their implementation, the company's business and operating results could
-be harmed, the company could fail to meet its financial reporting obligations, and there could be a material adverse effect on the company's stock price.
-use of estimates:in connection with the application of generally accepted accounting principles (gaap) and the preparation
-of the consolidated financial statements, the company uses certain estimates and assumptions, which are based on historical experience and management's knowledge of current events and actions that the
-company may undertake in the future. the company's most critical accounting estimates are described in the management discussion on pages47 to 49 of ibm's 2007 annual report to stockholders.
-in addition, as discussed in noten, "contingencies and commitments" on pages94 through 96 of ibm's 2007 annual report to stockholders, the company makes certain estimates under the
-provisions of sfas no.5, "accounting for contingencies", including decisions related to legal proceedings and reserves. while management believes that these estimates and assumptions are
-reasonable under the circumstances, by definition they involve the use of judgment and the exercise of discretion, and therefore, actual results may differ.
-competitive conditions:the company operates in businesses that are subject to intense competitive pressures. the company's
-businesses face a significant number of competitors, ranging from some of the world's largest global enterprises to an increasing number of relatively small, rapidly growing and highly specialized
-organizations. the company believes that its combination of technology, performance, quality, reliability, price and the breadth of products and service offerings are important competitive factors.
-intense competitive pressures could affect prices or demand for the company's products and services, resulting in reduced profit margins and/or loss of market opportunity. unlike
-many
-of its competitors, the company has a broad set of capabilities and businesses and must allocate resources across these businesses while competing with companies that specialize in one or more of
-these product lines. as a result, the company may not fund or invest in certain of its businesses to the same degree that its competitors do, and these competitors may have greater financial,
-technical and marketing resources available to them than the businesses against which they compete.
-volatility of stock price:the company's stock price is affected by a number of factors, including quarterly variations in
-financial results, the competitive landscape, general economic and market conditions and estimates and projections by the investment community. as a result, like other technology companies, the
-company's stock price is subject to significant volatility.
-dependence on key personnel and reliance on critical skills:much of the future success of the company depends on the
-continued service, availability and integrity of skilled personnel, including technical, marketing and staff resources. experienced personnel in the information technology industry are in high demand
-and competition for their talents is intense. changing demographics and labor work force trends may result in a loss of knowledge and skills as experienced workers retire. in addition,
-companies in the information technology and services industry whose employees accept positions with ibm may claim that ibm has interfered with noncompete obligations of their former employees, engaged
-in unfair hiring practices or that the employment of these persons by ibm would involve the disclosure or use of trade secrets. any such claims could limit or prevent ibm from hiring employees or
-cause it to incur liability for damages or substantial costs in defending the company or its employees against these claims, whether or not they have merit. further, many of ibm's key personnel
-receive a total compensation package that includes equity awards. new regulations, volatility in the stock market and other factors could diminish the company's use, and the value, of the company's
-equity awards, putting the company at a competitive disadvantage or forcing the company to use more cash compensation.
-relationships with critical suppliers:ibm's business employs a wide variety of components, supplies, services and raw
-materials from a substantial number of suppliers around the world. certain of the company's businesses rely on single or a limited number of suppliers, although the company makes every effort to
-assure that alternative sources are available if the need arises. the failure of the company's suppliers to deliver components, supplies, services and raw materials in sufficient quantities and in a
-timely manner could adversely affect the company's business. in addition, any defective components, supplies or materials, or inadequate services, received from suppliers could reduce the reliability
-of the company's products and services and harm the company's reputation.
-currency and customer financing risks:the company derives a significant percentage of its revenues from its affiliates
-operating in local currency environments and those results are affected by changes in the relative values of non-u.s. currencies and the u.s. dollar. further, inherent in the company's
-customer financing business are risks related to the concentration of credit, client creditworthiness, interest rate and currency fluctuations on the associated debt and liabilities, the determination
-of residual values, and the financing of other than traditional it assets. the company employs a number of strategies to manage these risks, including the use of derivative financial instruments.
-derivatives involve the risk of non-performance by the counterparty. in addition, there can be no assurance that the company's efforts to manage its currency and customer financing risks
-will be successful.
-customer credit risk on receivables:the company's client base includes many worldwide enterprises, from small and medium
-businesses to the world's largest organizations and governments, with a significant portion of the company's revenue coming from global clients in the company's financial services, public, and small
-and medium business sectors. the company's financial performance is exposed to a wide variety of industry sector dynamics worldwide. most of the company's sales are on an open credit basis and the
-company performs ongoing credit evaluations of its clients'
-financial
-conditions. the company maintains reserves that it believes are adequate to cover exposure for any uncollectible receivables and regularly reviews such reserves by considering factors such
-as write-off history, aging analysis and any specific, known troubled accounts. if the company becomes aware of additional information related to the credit worthiness of a major customer,
-or, if future actual default rates on receivables in general differ from those currently anticipated, the company may have to adjust its reserves, which could affect the company's consolidated net
-income in the period the adjustments are made.
-distribution channels:the company offers its products directly and through a variety of third party distributors and
-resellers. changes in the financial or business condition of these distributors and resellers could subject the company to losses and affect its ability to bring its products to market.
-acquisitions and alliances:the company has made and expects to continue to make acquisitions or enter into alliances from
-time to time. acquisitions and alliances present significant challenges and risks relating to the integration of the business into the company, and there can be no assurances that the company will
-manage acquisitions and alliances successfully. the related risks include the company failing to achieve strategic objectives and anticipated revenue improvements and cost savings, as well as the
-failure to retain key personnel of the acquired business and the assumption of liabilities related to litigation or other legal proceedings involving the acquired business.
-risk factors related to ibm securities:the company and its subsidiaries issues debt securities in the worldwide capital
-markets from time to time, with a variety of different maturities and in different currencies. the value of the company's debt securities fluctuates based on many factors, including, the methods
-employed for calculating principal and interest, the maturity of the securities, the aggregate principal amount of securities outstanding, the redemption features for the securities, the level,
-direction and volatility of interest rates, changes in exchange rates, exchange controls, governmental and stock exchange regulations and other factors over which the company has little or no control.
-the company's ability to pay interest and repay the principal for its debt securities is dependent upon its ability to manage its business operations, as well as the other risks described under this
-item1a. entitled "risk factors". there can be no assurance that the company will be able to manage any of these risks successfully.
-the
-company also issues its common stock from time to time in connection with various compensation plans, contributions to its pension plan and certain acquisitions. the market price of
-ibm common stock is subject to significant volatility, due to factors described under item1a. entitled "risk factors", including the section entitled "volatility of stock price", as well as
-economic and geopolitical conditions generally, trading volumes, speculation by the press or investment community about the company's financial condition, and other factors, many of which are beyond
-the company's control. since the market price of ibm's common stock fluctuates significantly, stockholders may not be able to sell the company's stock at attractive prices.
-in
-addition, changes by any rating agency to the company's outlook or credit ratings can negatively impact the value and liquidity of both the company's debt and equity securities. the
-company does not make a market in either its debt or equity securities and cannot provide any assurances with respect to the liquidity or value of such securities.
-item 1b. unresolved staff comments:
-not applicable.
-item 2. properties:
-at december31, 2007, ibm's manufacturing and development facilities in the united states had aggregate floor space of 20million square feet, of
-which 16million was owned and 4million was leased. of these amounts, 2million square feet was vacant and 1million square feet was being leased to non-ibm
-businesses. similar facilities in 8other countries totaled 6million square feet, of which 2million was owned and 4million was leased. of these amounts, 1million
-square feet was being leased to non-ibm businesses.
-although
-improved production techniques, productivity gains and infrastructure reduction actions have resulted in reduced manufacturing floor space, continuous maintenance and upgrading
-of facilities is essential to maintain technological leadership, improve productivity and meet customer demand.
-item 3. legal proceedings:
-refer to noten, "contingencies and commitments" on pages94 through 96 of ibm's 2007 annual report to stockholders which is incorporated herein by
-reference.
-item 4. submission of matters to a vote of security holders:
-not applicable.
-part ii
-item 5. market for the registrant's common equity, related stockholder matters and issuer purchases of equity securities:
-refer
-to pages121 and 124 of ibm's 2007 annual report to stockholders which are incorporated herein by reference solely as they relate to this item.
-ibm
-common stock is listed on the new york stock exchange and chicago stock exchange. there were 583,774 common stockholders of record at february8, 2008.
-refer
-to item12, under the caption "equity compensation plan information" on pages18 to 20, for additional information on the company's equity compensation plans.
-the
-following table provides information relating to the company's repurchase of common stock for the fourth quarter of 2007.
-total number
-of shares
-purchased
-average
-price paid
-per share
-total number
-of shares purchased
-as part of publicly
-announced program
-approximate
-dollar value
-of shares that
-may yet be
-purchased under
-the program(1)
-october 1, 2007
-october 31, 2007
-$
-1,695,962,824
-november 1, 2007
-november 30, 2007
-$
-1,695,962,824
-december 1, 2007
-december 31, 2007
+
+DESCRIPTION OF BUSINESS
+
+IBM IS A GLOBALLY INTEGRATED ENTERPRISE THAT TARGETS THE INTERSECTION OF TECHNOLOGY AND EFFECTIVE BUSINESS. THE COMPANY SEEKS TO BE A PARTNER IN ITS CLIENTS'
+
+SUCCESS BY ENABLING THEIR OWN CAPACITY FOR DISTINCTIVE INNOVATION. TO HELP CLIENTS ACHIEVE GROWTH, EFFECTIVENESS, EFFICIENCY AND THE REALIZATION OF GREATER VALUE THROUGH INNOVATION, IBM DRAWS UPON THE
+
+WORLD'S LEADING SYSTEMS, SOFTWARE AND SERVICES CAPABILITIES.
+
+IBM'S STRATEGY
+
+IN IBM'S VIEW, TODAY'S NETWORKED ECONOMY HAS CREATED A GLOBAL BUSINESS LANDSCAPE AND A MANDATE FOR BUSINESS CHANGE. INTEGRATED GLOBAL ECONOMIES HAVE OPENED
+
+MARKETS OF NEW OPPORTUNITY AND NEW SOURCES OF SKILLS. THE INTERNET HAS ENABLED COMMUNICATION AND COLLABORATION ACROSS THE WORLD AND BROUGHT WITH IT A NEW COMPUTING MODEL PREMISED ON CONTINUOUS GLOBAL
+
+CONNECTION. IN THAT LANDSCAPE, COMPANIES CAN DISTRIBUTE WORK AND TECHNOLOGY ANYWHERE IN THE WORLD.
+
+GIVEN
+
+THESE OPPORTUNITIES, IBM IS WORKING WITH ITS CLIENTS TO DEVELOP NEW BUSINESS DESIGNS AND TECHNICAL ARCHITECTURES THAT ALLOW THEIR BUSINESSES THE FLEXIBILITY REQUIRED TO COMPETE IN
+
+THIS NEW LANDSCAPE. THE BUSINESS IS ALSO ADJUSTING ITS FOOTPRINT TOWARDS EMERGING GEOGRAPHIES, TAPPING THEIR DOUBLE-DIGIT GROWTH, PROVIDING THE TECHNOLOGY INFRASTRUCTURE THEY NEED, AND TAKING
+
+ADVANTAGE OF THE TALENT POOLS THEY PROVIDE TO BETTER SERVICE THE COMPANY'S CLIENTS.
+
+IBM'S
+
+STRATEGY ADDRESSES THIS NEW ERA AND DELIVERS VALUE TO ITS CLIENTS THROUGH THREE STRATEGIC PRIORITIES.
+
+FOCUS ON OPEN TECHNOLOGIES AND HIGH-VALUE SOLUTIONS
+
+THE PC ERA HAS ENDED, REPRESENTING A FUNDAMENTAL SHIFT IN THE TECHNOLOGY REQUIREMENTS OF THE COMPANY'S CLIENTS. IBM IS WELL POSITIONED TO PROVIDE ITS ENTERPRISE
+
+CLIENTS THE OPEN TECHNOLOGIES AND HIGH-VALUE SOLUTIONS THEY WILL NEED TO COMPETE.
+
+
+
+IBM IS LEVERAGING ITS LEADERSHIP POSITION IN THE CONVERGENCE OF SOFTWARE AND SERVICES, IN SOA, IN VIRTUALIZATION, IN HIGH-PERFORMANCE
+
+CHIPS, IN OPEN AND MODULAR ITCONTINUING ITS SHIFT FROM COMMODITIZING SEGMENTS TO HIGHER VALUE SEGMENTS WITH BETTER PROFIT OPPORTUNITY.
+
+
+
+THE COMPANY CONTINUES TO BE A LEADING FORCE IN OPEN SOURCE SOLUTIONS TO ENABLE ITS CLIENTS TO ACHIEVE HIGHER LEVELS OF INTEROPERABILITY, COST
+
+EFFICIENCY AND QUALITY.
+
+1
+
+DELIVER INTEGRATION AND INNOVATION TO CLIENTS
+
+CHANGES IN THE MARKET HAVE CAUSED IBM'S CLIENTS TO SEEK FLEXIBILITY AND INNOVATION IN EVERYTHING FROM TECHNICAL ARCHITECTURE TO THEIR BUSINESS MODEL. IN RESPONSE,
+
+IBM IS FOCUSED ON DELIVERING INTEGRATION AND INNOVATION TO ITS CLIENTSOFFERING THEM TECHNOLOGIES AND SERVICES THAT SUPPORT REAL VALUE CREATION.
+
+
+
+IBM HAS A LONG HERITAGE OF TRANSFORMING THE BUSINESS OPERATIONS OF LARGE ENTERPRISES AND HAS EARNED THE TRUST TO BE THEIR INNOVATION PARTNER AND
+
+GLOBAL INTEGRATOR.
+
+
+
+THE COMPANY HAS A DEEP SET OF GLOBAL ASSETS AND CAPABILITIES IT IS APPLYING TO IMPROVE SERVICES PROFITABILITY, BOTH FOR ITS CLIENTS AND FOR
+
+ITSELF.
+
+BECOME THE PREMIER GLOBALLY INTEGRATED ENTERPRISE
+
+AS GLOBAL NETWORKS AND TECHNOLOGY CAPABILITIES CHANGE BUSINESS ECONOMICS, LEGACY BUSINESS DESIGNS CAN QUICKLY BECOME NON-COMPETITIVE. IBM BELIEVES A
+
+GLOBALLY INTEGRATED ENTERPRISE, DESIGNED FOR THIS NEW LANDSCAPE CAN COMPETE EFFECTIVELY AND WILL BENEFIT FROM THE OPPORTUNITIES OFFERED.
+
+
+
+TO RESHAPE ITS BUSINESS FOR THE GLOBAL ECONOMY, IBM HAS REPLACED VERTICAL HIERARCHIES WITH HORIZONTALLY INTEGRATED TEAMS.
+
+
+
+ACROSS THE BUSINESS, THE COMPANY HAS MADE SIGNIFICANT INVESTMENTS IN EMERGING MARKETS, TAKING CORE PROCESSES AND FUNCTIONS THAT WERE ONCE MANAGED
+
+REGIONALLY AND SHIFTING THEM TO A GLOBALLY INTEGRATED MODEL.
+
+LOOKING
+
+FORWARD, IBM IS CONFIDENT IT UNDERSTANDS THE ECONOMIC SHIFT OF GLOBALIZATION, THE EVOLUTION OF THE NEW COMPUTING MODEL AND THE POWERFUL ROLE OF INNOVATION IN THIS NEW LANDSCAPE.
+
+ITS UNIQUE
+
+CAPABILITIES ARE WELL ADAPTED TO HELP THE COMPANY'S CLIENTS INNOVATE AND COMPETE EFFECTIVELY IN THE NEW LANDSCAPE.
+
+BUSINESS SEGMENTS AND CAPABILITIES
+
+THE COMPANY'S MAJOR OPERATIONS COMPRISE A GLOBAL TECHNOLOGY SERVICES SEGMENT; A GLOBAL BUSINESS SERVICES SEGMENT; A SYSTEMS AND TECHNOLOGY SEGMENT; A SOFTWARE
+
+SEGMENT; AND A GLOBAL FINANCING SEGMENT.
+
+2
+
+GLOBAL SERVICES
+
+IS A CRITICAL COMPONENT OF THE COMPANY'S STRATEGY OF PROVIDING IT INFRASTRUCTURE AND BUSINESS INSIGHT AND SOLUTIONS TO CLIENTS. WHILE
+
+SOLUTIONS OFTEN INCLUDE INDUSTRY-LEADING IBM SOFTWARE AND HARDWARE, OTHER SUPPLIERS' PRODUCTS ARE ALSO USED IF A CLIENT SOLUTION REQUIRES IT. CONTRACTS FOR IBM SERVICESCOMMONLY REFERRED
+
+TO AS "SIGNINGS"CAN RANGE FROM LESS THAN ONE YEAR TO OVER TEN YEARS. WITHIN GLOBAL SERVICES THERE ARE TWO REPORTABLE SEGMENTS: GLOBAL TECHNOLOGY SERVICES AND GLOBAL BUSINESS SERVICES.
+
+GLOBAL TECHNOLOGY SERVICES (GTS)
+
+SEGMENT PRIMARILY REFLECTS IT INFRASTRUCTURE SERVICES AND BUSINESS PROCESS SERVICES, DELIVERING VALUE THROUGH THE
+
+COMPANY'S GLOBAL SCALE, STANDARDIZATION AND AUTOMATION.
+
+GTS CAPABILITIES
+
+STRATEGIC OUTSOURCING SERVICES.
+
+COMPREHENSIVE IT SERVICES INTEGRATED WITH BUSINESS INSIGHT WORKING WITH CLIENTS TO REDUCE
+
+COSTS AND IMPROVE PRODUCTIVITY THROUGH THE OUTSOURCING OF PROCESSES AND OPERATIONS.
+
+BUSINESS TRANSFORMATION OUTSOURCING.
+
+A RANGE OF OFFERINGS FROM STANDARDIZED PROCESSING PLATFORMS AND BUSINESS PROCESS
+
+OUTSOURCING THROUGH TRANSFORMATIONAL OFFERINGS THAT DELIVERS IMPROVED BUSINESS RESULTS TO CLIENTS THROUGH THE STRATEGIC CHANGE AND/OR OPERATION OF THE CLIENT'S BUSINESS PROCESSES, APPLICATIONS AND
+
+INFRASTRUCTURE.
+
+INTEGRATED TECHNOLOGY SERVICES.
+
+SERVICES OFFERINGS THAT HELP CLIENTS ACCESS, MANAGE AND SUPPORT THEIR TECHNOLOGY
+
+INFRASTRUCTURES, THROUGH A COMBINATION OF SKILLED RESOURCES, SOFTWARE AND IBM'S KNOWLEDGE OF BUSINESS PROCESSES.
+
+MAINTENANCE.
+
+A NUMBER OF SUPPORT SERVICES FROM PRODUCT MAINTENANCE THROUGH SOLUTION SUPPORT TO MAINTAIN AND IMPROVE THE
+
+AVAILABILITY OF CLIENTS' IT INFRASTRUCTURE.
+
+GLOBAL BUSINESS SERVICES (GBS)
+
+SEGMENT PRIMARILY REFLECTS PROFESSIONAL SERVICES AND APPLICATION OUTSOURCING SERVICES, DELIVERING BUSINESS VALUE AND
+
+INNOVATION TO CLIENTS THROUGH SOLUTIONS WHICH LEVERAGE INDUSTRY- AND BUSINESS-PROCESS EXPERTISE.
+
+GBS CAPABILITIES
+
+CONSULTING AND SYSTEMS INTEGRATION.
+
+DELIVERY OF VALUE TO CLIENTS THROUGH CONSULTING SERVICES FOR CLIENT-RELATIONSHIP
+
+MANAGEMENT, FINANCIAL MANAGEMENT, HUMAN CAPITAL MANAGEMENT, BUSINESS STRATEGY AND CHANGE, AND SUPPLY-CHAIN MANAGEMENT.
+
+APPLICATION MANAGEMENT SERVICES.
+
+APPLICATION DEVELOPMENT, MANAGEMENT, MAINTENANCE AND SUPPORT SERVICES FOR PACKAGED SOFTWARE,
+
+AS WELL AS CUSTOM AND LEGACY APPLICATIONS. DELIVERING VALUE THROUGH THE COMPANY'S GLOBAL RESOURCE CAPABILITIES, INDUSTRY KNOWLEDGE, AND THE STANDARDIZATION AND AUTOMATION OF APPLICATION DEVELOPMENT.
+
+SYSTEMS AND TECHNOLOGY
+
+SEGMENT PROVIDES IBM'S CLIENTS WITH BUSINESS SOLUTIONS REQUIRING ADVANCED COMPUTING POWER AND STORAGE CAPABILITIES. APPROXIMATELY
+
+55 PERCENT OF THE SYSTEMS AND TECHNOLOGY'S SERVER AND STORAGE SALES TRANSACTIONS ARE THROUGH THE COMPANY'S BUSINESS PARTNERS; APPROXIMATELY 45 PERCENT ARE DIRECT TO END-USER
+
+CLIENTS, MORE THAN 40 PERCENT OF WHICH ARE THROUGH THE
+
+INTERNET AT IBM.COM. IN ADDITION, SYSTEMS AND TECHNOLOGY PROVIDES LEADING SEMICONDUCTOR TECHNOLOGY AND PRODUCTS, PACKAGING SOLUTIONS AND ENGINEERING TECHNOLOGY SERVICES TO CLIENTS AND FOR IBM'S OWN
+
+ADVANCED TECHNOLOGY NEEDS. WHILE NOT REPORTED AS EXTERNAL REVENUE, SYSTEMS HARDWARE IS ALSO DEPLOYED TO SUPPORT SERVICES SOLUTIONS.
+
+3
+
+SYSTEMS AND TECHNOLOGY CAPABILITIES
+
+SERVERS.
+
+IBM SYSTEMS, WHICH ARE TYPICALLY CONNECTED TO A NETWORK AND PROVIDE THE REQUIRED INFRASTRUCTURE FOR BUSINESS. THESE
+
+SYSTEMS USE BOTH IBM AND NON-IBM OPERATING SYSTEMS AND ALL IBM SERVERS CAN ALSO RUN LINUX, A KEY OPEN SOURCE OPERATING SYSTEM. (SYSTEM Z, SYSTEM I, SYSTEM P,
+
+SYSTEM X AND BLADECENTER).
+
+STORAGE.
+
+INFORMATION INFRASTRUCTURE PRODUCTS AND SOLUTIONS, WHICH ADDRESS CRITICAL CLIENT REQUIREMENTS FOR INFORMATION
+
+RETENTION AND ARCHIVING, AVAILABILITY AND VIRTUALIZATION, AND SECURITY AND COMPLIANCE. THE PORTFOLIO CONSISTS OF A BROAD RANGE OF DISK AND TAPE STORAGE SYSTEMS AND SOFTWARE.
+
+MICROELECTRONICS.
+
+SEMICONDUCTOR DESIGN AND MANUFACTURING FOR USE IN IBM SYSTEMS AND FOR SALE TO EXTERNAL CLIENTS.
+
+ENGINEERING AND TECHNOLOGY SERVICES.
+
+SYSTEM AND COMPONENT DESIGN SERVICES, BLUE GENE "SUPERCOMPUTER SYSTEMS," OUTSOURCING OF
+
+CLIENTS' DESIGN TEAMS AND TECHNOLOGY AND MANUFACTURING CONSULTING SERVICES.
+
+RETAIL STORE SOLUTIONS.
+
+POINT-OF-SALE RETAIL SYSTEMS (NETWORK CONNECTED CASH REGISTERS) AS WELL AS
+
+SOLUTIONS WHICH CONNECT THEM TO OTHER STORE SYSTEMS (FOR EXAMPLE, INVENTORY).
+
+SOFTWARE
+
+CONSISTS PRIMARILY OF MIDDLEWARE AND OPERATING SYSTEMS SOFTWARE. MIDDLEWARE SOFTWARE ENABLES CLIENTS TO INTEGRATE SYSTEMS, PROCESSES AND
+
+APPLICATIONS ACROSS A STANDARD SOFTWARE PLATFORM. IBM MIDDLEWARE IS DESIGNED TO OPEN STANDARDS WHICH ALLOWS THE EFFICIENT INTEGRATION OF DISPARATE CLIENT APPLICATIONS THAT MAY HAVE BEEN BUILT
+
+INTERNALLY, OR PROVIDED BY PACKAGE SOFTWARE VENDORS OR SYSTEM INTEGRATORS. OPERATING SYSTEMS ARE THE SOFTWARE ENGINES THAT RUN COMPUTERS. IN ADDITION, SOFTWARE
+
+INCLUDES PRODUCT LIFECYCLE MANAGEMENT SOFTWARE WHICH PRIMARILY SERVES THE INDUSTRIAL SECTOR. APPROXIMATELY TWO-THIRDS OF EXTERNAL SOFTWARE SEGMENT REVENUE IS ANNUITY-BASED, COMING FROM
+
+RECURRING LICENSE CHARGES AND ON-GOING SUBSCRIPTION AND SUPPORT FROM ONE-TIME CHARGE (OTC) ARRANGEMENTS. THE REMAINING ONE-THIRD OF EXTERNAL REVENUE RELATES TO OTC
+
+ARRANGEMENTS, IN WHICH THE CLIENT PAYS ONE UP-FRONT PAYMENT FOR A PERPETUAL LICENSE. TYPICALLY, ARRANGEMENTS FOR THE SALE OF OTC SOFTWARE INCLUDE ONE YEAR OF MAINTENANCE. THE CLIENT CAN
+
+ALSO PURCHASE ONGOING MAINTENANCE AFTER THE FIRST YEAR, WHICH INCLUDES PRODUCT UPGRADES AND TECHNICAL SUPPORT. WHILE NOT REPORTED AS EXTERNAL REVENUE, SOFTWARE IS ALSO DEPLOYED TO SUPPORT SERVICES
+
+SOLUTIONS.
+
+SOFTWARE CAPABILITES
+
+WEBSPHERE SOFTWARE.
+
+MANAGEMENT OF A WIDE VARIETY OF BUSINESS PROCESSES USING OPEN STANDARDS TO INTERCONNECT APPLICATIONS,
+
+DATA AND OPERATING SYSTEMS. PROVIDES THE FOUNDATION FOR WEB-ENABLED APPLICATIONS AND IS A KEY PRODUCT SET IN DEPLOYING A SERVICES ORIENTED ARCHITECTURE.
+
+INFORMATION MANAGEMENT SOFTWARE.
+
+ADVANCED DATABASE, CONTENT MANAGEMENT AND INFORMATION INTEGRATION SOFTWARE THAT HELPS
+
+COMPANIES INTEGRATE, MANAGE AND GAIN VALUE FROM THEIR BUSINESS INFORMATION.
+
+TIVOLI SOFTWARE.
+
+SOFTWARE FOR INFRASTRUCTURE MANAGEMENT, INCLUDING SECURITY AND STORAGE MANAGEMENT THAT WILL HELP
+
+ORGANIZATIONS BETTER MANAGE THEIR IT INFRASTRUCTURE TO MORE EFFECTIVELY DELIVER IT SERVICES.
+
+LOTUS SOFTWARE.
+
+COLLABORATION, MESSAGING AND SOCIAL NETWORKING SOFTWARE THAT ENABLES BUSINESSES TO COMMUNICATE, COLLABORATE
+
+AND INCREASE PRODUCTIVITY.
+
+RATIONAL SOFTWARE.
+
+SOFTWARE TOOLS THAT HELP CLIENTS MANAGE THEIR SOFTWARE DEVELOPMENT PROCESSES AND CAPABILITIES.
+
+4
+
+OPERATING SYSTEMS.
+
+SOFTWARE ENGINES THAT MANAGE THE FUNDAMENTAL PROCESSES THAT MAKE COMPUTERS RUN.
+
+GLOBAL FINANCING
+
+IS DESCRIBED ON PAGES 50 AND 51 IN IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS.
+
+GLOBAL FINANCING CAPABILITIES
+
+COMMERCIAL FINANCING.
+
+SHORT-TERM INVENTORY AND ACCOUNTS RECEIVABLE FINANCING TO DEALERS AND REMARKETERS OF IT
+
+PRODUCTS.
+
+CLIENT FINANCING.
+
+LEASE AND LOAN FINANCING TO EXTERNAL AND INTERNAL CLIENTS FOR TERMS GENERALLY BETWEEN TWO AND SEVEN YEARS.
+
+REMARKETING.
+
+THE SALE AND LEASE OF USED EQUIPMENT (PRIMARILY SOURCED FROM THE CONCLUSION OF LEASE TRANSACTIONS) TO NEW OR
+
+EXISTING CLIENTS.
+
+IBM WORLDWIDE ORGANIZATIONS
+
+THE FOLLOWING WORLDWIDE ORGANIZATIONS PLAY KEY ROLES IN IBM'S DELIVERY OF VALUE TO ITS CLIENTS.
+
+
+
+SALES AND DISTRIBUTION ORGANIZATION
+
+
+
+RESEARCH, DEVELOPMENT AND INTELLECTUAL PROPERTY
+
+
+
+INTEGRATED OPERATIONS
+
+SALES AND DISTRIBUTION ORGANIZATION
+
+THE COMPANY'S SALES AND DISTRIBUTION ORGANIZATION MANAGES A STRONG GLOBAL FOOTPRINT, WITH DEDICATED COUNTRY BASED OPERATING UNITS FOCUSED ON DELIVERING CLIENT
+
+VALUE. WITHIN THESE UNITS, CLIENT RELATIONSHIP PROFESSIONALS WORK WITH INTEGRATED TEAMS OF CONSULTANTS, PRODUCT SPECIALISTS AND DELIVERY FULFILLMENT TEAMS TO IMPROVE CLIENTS' BUSINESS PERFORMANCE.
+
+THESE TEAMS DELIVER VALUE BY UNDERSTANDING THE CLIENT'S BUSINESS AND NEEDS, AND THEN BRING TOGETHER CAPABILITIES FROM ACROSS IBM AND AN EXTENSIVE NETWORK OF BUSINESS PARTNERS TO DEVELOP AND IMPLEMENT
+
+SOLUTIONS FOR CLIENTS.
+
+BY
+
+COMBINING GLOBAL EXPERTISE WITH LOCAL EXPERIENCE, IBM'S GEOGRAPHIC STRUCTURE ENABLES DEDICATED MANAGEMENT FOCUS FOR LOCAL CLIENTS, SPEED IN ADDRESSING NEW MARKET OPPORTUNITIES AND
+
+TIMELY INVESTMENTS IN EMERGING OPPORTUNITIES. THE GEOGRAPHIC UNITS ALIGN INDUSTRY SKILLED RESOURCES TO SERVE CLIENTS' AGENDAS. IBM EXTENDS CAPABILITIES TO MID-MARKET CLIENT SEGMENTS BY LEVERAGING
+
+INDUSTRY SKILLS WITH MARKETING, IBM.COM AND LOCAL BUSINESS PARTNER RESOURCES.
+
+THE
+
+MAJORITY OF IBM'S REVENUE, EXCLUDING THE COMPANY'S ORIGINAL EQUIPMENT MANUFACTURER (OEM) TECHNOLOGY BUSINESS, OCCURS IN INDUSTRIES THAT ARE BROADLY GROUPED INTO SIX SECTORS.
+
+
+
+FINANCIAL SERVICES: BANKING, FINANCIAL MARKETS, INSURANCE
+
+
+
+PUBLIC: EDUCATION, GOVERNMENT, HEALTHCARE, LIFE SCIENCES
+
+
+
+INDUSTRIAL: AEROSPACE AND DEFENSE, AUTOMOTIVE, CHEMICAL AND PETROLEUM, ELECTRONICS
+
+
+
+DISTRIBUTION: CONSUMER PRODUCTS, RETAIL, TRAVEL AND TRANSPORTATION
+
+
+
+COMMUNICATIONS: TELECOMMUNICATIONS, MEDIA AND ENTERTAINMENT, ENERGY AND UTILITIES
+
+
+
+SMALL AND MEDIUM BUSINESS: MAINLY COMPANIES WITH LESS THAN 1,000 EMPLOYEES
+
+5
+
+RESEARCH, DEVELOPMENT AND INTELLECTUAL PROPERTY
+
+IBM'S RESEARCH AND DEVELOPMENT (R&D) OPERATIONS DIFFERENTIATE THE COMPANY FROM ITS COMPETITORS. IBM ANNUALLY SPENDS APPROXIMATELY $6 BILLION FOR R&D,
+
+FOCUSING ITS INVESTMENTS IN HIGH-GROWTH, HIGH-VALUE OPPORTUNITIES. IN 2007, THE COMPANY'S INVESTMENT IN R&D WAS APPROXIMATELY 15 PERCENT OF ITS COMBINED HARDWARE AND
+
+SOFTWARE REVENUE. AS A RESULT OF INNOVATIONS IN THESE AND OTHER AREAS, IBM WAS ONCE AGAIN AWARDED MORE U.S. PATENTS IN 2007 THAN ANY OTHER COMPANY. THIS MARKS THE 15TH YEAR IN A ROW THAT IBM ACHIEVED
+
+THIS DISTINCTION.
+
+IN
+
+ADDITION TO PRODUCING WORLD-CLASS HARDWARE AND SOFTWARE PRODUCTS, IBM INNOVATIONS ARE A MAJOR DIFFERENTIATOR IN PROVIDING SOLUTIONS FOR THE COMPANY'S CLIENTS THROUGH ITS GROWING
+
+SERVICES ACTIVITIES. THE COMPANY'S INVESTMENTS IN R&D ALSO RESULT IN INTELLECTUAL PROPERTY (IP) INCOME OF APPROXIMATELY $1 BILLION ANNUALLY. SOME OF IBM'S TECHNOLOGICAL BREAKTHROUGHS ARE USED
+
+EXCLUSIVELY IN IBM PRODUCTS, WHILE OTHERS ARE LICENSED AND MAY BE USED IN EITHER/BOTH IBM PRODUCTS AND/OR THE PRODUCTS OF THE LICENSEE.
+
+INTEGRATED OPERATIONS
+
+IBM'S ABILITY TO DELIVER DIFFERENTIATING INNOVATION TO ITS CLIENTS IS BEING GREATLY ENHANCED BY THE COMPANY'S GLOBAL INTEGRATION WHICH IS SIMULTANEOUSLY GIVING
+
+THE COMPANY BETTER ECONOMICS AND DEEPER CAPABILITIES, WHILE ELIMINATING REDUNDANCIES THAT WERE BUILT UP OVER FIFTY YEARS AS A GROWING MULTINATIONAL ENTERPRISE. THE COMPANY OPERATES IN 170 COUNTRIES,
+
+WITH APPROXIMATELY 69 PERCENT OF ITS EMPLOYEES OUTSIDE THE U.S. AS A GLOBALLY INTEGRATED ENTERPRISE, THE COMPANY ORGANIZES WORK BASED ON THE RIGHT COSTS, THE RIGHT SKILLS AND THE RIGHT BUSINESS
+
+ENVIRONMENT, INTEGRATING DEEPLY WITH ITS PARTNERS, SUPPLIERS AND CLIENTS. BEING GLOBAL IS ABOUT GAINING ACCESS TO TALENT AND SKILLS AND THEN SCALING THEM GLOBALLY TO DEVELOP NEW, DISTINCTIVE
+
+CAPABILITIES. THE COMPANY'S INTEGRATED OPERATIONS ENABLE IBM TO BE THE MOST EFFICIENT, RESPONSIVE AND GLOBALLY INTEGRATED ENTERPRISEABLE TO INSTANTLY LEVERAGE ITS EXPERTISE AND
+
+CAPABILITIESANYWHERE, AT ANY TIME. ALTHOUGH BOUND BY A COMMON MISSION AND PRINCIPLES, INTEGRATED OPERATIONS IS COMPRISED OF THREE DISTINCT UNITS, EACH WITH VERY SPECIFIC OBJECTIVES
+
+CLOSELY ALIGNED WITH THE IBM BUSINESSES THEY SUPPORT.
+
+INTEGRATED SUPPLY CHAIN
+
+JUST AS IBM WORKS TO TRANSFORM ITS CLIENTS' SUPPLY CHAINS FOR GREATER EFFICIENCY AND RESPONSIVENESS TO GLOBAL MARKET CONDITIONS, THE COMPANY CONTINUES TO DERIVE
+
+BUSINESS VALUE FROM ITS OWN GLOBALLY INTEGRATED SUPPLY CHAIN, REINVENTED AS A STRATEGIC ADVANTAGE FOR THE COMPANY TO CREATE VALUE FOR CLIENTS AND SHAREHOLDERS. IBM LEVERAGES ITS SUPPLY-CHAIN EXPERTISE
+
+FOR CLIENTS THROUGH ITS SUPPLY-CHAIN BUSINESS TRANSFORMATION OUTSOURCING SERVICE TO OPTIMIZE AND HELP OPERATE CLIENTS' END-TO-END SUPPLY-CHAIN PROCESSES, FROM PROCUREMENT TO
+
+LOGISTICS.
+
+IBM
+
+SPENDS APPROXIMATELY $38 BILLION ANNUALLY THROUGH ITS SUPPLY CHAIN, PROCURING MATERIALS AND SERVICES AROUND THE WORLD. THE COMPANY'S SUPPLY, MANUFACTURING AND LOGISTICS AND
+
+CUSTOMER FULFILLMENT OPERATIONS ARE INTEGRATED IN ONE OPERATING UNIT THAT HAS REDUCED INVENTORIES, IMPROVED RESPONSE TO MARKETPLACE OPPORTUNITIES AND EXTERNAL RISKS AND CONVERTED FIXED TO VARIABLE
+
+COSTS. SIMPLIFYING AND STREAMLINING INTERNAL PROCESSES HAS IMPROVED OPERATIONS, SALES FORCE PRODUCTIVITY AND PROCESSES, AND THESE ACTIONS HAVE IMPROVED CLIENT SATISFACTION.
+
+INTEGRATED TECHNOLOGY DELIVERY
+
+INTEGRATED TECHNOLOGY DELIVERY (ITD) BRINGS TOGETHER ALL OF THE COMPANY'S WORLDWIDE SERVICE DELIVERY CAPABILITIES FOR STRATEGIC OUTSOURCING WITH STRONG LOCAL AND
+
+REGIONAL MANAGEMENT TEAMS SUPPORTED BY A SET OF GLOBAL COMPETENCIES. ITD LEVERAGES THE COMPANY'S GLOBAL SCALE AND ADVANCED TECHNOLOGY TO DELIVER STANDARDIZED SOLUTIONS THAT ARE AUTOMATED, REPEATABLE
+
+AND GLOBALLY INTEGRATED.
+
+6
+
+THROUGH
+
+THE COMPANY'S GLOBAL POSITION, CLIENTS GAIN COST ADVANTAGES, ACCESS TO INDUSTRY-LEADING SKILLS AND ACCESS TO IBM'S SCALE AND OVERALL FLEXIBILITY. ITD MANAGES THE WORLD'S LARGEST
+
+PRIVATELY-OWNED IT INFRASTRUCTURE WITH EMPLOYEES IN OVER 30 COUNTRIES SUPPORTING OVER 400 DATA CENTERS.
+
+INTEGRATED MANAGED BUSINESS PROCESS DELIVERY
+
+INTEGRATED MANAGED BUSINESS PROCESS DELIVERY (IMBPD) PROVIDES HIGHLY EFFICIENT, WORLD CLASS DELIVERY CAPABILITIES IN IBM'S BUSINESS PROCESS DELIVERY OPERATIONS,
+
+WHICH INCLUDE BUSINESS TRANSFORMATION OUTSOURCING, BUSINESS PROCESS OUTSOURCING, BUSINESS PROCESS SERVICES AND APPLICATION ON DEMAND. IMBPD HAS EMPLOYEES AND DELIVERY CENTERS IN OVER 40 COUNTRIES
+
+WORLDWIDE.
+
+KEY BUSINESS DRIVERS
+
+THE FOLLOWING ARE SOME OF THE KEY DRIVERS OF THE COMPANY'S BUSINESS.
+
+ECONOMIC ENVIRONMENT AND CORPORATE SPENDING BUDGETS
+
+GLOBAL DEMAND FOR SYSTEMS, SOFTWARE AND SERVICES IS A KEY DRIVER OF THE COMPANY'S BUSINESS AND FINANCIAL PERFORMANCE. IBM'S DIVERSE SET OF PRODUCTS AND OFFERINGS
+
+IS DESIGNED TO PROVIDE MORE CONSISTENT RESULTS IN BOTH STRONG AND WEAK ECONOMIC ENVIRONMENTS. THE COMPANY ACCOMPLISHES THIS BY NOT ONLY HAVING A MIX OF OFFERINGS WITH LONG-TERM CASH AND
+
+INCOME STREAMS, AS WELL AS CYCLICAL TRANSACTION-BASED SALES, BUT ALSO BY CONTINUALLY DEVELOPING COMPETITIVE PRODUCTS AND SOLUTIONS AND EFFECTIVELY MANAGING A SKILLED RESOURCE BASE. IBM CONTINUES TO
+
+TRANSFORM ITSELF TO TAKE ADVANTAGE OF SHIFTING DEMAND TRENDS, FOCUSING ON CLIENT- OR INDUSTRY-SPECIFIC SOLUTIONS, BUSINESS PERFORMANCE AND OPEN STANDARDS.
+
+INTERNAL BUSINESS TRANSFORMATION AND GLOBAL INTEGRATION INITIATIVES
+
+IBM IS COMMITTED TO ITS TRANSFORMATION TO A GLOBALLY INTEGRATED ENTERPRISE. THE COMPANY CONTINUES TO DRIVE GREATER PRODUCTIVITY, FLEXIBILITY AND COST SAVINGS BY
+
+TRANSFORMING AND GLOBALLY INTEGRATING ITS OWN BUSINESS PROCESSES AND FUNCTIONS. IN ADDITION TO ELIMINATING REDUNDANCIES AND OVERHEAD STRUCTURES TO DRIVE PRODUCTIVITY, THIS INTEGRATION HAS IMPROVED
+
+IBM'S CAPACITY TO INNOVATE BY PROVIDING GREATER CLARITY OF KEY PRIORITIES AROUND SHARED GOALS AND OBJECTIVES AND LED TO A SHARPER FOCUS FOR THE COMPANY ON LEARNING, DEVELOPMENT AND KNOWLEDGE SHARING.
+
+INNOVATION INITIATIVES
+
+IBM INVESTS TO IMPROVE ITS ABILITY TO HELP ITS CLIENTS INNOVATE. INVESTMENT MAY OCCUR IN THE RESEARCH AND DEVELOPMENT OF NEW PRODUCTS AND SERVICES, AS WELL AS IN
+
+THE ESTABLISHMENT OF NEW COLLABORATIVE AND CO-CREATION RELATIONSHIPS WITH DEVELOPERS, OTHER COMPANIES AND OTHER INSTITUTIONS. EXAMPLES INCLUDE IBM'S LEADERSHIP POSITIONS IN THE DESIGN OF
+
+SMALLER, FASTER AND ENERGY-EFFICIENT SEMICONDUCTOR DEVICES; SYSTEMS VIRTUALIZATION, GREEN DATA CENTERS AND THE DESIGN OF "GRID" COMPUTING NETWORKS THAT ALLOW COMPUTERS TO SHARE PROCESSING POWER.
+
+OPEN STANDARDS
+
+THE BROAD ADOPTION OF OPEN STANDARDS IS ESSENTIAL TO THE COMPUTING MODEL FOR AN ON DEMAND BUSINESS AND IS A SIGNIFICANT DRIVER OF COLLABORATIVE INNOVATION ACROSS
+
+ALL INDUSTRIES. WITHOUT INTEROPERABILITY AMONG ALL MANNER OF COMPUTING PLATFORMS, THE INTEGRATION OF ANY CLIENT'S INTERNAL SYSTEMS, APPLICATIONS AND PROCESSES REMAINS A MONUMENTAL AND EXPENSIVE TASK.
+
+THE BROAD-BASED ACCEPTANCE OF OPEN STANDARDSRATHER THAN CLOSED, PROPRIETARY ARCHITECTURESALSO ALLOWS THE COMPUTING INFRASTRUCTURE TO MORE EASILY ABSORB (AND THUS BENEFIT
+
+FROM) NEW TECHNICAL INNOVATIONS. IBM'S SUPPORT OF OPEN STANDARDS IS EVIDENCED BY THE ENABLING OF ITS PRODUCTS TO SUPPORT OPEN STANDARDS SUCH AS LINUX,
+
+7
+
+AND
+
+THE DEVELOPMENT OF RATIONAL SOFTWARE DEVELOPMENT TOOLS, WHICH CAN BE USED TO DEVELOP AND UPGRADE OTHER COMPANIES' SOFTWARE PRODUCTS.
+
+INVESTING IN GROWTH OPPORTUNITIES
+
+THE COMPANY IS CONTINUING TO REFOCUS ITS BUSINESS ON THE HIGHER VALUE SEGMENTS OF ENTERPRISE COMPUTINGPROVIDING TECHNOLOGY AND TRANSFORMATION
+
+SERVICES TO CLIENTS' BUSINESSES. CONSISTENT WITH THAT FOCUS, THE COMPANY CONTINUES TO SIGNIFICANTLY INVEST IN GROWTH OPPORTUNITIES AS A WAY TO DRIVE REVENUE GROWTH AND MARKET SHARE GAINS. AREAS OF
+
+INVESTMENT INCLUDE STRATEGIC ACQUISITIONS, PRIMARILY IN SOFTWARE AND SERVICES, FOCUSED CLIENT- AND INDUSTRY-SPECIFIC SOLUTIONS, MAINTAINING TECHNOLOGY LEADERSHIP AND EMERGING GROWTH COUNTRIES
+
+WORLDWIDE.
+
+FORWARD-LOOKING AND CAUTIONARY STATEMENTS
+
+CERTAIN STATEMENTS CONTAINED IN THIS FORM 10-K MAY CONSTITUTE "FORWARD-LOOKING STATEMENTS" WITHIN THE MEANING OF THE PRIVATE SECURITIES LITIGATION REFORM
+
+ACT OF 1995 ("REFORM ACT"). THE COMPANY MAY ALSO MAKE FORWARD-LOOKING STATEMENTS IN OTHER REPORTS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION, IN MATERIALS DELIVERED TO STOCKHOLDERS AND IN PRESS
+
+RELEASES. IN ADDITION, THE COMPANY'S REPRESENTATIVES MAY FROM TIME TO TIME MAKE ORAL FORWARD-LOOKING STATEMENTS. FORWARD-LOOKING STATEMENTS PROVIDE CURRENT EXPECTATIONS OF FUTURE EVENTS BASED ON
+
+CERTAIN ASSUMPTIONS AND INCLUDE ANY STATEMENT THAT DOES NOT DIRECTLY RELATE TO ANY HISTORICAL OR CURRENT FACT. WORDS SUCH AS "ANTICIPATES," "BELIEVES," "EXPECTS," "ESTIMATES," "INTENDS," "PLANS,"
+
+"PROJECTS," AND SIMILAR EXPRESSIONS, MAY IDENTIFY SUCH FORWARD-LOOKING STATEMENTS. THE COMPANY ASSUMES NO OBLIGATION TO UPDATE OR REVISE ANY FORWARD-LOOKING STATEMENTS. IN ACCORDANCE WITH THE REFORM
+
+ACT, SET FORTH UNDER ITEM 1A. "RISK FACTORS" ON PAGES 10 THROUGH 14 ARE CAUTIONARY STATEMENTS THAT ACCOMPANY THOSE FORWARD-LOOKING STATEMENTS. READERS SHOULD CAREFULLY REVIEW SUCH
+
+CAUTIONARY STATEMENTS AS THEY IDENTIFY CERTAIN IMPORTANT FACTORS THAT COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE IN THE FORWARD-LOOKING STATEMENTS AND
+
+FROM HISTORICAL TRENDS. THOSE CAUTIONARY STATEMENTS ARE NOT EXCLUSIVE AND ARE IN ADDITION TO OTHER FACTORS DISCUSSED ELSEWHERE IN THIS FORM 10-K, IN THE COMPANY'S FILINGS WITH THE SECURITIES
+
+AND EXCHANGE COMMISSION OR IN MATERIALS INCORPORATED THEREIN BY REFERENCE.
+
+8
+
+THE FOLLOWING INFORMATION IS INCLUDED IN IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS AND IS INCORPORATED HEREIN BY REFERENCE.
+
+SEGMENT
+
+INFORMATION AND REVENUE BY CLASSES OF SIMILAR PRODUCTS OR SERVICESPAGES 116 TO 119.
+
+FINANCIAL
+
+INFORMATION BY GEOGRAPHIC AREASPAGE 119.
+
+AMOUNT
+
+SPENT DURING EACH OF THE LAST THREE YEARS ON R&D ACTIVITIESPAGE 99.
+
+FINANCIAL
+
+INFORMATION REGARDING ENVIRONMENTAL ACTIVITIESPAGE 92.
+
+THE
+
+NUMBER OF PERSONS EMPLOYED BY THE REGISTRANTPAGE 50.
+
+THE
+
+MANAGEMENT DISCUSSION OVERVIEWPAGES 16 AND 17.
+
+AVAILABLE
+
+INFORMATIONPAGE 124.
+
+ALSO
+
+REFER TO ITEM 1A. ENTITLED "RISK FACTORS" IN PART I OF THIS FORM.
+
+EXECUTIVE OFFICERS OF THE REGISTRANT (AT FEBRUARY 22, 2008).
+
+AGE
+
+OFFICER SINCE
+
+CHAIRMAN OF THE BOARD, PRESIDENT AND CHIEF EXECUTIVE OFFICER.
+
+SAMUEL J. PALMISANO(1)
+
+56
+
+1997
+
+EXECUTIVE VICE PRESIDENT.
+
+NICHOLAS M. DONOFRIO, INNOVATION AND TECHNOLOGY
+
+62
+
+1995
+
+SENIOR VICE PRESIDENTS.
+
+RODNEY C. ADKINS, DEVELOPMENT AND MANUFACTURING
+
+49
+
+2007
+
+MICHAEL E. DANIELS, GLOBAL TECHNOLOGY SERVICES
+
+53
+
+2005
+
+DOUGLAS T. ELIX, GROUP EXECUTIVE, SALES AND DISTRIBUTION
+
+59
+
+1999
+
+J. BRUCE HARRELD, MARKETING AND STRATEGY
+
+57
+
+1995
+
+JON C. IWATA, COMMUNICATIONS
+
+45
+
+2002
+
+JOHN E. KELLY, III, RESEARCH AND INTELLECTUAL PROPERTY
+
+54
+
+2000
+
+MARK LOUGHRIDGE, CHIEF FINANCIAL OFFICER
+
+54
+
+1998
+
+J. RANDALL MACDONALD, HUMAN RESOURCES
+
+59
+
+2000
+
+STEVEN A. MILLS, GROUP EXECUTIVE, SOFTWARE GROUP
+
+56
+
+2000
+
+ROBERT W. MOFFAT, JR., INTEGRATED OPERATIONS
+
+51
+
+2002
+
+VIRGINIA M. ROMETTY, GLOBAL BUSINESS SERVICES
+
+50
+
+2005
+
+LINDA S. SANFORD, ENTERPRISE ON DEMAND TRANSFORMATION
+
+55
+
+2000
+
+ROBERT C. WEBER, LEGAL AND REGULATORY AFFAIRS, AND GENERAL COUNSEL
+
+57
+
+2006
+
+WILLIAM M. ZEITLER, GROUP EXECUTIVE, SYSTEMS AND TECHNOLOGY GROUP
+
+60
+
+2000
+
+VICE PRESIDENT.
+
+TIMOTHY S. SHAUGHNESSY, CONTROLLER
+
+50
+
+2004
+
+(1)
+
+MEMBER
+
+OF THE BOARD OF DIRECTORS.
+
+ALL
+
+EXECUTIVE OFFICERS ARE ELECTED BY THE BOARD OF DIRECTORS AND SERVE UNTIL THE NEXT ELECTION OF OFFICERS IN CONJUNCTION WITH THE ANNUAL MEETING OF THE STOCKHOLDERS AS
+
+PROVIDED IN THE BY-LAWS. EACH EXECUTIVE OFFICER NAMED ABOVE, WITH THE EXCEPTION OF ROBERT C. WEBER, HAS BEEN AN EXECUTIVE OF IBM OR ITS SUBSIDIARIES DURING THE PAST FIVE YEARS.
+
+MR. WEBER
+
+WAS A PARTNER AT JONES DAY, AN INTERNATIONAL LAW FIRM, UNTIL JOINING IBM IN 2006. HE WAS WITH JONES DAY FOR ALMOST 30 YEARS, AND HIS CAREER INCLUDED COUNSELING
+
+CORPORATIONS, INDIVIDUALS AND BOARDS OF DIRECTORS, AS WELL AS EXTENSIVE EXPERIENCE IN CORPORATE DERIVATIVE LITIGATION, FEDERAL AND STATE ENFORCEMENT ACTIONS AND COMMERCIAL LITIGATION.
+
+9
+
+ITEM 1A. RISK FACTORS.
+
+ECONOMIC ENVIRONMENT AND CORPORATE IT SPENDING BUDGETS.
+
+IF OVERALL DEMAND FOR SYSTEMS, SOFTWARE AND SERVICES CHANGES, WHETHER
+
+DUE TO GENERAL ECONOMIC CONDITIONS OR A SHIFT IN CORPORATE BUYING PATTERNS, SALES PERFORMANCE COULD BE IMPACTED. IBM'S DIVERSE SET OF PRODUCTS AND OFFERINGS IS DESIGNED TO PROVIDE MORE CONSISTENT
+
+RESULTS IN BOTH STRONG AND WEAK ECONOMIC ENVIRONMENTS. THE COMPANY ADDRESSES THIS BY NOT ONLY HAVING A MIX OF OFFERINGS WITH LONG-TERM CASH AND INCOME STREAMS, AS WELL AS CYCLICAL
+
+TRANSACTION-BASED SALES, BUT ALSO BY CONTINUALLY DEVELOPING COMPETITIVE PRODUCTS AND SOLUTIONS AND EFFECTIVELY MANAGING A SKILLED RESOURCE BASE. IBM CONTINUES TO TRANSFORM ITSELF TO TAKE ADVANTAGE OF
+
+SHIFTING DEMAND TRENDS, FOCUSING ON CLIENT OR INDUSTRY-SPECIFIC SOLUTIONS, BUSINESS PERFORMANCE AND OPEN STANDARDS.
+
+INTERNAL BUSINESS TRANSFORMATION AND GLOBAL INTEGRATION INITIATIVES.
+
+IBM CONTINUES TO DRIVE GREATER PRODUCTIVITY, FLEXIBILITY
+
+AND COST SAVINGS BY TRANSFORMING AND GLOBALLY INTEGRATING ITS OWN BUSINESS PROCESSES AND FUNCTIONS. IN ADDITION TO ELIMINATING REDUNDANCIES AND OVERHEAD STRUCTURES TO DRIVE PRODUCTIVITY, THIS
+
+INTEGRATION HAS IMPROVED IBM'S CAPACITY TO INNOVATE BY PROVIDING GREATER CLARITY OF KEY PRIORITIES AROUND SHARED GOALS AND OBJECTIVES AND LEADS TO A SHARPER FOCUS FOR THE COMPANY ON LEARNING,
+
+DEVELOPMENT AND KNOWLEDGE SHARING. AS IBM CONTINUES TO DRIVE HIGHER LEVELS OF AUTOMATION AND INTEGRATION INTO ITS BUSINESS, IBM'S DEPENDENCY ON INTERNAL IT SYSTEMS ALSO INCREASES.
+
+INNOVATION INITIATIVES.
+
+IBM INVESTS TO IMPROVE ITS ABILITY TO HELP ITS CLIENTS INNOVATE. INVESTMENT MAY OCCUR IN THE RESEARCH
+
+AND DEVELOPMENT OF NEW PRODUCTS AND SERVICES, AS WELL AS IN THE ESTABLISHMENT OF NEW COLLABORATIVE AND CO-CREATION RELATIONSHIPS WITH DEVELOPERS, OTHER COMPANIES AND OTHER INSTITUTIONS. TO
+
+DELIVER VALUE THAT HELPS CLIENTS DIFFERENTIATE THEMSELVES FOR COMPETITIVE ADVANTAGE, IBM HAS BEEN MOVING AWAY FROM COMMODITIZED CATEGORIES OF THE IT INDUSTRY AND INTO AREAS IN WHICH IT CAN
+
+DIFFERENTIATE ITSELF THROUGH INNOVATION AND BY LEVERAGING ITS INVESTMENTS IN R&D. IN THE HIGHLY COMPETITIVE IT INDUSTRY, WITH LARGE DIVERSIFIED COMPETITORS AS WELL AS SMALLER AND NIMBLE SINGLE
+
+TECHNOLOGY COMPETITORS, IBM'S ABILITY TO CONTINUE ITS CUTTING-EDGE INNOVATION IS CRITICAL TO MAINTAINING AND INCREASING MARKET SHARE. IBM IS MANAGING THIS RISK BY MORE CLOSELY LINKING ITS
+
+R&D ORGANIZATION TO INDUSTRY-SPECIFIC AND CLIENT-SPECIFIC NEEDS. IN ADDITION, IBM HAS ONE OF THE STRONGEST BRAND NAMES IN THE WORLD, AND ITS BRAND AND OVERALL REPUTATION DEPENDS IN PART ON ITS ABILITY
+
+TO CONTINUE TO STAND FOR INDUSTRY-LEADING TECHNOLOGY AND SOLUTIONS THAT PROVIDE BUSINESS ADVANTAGES.
+
+OPEN STANDARDS.
+
+THE BROAD ADOPTION OF OPEN STANDARDS IS ESSENTIAL TO THE COMPUTING MODEL FOR ON DEMAND BUSINESS AND IS A
+
+SIGNIFICANT DRIVER OF COLLABORATIVE INNOVATION ACROSS ALL INDUSTRIES. WITHOUT INTEROPERABILITY AMONG ALL MANNER OF COMPUTING PLATFORMS, THE INTEGRATION OF ANY CLIENT'S INTERNAL SYSTEMS, APPLICATIONS
+
+AND PROCESSES REMAINS A MONUMENTAL AND EXPENSIVE TASK. THE BROAD-BASED ACCEPTANCE OF OPEN STANDARDSRATHER THAN CLOSED, PROPRIETARY ARCHITECTURESALSO ALLOWS THE COMPUTING
+
+INFRASTRUCTURE TO MORE EASILY ABSORB (AND THUS BENEFIT FROM) NEW TECHNICAL INNOVATIONS. IBM IS COMMITTED TO FOSTERING OPEN STANDARDS BECAUSE THEY ARE VITAL TO THE ON DEMAND OPERATING ENVIRONMENT, AND
+
+BECAUSE THEIR ACCEPTANCE WILL EXPAND GROWTH OPPORTUNITIES ACROSS THE ENTIRE BUSINESS SERVICES AND IT INDUSTRY. THERE ARE A NUMBER OF COMPETITORS IN THE IT INDUSTRY WITH SIGNIFICANT RESOURCES AND
+
+INVESTMENTS WHO ARE COMMITTED TO CLOSED AND PROPRIETARY PLATFORMS AS A WAY TO LOCK CUSTOMERS INTO A PARTICULAR ARCHITECTURE. THIS COMPETITION MAY RESULT IN INCREASED PRICING PRESSURE AND/OR IP CLAIMS
+
+AND PROCEEDINGS.
+
+INVESTING IN GROWTH OPPORTUNITIES.
+
+THE COMPANY IS CONTINUING TO REFOCUS ITS BUSINESS ON THE HIGHER-VALUE SEGMENTS OF
+
+ENTERPRISE COMPUTINGPROVIDING TECHNOLOGY AND TRANSFORMATION SERVICES TO CLIENTS' BUSINESSES. CONSISTENT WITH THAT FOCUS, THE COMPANY CONTINUES TO SIGNIFICANTLY INVEST IN GROWTH
+
+OPPORTUNITIES, AS A WAY TO DRIVE REVENUE GROWTH AND MARKET SHARE GAINS. IBM CONTINUES TO INVEST IN DOZENS OF EMERGING GROWTH COUNTRIES INCLUDING BRAZIL, RUSSIA, INDIA AND CHINA. THE DEVELOPING NATURE
+
+OF EMERGING GROWTH COUNTRIES PRESENTS POLITICAL, SOCIAL AND ECONOMIC RISKS TO IBM'S BUSINESS, INCLUDING
+
+10
+
+RISKS
+
+FROM INADEQUATE INFRASTRUCTURE AND LABOR DISRUPTIONS IN THESE COUNTRIES, WHICH COULD IMPACT THE COMPANY'S ABILITY TO DELIVER TO ITS CLIENTS AROUND THE WORLD.
+
+PROTECTION OF INTELLECTUAL PROPERTY.
+
+WHILE THE COMPANY'S VARIOUS PROPRIETARY INTELLECTUAL PROPERTY RIGHTS ARE IMPORTANT TO
+
+ITS SUCCESS, IBM BELIEVES ITS BUSINESS AS A WHOLE IS NOT MATERIALLY DEPENDENT ON ANY PARTICULAR PATENT OR LICENSE, OR ANY PARTICULAR GROUP OF PATENTS OR LICENSES. IBM OWNS OR IS LICENSED UNDER A
+
+NUMBER OF PATENTS, WHICH VARY IN DURATION, RELATING TO ITS PRODUCTS. LICENSES UNDER PATENTS OWNED BY IBM HAVE BEEN AND ARE BEING GRANTED TO OTHERS UNDER REASONABLE TERMS AND CONDITIONS. THESE
+
+PROTECTIONS MAY NOT PREVENT COMPETITORS FROM INDEPENDENTLY DEVELOPING PRODUCTS AND SERVICES SIMILAR TO OR DUPLICATIVE TO THE COMPANY'S NOR CAN THERE BE ANY ASSURANCE THAT THESE PROTECTIONS WILL
+
+ADEQUATELY DETER MISAPPROPRIATION OR IMPROPER USE OF THE COMPANY'S TECHNOLOGY. ALSO, THERE CAN BE NO ASSURANCES THAT IBM WILL BE ABLE TO OBTAIN FROM THIRD PARTIES THE LICENSES IT NEEDS IN THE FUTURE.
+
+DATA PROTECTION.
+
+THE COMPANY'S PRODUCTS AND SERVICES, AS WELL AS ITS INTERNAL SYSTEMS AND PROCESSES, INVOLVE THE STORAGE AND
+
+TRANSMISSION OF PROPRIETARY INFORMATION AND SENSITIVE OR CONFIDENTIAL DATA, INCLUDING PERSONAL INFORMATION OF EMPLOYEES, CUSTOMERS AND OTHERS. BREACHES OF THE COMPANY'S SECURITY MEASURES COULD EXPOSE
+
+THE COMPANY, ITS CUSTOMERS OR THE INDIVIDUALS AFFECTED TO A RISK OF LOSS OR MISUSE OF THIS INFORMATION, RESULTING IN LITIGATION AND POTENTIAL LIABILITY FOR THE COMPANY, AS WELL AS THE LOSS OF EXISTING
+
+OR POTENTIAL CUSTOMERS AND DAMAGE TO THE COMPANY'S BRAND AND REPUTATION. IN ADDITION, THE COST AND OPERATIONAL CONSEQUENCES OF IMPLEMENTING FURTHER DATA PROTECTION MEASURES COULD BE SIGNIFICANT.
+
+SEASONALITY OF REVENUES AND PURCHASES.
+
+IBM'S REVENUES ARE AFFECTED BY SUCH FACTORS AS THE INTRODUCTION OF NEW PRODUCTS AND
+
+SERVICES, THE LENGTH OF THE SALES CYCLES AND THE SEASONALITY OF TECHNOLOGY PURCHASES. AS A RESULT, THE COMPANY'S RESULTS ARE DIFFICULT TO PREDICT. THESE FACTORS HISTORICALLY HAVE RESULTED IN LOWER
+
+REVENUE IN THE FIRST QUARTER THAN IN THE IMMEDIATELY PRECEDING FOURTH QUARTER. IN ADDITION, THE HIGH VOLUME OF PRODUCTS ORDERED AT THE END OF EACH QUARTER, ESPECIALLY AT THE END OF THE FOURTH QUARTER,
+
+MAY AFFECT IBM'S ABILITY TO SUCCESSFULLY SHIP ALL ORDERS BEFORE THE END OF THE QUARTER.
+
+LOCAL LEGAL, ECONOMIC AND HEALTH CONDITIONS.
+
+THE COMPANY IS A GLOBALLY INTEGRATED ENTITY, OPERATING IN 170 COUNTRIES
+
+WORLDWIDE AND DERIVING MORE THAN SIXTY PERCENT OF ITS REVENUES FROM SALES OUTSIDE THE UNITED STATES. CHANGES IN THE LAWS OR POLICIES OF THE COUNTRIES IN WHICH THE COMPANY OPERATES COULD AFFECT THE
+
+COMPANY'S BUSINESS IN THAT COUNTRY AND THE COMPANY'S OVERALL RESULTS OF OPERATIONS. THE COMPANY'S RESULTS OF OPERATIONS ALSO COULD BE AFFECTED BY ECONOMIC AND POLITICAL CHANGES IN THOSE COUNTRIES AND
+
+BY MACROECONOMIC CHANGES, INCLUDING RECESSIONS, INFLATION AND CURRENCY FLUCTUATIONS
+
+BETWEEN THE U.S. DOLLAR AND LOCAL CURRENCY. IN ADDITION, ANY WIDESPREAD OUTBREAK OF AN ILLNESS OR OTHER HEALTH ISSUE, SUCH AS SEVERE ACUTE RESPIRATORY SYNDROME (SARS), AVIAN INFLUENZA (BIRD
+
+FLU) OR ANY OTHER PANDEMIC, OR LOCAL OR GLOBAL HEALTH ISSUES, COULD ADVERSELY AFFECT THE COMPANY'S OPERATIONS AND ITS ABILITY TO SOURCE AND DELIVER PRODUCTS AND SERVICES TO ITS CUSTOMERS AND CUSTOMER
+
+DEMAND.
+
+INSURANCE.
+
+THE COMPANY MAINTAINS THIRD PARTY INSURANCE COVERAGE AGAINST VARIOUS LIABILITY RISKS AND RISKS OF PROPERTY LOSS.
+
+WHILE WE BELIEVE THESE ARRANGEMENTS ARE AN EFFECTIVE WAY TO INSURE AGAINST LIABILITY AND PROPERTY DAMAGE RISKS, THE POTENTIAL LIABILITIES ASSOCIATED WITH THOSE RISKS OR OTHER EVENTS COULD EXCEED THE
+
+COVERAGE PROVIDED BY SUCH ARRANGEMENTS.
+
+ENVIRONMENTAL MATTERS.
+
+THE COMPANY IS SUBJECT TO VARIOUS FEDERAL, STATE, LOCAL AND FOREIGN LAWS AND REGULATIONS CONCERNING
+
+THE DISCHARGE OF MATERIALS INTO THE ENVIRONMENT OR OTHERWISE RELATED TO ENVIRONMENTAL PROTECTION, INCLUDING THE U.S. SUPERFUND LAW. THE COMPANY COULD INCUR SUBSTANTIAL COSTS, INCLUDING CLEANUP COSTS,
+
+FINES AND CIVIL OR CRIMINAL SANCTIONS, AS WELL AS THIRD-PARTY CLAIMS FOR PROPERTY DAMAGE OR PERSONAL INJURY, IF IT WERE TO VIOLATE OR BECOME LIABLE UNDER ENVIRONMENTAL LAWS AND
+
+11
+
+REGULATIONS.
+
+COMPLIANCE WITH ENVIRONMENTAL LAWS AND REGULATIONS IS NOT EXPECTED TO HAVE A MATERIAL ADVERSE EFFECT ON THE COMPANY'S FINANCIAL POSITION, RESULTS OF OPERATIONS AND COMPETITIVE POSITION.
+
+TAX MATTERS.
+
+THE COMPANY IS SUBJECT TO INCOME TAXES IN BOTH THE UNITED STATES AND NUMEROUS FOREIGN JURISDICTIONS. IBM'S
+
+PROVISION FOR INCOME TAXES AND CASH TAX LIABILITY IN THE FUTURE COULD BE ADVERSELY AFFECTED BY NUMEROUS FACTORS INCLUDING, BUT NOT LIMITED TO, INCOME BEFORE TAXES BEING LOWER THAN ANTICIPATED IN
+
+COUNTRIES WITH LOWER STATUTORY TAX RATES AND HIGHER THAN ANTICIPATED IN COUNTRIES WITH HIGHER STATUTORY TAX RATES, CHANGES IN THE VALUATION OF DEFERRED TAX ASSETS AND LIABILITIES, AND CHANGES IN TAX
+
+LAWS, REGULATIONS, ACCOUNTING PRINCIPLES OR INTERPRETATIONS THEREOF, WHICH COULD ADVERSELY IMPACT THE COMPANY'S RESULTS OF OPERATIONS AND FINANCIAL CONDITION IN FUTURE PERIODS. IN ADDITION, IBM IS
+
+SUBJECT TO THE CONTINUOUS EXAMINATION OF ITS INCOME TAX RETURNS BY THE INTERNAL REVENUE SERVICE AND OTHER TAX AUTHORITIES. THE COMPANY REGULARLY ASSESSES THE LIKELIHOOD OF ADVERSE OUTCOMES RESULTING
+
+FROM THESE EXAMINATIONS TO DETERMINE THE ADEQUACY OF ITS PROVISION FOR INCOME TAXES. THERE CAN BE NO ASSURANCE THAT THE OUTCOMES FROM THESE CONTINUOUS EXAMINATIONS WILL NOT HAVE AN ADVERSE EFFECT ON
+
+THE COMPANY'S PROVISION FOR INCOME TAXES AND CASH TAX LIABILITY.
+
+INTERNAL CONTROLS.
+
+EFFECTIVE INTERNAL CONTROLS ARE NECESSARY FOR THE COMPANY TO PROVIDE REASONABLE ASSURANCE WITH RESPECT TO
+
+ITS FINANCIAL REPORTS AND TO EFFECTIVELY PREVENT FRAUD. IF THE COMPANY CANNOT PROVIDE REASONABLE ASSURANCE WITH RESPECT TO ITS FINANCIAL REPORTS AND EFFECTIVELY PREVENT FRAUD, THE COMPANY'S OPERATING
+
+RESULTS COULD BE AFFECTED. PURSUANT TO THE SARBANES-OXLEY ACT OF 2002, THE COMPANY IS REQUIRED TO FURNISH A REPORT BY MANAGEMENT ON INTERNAL CONTROL OVER FINANCIAL REPORTING, INCLUDING MANAGEMENT'S
+
+ASSESSMENT OF THE EFFECTIVENESS OF SUCH CONTROL. INTERNAL CONTROL OVER FINANCIAL REPORTING MAY NOT PREVENT OR DETECT MISSTATEMENTS BECAUSE OF ITS INHERENT LIMITATIONS, INCLUDING THE POSSIBILITY OF
+
+HUMAN ERROR, THE CIRCUMVENTION OR OVERRIDING OF CONTROLS, OR FRAUD. THEREFORE, EVEN EFFECTIVE INTERNAL CONTROLS CAN PROVIDE ONLY REASONABLE ASSURANCE WITH RESPECT TO THE PREPARATION AND FAIR
+
+PRESENTATION OF FINANCIAL STATEMENTS. IN ADDITION, PROJECTIONS OF ANY EVALUATION OF EFFECTIVENESS OF INTERNAL CONTROL OVER FINANCIAL REPORTING TO FUTURE PERIODS ARE SUBJECT TO THE RISK THAT THE
+
+CONTROL MAY
+
+BECOME INADEQUATE BECAUSE OF CHANGES IN CONDITIONS, OR THAT THE DEGREE OF COMPLIANCE WITH THE POLICIES OR PROCEDURES MAY DETERIORATE. IF THE COMPANY FAILS TO MAINTAIN THE ADEQUACY OF ITS INTERNAL
+
+CONTROLS, INCLUDING ANY FAILURE TO IMPLEMENT REQUIRED NEW OR IMPROVED CONTROLS, OR IF THE COMPANY EXPERIENCES DIFFICULTIES IN THEIR IMPLEMENTATION, THE COMPANY'S BUSINESS AND OPERATING RESULTS COULD
+
+BE HARMED, THE COMPANY COULD FAIL TO MEET ITS FINANCIAL REPORTING OBLIGATIONS, AND THERE COULD BE A MATERIAL ADVERSE EFFECT ON THE COMPANY'S STOCK PRICE.
+
+USE OF ESTIMATES.
+
+IN CONNECTION WITH THE APPLICATION OF GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (GAAP) AND THE PREPARATION
+
+OF THE CONSOLIDATED FINANCIAL STATEMENTS, THE COMPANY USES CERTAIN ESTIMATES AND ASSUMPTIONS, WHICH ARE BASED ON HISTORICAL EXPERIENCE AND MANAGEMENT'S KNOWLEDGE OF CURRENT EVENTS AND ACTIONS THAT THE
+
+COMPANY MAY UNDERTAKE IN THE FUTURE. THE COMPANY'S MOST CRITICAL ACCOUNTING ESTIMATES ARE DESCRIBED IN THE MANAGEMENT DISCUSSION ON PAGES 47 TO 49 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS.
+
+IN ADDITION, AS DISCUSSED IN NOTE N, "CONTINGENCIES AND COMMITMENTS" ON PAGES 94 THROUGH 96 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS, THE COMPANY MAKES CERTAIN ESTIMATES UNDER THE
+
+PROVISIONS OF SFAS NO. 5, "ACCOUNTING FOR CONTINGENCIES", INCLUDING DECISIONS RELATED TO LEGAL PROCEEDINGS AND RESERVES. WHILE MANAGEMENT BELIEVES THAT THESE ESTIMATES AND ASSUMPTIONS ARE
+
+REASONABLE UNDER THE CIRCUMSTANCES, BY DEFINITION THEY INVOLVE THE USE OF JUDGMENT AND THE EXERCISE OF DISCRETION, AND THEREFORE, ACTUAL RESULTS MAY DIFFER.
+
+COMPETITIVE CONDITIONS.
+
+THE COMPANY OPERATES IN BUSINESSES THAT ARE SUBJECT TO INTENSE COMPETITIVE PRESSURES. THE COMPANY'S
+
+BUSINESSES FACE A SIGNIFICANT NUMBER OF COMPETITORS, RANGING FROM SOME OF THE WORLD'S LARGEST GLOBAL ENTERPRISES TO AN INCREASING NUMBER OF RELATIVELY SMALL, RAPIDLY GROWING AND HIGHLY SPECIALIZED
+
+ORGANIZATIONS. THE COMPANY BELIEVES THAT ITS COMBINATION OF TECHNOLOGY, PERFORMANCE, QUALITY, RELIABILITY, PRICE AND THE BREADTH OF PRODUCTS AND SERVICE OFFERINGS ARE IMPORTANT COMPETITIVE FACTORS.
+
+INTENSE COMPETITIVE PRESSURES COULD AFFECT PRICES OR DEMAND FOR THE COMPANY'S PRODUCTS AND SERVICES, RESULTING IN REDUCED PROFIT MARGINS AND/OR LOSS OF MARKET OPPORTUNITY. UNLIKE
+
+12
+
+MANY
+
+OF ITS COMPETITORS, THE COMPANY HAS A BROAD SET OF CAPABILITIES AND BUSINESSES AND MUST ALLOCATE RESOURCES ACROSS THESE BUSINESSES WHILE COMPETING WITH COMPANIES THAT SPECIALIZE IN ONE OR MORE OF
+
+THESE PRODUCT LINES. AS A RESULT, THE COMPANY MAY NOT FUND OR INVEST IN CERTAIN OF ITS BUSINESSES TO THE SAME DEGREE THAT ITS COMPETITORS DO, AND THESE COMPETITORS MAY HAVE GREATER FINANCIAL,
+
+TECHNICAL AND MARKETING RESOURCES AVAILABLE TO THEM THAN THE BUSINESSES AGAINST WHICH THEY COMPETE.
+
+VOLATILITY OF STOCK PRICE.
+
+THE COMPANY'S STOCK PRICE IS AFFECTED BY A NUMBER OF FACTORS, INCLUDING QUARTERLY VARIATIONS IN
+
+FINANCIAL RESULTS, THE COMPETITIVE LANDSCAPE, GENERAL ECONOMIC AND MARKET CONDITIONS AND ESTIMATES AND PROJECTIONS BY THE INVESTMENT COMMUNITY. AS A RESULT, LIKE OTHER TECHNOLOGY COMPANIES, THE
+
+COMPANY'S STOCK PRICE IS SUBJECT TO SIGNIFICANT VOLATILITY.
+
+DEPENDENCE ON KEY PERSONNEL AND RELIANCE ON CRITICAL SKILLS.
+
+MUCH OF THE FUTURE SUCCESS OF THE COMPANY DEPENDS ON THE
+
+CONTINUED SERVICE, AVAILABILITY AND INTEGRITY OF SKILLED PERSONNEL, INCLUDING TECHNICAL, MARKETING AND STAFF RESOURCES. EXPERIENCED PERSONNEL IN THE INFORMATION TECHNOLOGY INDUSTRY ARE IN HIGH DEMAND
+
+AND COMPETITION FOR THEIR TALENTS IS INTENSE. CHANGING DEMOGRAPHICS AND LABOR WORK FORCE TRENDS MAY RESULT IN A LOSS OF KNOWLEDGE AND SKILLS AS EXPERIENCED WORKERS RETIRE. IN ADDITION,
+
+COMPANIES IN THE INFORMATION TECHNOLOGY AND SERVICES INDUSTRY WHOSE EMPLOYEES ACCEPT POSITIONS WITH IBM MAY CLAIM THAT IBM HAS INTERFERED WITH NONCOMPETE OBLIGATIONS OF THEIR FORMER EMPLOYEES, ENGAGED
+
+IN UNFAIR HIRING PRACTICES OR THAT THE EMPLOYMENT OF THESE PERSONS BY IBM WOULD INVOLVE THE DISCLOSURE OR USE OF TRADE SECRETS. ANY SUCH CLAIMS COULD LIMIT OR PREVENT IBM FROM HIRING EMPLOYEES OR
+
+CAUSE IT TO INCUR LIABILITY FOR DAMAGES OR SUBSTANTIAL COSTS IN DEFENDING THE COMPANY OR ITS EMPLOYEES AGAINST THESE CLAIMS, WHETHER OR NOT THEY HAVE MERIT. FURTHER, MANY OF IBM'S KEY PERSONNEL
+
+RECEIVE A TOTAL COMPENSATION PACKAGE THAT INCLUDES EQUITY AWARDS. NEW REGULATIONS, VOLATILITY IN THE STOCK MARKET AND OTHER FACTORS COULD DIMINISH THE COMPANY'S USE, AND THE VALUE, OF THE COMPANY'S
+
+EQUITY AWARDS, PUTTING THE COMPANY AT A COMPETITIVE DISADVANTAGE OR FORCING THE COMPANY TO USE MORE CASH COMPENSATION.
+
+RELATIONSHIPS WITH CRITICAL SUPPLIERS.
+
+IBM'S BUSINESS EMPLOYS A WIDE VARIETY OF COMPONENTS, SUPPLIES, SERVICES AND RAW
+
+MATERIALS FROM A SUBSTANTIAL NUMBER OF SUPPLIERS AROUND THE WORLD. CERTAIN OF THE COMPANY'S BUSINESSES RELY ON SINGLE OR A LIMITED NUMBER OF SUPPLIERS, ALTHOUGH THE COMPANY MAKES EVERY EFFORT TO
+
+ASSURE THAT ALTERNATIVE SOURCES ARE AVAILABLE IF THE NEED ARISES. THE FAILURE OF THE COMPANY'S SUPPLIERS TO DELIVER COMPONENTS, SUPPLIES, SERVICES AND RAW MATERIALS IN SUFFICIENT QUANTITIES AND IN A
+
+TIMELY MANNER COULD ADVERSELY AFFECT THE COMPANY'S BUSINESS. IN ADDITION, ANY DEFECTIVE COMPONENTS, SUPPLIES OR MATERIALS, OR INADEQUATE SERVICES, RECEIVED FROM SUPPLIERS COULD REDUCE THE RELIABILITY
+
+OF THE COMPANY'S PRODUCTS AND SERVICES AND HARM THE COMPANY'S REPUTATION.
+
+CURRENCY AND CUSTOMER FINANCING RISKS.
+
+THE COMPANY DERIVES A SIGNIFICANT PERCENTAGE OF ITS REVENUES FROM ITS AFFILIATES
+
+OPERATING IN LOCAL CURRENCY ENVIRONMENTS AND THOSE RESULTS ARE AFFECTED BY CHANGES IN THE RELATIVE VALUES OF NON-U.S. CURRENCIES AND THE U.S. DOLLAR. FURTHER, INHERENT IN THE COMPANY'S
+
+CUSTOMER FINANCING BUSINESS ARE RISKS RELATED TO THE CONCENTRATION OF CREDIT, CLIENT CREDITWORTHINESS, INTEREST RATE AND CURRENCY FLUCTUATIONS ON THE ASSOCIATED DEBT AND LIABILITIES, THE DETERMINATION
+
+OF RESIDUAL VALUES, AND THE FINANCING OF OTHER THAN TRADITIONAL IT ASSETS. THE COMPANY EMPLOYS A NUMBER OF STRATEGIES TO MANAGE THESE RISKS, INCLUDING THE USE OF DERIVATIVE FINANCIAL INSTRUMENTS.
+
+DERIVATIVES INVOLVE THE RISK OF NON-PERFORMANCE BY THE COUNTERPARTY. IN ADDITION, THERE CAN BE NO ASSURANCE THAT THE COMPANY'S EFFORTS TO MANAGE ITS CURRENCY AND CUSTOMER FINANCING RISKS
+
+WILL BE SUCCESSFUL.
+
+CUSTOMER CREDIT RISK ON RECEIVABLES.
+
+THE COMPANY'S CLIENT BASE INCLUDES MANY WORLDWIDE ENTERPRISES, FROM SMALL AND MEDIUM
+
+BUSINESSES TO THE WORLD'S LARGEST ORGANIZATIONS AND GOVERNMENTS, WITH A SIGNIFICANT PORTION OF THE COMPANY'S REVENUE COMING FROM GLOBAL CLIENTS IN THE COMPANY'S FINANCIAL SERVICES, PUBLIC, AND SMALL
+
+AND MEDIUM BUSINESS SECTORS. THE COMPANY'S FINANCIAL PERFORMANCE IS EXPOSED TO A WIDE VARIETY OF INDUSTRY SECTOR DYNAMICS WORLDWIDE. MOST OF THE COMPANY'S SALES ARE ON AN OPEN CREDIT BASIS AND THE
+
+COMPANY PERFORMS ONGOING CREDIT EVALUATIONS OF ITS CLIENTS'
+
+13
+
+FINANCIAL
+
+CONDITIONS. THE COMPANY MAINTAINS RESERVES THAT IT BELIEVES ARE ADEQUATE TO COVER EXPOSURE FOR ANY UNCOLLECTIBLE RECEIVABLES AND REGULARLY REVIEWS SUCH RESERVES BY CONSIDERING FACTORS SUCH
+
+AS WRITE-OFF HISTORY, AGING ANALYSIS AND ANY SPECIFIC, KNOWN TROUBLED ACCOUNTS. IF THE COMPANY BECOMES AWARE OF ADDITIONAL INFORMATION RELATED TO THE CREDIT WORTHINESS OF A MAJOR CUSTOMER,
+
+OR, IF FUTURE ACTUAL DEFAULT RATES ON RECEIVABLES IN GENERAL DIFFER FROM THOSE CURRENTLY ANTICIPATED, THE COMPANY MAY HAVE TO ADJUST ITS RESERVES, WHICH COULD AFFECT THE COMPANY'S CONSOLIDATED NET
+
+INCOME IN THE PERIOD THE ADJUSTMENTS ARE MADE.
+
+DISTRIBUTION CHANNELS.
+
+THE COMPANY OFFERS ITS PRODUCTS DIRECTLY AND THROUGH A VARIETY OF THIRD PARTY DISTRIBUTORS AND
+
+RESELLERS. CHANGES IN THE FINANCIAL OR BUSINESS CONDITION OF THESE DISTRIBUTORS AND RESELLERS COULD SUBJECT THE COMPANY TO LOSSES AND AFFECT ITS ABILITY TO BRING ITS PRODUCTS TO MARKET.
+
+ACQUISITIONS AND ALLIANCES.
+
+THE COMPANY HAS MADE AND EXPECTS TO CONTINUE TO MAKE ACQUISITIONS OR ENTER INTO ALLIANCES FROM
+
+TIME TO TIME. ACQUISITIONS AND ALLIANCES PRESENT SIGNIFICANT CHALLENGES AND RISKS RELATING TO THE INTEGRATION OF THE BUSINESS INTO THE COMPANY, AND THERE CAN BE NO ASSURANCES THAT THE COMPANY WILL
+
+MANAGE ACQUISITIONS AND ALLIANCES SUCCESSFULLY. THE RELATED RISKS INCLUDE THE COMPANY FAILING TO ACHIEVE STRATEGIC OBJECTIVES AND ANTICIPATED REVENUE IMPROVEMENTS AND COST SAVINGS, AS WELL AS THE
+
+FAILURE TO RETAIN KEY PERSONNEL OF THE ACQUIRED BUSINESS AND THE ASSUMPTION OF LIABILITIES RELATED TO LITIGATION OR OTHER LEGAL PROCEEDINGS INVOLVING THE ACQUIRED BUSINESS.
+
+RISK FACTORS RELATED TO IBM SECURITIES.
+
+THE COMPANY AND ITS SUBSIDIARIES ISSUES DEBT SECURITIES IN THE WORLDWIDE CAPITAL
+
+MARKETS FROM TIME TO TIME, WITH A VARIETY OF DIFFERENT MATURITIES AND IN DIFFERENT CURRENCIES. THE VALUE OF THE COMPANY'S DEBT SECURITIES FLUCTUATES BASED ON MANY FACTORS, INCLUDING, THE METHODS
+
+EMPLOYED FOR CALCULATING PRINCIPAL AND INTEREST, THE MATURITY OF THE SECURITIES, THE AGGREGATE PRINCIPAL AMOUNT OF SECURITIES OUTSTANDING, THE REDEMPTION FEATURES FOR THE SECURITIES, THE LEVEL,
+
+DIRECTION AND VOLATILITY OF INTEREST RATES, CHANGES IN EXCHANGE RATES, EXCHANGE CONTROLS, GOVERNMENTAL AND STOCK EXCHANGE REGULATIONS AND OTHER FACTORS OVER WHICH THE COMPANY HAS LITTLE OR NO CONTROL.
+
+THE COMPANY'S ABILITY TO PAY INTEREST AND REPAY THE PRINCIPAL FOR ITS DEBT SECURITIES IS DEPENDENT UPON ITS ABILITY TO MANAGE ITS BUSINESS OPERATIONS, AS WELL AS THE OTHER RISKS DESCRIBED UNDER THIS
+
+ITEM 1A. ENTITLED "RISK FACTORS". THERE CAN BE NO ASSURANCE THAT THE COMPANY WILL BE ABLE TO MANAGE ANY OF THESE RISKS SUCCESSFULLY.
+
+THE
+
+COMPANY ALSO ISSUES ITS COMMON STOCK FROM TIME TO TIME IN CONNECTION WITH VARIOUS COMPENSATION PLANS, CONTRIBUTIONS TO ITS PENSION PLAN AND CERTAIN ACQUISITIONS. THE MARKET PRICE OF
+
+IBM COMMON STOCK IS SUBJECT TO SIGNIFICANT VOLATILITY, DUE TO FACTORS DESCRIBED UNDER ITEM 1A. ENTITLED "RISK FACTORS", INCLUDING THE SECTION ENTITLED "VOLATILITY OF STOCK PRICE", AS WELL AS
+
+ECONOMIC AND GEOPOLITICAL CONDITIONS GENERALLY, TRADING VOLUMES, SPECULATION BY THE PRESS OR INVESTMENT COMMUNITY ABOUT THE COMPANY'S FINANCIAL CONDITION, AND OTHER FACTORS, MANY OF WHICH ARE BEYOND
+
+THE COMPANY'S CONTROL. SINCE THE MARKET PRICE OF IBM'S COMMON STOCK FLUCTUATES SIGNIFICANTLY, STOCKHOLDERS MAY NOT BE ABLE TO SELL THE COMPANY'S STOCK AT ATTRACTIVE PRICES.
+
+IN
+
+ADDITION, CHANGES BY ANY RATING AGENCY TO THE COMPANY'S OUTLOOK OR CREDIT RATINGS CAN NEGATIVELY IMPACT THE VALUE AND LIQUIDITY OF BOTH THE COMPANY'S DEBT AND EQUITY SECURITIES. THE
+
+COMPANY DOES NOT MAKE A MARKET IN EITHER ITS DEBT OR EQUITY SECURITIES AND CANNOT PROVIDE ANY ASSURANCES WITH RESPECT TO THE LIQUIDITY OR VALUE OF SUCH SECURITIES.
+
+14
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS.
+
+NOT APPLICABLE.
+
+ITEM 2. PROPERTIES.
+
+AT DECEMBER 31, 2007, IBM'S MANUFACTURING AND DEVELOPMENT FACILITIES IN THE UNITED STATES HAD AGGREGATE FLOOR SPACE OF 20 MILLION SQUARE FEET, OF
+
+WHICH 16 MILLION WAS OWNED AND 4 MILLION WAS LEASED. OF THESE AMOUNTS, 2 MILLION SQUARE FEET WAS VACANT AND 1 MILLION SQUARE FEET WAS BEING LEASED TO NON-IBM
+
+BUSINESSES. SIMILAR FACILITIES IN 8 OTHER COUNTRIES TOTALED 6 MILLION SQUARE FEET, OF WHICH 2 MILLION WAS OWNED AND 4 MILLION WAS LEASED. OF THESE AMOUNTS, 1 MILLION
+
+SQUARE FEET WAS BEING LEASED TO NON-IBM BUSINESSES.
+
+ALTHOUGH
+
+IMPROVED PRODUCTION TECHNIQUES, PRODUCTIVITY GAINS AND INFRASTRUCTURE REDUCTION ACTIONS HAVE RESULTED IN REDUCED MANUFACTURING FLOOR SPACE, CONTINUOUS MAINTENANCE AND UPGRADING
+
+OF FACILITIES IS ESSENTIAL TO MAINTAIN TECHNOLOGICAL LEADERSHIP, IMPROVE PRODUCTIVITY AND MEET CUSTOMER DEMAND.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+REFER TO NOTE N, "CONTINGENCIES AND COMMITMENTS" ON PAGES 94 THROUGH 96 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS WHICH IS INCORPORATED HEREIN BY
+
+REFERENCE.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+NOT APPLICABLE.
+
+PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.
+
+REFER
+
+TO PAGES 121 AND 124 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS WHICH ARE INCORPORATED HEREIN BY REFERENCE SOLELY AS THEY RELATE TO THIS ITEM.
+
+IBM
+
+COMMON STOCK IS LISTED ON THE NEW YORK STOCK EXCHANGE AND CHICAGO STOCK EXCHANGE. THERE WERE 583,774 COMMON STOCKHOLDERS OF RECORD AT FEBRUARY 8, 2008.
+
+REFER
+
+TO ITEM 12, UNDER THE CAPTION "EQUITY COMPENSATION PLAN INFORMATION" ON PAGES 18 TO 20, FOR ADDITIONAL INFORMATION ON THE COMPANY'S EQUITY COMPENSATION PLANS.
+
+15
+
+THE
+
+FOLLOWING TABLE PROVIDES INFORMATION RELATING TO THE COMPANY'S REPURCHASE OF COMMON STOCK FOR THE FOURTH QUARTER OF 2007.
+
+TOTAL NUMBER
+
+OF SHARES
+
+PURCHASED
+
+AVERAGE
+
+PRICE PAID
+
+PER SHARE
+
+TOTAL NUMBER
+
+OF SHARES PURCHASED
+
+AS PART OF PUBLICLY
+
+ANNOUNCED PROGRAM
+
+APPROXIMATE
+
+DOLLAR VALUE
+
+OF SHARES THAT
+
+MAY YET BE
+
+PURCHASED UNDER
+
+THE PROGRAM(1)
+
+OCTOBER 1, 2007
+
+OCTOBER 31, 2007
+
+
+
+
+
+
+
+$1,695,962,824
+
+NOVEMBER 1, 2007
+
+NOVEMBER 30, 2007
+
+
+
+
+
+
+
+$1,695,962,824
+
+DECEMBER 1, 2007
+
+DECEMBER 31, 2007
+
 2,166,825
-$
-107.39
+
+$107.39
+
 2,166,825
-$
-1,210,214,954
+
+$1,210,214,954
+
 (2)
-total
+
+TOTAL
+
 2,166,825
-$
-107.39
+
+$107.39
+
 2,166,825
-(1)on
-april 24, 2007, the board of directors authorized $15.0billion in funds for use in the company's common stock repurchase program; the company stated that it may repurchase
-shares on the open market or in private transactions, including structured or accelerated transactions, depending on market conditions. see notem "stockholders' equity activity" on
-pages92 through 93 of ibm's 2007 annual report for additional information regarding the accelerated share repurchase agreements executed in the second quarter of 2007. the common stock
-repurchase program does not have an expiration date. as discussed in notem "stockholders' equity activity" on pages92 through 93 of ibm's 2007 annual report, the company does not
-expect the accelerated share repurchase agreements settlement periods to conclude until march 2008. on december3, 2007, the company announced that it plans to repurchase up to
-$1billion of its outstanding common stock in open market transactions by the end of february 2008. this table does not include shares tendered to satisfy the exercise price in connection with
-cashless exercises of employee stock options or shares tendered to satisfy tax withholding obligations in connection with employee equity awards.
-(2)the
-remaining authorization may be used for the settlement of the accelerated share repurchase agreements or additional common stock repurchases. as discussed in notem
-"stockholders' equity activity" on pages92 through 93 of ibm's 2007 annual report, the company elected to make a cash payment for the first and second settlements under the accelerated share
-repurchase agreements in september and december 2007, resulting in a reduction of $151.8million and $253.1million, respectively, to the remaining authorization.
-item 6. selected financial data:
-refer to pages120 and 121 of ibm's 2007 annual report to stockholders which are incorporated herein by reference.
-item 7. management's discussion and analysis of financial condition and results of operations:
-refer to pages14 through 55 of ibm's 2007 annual report to stockholders which are incorporated herein by reference.
-item 7a. quantitative and qualitative disclosures about market risks:
-refer to the section titled "market risk" on pages49 and 50 of ibm's 2007 annual report to stockholders which is incorporated herein by reference.
-item 8. financial statements and supplementary data:
-refer to pages 58 through 119 of ibm's 2007 annual report to stockholders which are incorporated herein by reference. also refer to the financial statement
-schedule on page s-1 of this form.
-item 9. changes in and disagreements with accountants on accounting and financial disclosure:
-not
-applicable.
-item 9a. controls and procedures:
-the company's management evaluated, with the participation of the chief executive officer and chief financial officer, the effectiveness of the company's
-disclosure controls and procedures as of the end of the period covered by this report. based on that evaluation, the chief executive officer and chief financial officer have concluded that the
-company's disclosure controls and procedures were effective as of the end of the period covered by this report.
-refer
-to "report of management" and "report of independent registered public accounting firm" on pages56 and 57 of ibm's 2007 annual report to stockholders, which are
-incorporated herein by reference. there has been no change in the company's internal control over financial reporting that occurred during the fourth fiscal quarter that has materially affected, or is
-reasonably likely to material affect, the company's internal control over financial reporting.
-item 9b. other information:
-not applicable.
-part iii
-item 10. directors, executive officers and corporate governance:
-refer to the information under the captions "election of directors for a term of one year," "general informationcommittees of the board," "audit
-committee" and "section16(a) beneficial ownership reporting compliance" in ibm's definitive proxy statement to be filed with the securities and exchange commission and delivered to
-stockholders in connection with the annual meeting of stockholders to be held april29, 2008, all of which information is incorporated herein by reference. also refer to item1 of this
-form10-k under the caption "executive officers of the registrant (at february22, 2008)" on page9 for additional information on the company's executive officers.
-item 11. executive compensation:
-refer to the information under the captions "general information2007 director compensation narrative," "2007 director compensation table," "2007
-compensation discussion and analysis," "2007 summary compensation table narrative," "2007 summary compensation table," "2007 grants of plan-based awards table," "2007 outstanding equity
-awards at fiscal year-end narrative," "2007 outstanding equity awards at fiscal year-end table," "2007 option exercises and stock vested table," "2007 retention plan
-narrative," "2007 retention plan table," "2007 pension benefits narrative," "2007 pension benefits table," "2007 nonqualified deferred compensation narrative," "2007 nonqualified deferred compensation
-table," "2007 potential payments upon termination narrative," and "2007 potential payments upon termination table," "compensation committee interlocks and insider participation"
-and "2007 report of the executive compensation and management resources committee of the board of directors" in ibm's definitive proxy statement to be filed with the securities and exchange commission
-and delivered to stockholders in connection with the annual meeting of stockholders to be held april29, 2008, all of which information is incorporated herein by reference.
-item 12. security ownership of certain beneficial owners and management and related stockholder matters:
-refer to the information under the caption "ownership of securitiescommon stock and stock-based holdings of directors and executive officers" in
-ibm's definitive proxy statement to be filed with the securities and exchange commission and delivered to stockholders in connection with the annual meeting of stockholders to be held april29,
-2008, all of which information is incorporated herein by reference.
-equity compensation plan information
-(c)
-(a)
-(b)
-number of securities
-remaining available
-for future issuance
-under equity
-compensation plans
-(excluding
-securities reflected
-in column(a))
-plan category
-number of securities
-to be issued upon
-exercise of outstanding
-options, warrants
-and rights(1)
-weighted-average
-exercise price
-of outstanding
-options, warrants
-and rights(1)
-equity compensation plans approved by security holders
-options
+
+(1)
+
+ON
+
+APRIL 24, 2007, THE BOARD OF DIRECTORS AUTHORIZED $15.0 BILLION IN FUNDS FOR USE IN THE COMPANY'S COMMON STOCK REPURCHASE PROGRAM; THE COMPANY STATED THAT IT MAY REPURCHASE
+
+SHARES ON THE OPEN MARKET OR IN PRIVATE TRANSACTIONS, INCLUDING STRUCTURED OR ACCELERATED TRANSACTIONS, DEPENDING ON MARKET CONDITIONS. SEE NOTE M "STOCKHOLDERS' EQUITY ACTIVITY" ON
+
+PAGES 92 THROUGH 93 OF IBM'S 2007 ANNUAL REPORT FOR ADDITIONAL INFORMATION REGARDING THE ACCELERATED SHARE REPURCHASE AGREEMENTS EXECUTED IN THE SECOND QUARTER OF 2007. THE COMMON STOCK
+
+REPURCHASE PROGRAM DOES NOT HAVE AN EXPIRATION DATE. AS DISCUSSED IN NOTE M "STOCKHOLDERS' EQUITY ACTIVITY" ON PAGES 92 THROUGH 93 OF IBM'S 2007 ANNUAL REPORT, THE COMPANY DOES NOT
+
+EXPECT THE ACCELERATED SHARE REPURCHASE AGREEMENTS SETTLEMENT PERIODS TO CONCLUDE UNTIL MARCH 2008. ON DECEMBER 3, 2007, THE COMPANY ANNOUNCED THAT IT PLANS TO REPURCHASE UP TO
+
+$1 BILLION OF ITS OUTSTANDING COMMON STOCK IN OPEN MARKET TRANSACTIONS BY THE END OF FEBRUARY 2008. THIS TABLE DOES NOT INCLUDE SHARES TENDERED TO SATISFY THE EXERCISE PRICE IN CONNECTION WITH
+
+CASHLESS EXERCISES OF EMPLOYEE STOCK OPTIONS OR SHARES TENDERED TO SATISFY TAX WITHHOLDING OBLIGATIONS IN CONNECTION WITH EMPLOYEE EQUITY AWARDS.
+
+(2)
+
+THE
+
+REMAINING AUTHORIZATION MAY BE USED FOR THE SETTLEMENT OF THE ACCELERATED SHARE REPURCHASE AGREEMENTS OR ADDITIONAL COMMON STOCK REPURCHASES. AS DISCUSSED IN NOTE M
+
+"STOCKHOLDERS' EQUITY ACTIVITY" ON PAGES 92 THROUGH 93 OF IBM'S 2007 ANNUAL REPORT, THE COMPANY ELECTED TO MAKE A CASH PAYMENT FOR THE FIRST AND SECOND SETTLEMENTS UNDER THE ACCELERATED SHARE
+
+REPURCHASE AGREEMENTS IN SEPTEMBER AND DECEMBER 2007, RESULTING IN A REDUCTION OF $151.8 MILLION AND $253.1 MILLION, RESPECTIVELY, TO THE REMAINING AUTHORIZATION.
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+REFER TO PAGES 120 AND 121 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS WHICH ARE INCORPORATED HEREIN BY REFERENCE.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+REFER TO PAGES 14 THROUGH 55 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS WHICH ARE INCORPORATED HEREIN BY REFERENCE.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS.
+
+REFER TO THE SECTION TITLED "MARKET RISK" ON PAGES 49 AND 50 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS WHICH IS INCORPORATED HEREIN BY REFERENCE.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+REFER TO PAGES 58 THROUGH 119 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS WHICH ARE INCORPORATED HEREIN BY REFERENCE. ALSO REFER TO THE FINANCIAL STATEMENT
+
+SCHEDULE ON PAGE S-1 OF THIS FORM.
+
+16
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+
+NOT
+
+APPLICABLE.
+
+ITEM 9A. CONTROLS AND PROCEDURES.
+
+THE COMPANY'S MANAGEMENT EVALUATED, WITH THE PARTICIPATION OF THE CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER, THE EFFECTIVENESS OF THE COMPANY'S
+
+DISCLOSURE CONTROLS AND PROCEDURES AS OF THE END OF THE PERIOD COVERED BY THIS REPORT. BASED ON THAT EVALUATION, THE CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER HAVE CONCLUDED THAT THE
+
+COMPANY'S DISCLOSURE CONTROLS AND PROCEDURES WERE EFFECTIVE AS OF THE END OF THE PERIOD COVERED BY THIS REPORT.
+
+REFER
+
+TO "REPORT OF MANAGEMENT" AND "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM" ON PAGES 56 AND 57 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS, WHICH ARE
+
+INCORPORATED HEREIN BY REFERENCE. THERE HAS BEEN NO CHANGE IN THE COMPANY'S INTERNAL CONTROL OVER FINANCIAL REPORTING THAT OCCURRED DURING THE FOURTH FISCAL QUARTER THAT HAS MATERIALLY AFFECTED, OR IS
+
+REASONABLY LIKELY TO MATERIAL AFFECT, THE COMPANY'S INTERNAL CONTROL OVER FINANCIAL REPORTING.
+
+ITEM 9B. OTHER INFORMATION.
+
+NOT APPLICABLE.
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.
+
+REFER TO THE INFORMATION UNDER THE CAPTIONS "ELECTION OF DIRECTORS FOR A TERM OF ONE YEAR," "GENERAL INFORMATIONCOMMITTEES OF THE BOARD," "AUDIT
+
+COMMITTEE" AND "SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE" IN IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND DELIVERED TO
+
+STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008, ALL OF WHICH INFORMATION IS INCORPORATED HEREIN BY REFERENCE. ALSO REFER TO ITEM 1 OF THIS
+
+FORM 10-K UNDER THE CAPTION "EXECUTIVE OFFICERS OF THE REGISTRANT (AT FEBRUARY 22, 2008)" ON PAGE 9 FOR ADDITIONAL INFORMATION ON THE COMPANY'S EXECUTIVE OFFICERS.
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+REFER TO THE INFORMATION UNDER THE CAPTIONS "GENERAL INFORMATION2007 DIRECTOR COMPENSATION NARRATIVE," "2007 DIRECTOR COMPENSATION TABLE," "2007
+
+COMPENSATION DISCUSSION AND ANALYSIS," "2007 SUMMARY COMPENSATION TABLE NARRATIVE," "2007 SUMMARY COMPENSATION TABLE," "2007 GRANTS OF PLAN-BASED AWARDS TABLE," "2007 OUTSTANDING EQUITY
+
+AWARDS AT FISCAL YEAR-END NARRATIVE," "2007 OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END TABLE," "2007 OPTION EXERCISES AND STOCK VESTED TABLE," "2007 RETENTION PLAN
+
+NARRATIVE," "2007 RETENTION PLAN TABLE," "2007 PENSION BENEFITS NARRATIVE," "2007 PENSION BENEFITS TABLE," "2007 NONQUALIFIED DEFERRED COMPENSATION NARRATIVE," "2007 NONQUALIFIED DEFERRED COMPENSATION
+
+TABLE," "2007 POTENTIAL PAYMENTS UPON TERMINATION NARRATIVE," AND "2007 POTENTIAL PAYMENTS UPON TERMINATION TABLE," "COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION"
+
+AND "2007 REPORT OF THE EXECUTIVE COMPENSATION AND MANAGEMENT RESOURCES COMMITTEE OF THE BOARD OF DIRECTORS" IN IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION
+
+AND DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008, ALL OF WHICH INFORMATION IS INCORPORATED HEREIN BY REFERENCE.
+
+17
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+
+REFER TO THE INFORMATION UNDER THE CAPTION "OWNERSHIP OF SECURITIESCOMMON STOCK AND STOCK-BASED HOLDINGS OF DIRECTORS AND EXECUTIVE OFFICERS" IN
+
+IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29,
+
+2008, ALL OF WHICH INFORMATION IS INCORPORATED HEREIN BY REFERENCE.
+
+EQUITY COMPENSATION PLAN INFORMATION
+
+(C)
+
+(A)
+
+(B)
+
+NUMBER OF SECURITIES
+
+REMAINING AVAILABLE
+
+FOR FUTURE ISSUANCE
+
+UNDER EQUITY
+
+COMPENSATION PLANS
+
+(EXCLUDING
+
+SECURITIES REFLECTED
+
+IN COLUMN(A))
+
+PLAN CATEGORY
+
+NUMBER OF SECURITIES
+
+TO BE ISSUED UPON
+
+EXERCISE OF OUTSTANDING
+
+OPTIONS, WARRANTS
+
+AND RIGHTS(1)
+
+WEIGHTED-AVERAGE
+
+EXERCISE PRICE
+
+OF OUTSTANDING
+
+OPTIONS, WARRANTS
+
+AND RIGHTS(1)
+
+EQUITY COMPENSATION PLANS APPROVED BY SECURITY HOLDERS
+
+OPTIONS
+
 87,558,199
-$
-108.36
-rsus
+
+$108.36
+
+
+
+RSUS
+
 1,501,326
-n/a
-psus
+
+N/A
+
+
+
+PSUS
+
 2,079,944
+
 (2)
-n/a
-subtotal
+
+N/A
+
+
+
+SUBTOTAL
+
 91,139,469
-$
-108.36
+
+$108.36
+
 105,996,924
-equity compensation plans not approved by security holders
-options
+
+EQUITY COMPENSATION PLANS NOT APPROVED BY SECURITY HOLDERS
+
+OPTIONS
+
 70,103,058
-$
-88.89
-rsus
+
+$88.89
+
+
+
+RSUS
+
 10,386,420
-n/a
-psus
+
+N/A
+
+
+
+PSUS
+
 2,095,791
+
 (2)
-n/a
-dceap shares
+
+N/A
+
+
+
+DCEAP SHARES
+
 81,064
-n/a
-subtotal
+
+N/A
+
+
+
+SUBTOTAL
+
 82,666,333
-$
-88.89
+
+$88.89
+
 25,362,820
-total
+
+TOTAL
+
 173,805,802
-$
-99.70
+
+$99.70
+
 131,359,744
-n/a is not applicable
-rsusrestricted stock units, including retention restricted stock units
-psusperformance share units
-dceap sharesshares under the dceap (see plan description below)
-(1)in
-connection with 26 acquisition transactions, 2,090,910 additional options were outstanding as a result of the company's assumption of options granted by the acquired entities. the
-weighted-average exercise price of these options was $79. the company has not made, and will not make, any future grants or awards of equity securities under the plans of these acquired companies.
-(2)the
-numbers included for psus in column(a) above reflect the maximum number payout. assuming target number payout, the number of securities to be issued upon the exercise of
-psus for equity compensation plans approved by security holders is 1,386,629 and for equity compensation plans not approved by security holders is 1,397,194. for additional information about psus,
-including payout calculations, refer to the information under "2007 summary compensation table narrative" in ibm's definitive proxy statement to be filed with the securities and exchange
-commission
-and delivered to stockholders in connection with the annual meeting of stockholders to be held april29, 2008.
-the
-material features of each equity compensation plan under which equity securities are authorized for issuance that was adopted without stockholder approval are described below:
-2001 longterm performance plan
-the 2001 long-term performance plan (the "2001 plan") is used to fund awards for employees other than senior executives of the company. awards for
-senior executives of the company will continue to be funded from the stockholder-approved 1999 long-term performance plan (the "1999 plan"). otherwise, the provisions of the 2001 plan are
-identical to the 1999 plan, including the type of awards that may be granted under the plan (stock options, restricted stock unit awards and long-term performance incentive awards).
-the
-2001 plan is administered by the executive compensation and management resources committee of the board of directors, and that committee may delegate to officers of the company
-certain of its duties, powers and authority. payment of awards may be made in the form of cash, stock or combinations thereof and may be deferred with committee approval. awards are not transferable
-or assignable except (i)by law, will or the laws of descent and distribution, (ii)as a result of the disability of the recipient, or (iii)with the approval of the committee.
-if
-the employment of a participant terminates, other than as a result of the death or disability of the participant, all unexercised, deferred and unpaid awards shall be canceled
-immediately, unless the award agreement provides otherwise. in the event of the death of a participant or in the event a participant is deemed by the company to be disabled and eligible for benefits
-under the terms of the ibm long-term disability plan (or any successor plan or similar plan of another employer), the participant's estate, beneficiaries or representative, as the case may
-be, shall have the rights and duties of the participant under the applicable award agreement. in addition, unless the award agreement specifies otherwise, the committee may cancel, rescind, suspend,
-withhold or otherwise limit or restrict any unexpired, unpaid, or deferred awards at any time if the participant is not in compliance with all applicable provisions of the award agreement and the
-plan. in addition,
-awards are cancelled if the participant engages in any conduct or act determined to be injurious, detrimental or prejudicial to any interest of the company.
-pwcc acquisition longterm performance plan
-the ibm pwcc acquisition long-term performance plan (the "pwcc plan") was adopted by the board of directors in connection with the company's
-acquisition of pricewaterhousecoopers consulting ("pwcc") from pricewaterhousecoopersllp, as announced on october1, 2002. the pwcc plan has been and will continue to be used solely to
-fund awards for employees of pwcc who have come over to the company as a result of the acquisition. awards for senior executives of the company will not be funded from the pwcc plan. the terms and
-conditions of the pwcc plan are substantively identical to the terms and conditions of the 2001 plan, described above.
-ibm deferred compensation and equity award plan
-the ibm deferred compensation and equity award plan (the "dceap") was adopted in 1993. under the dceap, non-management directors receive promised fee
-shares in connection with deferred annual retainer payments. each promised fee share is equal in value to one share of the company's common stock. upon a director's retirement or other completion of
-service as a director, all amounts deferred into promised fee shares are payable in either cash and/or shares of the company's stock at the director's election. (for additional information about the
-dceap, see 2007 director compensation narrative in ibm's definitive proxy statement to be filed with the securities and
-exchange
-commission and delivered to stockholders in connection with the annual meeting of stockholders to be held april29, 2008).
-item 13. certain relationships and related transactions, and director independence:
-refer to the information under the captions "general informationboard of directors" and "general informationcertain transactions and
-relationships" in ibm's definitive proxy statement to be filed with the securities and exchange commission and delivered to stockholders in connection with the annual meeting of stockholders to be
-held april29, 2008, which information is incorporated herein by reference.
-item 14. principal accounting fees and services:
-refer to the information under the captions "report of the audit committee of the board of directors" and "audit and non-audit fees" in ibm's
-definitive proxy statement to be filed with the securities and exchange commission and delivered to stockholders in connection with the annual meeting of stockholders to be held april29, 2008,
-all of which information is incorporated herein by reference.
-part iv
-item 15. exhibits, financial statement schedules:
-(a)the
-following documents are filed as part of this report:
-1.financial
-statements from ibm's 2007 annual report to stockholders which are incorporated herein by reference:
-report
-of independent registered public accounting firm (page57).
-consolidated
-statement of earnings for the years ended december31, 2007, 2006 and 2005 (page58).
-consolidated
-statement of financial position at december31, 2007 and 2006 (page59).
-consolidated
-statement of cash flows for the years ended december31, 2007, 2006 and 2005 (page60).
-consolidated
-statement of stockholders' equity at december31, 2007, 2006 and 2005 (pages61 through63).
-notes
-to consolidated financial statements (pages64 through119).
-2.financial
-statement schedules required to be filed by item8 of this form:
-page
-schedule
-number
-report of independent registered public accounting firm on financial statement schedule.
-s-1
-ii
-valuation and qualifying accounts and reserves.
-all
-other schedules are omitted as the required matter is not present, the amounts are not significant or the information is shown in the consolidated financial
-statements or the notes thereto.
-3.exhibits:
-included
-in this form10-k:
-10.1
-forms of ltpp equity award agreements for (i)stock options, restricted stock, restricted stock units, cash-settled restricted stock units, sars, (ii)performance share units and (iii)
-retention restricted stock unit award. terms and conditions document in connection with foregoing award agreements.
-computation of ratio of earnings from continuing operations to fixed charges.
-ibm's 2007 annual report to stockholders, certain sections of which have been incorporated herein by reference.
-subsidiaries.
-23.1
-consent of independent registered public accounting firm.
-24.1
-powers of attorney.
-24.2
-resolutions of the ibm board of directors authorizing execution of this report by powers of attorney.
-31.1
-certification by ceo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002.
-31.2
-certification by cfo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002.
-32.1
-certification by ceo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002.
-32.2
-certification by cfo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of sarbanes-oxley act of 2002.
-not
-included in this form 10-k:
-the by-laws of ibm as amended through july31, 2007, are exhibit3 to form10-q filed july31, 2007, and is hereby incorporated by reference.
-the certificate of incorporation of ibm is exhibit 3.1 to form 8-k filed november30, 2006, and is hereby incorporated by reference.
-the ibm 1999 long term performance plan, a compensatory plan, contained in registration statement no.333-30424 on forms-8, as such amended plan was filed as exhibit10.3 to form10-q
-for the quarter ended september30, 2007, and is hereby incorporated by reference.
-the ibm 2001 long term performance plan, a compensatory plan, contained in registration statement no.333-87708 on forms-8, as such amended plan was filed as exhibit10.1 to form10-q
-for the quarter ended september30, 2007, and is hereby incorporated by reference.
-the ibm pwcc acquisition long term performance plan, a compensatory plan, contained in registration statement no.333-102872 on forms-8, as such amended plan was filed as exhibit10.2 to
-form 10-q for the quarter ended september30, 2007, and is hereby incorporated by reference.
-the ibm 1997 long-term performance plan, a compensatory plan, filed on july15, 1997 with registration statement no.333-31305 on forms-8, as such amended plan was filed as
-exhibit10.4 to form10-q for the quarter ended september31, 2007, and is hereby incorporated by reference.
-the ibm 1994 long-term performance plan, a compensatory plan, filed on may24, 1994 with registration statement no.33-53777 on forms-8, as such amended plan was filed as exhibit10.5 to form10-q for the quarter ended
-september31, 2007, and is hereby incorporated by reference.
-december2005 amendments to the ibm executive deferred compensation plan, a compensatory plan, filed as exhibit10.1 to form10-k for the year ended december31, 2005, incorporated by reference to registration statement 333-33692
-on forms-8, dated march31, 2000, and is hereby incorporated by reference.
-the ibm supplemental executive retention plan, a compensatory plan, effective july1, 1999, as amended through february17, 2006 filed as exhibit10.2 to form10-k for the year ended december31, 2005, and is hereby
-incorporated by reference.
-december2005 amendments to the ibm savings plan, a compensatory plan, filed as exhibit10.3 to form10-k for the year ended december31, 2005, incorporated by reference to registration statement 333-09055 on forms-8, dated
-july29, 1996, and is hereby incorporated by reference.
-form of noncompetition agreement, filed as attachment1 to form8-k dated april6, 2005, and is hereby incorporated by reference.
-board of directors compensatory plans, as described under the caption "general information2007 director compensation" in ibm's definitive proxy statement to be filed with the securities and exchange commission and delivered to stockholders in
-connection with the annual meeting of stockholders to be held april29, 2008, and are hereby incorporated by reference.
-ibm board of directors deferred compensation and equity award plan is exhibit x to form 10-k for the year ended december31, 1995, and is hereby incorporated by reference.
-the ibm non-employee directors stock option plan is appendix b to ibm's definitive proxy statement dated march14, 1995, and is hereby incorporated by reference.
-the ibm executive deferred compensation plan is contained in registration statement no. 333-33692 as exhibit 4 on form s-8, filed march31, 2000, and is hereby incorporated by reference.
-the ibm extended tax deferred savings plan is exhibit x to form 10-k for the year ended december31, 1994, and is hereby incorporated by reference.
-the ibm savings plan, a compensatory plan, as amended and restated effective as of january1, 2005, which plan was previously filed as exhibit4 to registration statement no.333-09055 on forms-8 dated july29, 1996. such
-plan, as amended, was filed as exhibit10.1 to form10-q for the quarter ended march31, 2005, and is hereby incorporated by reference.
-amendments to the ibm executive deferred compensation plan, a compensatory plan, which plan was previously filed as exhibit4 to registration statement no.333-33692 on forms-8 dated march31, 2000. such plan, as amended, was
-filed as exhibit10.2 to form10-q for the quarter ended march31, 2005, and is hereby incorporated by reference.
-the ibm 2003 employees stock purchase plan, as amended through april1, 2005, which plan was previously filed as appendixa to ibm's definitive proxy statement dated march10, 2003. such plan, as amended, was filed as exhibit10.3
-to form10-q for the quarter ended march31, 2005, and is hereby incorporated by reference.
-the $10,000,000,000 5-year credit agreement dated as of june28, 2006, among international business machines corporation, each subsidiary borrower, the several banks and other financial institutions from time to time parties to the credit
-agreement, jpmorgan chase bank, n.a., as administrative agent for the lenders, and citibank, n.a. as syndication agent was filed as exhibit10.1 to form8-k dated june29, 2006, and is hereby incorporated by reference.
-the $11,500,000,000 term loan agreement dated as of may25, 2007, among ibm international group b.v. (the "borrower"), the several banks and other financial institutions from time to time parties thereto (the "lenders"), morgan stanley senior
-funding,inc., as administrative agent for the lenders, deutsche bank ag cayman islands branch, as documentation agent, and lehman commercial paper,inc., as syndication agent, filed as exhibit10.1 to form10-q for the quarter
-ended june30, 2007, and is hereby incorporated by reference.
-the guaranty agreement dated as of may25, 2007, among international business machines corporation ("guarantor"), for the benefit of the lenders from time to time party to the $11,500,000,000 term
-loan agreement, and in favor of morgan stanley senior funding,inc., as administrative agent for the lenders, filed as exhibit10.2 to form10-q for the quarter ended june30, 2007, and is hereby incorporated by
-reference.
-the accelerated share repurchase schedule of standard terms and conditions, filed as exhibit10.3 to form10-q for the quarter ended june30, 2007, and is hereby incorporated by reference.
-form of parent guarantee agreement for accelerated stock repurchase, filed as exhibit10.4 to form10-q for the quarter ended june30, 2007, and is hereby incorporated by reference.
-the instruments defining the rights of the holders of the 7.50% debentures due 2013 are exhibits 4(a) through 4(l) to registration statement no.33-49475(1) on form s-3, filed may24, 1993, and are hereby incorporated by
-reference.
-the instruments defining the rights of holders of the 8.375% debentures due 2019 are exhibits 4(a)(b)(c) and (d) to registration statement 33-31732 on form s-3, filed on october24, 1989, and are hereby incorporated by reference.
-the instruments defining the rights of holders of the 7.00% debentures due 2025 and the 7.00% debentures due 2045 are exhibit 2 and 3 to form 8-k, filed on october30, 1995, and are hereby incorporated by reference.
-the instrument defining the rights of holders of the 7.125% debentures due 2096 is exhibit 2 to form 8-k/a, filed on december6, 1996, and is hereby incorporated by reference.
-the instruments defining the rights of the holders of the 6.22% debentures due 2027 is exhibit 3 to form 8-k, filed on august1, 1997, and is hereby incorporated by reference.
-the instruments defining the rights of the holders of the 6.50% debentures due 2028 is exhibit 2 to form 8-k, filed on january8, 1998, and is hereby incorporated by reference.
-the instruments defining the rights of the holders of the 5.375% notes due 2009 is exhibit 2 to form 8-k, filed on january29, 1999, and is hereby incorporated by reference.
-the instruments defining the rights of the holders of the 4.00% notes due 2011 is exhibit 2 to form8-k, filed on november9, 2006, and is hereby incorporated by reference.
-the instruments defining the rights of the holders of the 4.95% notes due 2011 is exhibit2 to form8-k, filed on march21, 2007, and is hereby incorporated by reference.
-ibm's definitive proxy statement to be filed with the securities and exchange commission and delivered to stockholders in connection with the annual meeting of stockholders to be held april29, 2008, certain sections of which have been
-incorporated herein by reference.
-signatures
-pursuant to the requirements of section13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this report to be signed on its
-behalf by the undersigned, thereunto duly authorized.
-international business machines corporation (registrant)
-by:
-/s/samuel j. palmisano samuel j. palmisano chairman of the board,
-president and chief executive officer
-date: february26, 2008
-pursuant
-to the requirements of the securities exchange act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on
-the dates indicated.
-signature
-title
-date
-/s/mark loughridge mark loughridge
-senior vice president, chief financial officer
-february26, 2008
-/s/timothy s. shaughnessy timothy s. shaughnessy
-vice president and controller
-february26, 2008
-cathleen black
-william r. brody
-kenneth i. chenault
-juergen dormann
-michael l. eskew
-shirley ann jackson
-minoru makihara
-lucio a. noto
-james w. owens
-joan e. spero
-sidney taurel
-lorenzo h. zambrano
-director
-director
-director
-director
-director
-director
-director
-director
-director
-director
-director
-director
-by:
-/s/ daniel e. o'donnell daniel e. o'donnell attorney-in-fact
-february26, 2008
-report of independent registered public accounting firm  on financial statement schedule
-to
-the stockholders and board of directors of
-international business machines corporation:
-our
-audits of the consolidated financial statements and of the effectiveness of internal control over financial reporting referred to in our report dated february26, 2008
-appearing in the 2007 annual report to shareholders of international business machines corporation (which report and consolidated financial statements are incorporated by reference in this annual
-report on form10-k) also included an audit of the financial statement schedule listed in item 15(a)(2) of this form10-k. in our opinion, this financial
-statement schedule presents fairly, in all material respects, the information set forth therein when read in conjunction with the related consolidated financial statements.
-/s/
-pricewaterhousecoopers llp
-pricewaterhousecoopers llp
-new york, new york
-february26, 2008
-schedule ii
-international business machines corporation and subsidiary companies  valuation and qualifying accounts and reserves  for the years ended december31:  (dollars in millions)
-description
-balance at
-beginning
-of period
-additions*
-writeoffs
-other**
-balance at
-end of
-period
-allowance for doubtful accounts
-current
-$
-$
-$
-(112
-)
-$
-$
-noncurrent
-$
-$
-$
-(18
-)
-$
-$
-current
-$
-$
-(10
-)
-$
-(177
-)
-$
-$
-noncurrent
-$
-$
-(2
-)
-$
-(20
-)
-$
-$
-current
-$
-$
-$
-(215
-)
-$
-(75
-)
-$
-noncurrent
-$
-$
-(24
-)
-$
-(14
-)
-$
-$
-allowance for inventory losses
-$
-$
-$
-(308
-)
-$
-$
-$
-$
-$
-(330
-)
-$
-$
-$
-$
-$
-(290
-)
-$
-(31
-)
-$
-revenue based provisions
-$
-$
-5,812
-$
-(5,722
-)
-$
-$
-1,085
-$
-$
-5,399
-$
-(5,205
-)
-$
-(85
-)
-$
-$
-1,048
-$
-4,762
-$
-(4,887
-)
-$
-(43
-)
-$
-*additions
-for allowance for doubtful accounts and allowance for inventory losses are charged to expense and cost accounts, respectively, while revenue based provisions are charged to
-revenue accounts.
-**primarily
-comprises currency translation adjustments.
-s-1
-exhibit index
-reference number per item 601 of regulation sk
-description of exhibits
-exhibit number
-in this
-form10-k
+
+N/A IS NOT APPLICABLE
+
+RSUSRESTRICTED STOCK UNITS, INCLUDING RETENTION RESTRICTED STOCK UNITS
+
+PSUSPERFORMANCE SHARE UNITS
+
+DCEAP SHARESSHARES UNDER THE DCEAP (SEE PLAN DESCRIPTION BELOW)
+
+(1)
+
+IN
+
+CONNECTION WITH 26 ACQUISITION TRANSACTIONS, 2,090,910 ADDITIONAL OPTIONS WERE OUTSTANDING AS A RESULT OF THE COMPANY'S ASSUMPTION OF OPTIONS GRANTED BY THE ACQUIRED ENTITIES. THE
+
+WEIGHTED-AVERAGE EXERCISE PRICE OF THESE OPTIONS WAS $79. THE COMPANY HAS NOT MADE, AND WILL NOT MAKE, ANY FUTURE GRANTS OR AWARDS OF EQUITY SECURITIES UNDER THE PLANS OF THESE ACQUIRED COMPANIES.
+
 (2)
-plan of acquisition, reorganization, arrangement, liquidation or succession
-not applicable
-(3)
-certificate of incorporation and bylaws
-the certificate of incorporation of ibm is exhibit 3.1 to form 8-k filed november30, 2006, and is hereby incorporated by reference
-the bylaws of ibm as amended through july31, 2007 are exhibit3 to form10-q filed july31, 2007, and is hereby incorporated by reference
-(4)
-instruments defining the rights of security holders
-the instruments defining the rights of the holders of the 7.50% debentures due 2013 are exhibits 4(a) through 4(l) to registration statement no. 33-49475(1) on form s-3, filed may 24, 1993, and are hereby incorporated by reference
-the instruments defining the rights of the holders of the 8.375% debentures due 2019 are exhibits 4(a)(b)(c) and (d) to registration statement no. 33-31732 on form s-3, filed on october 24, 1989, and are hereby incorporated by reference
-the instruments defining the rights of the holders of the 7.00% debentures due 2025 and the 7.00% debentures due 2045 are exhibits 2 and 3 to form 8-k, filed on october 30, 1995, and are hereby incorporated by reference
-the instrument defining the rights of the holders of the 7.125% debentures due 2096 is exhibit 2 to form 8-k/a, filed on december 6, 1996, and is hereby incorporated by reference
-the instruments defining the rights of the holders of the 6.22% debentures due 2027 is exhibit 3 to form 8-k, filed on august 1, 1997, and are hereby incorporated by reference
-the instrument defining the rights of the holders of the 6.50% debentures due 2028 is exhibit 2 to form 8-k, filed on january 8, 1998, and is hereby incorporated by reference
-the instrument defining the rights of the holders of the 5.375% notes due 2009 is exhibit 2 to form 8-k, filed on january 29, 1999, and is hereby incorporated by reference
-the instruments defining the rights of the holders of the 4.00% notes due 2011 is exhibit 2 to form8-k, filed on november9, 2006, and is hereby incorporated by reference.
-the instruments defining the rights of the holders of the 4.95% notes due 2011 is exhibit2 to form8-k, filed on march21, 2007, and is hereby incorporated by reference.
-(9)
-voting trust agreement
-not applicable
-(10)
-material contracts
-the ibm 1999 long term performance plan, a compensatory plan, contained in registration statement no.333-30424 on form s-8, as such amended plan was filed as exhibit10.3 to form 10-q for the quarter ended september30, 2007, and is
-hereby incorporated by reference.*
-the ibm 2001 long term performance plan, a compensatory plan, contained in registration statement no.333-87708 on form s-8, as such amended plan was filed as exhibit10.1 to form 10-q for the quarter ended september30, 2007, and is
-hereby incorporated by reference.*
-the ibm pwcc acquisition long term performance plan, a compensatory plan, contained in registration statement no.333-102872 on forms-8, as such amended plan was filed as exhibit10.2 to form10-q for the quarter ended
-september30, 2007, and is hereby incorporated by reference.*
-the ibm 1997 long-term performance plan, a compensatory plan, filed on july15, 1997 with registration statement no.333-31305 on forms-8, as such amended plan was filed as exhibit 10.4 to form 10-q for the quarter ended
-september31, 2007, and is hereby incorporated by reference.*
-the ibm 1994 long-term performance plan, a compensatory plan, filed on may24, 1994 with registration statement no.33-53777 on forms-8, as such amended plan was filed as exhibit 10.5 to form10-q for the quarter ended
-september31, 2007, and is hereby incorporated by reference.*
-forms of ltpp equity award agreements for (i)stock options, restricted stock, restricted stock units, cash-settled restricted stock units, sars, (ii)performance share units and (iii)retention restricted stock unit award. terms and
-conditions document in connection with foregoing award agreements.*
+
+THE
+
+NUMBERS INCLUDED FOR PSUS IN COLUMN (A) ABOVE REFLECT THE MAXIMUM NUMBER PAYOUT. ASSUMING TARGET NUMBER PAYOUT, THE NUMBER OF SECURITIES TO BE ISSUED UPON THE EXERCISE OF
+
+PSUS FOR EQUITY COMPENSATION PLANS APPROVED BY SECURITY HOLDERS IS 1,386,629 AND FOR EQUITY COMPENSATION PLANS NOT APPROVED BY SECURITY HOLDERS IS 1,397,194. FOR ADDITIONAL INFORMATION ABOUT PSUS,
+
+INCLUDING PAYOUT CALCULATIONS, REFER TO THE INFORMATION UNDER "2007 SUMMARY COMPENSATION TABLE NARRATIVE" IN IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE
+
+18
+
+COMMISSION
+
+AND DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008.
+
+THE
+
+MATERIAL FEATURES OF EACH EQUITY COMPENSATION PLAN UNDER WHICH EQUITY SECURITIES ARE AUTHORIZED FOR ISSUANCE THAT WAS ADOPTED WITHOUT STOCKHOLDER APPROVAL ARE DESCRIBED BELOW.
+
+2001 LONG
+
+
+
+TERM PERFORMANCE PLAN
+
+THE 2001 LONG-TERM PERFORMANCE PLAN (THE "2001 PLAN") IS USED TO FUND AWARDS FOR EMPLOYEES OTHER THAN SENIOR EXECUTIVES OF THE COMPANY. AWARDS FOR
+
+SENIOR EXECUTIVES OF THE COMPANY WILL CONTINUE TO BE FUNDED FROM THE STOCKHOLDER-APPROVED 1999 LONG-TERM PERFORMANCE PLAN (THE "1999 PLAN"). OTHERWISE, THE PROVISIONS OF THE 2001 PLAN ARE
+
+IDENTICAL TO THE 1999 PLAN, INCLUDING THE TYPE OF AWARDS THAT MAY BE GRANTED UNDER THE PLAN (STOCK OPTIONS, RESTRICTED STOCK UNIT AWARDS AND LONG-TERM PERFORMANCE INCENTIVE AWARDS).
+
+THE
+
+2001 PLAN IS ADMINISTERED BY THE EXECUTIVE COMPENSATION AND MANAGEMENT RESOURCES COMMITTEE OF THE BOARD OF DIRECTORS, AND THAT COMMITTEE MAY DELEGATE TO OFFICERS OF THE COMPANY
+
+CERTAIN OF ITS DUTIES, POWERS AND AUTHORITY. PAYMENT OF AWARDS MAY BE MADE IN THE FORM OF CASH, STOCK OR COMBINATIONS THEREOF AND MAY BE DEFERRED WITH COMMITTEE APPROVAL. AWARDS ARE NOT TRANSFERABLE
+
+OR ASSIGNABLE EXCEPT (I) BY LAW, WILL OR THE LAWS OF DESCENT AND DISTRIBUTION, (II) AS A RESULT OF THE DISABILITY OF THE RECIPIENT, OR (III) WITH THE APPROVAL OF THE COMMITTEE.
+
+IF
+
+THE EMPLOYMENT OF A PARTICIPANT TERMINATES, OTHER THAN AS A RESULT OF THE DEATH OR DISABILITY OF THE PARTICIPANT, ALL UNEXERCISED, DEFERRED AND UNPAID AWARDS SHALL BE CANCELED
+
+IMMEDIATELY, UNLESS THE AWARD AGREEMENT PROVIDES OTHERWISE. IN THE EVENT OF THE DEATH OF A PARTICIPANT OR IN THE EVENT A PARTICIPANT IS DEEMED BY THE COMPANY TO BE DISABLED AND ELIGIBLE FOR BENEFITS
+
+UNDER THE TERMS OF THE IBM LONG-TERM DISABILITY PLAN (OR ANY SUCCESSOR PLAN OR SIMILAR PLAN OF ANOTHER EMPLOYER), THE PARTICIPANT'S ESTATE, BENEFICIARIES OR REPRESENTATIVE, AS THE CASE MAY
+
+BE, SHALL HAVE THE RIGHTS AND DUTIES OF THE PARTICIPANT UNDER THE APPLICABLE AWARD AGREEMENT. IN ADDITION, UNLESS THE AWARD AGREEMENT SPECIFIES OTHERWISE, THE COMMITTEE MAY CANCEL, RESCIND, SUSPEND,
+
+WITHHOLD OR OTHERWISE LIMIT OR RESTRICT ANY UNEXPIRED, UNPAID, OR DEFERRED AWARDS AT ANY TIME IF THE PARTICIPANT IS NOT IN COMPLIANCE WITH ALL APPLICABLE PROVISIONS OF THE AWARD AGREEMENT AND THE
+
+PLAN. IN ADDITION,
+
+AWARDS ARE CANCELLED IF THE PARTICIPANT ENGAGES IN ANY CONDUCT OR ACT DETERMINED TO BE INJURIOUS, DETRIMENTAL OR PREJUDICIAL TO ANY INTEREST OF THE COMPANY.
+
+PWCC ACQUISITION LONG
+
+
+
+TERM PERFORMANCE PLAN
+
+THE IBM PWCC ACQUISITION LONG-TERM PERFORMANCE PLAN (THE "PWCC PLAN") WAS ADOPTED BY THE BOARD OF DIRECTORS IN CONNECTION WITH THE COMPANY'S
+
+ACQUISITION OF PRICEWATERHOUSECOOPERS CONSULTING ("PWCC") FROM PRICEWATERHOUSECOOPERS LLP, AS ANNOUNCED ON OCTOBER 1, 2002. THE PWCC PLAN HAS BEEN AND WILL CONTINUE TO BE USED SOLELY TO
+
+FUND AWARDS FOR EMPLOYEES OF PWCC WHO HAVE COME OVER TO THE COMPANY AS A RESULT OF THE ACQUISITION. AWARDS FOR SENIOR EXECUTIVES OF THE COMPANY WILL NOT BE FUNDED FROM THE PWCC PLAN. THE TERMS AND
+
+CONDITIONS OF THE PWCC PLAN ARE SUBSTANTIVELY IDENTICAL TO THE TERMS AND CONDITIONS OF THE 2001 PLAN, DESCRIBED ABOVE.
+
+IBM DEFERRED COMPENSATION AND EQUITY AWARD PLAN
+
+THE IBM DEFERRED COMPENSATION AND EQUITY AWARD PLAN (THE "DCEAP") WAS ADOPTED IN 1993. UNDER THE DCEAP, NON-MANAGEMENT DIRECTORS RECEIVE PROMISED FEE
+
+SHARES IN CONNECTION WITH DEFERRED ANNUAL RETAINER PAYMENTS. EACH PROMISED FEE SHARE IS EQUAL IN VALUE TO ONE SHARE OF THE COMPANY'S COMMON STOCK. UPON A DIRECTOR'S RETIREMENT OR OTHER COMPLETION OF
+
+SERVICE AS A DIRECTOR, ALL AMOUNTS DEFERRED INTO PROMISED FEE SHARES ARE PAYABLE IN EITHER CASH AND/OR SHARES OF THE COMPANY'S STOCK AT THE DIRECTOR'S ELECTION. (FOR ADDITIONAL INFORMATION ABOUT THE
+
+DCEAP, SEE 2007 DIRECTOR COMPENSATION NARRATIVE IN IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND
+
+19
+
+EXCHANGE
+
+COMMISSION AND DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008).
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.
+
+REFER TO THE INFORMATION UNDER THE CAPTIONS "GENERAL INFORMATIONBOARD OF DIRECTORS" AND "GENERAL INFORMATIONCERTAIN TRANSACTIONS AND
+
+RELATIONSHIPS" IN IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE
+
+HELD APRIL 29, 2008, WHICH INFORMATION IS INCORPORATED HEREIN BY REFERENCE.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES.
+
+REFER TO THE INFORMATION UNDER THE CAPTIONS "REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS" AND "AUDIT AND NON-AUDIT FEES" IN IBM'S
+
+DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008,
+
+ALL OF WHICH INFORMATION IS INCORPORATED HEREIN BY REFERENCE.
+
+PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES.
+
+(A)
+
+THE
+
+FOLLOWING DOCUMENTS ARE FILED AS PART OF THIS REPORT.
+
+1.
+
+FINANCIAL
+
+STATEMENTS FROM IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS WHICH ARE INCORPORATED HEREIN BY REFERENCE.
+
+REPORT
+
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (PAGE 57).
+
+CONSOLIDATED
+
+STATEMENT OF EARNINGS FOR THE YEARS ENDED DECEMBER 31, 2007, 2006 AND 2005 (PAGE 58).
+
+CONSOLIDATED
+
+STATEMENT OF FINANCIAL POSITION AT DECEMBER 31, 2007 AND 2006 (PAGE 59).
+
+CONSOLIDATED
+
+STATEMENT OF CASH FLOWS FOR THE YEARS ENDED DECEMBER 31, 2007, 2006 AND 2005 (PAGE 60).
+
+CONSOLIDATED
+
+STATEMENT OF STOCKHOLDERS' EQUITY AT DECEMBER 31, 2007, 2006 AND 2005 (PAGES 61 THROUGH 63).
+
+NOTES
+
+TO CONSOLIDATED FINANCIAL STATEMENTS (PAGES 64 THROUGH 119).
+
+2.
+
+FINANCIAL
+
+STATEMENT SCHEDULES REQUIRED TO BE FILED BY ITEM 8 OF THIS FORM.
+
+PAGE
+
+SCHEDULE
+
+NUMBER
+
+26
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM ON FINANCIAL STATEMENT SCHEDULE.
+
+S-1
+
+II
+
+VALUATION AND QUALIFYING ACCOUNTS AND RESERVES.
+
+ALL
+
+OTHER SCHEDULES ARE OMITTED AS THE REQUIRED MATTER IS NOT PRESENT, THE AMOUNTS ARE NOT SIGNIFICANT OR THE INFORMATION IS SHOWN IN THE CONSOLIDATED FINANCIAL
+
+STATEMENTS OR THE NOTES THERETO.
+
+20
+
+3.
+
+EXHIBITS.
+
+INCLUDED
+
+IN THIS FORM 10-K.
+
 10.1
-form of noncompetition agreement, filed as attachment1 to form8-k dated april6, 2005, and is hereby incorporated by reference*
-board of directors compensatory plans as described under the caption "general information2007 director compensation" in ibm's definitive proxy statement to be filed with the securities and exchange commission and delivered to stockholders in
-connection with the annual meeting of stockholders to be held april29, 2008, and are hereby incorporated by reference.*
-the ibm supplemental executive retention plan, a compensatory plan, effective july1, 1999, as amended through february17, 2006 filed as exhibit10.2 to form10-k for the year ended december31, 2005, and is hereby
-incorporated by reference*
-the ibm executive deferred compensation plan is contained in registration statement no. 333-33692 as exhibit 4 on form s-8, filed march 31, 2000, and is hereby incorporated by reference*
-december2005 amendments to the ibm executive deferred compensation plan, a compensatory plan, filed as exhibit10.1 to form10-k for the year ended december31, 2005, incorporated by reference to registration statement 333-33692
-on forms-8, dated march31, 2000, and is hereby incorporated by reference*
-the ibm board of directors deferred compensation and equity award plan is exhibit x to form 10-k for the year ended december31, 1995, and is hereby incorporated by reference*
-the ibm non-employee directors stock option plan is appendix b to ibm's definitive proxy statement dated march 14, 1995, and is hereby incorporated by reference*
-the ibm extended tax deferred savings plan is exhibit x to form 10-k for the year ended december 31, 1994, and is hereby incorporated by reference*
-the ibm savings plan, a compensatory plan, as amended and restated effective as of january1, 2005, which plan was previously filed as exhibit4 to registration statement no.333-09055 on forms-8 dated july29, 1996, such
-plan, as amended, was filed as exhibit10.1 to form10-q for the quarter ended march31, 2005, and is hereby incorporated by reference*
-december2005 amendments to the ibm savings plan, a compensatory plan, filed as exhibit10.3 to form10-k for the year ended december31, 2005, incorporated by reference to registration statement 333-09055 on forms-8 dated
-july29, 1996, and is hereby incorporated by reference.*
-amendments to the ibm executive deferred compensation plan, a compensatory plan, which plan was previously filed as exhibit4 to registration statement no.333-33692 on forms-8 dated march31, 2000, such plan, as amended, was
-filed as exhibit10.2 to form10-q for the quarter ended march31, 2005, and is hereby incorporated by reference*
-the ibm 2003 employees stock purchase plan, as amended through april1, 2005, which plan was previously filed as appendixa to ibm's definitive proxy statement dated march10, 2003, such plan, as amended, was filed as exhibit10.3
-to form10-q for the quarter ended march31, 2005, and is hereby incorporated by reference*
-the $10,000,000,000 5-year credit agreement dated as of june28, 2006, among international business machines corporation, each subsidiary borrower, the several banks and other financial institutions from time to time parties to the credit
-agreement, jpmorgan chase bank, n.a., as administrative agent for the lenders, and citibank, n.a., as syndication agent was filed as exhibit10.1 to form8-k dated june29, 2006, and is hereby incorporated by reference.
-the $11,500,000,000 term loan agreement dated as of may25, 2007, among ibm international groupb.v. (the "borrower"), the several banks and other financial institutions from time to time parties thereto (the "lenders"), morgan stanley
-senior funding, inc., as administrative agent for the lenders, deutsche bank agcayman islands branch, as documentation agent, and lehman commercial paper, inc., as syndication agent, filed as exhibit10.1 to form10-q for the quarter
-ended june30, 2007, and is hereby incorporated by reference.
-the guaranty agreement dated as of may25, 2007, among international business machines corporation ("guarantor"), for the benefit of the lenders from time to time party to the $11,500,000,000 term
-loan agreement, and in favor of morgan stanley senior funding, inc., as administrative agent for the lenders, filed as exhibit10.2 to form10-q for the quarter ended june30, 2007, and is hereby incorporated by reference.
-the accelerated share repurchase schedule of standard terms and conditions, filed as exhibit10.3 to form10-q for the quarter ended june30, 2007, and is hereby incorporated by reference.
-form of parent guarantee agreement for accelerated stock repurchase, filed as exhibit10.4 to form10-q for the quarter ended june30, 2007, and is hereby incorporated by reference.
-(11)
-statement re computation of per share earnings
-the statement re computation of per share earnings is note r, "earnings per share of common stock" on page101 of ibm's 2007 annual report to stockholders, and is hereby incorporated by reference
-(12)
-statement re computation of ratios
-(13)
-annual report to security holders**
-(18)
-letter re change in accounting principles
-not applicable
-(19)
-previously unfiled documents
-not applicable
-(21)
-subsidiaries of the registrant
-(22)
-published report regarding matters submitted to vote of security holders
-not applicable
-(23.1)
-consent of experts
+
+
+
+FORMS OF LTPP EQUITY AWARD AGREEMENTS FOR (I) STOCK OPTIONS, RESTRICTED STOCK, RESTRICTED STOCK UNITS, CASH-SETTLED RESTRICTED STOCK UNITS, SARS, (II) PERFORMANCE SHARE UNITS AND (III)
+
+RETENTION RESTRICTED STOCK UNIT AWARD. TERMS AND CONDITIONS DOCUMENT IN CONNECTION WITH FOREGOING AWARD AGREEMENTS.
+
+12
+
+
+
+COMPUTATION OF RATIO OF EARNINGS FROM CONTINUING OPERATIONS TO FIXED CHARGES.
+
+13
+
+
+
+IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS, CERTAIN SECTIONS OF WHICH HAVE BEEN INCORPORATED HEREIN BY REFERENCE.
+
+21
+
+
+
+SUBSIDIARIES.
+
 23.1
-(24.1)
-powers of attorney
+
+
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM.
+
 24.1
-(24.2)
-resolutions of the ibm board of directors authorizing execution of this report by powers of attorney
+
+
+
+POWERS OF ATTORNEY.
+
 24.2
-(28)
-information from reports furnished to state insurance regulatory authorities
-not applicable
-(31.1)
-certification by ceo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002
+
+
+
+RESOLUTIONS OF THE IBM BOARD OF DIRECTORS AUTHORIZING EXECUTION OF THIS REPORT BY POWERS OF ATTORNEY.
+
 31.1
-(31.2)
-certification by cfo pursuant to rule 13a-14(a) or 15d-14(a) of the securities exchange act of 1934, as adopted pursuant to section 302 of the sarbanes-oxley act of 2002
+
+
+
+CERTIFICATION BY CEO PURSUANT TO RULE 13A-14(A) OR 15D-14(A) OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002.
+
 31.2
-(32.1)
-certification by ceo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002.
+
+
+
+CERTIFICATION BY CFO PURSUANT TO RULE 13A-14(A) OR 15D-14(A) OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002.
+
 32.1
-(32.2)
-certification by cfo pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002.
+
+
+
+CERTIFICATION BY CEO PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002.
+
 32.2
-*management
-contract or compensatory plan or arrangement.
-**the
-performance graphs, set forth on page122 of ibm's 2007 annual report to stockholders, are deemed to be furnished but not filed.
-quicklinks
-part i
-item 1a. risk factors
-item 1b. unresolved staff comments
-item 2. properties
-item 3. legal proceedings
-item 4. submission of matters to a vote of security holders
-part ii
-item 5. market for the registrant's common equity, related stockholder matters and issuer purchases of equity securities
-item 6. selected financial data
-item 7. management's discussion and analysis of financial condition and results of operations
-item 7a. quantitative and qualitative disclosures about market risks
-item 8. financial statements and supplementary data
-item 9. changes in and disagreements with accountants on accounting and financial disclosure
-item 9a. controls and procedures
-item 9b. other information
-part iii
-item 10. directors, executive officers and corporate governance
-item 11. executive compensation
-item 12. security ownership of certain beneficial owners and management and related stockholder matters
-item 13. certain relationships and related transactions, and director independence
-item 14. principal accounting fees and services
-part iv
-item 15. exhibits, financial statement schedules
-signatures
-report of independent registered public accounting firm on financial statement schedule
-schedule ii
-international business machines corporation and subsidiary companies valuation and qualifying accounts and reserves for the years ended december 31: (dollars in millions)
-exhibit index
+
+
+
+CERTIFICATION BY CFO PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF SARBANES-OXLEY ACT OF 2002.
+
+NOT
+
+INCLUDED IN THIS FORM 10-K.
+
+
+
+THE BY-LAWS OF IBM AS AMENDED THROUGH JULY 31, 2007, ARE EXHIBIT 3 TO FORM 10-Q FILED JULY 31, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE CERTIFICATE OF INCORPORATION OF IBM IS EXHIBIT 3.1 TO FORM 8-K FILED NOVEMBER 30, 2006, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM 1999 LONG TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, CONTAINED IN REGISTRATION STATEMENT NO. 333-30424 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.3 TO FORM 10-Q
+
+FOR THE QUARTER ENDED SEPTEMBER 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM 2001 LONG TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, CONTAINED IN REGISTRATION STATEMENT NO. 333-87708 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.1 TO FORM 10-Q
+
+FOR THE QUARTER ENDED SEPTEMBER 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM PWCC ACQUISITION LONG TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, CONTAINED IN REGISTRATION STATEMENT NO. 333-102872 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.2 TO
+
+FORM 10-Q FOR THE QUARTER ENDED SEPTEMBER 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM 1997 LONG-TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, FILED ON JULY 15, 1997 WITH REGISTRATION STATEMENT NO. 333-31305 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS
+
+EXHIBIT 10.4 TO FORM 10-Q FOR THE QUARTER ENDED SEPTEMBER 31, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+21
+
+
+
+THE IBM 1994 LONG-TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, FILED ON MAY 24, 1994 WITH REGISTRATION STATEMENT NO. 33-53777 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.5 TO FORM 10-Q FOR THE QUARTER ENDED
+
+SEPTEMBER 31, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+DECEMBER 2005 AMENDMENTS TO THE IBM EXECUTIVE DEFERRED COMPENSATION PLAN, A COMPENSATORY PLAN, FILED AS EXHIBIT 10.1 TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2005, INCORPORATED BY REFERENCE TO REGISTRATION STATEMENT 333-33692
+
+ON FORM S-8, DATED MARCH 31, 2000, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM SUPPLEMENTAL EXECUTIVE RETENTION PLAN, A COMPENSATORY PLAN, EFFECTIVE JULY 1, 1999, AS AMENDED THROUGH FEBRUARY 17, 2006 FILED AS EXHIBIT 10.2 TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2005, AND IS HEREBY
+
+INCORPORATED BY REFERENCE.
+
+
+
+DECEMBER 2005 AMENDMENTS TO THE IBM SAVINGS PLAN, A COMPENSATORY PLAN, FILED AS EXHIBIT 10.3 TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2005, INCORPORATED BY REFERENCE TO REGISTRATION STATEMENT 333-09055 ON FORM S-8, DATED
+
+JULY 29, 1996, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+FORM OF NONCOMPETITION AGREEMENT, FILED AS ATTACHMENT 1 TO FORM 8-K DATED APRIL 6, 2005, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+BOARD OF DIRECTORS COMPENSATORY PLANS, AS DESCRIBED UNDER THE CAPTION "GENERAL INFORMATION2007 DIRECTOR COMPENSATION" IN IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND DELIVERED TO STOCKHOLDERS IN
+
+CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008, AND ARE HEREBY INCORPORATED BY REFERENCE.
+
+
+
+IBM BOARD OF DIRECTORS DEFERRED COMPENSATION AND EQUITY AWARD PLAN IS EXHIBIT X TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 1995, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM NON-EMPLOYEE DIRECTORS STOCK OPTION PLAN IS APPENDIX B TO IBM'S DEFINITIVE PROXY STATEMENT DATED MARCH 14, 1995, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM EXECUTIVE DEFERRED COMPENSATION PLAN IS CONTAINED IN REGISTRATION STATEMENT NO. 333-33692 AS EXHIBIT 4 ON FORM S-8, FILED MARCH 31, 2000, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM EXTENDED TAX DEFERRED SAVINGS PLAN IS EXHIBIT X TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 1994, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE IBM SAVINGS PLAN, A COMPENSATORY PLAN, AS AMENDED AND RESTATED EFFECTIVE AS OF JANUARY 1, 2005, WHICH PLAN WAS PREVIOUSLY FILED AS EXHIBIT 4 TO REGISTRATION STATEMENT NO. 333-09055 ON FORM S-8 DATED JULY 29, 1996. SUCH
+
+PLAN, AS AMENDED, WAS FILED AS EXHIBIT 10.1 TO FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2005, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+AMENDMENTS TO THE IBM EXECUTIVE DEFERRED COMPENSATION PLAN, A COMPENSATORY PLAN, WHICH PLAN WAS PREVIOUSLY FILED AS EXHIBIT 4 TO REGISTRATION STATEMENT NO. 333-33692 ON FORM S-8 DATED MARCH 31, 2000. SUCH PLAN, AS AMENDED, WAS
+
+FILED AS EXHIBIT 10.2 TO FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2005, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+22
+
+
+
+THE IBM 2003 EMPLOYEES STOCK PURCHASE PLAN, AS AMENDED THROUGH APRIL 1, 2005, WHICH PLAN WAS PREVIOUSLY FILED AS APPENDIX A TO IBM'S DEFINITIVE PROXY STATEMENT DATED MARCH 10, 2003. SUCH PLAN, AS AMENDED, WAS FILED AS EXHIBIT 10.3
+
+TO FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2005, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE $10,000,000,000 5-YEAR CREDIT AGREEMENT DATED AS OF JUNE 28, 2006, AMONG INTERNATIONAL BUSINESS MACHINES CORPORATION, EACH SUBSIDIARY BORROWER, THE SEVERAL BANKS AND OTHER FINANCIAL INSTITUTIONS FROM TIME TO TIME PARTIES TO THE CREDIT
+
+AGREEMENT, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT FOR THE LENDERS, AND CITIBANK, N.A. AS SYNDICATION AGENT WAS FILED AS EXHIBIT 10.1 TO FORM 8-K DATED JUNE 29, 2006, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE $11,500,000,000 TERM LOAN AGREEMENT DATED AS OF MAY 25, 2007, AMONG IBM INTERNATIONAL GROUP B.V. (THE "BORROWER"), THE SEVERAL BANKS AND OTHER FINANCIAL INSTITUTIONS FROM TIME TO TIME PARTIES THERETO (THE "LENDERS"), MORGAN STANLEY SENIOR
+
+FUNDING, INC., AS ADMINISTRATIVE AGENT FOR THE LENDERS, DEUTSCHE BANK AG CAYMAN ISLANDS BRANCH, AS DOCUMENTATION AGENT, AND LEHMAN COMMERCIAL PAPER, INC., AS SYNDICATION AGENT, FILED AS EXHIBIT 10.1 TO FORM 10-Q FOR THE QUARTER
+
+ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE GUARANTY AGREEMENT DATED AS OF MAY 25, 2007, AMONG INTERNATIONAL BUSINESS MACHINES CORPORATION ("
+
+GUARANTOR
+
+"), FOR THE BENEFIT OF THE LENDERS FROM TIME TO TIME PARTY TO THE $11,500,000,000 TERM
+
+LOAN AGREEMENT, AND IN FAVOR OF MORGAN STANLEY SENIOR FUNDING, INC., AS ADMINISTRATIVE AGENT FOR THE LENDERS, FILED AS EXHIBIT 10.2 TO FORM 10-Q FOR THE QUARTER ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY
+
+REFERENCE.
+
+
+
+THE ACCELERATED SHARE REPURCHASE SCHEDULE OF STANDARD TERMS AND CONDITIONS, FILED AS EXHIBIT 10.3 TO FORM 10-Q FOR THE QUARTER ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+FORM OF PARENT GUARANTEE AGREEMENT FOR ACCELERATED STOCK REPURCHASE, FILED AS EXHIBIT 10.4 TO FORM 10-Q FOR THE QUARTER ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 7.50% DEBENTURES DUE 2013 ARE EXHIBITS 4(A) THROUGH 4(L) TO REGISTRATION STATEMENT NO. 33-49475(1) ON FORM S-3, FILED MAY 24, 1993, AND ARE HEREBY INCORPORATED BY
+
+REFERENCE.
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF HOLDERS OF THE 8.375% DEBENTURES DUE 2019 ARE EXHIBITS 4(A)(B)(C) AND (D) TO REGISTRATION STATEMENT 33-31732 ON FORM S-3, FILED ON OCTOBER 24, 1989, AND ARE HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF HOLDERS OF THE 7.00% DEBENTURES DUE 2025 AND THE 7.00% DEBENTURES DUE 2045 ARE EXHIBIT 2 AND 3 TO FORM 8-K, FILED ON OCTOBER 30, 1995, AND ARE HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE INSTRUMENT DEFINING THE RIGHTS OF HOLDERS OF THE 7.125% DEBENTURES DUE 2096 IS EXHIBIT 2 TO FORM 8-K/A, FILED ON DECEMBER 6, 1996, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 6.22% DEBENTURES DUE 2027 IS EXHIBIT 3 TO FORM 8-K, FILED ON AUGUST 1, 1997, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+23
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 6.50% DEBENTURES DUE 2028 IS EXHIBIT 2 TO FORM 8-K, FILED ON JANUARY 8, 1998, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 5.375% NOTES DUE 2009 IS EXHIBIT 2 TO FORM 8-K, FILED ON JANUARY 29, 1999, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 4.00% NOTES DUE 2011 IS EXHIBIT 2 TO FORM 8-K, FILED ON NOVEMBER 9, 2006, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 4.95% NOTES DUE 2011 IS EXHIBIT 2 TO FORM 8-K, FILED ON MARCH 21, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+
+
+IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND DELIVERED TO STOCKHOLDERS IN CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008, CERTAIN SECTIONS OF WHICH HAVE BEEN
+
+INCORPORATED HEREIN BY REFERENCE.
+
+24
+
+SIGNATURES
+
+PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934, THE REGISTRANT HAS DULY CAUSED THIS REPORT TO BE SIGNED ON ITS
+
+BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED.
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+(REGISTRANT)
+
+BY.
+
+/S/
+
+SAMUEL J. PALMISANO
+
+SAMUEL J. PALMISANO
+
+CHAIRMAN OF THE BOARD,
+
+PRESIDENT AND CHIEF EXECUTIVE OFFICER
+
+DATE: FEBRUARY 26, 2008
+
+PURSUANT
+
+TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE REGISTRANT AND IN THE CAPACITIES AND ON
+
+THE DATES INDICATED.
+
+SIGNATURE
+
+TITLE
+
+DATE
+
+/S/
+
+MARK LOUGHRIDGE
+
+MARK LOUGHRIDGE
+
+SENIOR VICE PRESIDENT, CHIEF FINANCIAL OFFICER
+
+FEBRUARY 26, 2008
+
+/S/
+
+TIMOTHY S. SHAUGHNESSY
+
+TIMOTHY S. SHAUGHNESSY
+
+VICE PRESIDENT AND CONTROLLER
+
+FEBRUARY 26, 2008
+
+CATHLEEN BLACK
+
+WILLIAM R. BRODY
+
+KENNETH I. CHENAULT
+
+JUERGEN DORMANN
+
+MICHAEL L. ESKEW
+
+SHIRLEY ANN JACKSON
+
+MINORU MAKIHARA
+
+LUCIO A. NOTO
+
+JAMES W. OWENS
+
+JOAN E. SPERO
+
+SIDNEY TAUREL
+
+LORENZO H. ZAMBRANO
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+DIRECTOR
+
+BY.
+
+/S/ DANIEL E. O'DONNELL
+
+DANIEL E. O'DONNELL
+
+ATTORNEY-IN-FACT
+
+FEBRUARY 26, 2008
+
+25
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+ON FINANCIAL STATEMENT SCHEDULE
+
+TO
+
+THE STOCKHOLDERS AND BOARD OF DIRECTORS OF
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION.
+
+OUR
+
+AUDITS OF THE CONSOLIDATED FINANCIAL STATEMENTS AND OF THE EFFECTIVENESS OF INTERNAL CONTROL OVER FINANCIAL REPORTING REFERRED TO IN OUR REPORT DATED FEBRUARY 26, 2008
+
+APPEARING IN THE 2007 ANNUAL REPORT TO SHAREHOLDERS OF INTERNATIONAL BUSINESS MACHINES CORPORATION (WHICH REPORT AND CONSOLIDATED FINANCIAL STATEMENTS ARE INCORPORATED BY REFERENCE IN THIS ANNUAL
+
+REPORT ON FORM 10-K) ALSO INCLUDED AN AUDIT OF THE FINANCIAL STATEMENT SCHEDULE LISTED IN ITEM 15(A)(2) OF THIS FORM 10-K. IN OUR OPINION, THIS FINANCIAL
+
+STATEMENT SCHEDULE PRESENTS FAIRLY, IN ALL MATERIAL RESPECTS, THE INFORMATION SET FORTH THEREIN WHEN READ IN CONJUNCTION WITH THE RELATED CONSOLIDATED FINANCIAL STATEMENTS.
+
+/S/
+
+PRICEWATERHOUSECOOPERS LLP
+
+PRICEWATERHOUSECOOPERS LLP
+
+NEW YORK, NEW YORK
+
+FEBRUARY 26, 2008
+
+26
+
+SCHEDULE II
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES
+
+VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+
+FOR THE YEARS ENDED DECEMBER 31.
+
+(DOLLARS IN MILLIONS)
+
+DESCRIPTION
+
+BALANCE AT
+
+BEGINNING
+
+OF PERIOD
+
+ADDITIONS*
+
+WRITEOFFS
+
+OTHER**
+
+BALANCE AT
+
+END OF
+
+PERIOD
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+2007
+
+CURRENT
+
+$543
+
+$79
+
+$(112
+
+)
+
+$40
+
+$549
+
+NONCURRENT
+
+$48
+
+$23
+
+$(18
+
+)
+
+$5
+
+$59
+
+2006
+
+CURRENT
+
+$696
+
+$(10
+
+)
+
+$(177
+
+)
+
+$34
+
+$543
+
+NONCURRENT
+
+$63
+
+$(2
+
+)
+
+$(20
+
+)
+
+$7
+
+$48
+
+2005
+
+CURRENT
+
+$971
+
+$15
+
+$(215
+
+)
+
+$(75
+
+)
+
+$696
+
+NONCURRENT
+
+$97
+
+$(24
+
+)
+
+$(14
+
+)
+
+$4
+
+$63
+
+ALLOWANCE FOR INVENTORY LOSSES
+
+2007
+
+$612
+
+$315
+
+$(308
+
+)
+
+$50
+
+$669
+
+2006
+
+$641
+
+$281
+
+$(330
+
+)
+
+$20
+
+$612
+
+2005
+
+$655
+
+$307
+
+$(290
+
+)
+
+$(31
+
+)
+
+$641
+
+REVENUE BASED PROVISIONS
+
+2007
+
+$990
+
+$5,812
+
+$(5,722
+
+)
+
+$5
+
+$1,085
+
+2006
+
+$880
+
+$5,399
+
+$(5,205
+
+)
+
+$(85
+
+)
+
+$990
+
+2005
+
+$1,048
+
+$4,762
+
+$(4,887
+
+)
+
+$(43
+
+)
+
+$880
+
+*
+
+ADDITIONS
+
+FOR ALLOWANCE FOR DOUBTFUL ACCOUNTS AND ALLOWANCE FOR INVENTORY LOSSES ARE CHARGED TO EXPENSE AND COST ACCOUNTS, RESPECTIVELY, WHILE REVENUE BASED PROVISIONS ARE CHARGED TO
+
+REVENUE ACCOUNTS.
+
+**
+
+PRIMARILY
+
+COMPRISES CURRENCY TRANSLATION ADJUSTMENTS.
+
+S-1
+
+EXHIBIT INDEX
+
+REFERENCE NUMBER PER ITEM 601 OF REGULATION SK
+
+DESCRIPTION OF EXHIBITS
+
+EXHIBIT NUMBER
+
+IN THIS
+
+FORM 10-K
+
+(2)
+
+PLAN OF ACQUISITION, REORGANIZATION, ARRANGEMENT, LIQUIDATION OR SUCCESSION
+
+NOT APPLICABLE
+
+(3)
+
+CERTIFICATE OF INCORPORATION AND BYLAWS
+
+THE CERTIFICATE OF INCORPORATION OF IBM IS EXHIBIT 3.1 TO FORM 8-K FILED NOVEMBER 30, 2006, AND IS HEREBY INCORPORATED BY REFERENCE
+
+THE BYLAWS OF IBM AS AMENDED THROUGH JULY 31, 2007 ARE EXHIBIT 3 TO FORM 10-Q FILED JULY 31, 2007, AND IS HEREBY INCORPORATED BY REFERENCE
+
+(4)
+
+INSTRUMENTS DEFINING THE RIGHTS OF SECURITY HOLDERS
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 7.50% DEBENTURES DUE 2013 ARE EXHIBITS 4(A) THROUGH 4(L) TO REGISTRATION STATEMENT NO. 33-49475(1) ON FORM S-3, FILED MAY 24, 1993, AND ARE HEREBY INCORPORATED BY REFERENCE
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 8.375% DEBENTURES DUE 2019 ARE EXHIBITS 4(A)(B)(C) AND (D) TO REGISTRATION STATEMENT NO. 33-31732 ON FORM S-3, FILED ON OCTOBER 24, 1989, AND ARE HEREBY INCORPORATED BY REFERENCE
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 7.00% DEBENTURES DUE 2025 AND THE 7.00% DEBENTURES DUE 2045 ARE EXHIBITS 2 AND 3 TO FORM 8-K, FILED ON OCTOBER 30, 1995, AND ARE HEREBY INCORPORATED BY REFERENCE
+
+THE INSTRUMENT DEFINING THE RIGHTS OF THE HOLDERS OF THE 7.125% DEBENTURES DUE 2096 IS EXHIBIT 2 TO FORM 8-K/A, FILED ON DECEMBER 6, 1996, AND IS HEREBY INCORPORATED BY REFERENCE
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 6.22% DEBENTURES DUE 2027 IS EXHIBIT 3 TO FORM 8-K, FILED ON AUGUST 1, 1997, AND ARE HEREBY INCORPORATED BY REFERENCE
+
+THE INSTRUMENT DEFINING THE RIGHTS OF THE HOLDERS OF THE 6.50% DEBENTURES DUE 2028 IS EXHIBIT 2 TO FORM 8-K, FILED ON JANUARY 8, 1998, AND IS HEREBY INCORPORATED BY REFERENCE
+
+THE INSTRUMENT DEFINING THE RIGHTS OF THE HOLDERS OF THE 5.375% NOTES DUE 2009 IS EXHIBIT 2 TO FORM 8-K, FILED ON JANUARY 29, 1999, AND IS HEREBY INCORPORATED BY REFERENCE
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 4.00% NOTES DUE 2011 IS EXHIBIT 2 TO FORM 8-K, FILED ON NOVEMBER 9, 2006, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+THE INSTRUMENTS DEFINING THE RIGHTS OF THE HOLDERS OF THE 4.95% NOTES DUE 2011 IS EXHIBIT 2 TO FORM 8-K, FILED ON MARCH 21, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+(9)
+
+VOTING TRUST AGREEMENT
+
+NOT APPLICABLE
+
+(10)
+
+MATERIAL CONTRACTS
+
+THE IBM 1999 LONG TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, CONTAINED IN REGISTRATION STATEMENT NO. 333-30424 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.3 TO FORM 10-Q FOR THE QUARTER ENDED SEPTEMBER 30, 2007, AND IS
+
+HEREBY INCORPORATED BY REFERENCE.*
+
+THE IBM 2001 LONG TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, CONTAINED IN REGISTRATION STATEMENT NO. 333-87708 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.1 TO FORM 10-Q FOR THE QUARTER ENDED SEPTEMBER 30, 2007, AND IS
+
+HEREBY INCORPORATED BY REFERENCE.*
+
+THE IBM PWCC ACQUISITION LONG TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, CONTAINED IN REGISTRATION STATEMENT NO. 333-102872 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.2 TO FORM 10-Q FOR THE QUARTER ENDED
+
+SEPTEMBER 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.*
+
+THE IBM 1997 LONG-TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, FILED ON JULY 15, 1997 WITH REGISTRATION STATEMENT NO. 333-31305 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.4 TO FORM 10-Q FOR THE QUARTER ENDED
+
+SEPTEMBER 31, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.*
+
+THE IBM 1994 LONG-TERM PERFORMANCE PLAN, A COMPENSATORY PLAN, FILED ON MAY 24, 1994 WITH REGISTRATION STATEMENT NO. 33-53777 ON FORM S-8, AS SUCH AMENDED PLAN WAS FILED AS EXHIBIT 10.5 TO FORM 10-Q FOR THE QUARTER ENDED
+
+SEPTEMBER 31, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.*
+
+FORMS OF LTPP EQUITY AWARD AGREEMENTS FOR (I) STOCK OPTIONS, RESTRICTED STOCK, RESTRICTED STOCK UNITS, CASH-SETTLED RESTRICTED STOCK UNITS, SARS, (II) PERFORMANCE SHARE UNITS AND (III) RETENTION RESTRICTED STOCK UNIT AWARD. TERMS AND
+
+CONDITIONS DOCUMENT IN CONNECTION WITH FOREGOING AWARD AGREEMENTS.*
+
+10.1
+
+FORM OF NONCOMPETITION AGREEMENT, FILED AS ATTACHMENT 1 TO FORM 8-K DATED APRIL 6, 2005, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+BOARD OF DIRECTORS COMPENSATORY PLANS AS DESCRIBED UNDER THE CAPTION "GENERAL INFORMATION2007 DIRECTOR COMPENSATION" IN IBM'S DEFINITIVE PROXY STATEMENT TO BE FILED WITH THE SECURITIES AND EXCHANGE COMMISSION AND DELIVERED TO STOCKHOLDERS IN
+
+CONNECTION WITH THE ANNUAL MEETING OF STOCKHOLDERS TO BE HELD APRIL 29, 2008, AND ARE HEREBY INCORPORATED BY REFERENCE.*
+
+THE IBM SUPPLEMENTAL EXECUTIVE RETENTION PLAN, A COMPENSATORY PLAN, EFFECTIVE JULY 1, 1999, AS AMENDED THROUGH FEBRUARY 17, 2006 FILED AS EXHIBIT 10.2 TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2005, AND IS HEREBY
+
+INCORPORATED BY REFERENCE*
+
+THE IBM EXECUTIVE DEFERRED COMPENSATION PLAN IS CONTAINED IN REGISTRATION STATEMENT NO. 333-33692 AS EXHIBIT 4 ON FORM S-8, FILED MARCH 31, 2000, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+DECEMBER 2005 AMENDMENTS TO THE IBM EXECUTIVE DEFERRED COMPENSATION PLAN, A COMPENSATORY PLAN, FILED AS EXHIBIT 10.1 TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2005, INCORPORATED BY REFERENCE TO REGISTRATION STATEMENT 333-33692
+
+ON FORM S-8, DATED MARCH 31, 2000, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+THE IBM BOARD OF DIRECTORS DEFERRED COMPENSATION AND EQUITY AWARD PLAN IS EXHIBIT X TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 1995, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+THE IBM NON-EMPLOYEE DIRECTORS STOCK OPTION PLAN IS APPENDIX B TO IBM'S DEFINITIVE PROXY STATEMENT DATED MARCH 14, 1995, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+THE IBM EXTENDED TAX DEFERRED SAVINGS PLAN IS EXHIBIT X TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 1994, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+THE IBM SAVINGS PLAN, A COMPENSATORY PLAN, AS AMENDED AND RESTATED EFFECTIVE AS OF JANUARY 1, 2005, WHICH PLAN WAS PREVIOUSLY FILED AS EXHIBIT 4 TO REGISTRATION STATEMENT NO. 333-09055 ON FORM S-8 DATED JULY 29, 1996, SUCH
+
+PLAN, AS AMENDED, WAS FILED AS EXHIBIT 10.1 TO FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2005, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+DECEMBER 2005 AMENDMENTS TO THE IBM SAVINGS PLAN, A COMPENSATORY PLAN, FILED AS EXHIBIT 10.3 TO FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2005, INCORPORATED BY REFERENCE TO REGISTRATION STATEMENT 333-09055 ON FORM S-8 DATED
+
+JULY 29, 1996, AND IS HEREBY INCORPORATED BY REFERENCE.*
+
+AMENDMENTS TO THE IBM EXECUTIVE DEFERRED COMPENSATION PLAN, A COMPENSATORY PLAN, WHICH PLAN WAS PREVIOUSLY FILED AS EXHIBIT 4 TO REGISTRATION STATEMENT NO. 333-33692 ON FORM S-8 DATED MARCH 31, 2000, SUCH PLAN, AS AMENDED, WAS
+
+FILED AS EXHIBIT 10.2 TO FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2005, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+THE IBM 2003 EMPLOYEES STOCK PURCHASE PLAN, AS AMENDED THROUGH APRIL 1, 2005, WHICH PLAN WAS PREVIOUSLY FILED AS APPENDIX A TO IBM'S DEFINITIVE PROXY STATEMENT DATED MARCH 10, 2003, SUCH PLAN, AS AMENDED, WAS FILED AS EXHIBIT 10.3
+
+TO FORM 10-Q FOR THE QUARTER ENDED MARCH 31, 2005, AND IS HEREBY INCORPORATED BY REFERENCE*
+
+THE $10,000,000,000 5-YEAR CREDIT AGREEMENT DATED AS OF JUNE 28, 2006, AMONG INTERNATIONAL BUSINESS MACHINES CORPORATION, EACH SUBSIDIARY BORROWER, THE SEVERAL BANKS AND OTHER FINANCIAL INSTITUTIONS FROM TIME TO TIME PARTIES TO THE CREDIT
+
+AGREEMENT, JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT FOR THE LENDERS, AND CITIBANK, N.A., AS SYNDICATION AGENT WAS FILED AS EXHIBIT 10.1 TO FORM 8-K DATED JUNE 29, 2006, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+THE $11,500,000,000 TERM LOAN AGREEMENT DATED AS OF MAY 25, 2007, AMONG IBM INTERNATIONAL GROUP B.V. (THE "BORROWER"), THE SEVERAL BANKS AND OTHER FINANCIAL INSTITUTIONS FROM TIME TO TIME PARTIES THERETO (THE "LENDERS"), MORGAN STANLEY
+
+SENIOR FUNDING, INC., AS ADMINISTRATIVE AGENT FOR THE LENDERS, DEUTSCHE BANK AG CAYMAN ISLANDS BRANCH, AS DOCUMENTATION AGENT, AND LEHMAN COMMERCIAL PAPER, INC., AS SYNDICATION AGENT, FILED AS EXHIBIT 10.1 TO FORM 10-Q FOR THE QUARTER
+
+ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+THE GUARANTY AGREEMENT DATED AS OF MAY 25, 2007, AMONG INTERNATIONAL BUSINESS MACHINES CORPORATION ("
+
+GUARANTOR
+
+"), FOR THE BENEFIT OF THE LENDERS FROM TIME TO TIME PARTY TO THE $11,500,000,000 TERM
+
+LOAN AGREEMENT, AND IN FAVOR OF MORGAN STANLEY SENIOR FUNDING, INC., AS ADMINISTRATIVE AGENT FOR THE LENDERS, FILED AS EXHIBIT 10.2 TO FORM 10-Q FOR THE QUARTER ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+THE ACCELERATED SHARE REPURCHASE SCHEDULE OF STANDARD TERMS AND CONDITIONS, FILED AS EXHIBIT 10.3 TO FORM 10-Q FOR THE QUARTER ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+FORM OF PARENT GUARANTEE AGREEMENT FOR ACCELERATED STOCK REPURCHASE, FILED AS EXHIBIT 10.4 TO FORM 10-Q FOR THE QUARTER ENDED JUNE 30, 2007, AND IS HEREBY INCORPORATED BY REFERENCE.
+
+(11)
+
+STATEMENT RE COMPUTATION OF PER SHARE EARNINGS
+
+THE STATEMENT RE COMPUTATION OF PER SHARE EARNINGS IS NOTE R, "EARNINGS PER SHARE OF COMMON STOCK" ON PAGE 101 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS, AND IS HEREBY INCORPORATED BY REFERENCE
+
+(12)
+
+STATEMENT RE COMPUTATION OF RATIOS
+
+12
+
+(13)
+
+ANNUAL REPORT TO SECURITY HOLDERS**
+
+13
+
+(18)
+
+LETTER RE CHANGE IN ACCOUNTING PRINCIPLES
+
+NOT APPLICABLE
+
+(19)
+
+PREVIOUSLY UNFILED DOCUMENTS
+
+NOT APPLICABLE
+
+(21)
+
+SUBSIDIARIES OF THE REGISTRANT
+
+21
+
+(22)
+
+PUBLISHED REPORT REGARDING MATTERS SUBMITTED TO VOTE OF SECURITY HOLDERS
+
+NOT APPLICABLE
+
+(23.1)
+
+CONSENT OF EXPERTS
+
+23.1
+
+(24.1)
+
+POWERS OF ATTORNEY
+
+24.1
+
+(24.2)
+
+RESOLUTIONS OF THE IBM BOARD OF DIRECTORS AUTHORIZING EXECUTION OF THIS REPORT BY POWERS OF ATTORNEY
+
+24.2
+
+(28)
+
+INFORMATION FROM REPORTS FURNISHED TO STATE INSURANCE REGULATORY AUTHORITIES
+
+NOT APPLICABLE
+
+(31.1)
+
+CERTIFICATION BY CEO PURSUANT TO RULE 13A-14(A) OR 15D-14(A) OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+31.1
+
+(31.2)
+
+CERTIFICATION BY CFO PURSUANT TO RULE 13A-14(A) OR 15D-14(A) OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+31.2
+
+(32.1)
+
+CERTIFICATION BY CEO PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002.
+
+32.1
+
+(32.2)
+
+CERTIFICATION BY CFO PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002.
+
+32.2
+
+*
+
+MANAGEMENT
+
+CONTRACT OR COMPENSATORY PLAN OR ARRANGEMENT.
+
+**
+
+THE
+
+PERFORMANCE GRAPHS, SET FORTH ON PAGE 122 OF IBM'S 2007 ANNUAL REPORT TO STOCKHOLDERS, ARE DEEMED TO BE FURNISHED BUT NOT FILED.
+
+QUICKLINKS
+
+PART I
+
+ITEM 1A. RISK FACTORS
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+ITEM 2. PROPERTIES
+
+ITEM 3. LEGAL PROCEEDINGS
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+ITEM 9B. OTHER INFORMATION
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+SIGNATURES
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM ON FINANCIAL STATEMENT SCHEDULE
+
+SCHEDULE II
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES VALUATION AND QUALIFYING ACCOUNTS AND RESERVES FOR THE YEARS ENDED DECEMBER 31: (DOLLARS IN MILLIONS)
+
+EXHIBIT INDEX
+
