@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup as soup
 import numpy as np
 import os
 import codecs
+import string
 
 #for creating file with given path structure
 def create_file(path):
@@ -163,13 +164,13 @@ def parsing_job_mda(ticker,fname):
             #with codecs.open(mda_path,'w', encoding='utf-8') as fout:
             #    fout.write(mda)
         else:
-            msg = msg if mda else "MDA NOT FOUND"
+            msg = msg if mda else "FAIL"
         #print("{},{}".format(name,msg))
         #return name + '.txt', msg #
         return msg, mda
 
 def parsing_job_1a(ticker,fname):
-        print("Parsing: {}".format(fname))
+        #print("Parsing: {}".format(fname))
         # Read text
         txt_dir = './data/10-K/' +ticker + '/TEXT/' 
         filepath = os.path.join(txt_dir,fname)
@@ -194,7 +195,7 @@ def parsing_job_1a(ticker,fname):
             #with codecs.open(mda_path,'w', encoding='utf-8') as fout:
             #    fout.write(mda)
         else:
-            msg = msg if mda else "MDA NOT FOUND"
+            msg = msg if mda else "FAIL"
         #print("{},{}".format(name,msg))
         #return name + '.txt', msg #
         return msg, mda
@@ -209,5 +210,21 @@ def check_ticker_1a(ticker):
         print msg, len(mda)
         d.append (mda)
     return d    
+
+
+def store_ticker_1a(ticker):
+    curr_dir = './data/10-K/'+ticker+'/TEXT/'
+    file_names = os.listdir(curr_dir)
+    file_names = [ i for i in file_names if not '.swp' in i]
     
+    for i,fn in enumerate(file_names):
+        msg, mda  = parsing_job_1a(ticker,fn)
+        if msg == 'SUCCESS':
+           mda = filter(lambda x: x in string.printable, mda)
+           this_file = './data/10-K/'+ticker+'/S_1A/'+ fn
+           create_file(this_file)
+           with codecs.open(this_file,'w',encoding='utf-8') as fout:
+                        fout.write(mda)
+                        
+    return 0    
    
