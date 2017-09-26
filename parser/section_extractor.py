@@ -11,6 +11,7 @@ import numpy as np
 import os
 import codecs
 import string
+import gensim
 
 #for creating file with given path structure
 def create_file(path):
