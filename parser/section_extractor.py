@@ -227,4 +227,50 @@ def store_ticker_1a(ticker):
                         fout.write(mda)
                         
     return 0    
-   
+def store_1a_wv(tickers):
+    try :  
+       model_file = "~/GoogleNews-vectors-negative300.bin"
+       model = gensim.models.KeyedVectors.load_word2vec_format( model_file, binary=True)
+    except IOError:
+         print 'Error. No file found' 
+         print 'keep GoogleNews-vectors-negative300.bin in home dir'
+
+    for ticker in tickers :
+        curr_dir = './data/10-K/'+ticker+'/S_1A/'
+        if not os.path.isdir(curr_dir) :
+            continue
+        
+        file_names = os.listdir(curr_dir)
+        file_names = [ i for i in file_names if not '.swp' in i]
+        store_dir = './data/10-K/'+ticker+'/S_1A_VW/'    
+        
+        for i,fn in enumerate(file_names):
+            file_name = curr_dir + fn
+            with codecs.open(file_name,'rb',encoding='utf-8') as fin:
+                 text = fin.read()
+            lines = text.split("\n")
+            lines = [ x.strip() for x in lines if len(x) > 0]
+            lines = [ x.split(" ") for x in lines if len(x) > 0]
+            
+            words = []
+            for line in lines:
+                for tw in line:
+                    words.append(tw)
+            
+            words = [ x for x in words if len(x) > 3 ]
+            words_vec = []
+            
+            for w in words :                                                                                                                         
+                 try :
+                   wv = model.wv[w]
+                   words_vec.append(wv)
+                 except KeyError:
+                   s1 = 'do nothing'
+            words_vec = np.array(words_vec)
+            store_file = store_dir + fn
+            create_file(store_file)
+            np.save( file = store_file,  arr = words_vec)
+            #remove empty file that was created
+            os.remove(store_file)            
+    return 0    
+    
