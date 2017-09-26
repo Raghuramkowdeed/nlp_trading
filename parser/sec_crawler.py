@@ -158,7 +158,7 @@ def download_report(url_dict, dir_path):
             except:
                 pass
 def get_tickers_df():
-    df = pd.read_csv("./cik_ticker.csv",  sep= "|" )
+    df = pd.read_csv("../data/cik_ticker.csv",  sep= "|" )
     return df
 
 
@@ -167,7 +167,7 @@ def download_10k_func(ticker, begin_year, end_year):
     x = df.loc[df['Ticker'] == ticker.upper(), ]
     cik_id = str(x.iloc[0,0])
     href_dict = get_10_k_links(cik_id, begin_year, end_year )
-    dir_path = './data/10-K/'+ticker.upper()+"/"
+    dir_path = '../data/10-K/'+ticker.upper()+"/"
     download_report(href_dict, dir_path)
             
 
@@ -178,7 +178,7 @@ def get_10k_reports(tickers, begin_year, end_year):
         x = df.loc[df['Ticker'] == ticker.upper(), ]
         cik_id = str(x.iloc[0,0])
         href_dict = get_10_k_links(cik_id, begin_year, end_year )
-        dir_path = './data/10-K/'+ticker.upper()+"/"
+        dir_path = '../data/10-K/'+ticker.upper()+"/"
         download_report(href_dict, dir_path)
     
 
@@ -269,7 +269,7 @@ def extract_10k_item_1a(text_file):
     section_content = lines_np[start_line_num:(end_line_num+1)]
     return section_content
 '''
-this_dir =  "../data/10-K/AAPL/TEXT/"
+this_dir =  "../data/data/10-K/AAPL/TEXT/"
 file_names = os.listdir(this_dir)
 file_names = [ i for i in file_names if not '.swp' in i]
 content_dict = {}
@@ -280,5 +280,5 @@ for i in file_names:
        content_dict[i] = content
 
 
-#content = extract_10k_item_1a("../data/10-K/GS/TEXT/2012-02-28")
+#content = extract_10k_item_1a(".../data/10-K/GS/TEXT/2012-02-28")
 '''

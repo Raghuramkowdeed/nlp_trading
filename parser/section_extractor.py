@@ -173,7 +173,7 @@ def parsing_job_mda(ticker,fname):
 def parsing_job_1a(ticker,fname):
         #print("Parsing: {}".format(fname))
         # Read text
-        txt_dir = './data/10-K/' +ticker + '/TEXT/' 
+        txt_dir = '../data/10-K/' +ticker + '/TEXT/' 
         filepath = os.path.join(txt_dir,fname)
         with codecs.open(filepath,'rb',encoding='utf-8') as fin:
             text = fin.read()
@@ -202,7 +202,7 @@ def parsing_job_1a(ticker,fname):
         return msg, mda
 
 def check_ticker_1a(ticker):
-    curr_dir = './data/10-K/'+ticker+'/TEXT/'
+    curr_dir = '../data/10-K/'+ticker+'/TEXT/'
     file_names = os.listdir(curr_dir)
     file_names = [ i for i in file_names if not '.swp' in i]
     d = []
@@ -214,7 +214,7 @@ def check_ticker_1a(ticker):
 
 
 def store_ticker_1a(ticker):
-    curr_dir = './data/10-K/'+ticker+'/TEXT/'
+    curr_dir = '../data/10-K/'+ticker+'/TEXT/'
     file_names = os.listdir(curr_dir)
     file_names = [ i for i in file_names if not '.swp' in i]
     
@@ -222,7 +222,7 @@ def store_ticker_1a(ticker):
         msg, mda  = parsing_job_1a(ticker,fn)
         if msg == 'SUCCESS':
            mda = filter(lambda x: x in string.printable, mda)
-           this_file = './data/10-K/'+ticker+'/S_1A/'+ fn
+           this_file = '../data/10-K/'+ticker+'/S_1A/'+ fn
            create_file(this_file)
            with codecs.open(this_file,'w',encoding='utf-8') as fout:
                         fout.write(mda)
@@ -237,13 +237,13 @@ def store_1a_wv(tickers):
          print 'keep GoogleNews-vectors-negative300.bin in home dir'
 
     for ticker in tickers :
-        curr_dir = './data/10-K/'+ticker+'/S_1A/'
+        curr_dir = '../data/10-K/'+ticker+'/S_1A/'
         if not os.path.isdir(curr_dir) :
             continue
         
         file_names = os.listdir(curr_dir)
         file_names = [ i for i in file_names if not '.swp' in i]
-        store_dir = './data/10-K/'+ticker+'/S_1A_VW/'    
+        store_dir = '../data/10-K/'+ticker+'/S_1A_VW/'    
         
         for i,fn in enumerate(file_names):
             file_name = curr_dir + fn
