@@ -56,6 +56,26 @@ def getZScoreWeights(alpha):
       #print alpha_valid
       return weights
 
+def solve_mean_var_equation( alpha_vec, total_cov, beta_mat):
+    pres_mat = np.linalg.inv(total_cov)
+    
+    t1 = np.dot(beta_mat, pres_mat)
+    t1 = np.dot(t1,beta_mat.transpose())
+    t1 = np.linalg.inv(t1)
+    t1 = np.dot(t1, beta_mat)
+    t1 = np.dot(t1, pres_mat)
+    t1 = np.dot(t1, alpha_vec)
+    
+    c= t1
+    
+    weights_vec = alpha_vec - np.dot(beta_mat.transpose(), c )
+    weights_vec = np.dot(pres_mat, weights_vec)
+    
+    weights_vec = 2.0 * weights_vec/np.sum( np.abs(weights_vec) )
+    
+    s = np.dot(beta_mat, weights_vec)
+    #print 'sum = ' + str( abs(s).sum() )
+    return weights_vec
 
 class Optimizer:
     def __init__(self, tickers, begin_date, end_date):
@@ -305,7 +325,51 @@ class OptimizationWizard:
        
        return weights_df  
      
-   
+    def getZeroExposueWeights(self, alpha_df):
+       alpha_df = alpha_df.fillna(value=np.nan, inplace=False)
+       weights_df = pd.DataFrame()
+
+       for i in range(alpha_df.shape[0]):
+            curr_date = alpha_df.index[i]
+
+            #print 'vol_vec'
+            #print vol_vec
+            #print 'alpha_vec'
+            alpha_vec = alpha_df.iloc[i,:]
+            ind = [ i for i,v in enumerate(alpha_vec) if not np.isnan(v) ]
+            
+            this_alpha_vec = alpha_vec[ind]
+            beta_weights = self.beta_book[curr_date].iloc[ind, 0:-1]
+            vol_vec = self.beta_book[curr_date]['vol'].iloc[ind]
+            beta_var = self.risk_book[curr_date]
+            
+            var_1 = np.diag(vol_vec*vol_vec)
+            var_2 = np.dot(beta_weights, beta_var)
+            var_2 = np.dot(var_2, beta_weights.transpose())
+            
+            total_var = var_1 + var_2
+            
+            sol = solve_mean_var_equation(this_alpha_vec, total_var, beta_weights.transpose())
+            
+            weights_vec = pd.Series(np.zeros(alpha_vec.shape[0]), 
+                                    index = alpha_vec.index, name = curr_date)
+            
+            weights_vec.iloc[ind] = sol
+            
+            #print alpha_vec
+
+            #print 'weights vec'
+
+            #making abs notional = 2      
+            
+            weights_df = weights_df.append(weights_vec)
+
+       dic = { weights_df.columns[i]:name for i, name in enumerate(alpha_df.columns)}
+       weights_df.rename(inplace = True, columns=dic)
+       weights_df.fillna(value= 0.0, inplace = True) 
+       
+       return weights_df  
+        
     def runStrategy(self, weights_df):
         
         port_pnl_vec = []

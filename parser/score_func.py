@@ -44,12 +44,12 @@ def similarity_score_word_count(curr_file, prev_file,  use_ret = True):
                 return score
 
 
-def similarity_score_word_vec(curr_file, prev_file, metric_type='corr' ):
+def similarity_score_word_vec(curr_file, prev_file, metric_type='mse' ):
     #metric = ['corr', 'mse', 'dot']
     def get_metric(v1, v2, metric_type):
         val = None
         if metric_type == 'corr':
-            val = np.corrcoef(curr_vec.mean(axis=0), prev_vec.mean(axis=0))[0,1]
+            val = np.corrcoef(v1, v2)[0,1]
         if metric_type == 'mse':
             val = -np.mean((v1 - v2)*(v1 - v2))
         if metric_type == 'dot':    
