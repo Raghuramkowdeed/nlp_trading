@@ -1,0 +1,16 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Sep 30 02:00:28 2017
+
+@author: raghuramkowdeed
+"""
+import panads as pd
+
+class PricesDateFrame:
+    def __init__(self,r = 0,i = 0):
+        self.prices = pd.Dataframe()
+        self.imag = i
+
+    def getData(self):
+        print("{0}+{1}j".format(self.real,self.imag))
