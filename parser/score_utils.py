@@ -13,21 +13,8 @@ import os as os
 import codecs
 import numpy as np
 
-
-def get_words_from_string(text):
-    lines = text.split("\n")
-    lines = [ x.strip() for x in lines if len(x) > 0]
-    lines = [ x.split(" ") for x in lines if len(x) > 0]
-                
-    words = []
-    for line in lines:
-        for tw in line:
-            words.append(tw)
-    words = [ i for i in words if len(i) > 3]            
-    return words
+execfile('./parser/score_func.py')
         
-
-
 def get_section_files(tickers, sec, begin_date, end_date):
     years_range = []
     curr_year = dt.date(begin_date.year, 1,1)

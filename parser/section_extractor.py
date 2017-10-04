@@ -12,8 +12,11 @@ import os
 import codecs
 import string
 import gensim
-
+from nltk.corpus import stopwords
 #for creating file with given path structure
+
+stop = set(stopwords.words('english'))
+
 def create_file(path):
     dir = os.path.dirname(path)
     if not os.path.exists(dir):
@@ -21,6 +24,17 @@ def create_file(path):
 
     f = open(path, 'w')
     f.close()    
+
+def from_text_to_clean(tex):
+
+    out_tex = [word.lower() for word in tex if word not in stop]
+    out_tex = [word for word in out_tex if '$' not in word]
+    out_tex = [word for word in out_tex if word.replace(',','',1).isdigit()==False]
+    out_tex = [word for word in out_tex if word.replace('.','',1).isdigit()==False]
+    out_tex = [word for word in out_tex if '-k' not in word]
+    out_tex = [word for word in out_tex if '%' not in word]
+    out_tex = [word for word in out_tex if 'www' not in word]
+    return out_tex
 
 
 
@@ -358,6 +372,17 @@ def store_sec_wv(tickers, sec_dirs = 'TEXT'):
                         words.append(tw)
                 
                 words = [ x for x in words if len(x) > 3 ]
+                words = from_text_to_clean(words)
+                
+                words = np.array(words)
+                words, count = np.unique(x, return_counts=True) 
+                max_count = 100
+                
+                filtered_words = np.array([])
+                for i,w in enumerate(words) : 
+                    filtered_words = np.concatenate( ( filtered_words, [ w for j in range( min(max_count, count[i] ) ) ]   ), axis = 0 )
+                
+                words = filtered_words
                 words_vec = []
                 
                 for w in words :                                                                                                                         
