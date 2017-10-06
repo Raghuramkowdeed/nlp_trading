@@ -33,6 +33,7 @@ def store_factors(factor_name, begin_date = dt.date(2001,1,1), end_date = dt.dat
     #factor_names
     #F-F_Research_Data_Factors_daily
     #F-F_Research_Data_5_Factors_2x3_daily
+    #12_Industry_Portfolios_daily
     curr_dir = '../data/FACTORS/'
     file_name = curr_dir + factor_name +'.pkl'
     create_file(file_name)
@@ -115,6 +116,7 @@ def store_stocks_exposures(tickers, factor_name, halflife = 252):
         
         tic_mean = tic_ret.ewm(halflife=halflife).mean()
         tic_mean.dropna(axis=0, how='any', inplace = True)
+        tic_var = tic_ret.ewm(halflife=halflife).var()
         
         cross_cov_mat = factor_ret.ewm(halflife=halflife).cov(tic_ret, True)
         cross_cov_mat.dropna(axis=0, how= 'any', inplace = True)
@@ -142,9 +144,16 @@ def store_stocks_exposures(tickers, factor_name, halflife = 252):
 
             y_diff = factor_ret.loc[curr_date] - factor_mean.loc[curr_date]
 
-            res = np.dot(beta_vec.T, y_diff)
-            res = tic_mean.loc[curr_date] + res
-            res = tic_ret.loc[curr_date] - res
+            #res = np.dot(beta_vec.T, y_diff)
+            #res = tic_mean.loc[curr_date] + res
+            #res = tic_ret.loc[curr_date] - res
+
+            t_v = tic_var.loc[curr_date]
+            #print t_v.shape
+            f_v = np.dot ( np.dot(beta_vec.transpose(), curr_cov_mat), beta_vec )
+            #print f_v.shape
+            res =  ( max( t_v[0], f_v[0,0]) - f_v[0,0])*252.0
+            #print res
 
             this_vec = beta_vec
             this_vec = np.append(this_vec, res)
@@ -156,12 +165,11 @@ def store_stocks_exposures(tickers, factor_name, halflife = 252):
         beta_df = pd.DataFrame(beta_df, index = common_dates, columns = fac_names)
 
         res_vec = beta_df[fac_names[-1]]
-        omega_vec = res_vec.ewm(halflife).var()
+        omega_vec = res_vec.ewm(halflife).mean()
         
-        #annualizing volatility 
-        omega_vec = np.sqrt( omega_vec * 252.0 )
+        omega_vec = np.sqrt(omega_vec)
         
-        beta_df[fac_names[-1]] = omega_vec        
+        #beta_df[fac_names[-1]] = omega_vec        
         create_file(file_name)
         beta_df.dropna(axis=0, how='any', inplace = True)
         

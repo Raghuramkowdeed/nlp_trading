@@ -343,6 +343,7 @@ def store_1a_wv(tickers):
 def store_sec_wv(tickers, sec_dirs = 'TEXT'):
     
     try :  
+       print 'inside'
        model_file = "~/GoogleNews-vectors-negative300.bin"
        model = gensim.models.KeyedVectors.load_word2vec_format( model_file, binary=True)
     except IOError:
@@ -350,6 +351,7 @@ def store_sec_wv(tickers, sec_dirs = 'TEXT'):
          print 'keep GoogleNews-vectors-negative300.bin in home dir'
     for sec_dir in sec_dirs:
         for ticker in tickers :
+            print ticker
             curr_dir = '../data/10-K/'+ticker+'/' + sec_dir + '/'
             if not os.path.isdir(curr_dir) :
                 continue
@@ -372,17 +374,17 @@ def store_sec_wv(tickers, sec_dirs = 'TEXT'):
                         words.append(tw)
                 
                 words = [ x for x in words if len(x) > 3 ]
-                words = from_text_to_clean(words)
+                #words = from_text_to_clean(words)
                 
-                words = np.array(words)
-                words, count = np.unique(x, return_counts=True) 
-                max_count = 100
+                #words = np.array(words)
+                #words, count = np.unique(words, return_counts=True) 
+                #max_count = 100
                 
-                filtered_words = np.array([])
-                for i,w in enumerate(words) : 
-                    filtered_words = np.concatenate( ( filtered_words, [ w for j in range( min(max_count, count[i] ) ) ]   ), axis = 0 )
+                #filtered_words = np.array([])
+                #for i,w in enumerate(words) : 
+                 #   filtered_words = np.concatenate( ( filtered_words, [ w for j in range( min(max_count, count[i] ) ) ]   ), axis = 0 )
                 
-                words = filtered_words
+                #words = filtered_words
                 words_vec = []
                 
                 for w in words :                                                                                                                         

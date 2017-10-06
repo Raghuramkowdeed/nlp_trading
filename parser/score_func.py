@@ -14,14 +14,24 @@ from sklearn.decomposition import PCA
 
 from nltk.corpus import stopwords
 
+d = pd.read_csv('../data/LoughranMcDonald_MasterDictionary_2014.csv')
+neg_ind = np.where( d.Negative > 0 )
+pos_ind = np.where( d.Positive > 0 )
+
+negative = d.Negative.iloc[neg_ind]
+
+positive = d.Positive.iloc[pos_ind]
+
 
 stop = set(stopwords.words('english'))
 
-positive = pd.read_csv('../data/positive-words.txt', names=['a'])
-positive =  set(positive['a'].tolist())
+#positive = pd.read_csv('../data/positive-words.txt', names=['a'])
+#positive =  set(positive['a'].tolist())
+#positive = np.unique(positive)
 
-negative = pd.read_csv('../data/negative-words.txt', names=['a'], encoding='latin-1')
-negative =  set(negative['a'].tolist())
+#negative = pd.read_csv('../data/negative-words.txt', names=['a'], encoding='latin-1')
+#negative =  set(negative['a'].tolist())
+#negative = np.unique(negative)
 
 def get_words_from_string(text):
     lines = text.split("\n")
@@ -59,21 +69,47 @@ def sentimental_score(curr_file, prev_file):
             return None
         else :
             curr_words = get_words_from_string(curr_text)
+
+            curr_words,curr_count = np.unique(curr_words, return_counts=True)
+            curr_dict = dict(zip(curr_words, curr_count))
+            
             prev_words = get_words_from_string(prev_text)
+
+            prev_words,prev_count = np.unique(prev_words, return_counts=True)
+            prev_dict = dict(zip(prev_words, prev_count))
+            
 
             if len(prev_words ) ==0  or len(curr_words) == 0:
                 msg = False
                 return None
             else:
                 
-                commonp_prev = len(set(prev_words ).intersection(positive))
-                commonn_prev = len(set(prev_words ).intersection(negative))
+                #commonp_prev = len(set(prev_words ).intersection(positive))
+                commonp_prev = np.intersect1d(prev_words, positive)
+                #commonn_prev = len(set(prev_words ).intersection(negative))
+                commonn_prev = np.intersect1d(prev_words, negative)
+ 
+                #commonp_curr = len(set(curr_words).intersection(positive))
+                commonp_curr = np.intersect1d(curr_words, positive)
+                commonn_curr = np.intersect1d(curr_words, negative)
                 
-                commonp_curr = len(set(curr_words).intersection(positive))
-                commonn_curr = len(set(curr_words).intersection(negative))
+                print len(curr_words), len(prev_words)
+                print len(positive),len(negative)
                 
-                score_previous= commonp_prev - commonn_prev
-                score_curr= commonp_curr - commonn_curr
+                print len(commonp_prev), len(commonn_prev), len(commonp_curr),len(commonn_curr)
+                
+                c_p = [ curr_dict[w] for w in commonp_curr]
+                c_p = np.array(c_p)
+                c_n = [ curr_dict[w] for w in commonn_curr]
+                c_n= np.array(c_n)
+                
+                p_p = [ prev_dict[w] for w in commonp_prev]
+                p_p = np.array(p_p)
+                p_n = [ prev_dict[w] for w in commonn_prev]
+                p_n = np.array(p_n)
+                
+                score_previous= p_p.sum() - p_n.sum()
+                score_curr= c_p.sum() - c_n.sum()
                 score = (score_curr - score_previous)*1.0
 
                 msg = True
