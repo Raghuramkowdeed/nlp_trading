@@ -14,16 +14,24 @@ from sklearn.decomposition import PCA
 
 from nltk.corpus import stopwords
 
-d = pd.read_csv('../data/LoughranMcDonald_MasterDictionary_2014.csv')
-neg_ind = np.where( d.Negative > 0 )
-pos_ind = np.where( d.Positive > 0 )
 
-negative = d.Negative.iloc[neg_ind]
-
-positive = d.Positive.iloc[pos_ind]
-
+np.random.seed(42)
 
 stop = set(stopwords.words('english'))
+
+positive = pd.read_csv('../data/positive-words.txt', names=['a'])
+positive =  set(positive['a'].tolist())
+
+negative = pd.read_csv('../data/negative-words.txt', names=['a'], encoding='latin-1')
+negative =  set(negative['a'].tolist())
+
+
+macdo=pd.read_excel('../data/LoughranMcDonald_MasterDictionary_2014.xlsx')
+macdo['Negative-bis']=macdo['Negative'].apply(lambda x : 1 if x!=0 else 0)
+macdo['Positive-bis']=macdo['Positive'].apply(lambda x : 1 if x!=0 else 0)
+negative_macdo=set([str(worr).lower() for worr in macdo[macdo['Negative-bis']==1]['Word']])
+positive_macdo=set([str(worr).lower() for worr in macdo[macdo['Positive-bis']==1]['Word']])
+
 
 #positive = pd.read_csv('../data/positive-words.txt', names=['a'])
 #positive =  set(positive['a'].tolist())
@@ -45,6 +53,36 @@ def get_words_from_string(text):
     words = [ i for i in words if len(i) > 3]            
     return words
 
+def clean_text(text):
+    import re
+    from string import digits
+    clean_text = re.sub(r'[?|$|!|,|(|)|[|]]',r'',text)
+    r=re.compile(r'\d')
+    clean_text = r.sub('', clean_text)
+    clean_text = re.sub(r'[-|:|%|;|.]',r'',clean_text)
+    clean_text = re.sub(r'[(|)]',r'',clean_text)
+    clean_text = re.sub(r"http\S*", '', clean_text)
+    clean_text = clean_text.lower()
+    return clean_text
+
+def from_text_to_clean_2(tex):
+    from nltk.corpus import stopwords
+    stop = set(stopwords.words('english'))
+    out_tex = []
+    for word in tex:
+        clean_word = clean_text(word)
+        if (clean_word != "") & (clean_word not in stop) & (clean_word != 'k'):
+            out_tex.append(clean_word)
+    out_tex = [word for word in out_tex if 'www' not in word]
+    return out_tex
+
+def from_unicode_to_string(text):
+    import unicodedata
+    curr_words_str = []
+    for word in text:
+        curr_words_str.append(word.encode('ascii','ignore'))
+    return curr_words_str
+
 
 
 def from_text_to_clean(tex):
@@ -58,7 +96,7 @@ def from_text_to_clean(tex):
     return out_tex
 
 
-def sentimental_score(curr_file, prev_file):
+def sentimental_score(curr_file, prev_file,method_sent='macdo'):
         curr_text = read_text(curr_file)
         prev_text = read_text(prev_file)
         score = None
@@ -69,14 +107,7 @@ def sentimental_score(curr_file, prev_file):
             return None
         else :
             curr_words = get_words_from_string(curr_text)
-
-            curr_words,curr_count = np.unique(curr_words, return_counts=True)
-            curr_dict = dict(zip(curr_words, curr_count))
-            
             prev_words = get_words_from_string(prev_text)
-
-            prev_words,prev_count = np.unique(prev_words, return_counts=True)
-            prev_dict = dict(zip(prev_words, prev_count))
             
 
             if len(prev_words ) ==0  or len(curr_words) == 0:
@@ -84,33 +115,28 @@ def sentimental_score(curr_file, prev_file):
                 return None
             else:
                 
-                #commonp_prev = len(set(prev_words ).intersection(positive))
-                commonp_prev = np.intersect1d(prev_words, positive)
-                #commonn_prev = len(set(prev_words ).intersection(negative))
-                commonn_prev = np.intersect1d(prev_words, negative)
+                curr_words = from_text_to_clean(curr_words)
+                prev_words = from_text_to_clean(prev_words)
+                
+                if method_sent == 'classic':
+                    
+                    commonp_prev = len(set(prev_words ).intersection(positive))
+                    commonn_prev = len(set(prev_words ).intersection(negative))
+                
+                    commonp_curr = len(set(curr_words).intersection(positive))
+                    commonn_curr = len(set(curr_words).intersection(negative))
  
-                #commonp_curr = len(set(curr_words).intersection(positive))
-                commonp_curr = np.intersect1d(curr_words, positive)
-                commonn_curr = np.intersect1d(curr_words, negative)
+                if method_sent == 'macdo':
+                    
+                    commonp_prev = len(set(prev_words ).intersection(positive_macdo))
+                    commonn_prev = len(set(prev_words ).intersection(negative_macdo))
                 
-                print len(curr_words), len(prev_words)
-                print len(positive),len(negative)
-                
-                print len(commonp_prev), len(commonn_prev), len(commonp_curr),len(commonn_curr)
-                
-                c_p = [ curr_dict[w] for w in commonp_curr]
-                c_p = np.array(c_p)
-                c_n = [ curr_dict[w] for w in commonn_curr]
-                c_n= np.array(c_n)
-                
-                p_p = [ prev_dict[w] for w in commonp_prev]
-                p_p = np.array(p_p)
-                p_n = [ prev_dict[w] for w in commonn_prev]
-                p_n = np.array(p_n)
-                
-                score_previous= p_p.sum() - p_n.sum()
-                score_curr= c_p.sum() - c_n.sum()
-                score = (score_curr - score_previous)*1.0
+                    commonp_curr = len(set(curr_words).intersection(positive_macdo))
+                    commonn_curr = len(set(curr_words).intersection(negative_macdo))
+                    
+                score_previous= commonp_prev - commonn_prev
+                score_curr= commonp_curr - commonn_curr
+                score = 100.0*(score_curr - score_previous)*1.0/(0.5*len(prev_words )+0.5*len(curr_words))
 
                 msg = True
                 return score
@@ -212,3 +238,81 @@ def similarity_score_pca_word_vec(curr_file, prev_file, metric_type='mse' , n_co
         return score
     except:
         return None    
+
+def LDA_similar_topics_score(curr_file, prev_file,  use_ret = True):
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.decomposition import LatentDirichletAllocation
+    
+    
+    
+    curr_text = read_text(curr_file)
+    prev_text = read_text(prev_file)
+    score = None
+    msg = True
+        
+    if ( curr_text == 0 ) or ( prev_text == 0) :
+        msg = False
+        return None
+    else :
+        curr_words = get_words_from_string(curr_text)
+        prev_words = get_words_from_string(prev_text)
+
+        if len(prev_words ) ==0  or len(curr_words) == 0:
+            msg = False
+            return None
+        else:
+            curr_text_token = get_words_from_string(curr_text)
+            prev_text_token = get_words_from_string(prev_text)
+            curr_text_token = from_text_to_clean_2(curr_text_token)
+            prev_text_token = from_text_to_clean_2(prev_text_token)
+            
+            l1 = len(curr_text_token)
+            l2 = len(prev_text_token)
+            
+            curr_text_token = from_unicode_to_string(curr_text_token)
+            curr_text_assembled = [', '.join(curr_text_token)]
+            prev_text_token = from_unicode_to_string(prev_text_token)
+            prev_text_assembled = [', '.join(prev_text_token)]
+            total_text_token = curr_text_token + prev_text_token
+            total_text_assembled = [', '.join(total_text_token)]
+            
+            n_features = 1000
+            n_components = 20
+            n_top_words = 25
+
+            vectorizer = TfidfVectorizer(max_features=n_features,  stop_words='english')
+            #vectorizer = TfidfVectorizer( stop_words='english')
+            tfidf = vectorizer.fit_transform(total_text_assembled)
+            
+
+            lda = LatentDirichletAllocation(learning_method='online')
+            lda.fit(tfidf)
+            
+            tfidf_prev = vectorizer.fit_transform(prev_text_assembled)
+            tfidf_curr = vectorizer.fit_transform(curr_text_assembled)
+            
+            topic_distrib_prev = np.array(lda.transform(tfidf_prev)[0])
+            topic_distrib_curr = np.array(lda.transform(tfidf_curr)[0])
+            
+            score = 0
+            for k in range(len(topic_distrib_prev)):
+            
+                try:
+                    mot = topic_distrib_prev[k]*np.log(topic_distrib_prev[k]/topic_distrib_curr[k])
+                 
+                except:
+                    print "bug"
+            score = score + mot
+            score = -1.0*score
+            
+            return score
+    
+def lda_score(curr_file, prev_file):
+    s = 0.0
+    try :
+        s = LDA_similar_topics_score(curr_file, prev_file,  use_ret = True)
+    except : 
+        s = 0.0
+    return s    
+        
+        

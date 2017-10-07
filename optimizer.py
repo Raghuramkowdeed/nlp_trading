@@ -186,7 +186,7 @@ class OptimizationWizard:
 
                
     def loadRiskBook(self):
-        fac_cov = get_factor_cov(self.factor_name, halflife = 252)   
+        fac_cov = get_factor_cov(self.factor_name, halflife = 252)*252   
         
         temp_dict = {}
         
